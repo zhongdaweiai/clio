@@ -1,0 +1,331 @@
+{
+  "baseline": {
+    "brier": 0.08339147916666666,
+    "ece": 0.06379166666666666,
+    "resolution": 0.09722222222222222,
+    "bankroll_final": 10000.0,
+    "n_trades": 0,
+    "hit_rate": 0.0,
+    "neg_max_dd": -0.0
+  },
+  "iterations": [
+    {
+      "name": "v1_baseline",
+      "description": "default LR clamp [0.1, 10], identity calibrator, default regime priors",
+      "config": {
+        "name": "v1_baseline",
+        "description": "default LR clamp [0.1, 10], identity calibrator, default regime priors",
+        "lr_floor": 0.1,
+        "lr_ceil": 10.0,
+        "max_docs": 5,
+        "calibrator_type": "identity",
+        "use_market_anchored_prior": false,
+        "market_anchor_weight": 0.0,
+        "regime_priors": null
+      },
+      "holdout": {
+        "brier": 0.6917847769101946,
+        "ece": 0.7606554000800345,
+        "resolution": 0.06597222222222222,
+        "bankroll_final": 6635.774134898819,
+        "n_trades": 10,
+        "hit_rate": 0.1,
+        "neg_max_dd": -0.36975059027539064
+      },
+      "blind_spots": [
+        {
+          "slot": "regime=sport",
+          "n": 3,
+          "brier_degradation": 0.30465474132133163,
+          "p_value": 0.1725,
+          "pnl_per_market": -0.05000000000000001
+        },
+        {
+          "slot": "market_price_band=low",
+          "n": 8,
+          "brier_degradation": 0.17703444882434993,
+          "p_value": 0.0425,
+          "pnl_per_market": -0.05
+        },
+        {
+          "slot": "n_evidence=2-3",
+          "n": 5,
+          "brier_degradation": 0.1670818651710435,
+          "p_value": 0.12,
+          "pnl_per_market": -0.05
+        },
+        {
+          "slot": "forecast_band=high",
+          "n": 10,
+          "brier_degradation": 0.0771527906015953,
+          "p_value": 0.105,
+          "pnl_per_market": -0.034711934156378604
+        }
+      ],
+      "perturbation": {
+        "n_markets": 12.0,
+        "mean_drop_sensitivity": 0.07337310123024104,
+        "mean_flip_sensitivity": 0.15338728156014392,
+        "mean_inject_sensitivity": 0.16904128988659017,
+        "max_flip_sensitivity": 0.56,
+        "fragility_score": 0.15338728156014392
+      },
+      "gate_passed": false,
+      "gate_failures": [
+        "Brier lift over baseline -0.6084 < required +0.0050",
+        "uncovered blindspots: ['regime=sport', 'market_price_band=low', 'n_evidence=2-3', 'forecast_band=high'] (max degradation 0.3047)",
+        "regime 'financial' ECE 0.640 > cap 0.070",
+        "regime 'sport' ECE 0.998 > cap 0.070",
+        "regime 'election' ECE 0.748 > cap 0.070",
+        "regime 'other' ECE 0.610 > cap 0.070"
+      ],
+      "regime_briers": {
+        "financial": 0.4251277356038498,
+        "sport": 0.9964395182315262,
+        "election": 0.7473304324017033,
+        "other": 0.5236969159046968
+      }
+    },
+    {
+      "name": "v2_isotonic",
+      "description": "add isotonic calibrator fit on train (Red Team likely flagged ECE)",
+      "config": {
+        "name": "v2_isotonic",
+        "description": "add isotonic calibrator fit on train (Red Team likely flagged ECE)",
+        "lr_floor": 0.1,
+        "lr_ceil": 10.0,
+        "max_docs": 5,
+        "calibrator_type": "isotonic",
+        "use_market_anchored_prior": false,
+        "market_anchor_weight": 0.0,
+        "regime_priors": null
+      },
+      "holdout": {
+        "brier": 0.14583333333333334,
+        "ece": 0.08333333333333334,
+        "resolution": 0.0,
+        "bankroll_final": 6634.204312890624,
+        "n_trades": 8,
+        "hit_rate": 0.0,
+        "neg_max_dd": -0.3365795687109376
+      },
+      "blind_spots": [],
+      "perturbation": {
+        "n_markets": 12.0,
+        "mean_drop_sensitivity": 0.0,
+        "mean_flip_sensitivity": 0.0,
+        "mean_inject_sensitivity": 0.0,
+        "max_flip_sensitivity": 0.0,
+        "fragility_score": 0.0
+      },
+      "gate_passed": false,
+      "gate_failures": [
+        "Brier lift over baseline -0.0624 < required +0.0050",
+        "strategy too rigid: mean flip sensitivity 0.000 < 0.005 \u2014 evidence is barely affecting predictions",
+        "regime 'financial' ECE 0.250 > cap 0.070",
+        "regime 'sport' ECE 0.250 > cap 0.070",
+        "regime 'other' ECE 0.250 > cap 0.070"
+      ],
+      "regime_briers": {
+        "financial": 0.0625,
+        "sport": 0.0625,
+        "election": 0.1875,
+        "other": 0.3125
+      }
+    },
+    {
+      "name": "v3_train_priors",
+      "description": "replace default priors with empirical train-set YES rates",
+      "config": {
+        "name": "v3_train_priors",
+        "description": "replace default priors with empirical train-set YES rates",
+        "lr_floor": 0.1,
+        "lr_ceil": 10.0,
+        "max_docs": 5,
+        "calibrator_type": "isotonic",
+        "use_market_anchored_prior": false,
+        "market_anchor_weight": 0.0,
+        "regime_priors": {
+          "scientific": 0.0,
+          "other": 0.5,
+          "election": 0.25,
+          "sport": 0.0,
+          "financial": 0.0,
+          "geo": 1.0
+        }
+      },
+      "holdout": {
+        "brier": 0.15216076997071784,
+        "ece": 0.09252659895035847,
+        "resolution": 0.03888888888888889,
+        "bankroll_final": 8573.75,
+        "n_trades": 3,
+        "hit_rate": 0.0,
+        "neg_max_dd": -0.142625
+      },
+      "blind_spots": [
+        {
+          "slot": "disagreement=strong",
+          "n": 5,
+          "brier_degradation": 0.10191396684789386,
+          "p_value": 0.075,
+          "pnl_per_market": -0.030000000000000006
+        },
+        {
+          "slot": "forecast_band=lo-mid",
+          "n": 5,
+          "brier_degradation": 0.09228367447372662,
+          "p_value": 0.0775,
+          "pnl_per_market": -0.02
+        }
+      ],
+      "perturbation": {
+        "n_markets": 12.0,
+        "mean_drop_sensitivity": 0.0369710433948029,
+        "mean_flip_sensitivity": 0.0369710433948029,
+        "mean_inject_sensitivity": 0.0369710433948029,
+        "max_flip_sensitivity": 0.4436525207376348,
+        "fragility_score": 0.0369710433948029
+      },
+      "gate_passed": false,
+      "gate_failures": [
+        "Brier lift over baseline -0.0688 < required +0.0050",
+        "uncovered blindspots: ['disagreement=strong', 'forecast_band=lo-mid'] (max degradation 0.1019)",
+        "regime 'election' ECE 0.083 > cap 0.070",
+        "regime 'other' ECE 0.722 > cap 0.070"
+      ],
+      "regime_briers": {
+        "financial": 0.0,
+        "sport": 0.0,
+        "election": 0.19444444444444448,
+        "other": 0.5240757309354181
+      }
+    },
+    {
+      "name": "v4_market_anchor",
+      "description": "blend regime prior with market's earliest price (anchor=0.4)",
+      "config": {
+        "name": "v4_market_anchor",
+        "description": "blend regime prior with market's earliest price (anchor=0.4)",
+        "lr_floor": 0.1,
+        "lr_ceil": 10.0,
+        "max_docs": 5,
+        "calibrator_type": "isotonic",
+        "use_market_anchored_prior": true,
+        "market_anchor_weight": 0.4,
+        "regime_priors": {
+          "scientific": 0.0,
+          "other": 0.5,
+          "election": 0.25,
+          "sport": 0.0,
+          "financial": 0.0,
+          "geo": 1.0
+        }
+      },
+      "holdout": {
+        "brier": 0.15432422983304722,
+        "ece": 0.26942622136530703,
+        "resolution": 0.0638888888888889,
+        "bankroll_final": 6977.048184171144,
+        "n_trades": 9,
+        "hit_rate": 0.1111111111111111,
+        "neg_max_dd": -0.3365795687109376
+      },
+      "blind_spots": [
+        {
+          "slot": "n_evidence=4+",
+          "n": 3,
+          "brier_degradation": 0.06789799238917502,
+          "p_value": 0.1825,
+          "pnl_per_market": -0.016666666666666666
+        }
+      ],
+      "perturbation": {
+        "n_markets": 12.0,
+        "mean_drop_sensitivity": 0.0369710433948029,
+        "mean_flip_sensitivity": 0.0369710433948029,
+        "mean_inject_sensitivity": 0.0369710433948029,
+        "max_flip_sensitivity": 0.4436525207376348,
+        "fragility_score": 0.0369710433948029
+      },
+      "gate_passed": false,
+      "gate_failures": [
+        "Brier lift over baseline -0.0709 < required +0.0050",
+        "uncovered blindspots: ['n_evidence=4+'] (max degradation 0.0679)",
+        "regime 'financial' ECE 0.333 > cap 0.070",
+        "regime 'sport' ECE 0.333 > cap 0.070",
+        "regime 'election' ECE 0.353 > cap 0.070",
+        "regime 'other' ECE 0.576 > cap 0.070"
+      ],
+      "regime_briers": {
+        "financial": 0.1111111111111111,
+        "sport": 0.1111111111111111,
+        "election": 0.1260866575696215,
+        "other": 0.34043873052570706
+      }
+    },
+    {
+      "name": "v5_tighter_lr",
+      "description": "tighten LR clamp to [0.3, 3.3] to reduce flip volatility",
+      "config": {
+        "name": "v5_tighter_lr",
+        "description": "tighten LR clamp to [0.3, 3.3] to reduce flip volatility",
+        "lr_floor": 0.3,
+        "lr_ceil": 3.3,
+        "max_docs": 5,
+        "calibrator_type": "isotonic",
+        "use_market_anchored_prior": true,
+        "market_anchor_weight": 0.4,
+        "regime_priors": {
+          "scientific": 0.0,
+          "other": 0.5,
+          "election": 0.25,
+          "sport": 0.0,
+          "financial": 0.0,
+          "geo": 1.0
+        }
+      },
+      "holdout": {
+        "brier": 0.15432717467379903,
+        "ece": 0.26943372251762526,
+        "resolution": 0.0638888888888889,
+        "bankroll_final": 6975.818367486663,
+        "n_trades": 9,
+        "hit_rate": 0.1111111111111111,
+        "neg_max_dd": -0.3365795687109376
+      },
+      "blind_spots": [
+        {
+          "slot": "n_evidence=4+",
+          "n": 3,
+          "brier_degradation": 0.06789504754842321,
+          "p_value": 0.1825,
+          "pnl_per_market": -0.016666666666666666
+        }
+      ],
+      "perturbation": {
+        "n_markets": 12.0,
+        "mean_drop_sensitivity": 0.03694264002911847,
+        "mean_flip_sensitivity": 0.03694264002911847,
+        "mean_inject_sensitivity": 0.03694264002911847,
+        "max_flip_sensitivity": 0.44331168034942164,
+        "fragility_score": 0.03694264002911847
+      },
+      "gate_passed": false,
+      "gate_failures": [
+        "Brier lift over baseline -0.0709 < required +0.0050",
+        "uncovered blindspots: ['n_evidence=4+'] (max degradation 0.0679)",
+        "regime 'financial' ECE 0.333 > cap 0.070",
+        "regime 'sport' ECE 0.333 > cap 0.070",
+        "regime 'election' ECE 0.353 > cap 0.070",
+        "regime 'other' ECE 0.576 > cap 0.070"
+      ],
+      "regime_briers": {
+        "financial": 0.1111111111111111,
+        "sport": 0.1111111111111111,
+        "election": 0.12616120315522095,
+        "other": 0.34030730839901896
+      }
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "markets": [
+    {
+      "market_id": "253591",
+      "question": "Will Donald Trump win the 2024 US Presidential Election?",
+      "regime": "election",
+      "observed_at": "2024-01-05",
+      "closes_at": "2024-11-05",
+      "timeline": [
+        "2024-01-05",
+        "2024-03-21",
+        "2024-06-05",
+        "2024-08-20"
+      ],
+      "market_prices": {
+        "2024-01-05": 0.5,
+        "2024-03-21": 0.515,
+        "2024-06-05": 0.555,
+        "2024-08-20": 0.486
+      }
+    },
+    {
+      "market_id": "253597",
+      "question": "Will Kamala Harris win the 2024 US Presidential Election?",
+      "regime": "election",
+      "observed_at": "2024-01-06",
+      "closes_at": "2024-11-04",
+      "timeline": [
+        "2024-01-06",
+        "2024-03-21",
+        "2024-06-05",
+        "2024-08-20"
+      ],
+      "market_prices": {
+        "2024-01-06": 0.0315,
+        "2024-03-21": 0.0165,
+        "2024-06-05": 0.0145,
+        "2024-08-20": 0.496
+      }
+    },
+    {
+      "market_id": "512340",
+      "question": "Will Nicolae Ciuc\u0103 win the 2024 Romanian Presidential election?",
+      "regime": "election",
+      "observed_at": "2024-11-09",
+      "closes_at": "2024-12-08",
+      "timeline": [
+        "2024-11-09",
+        "2024-11-16",
+        "2024-11-23",
+        "2024-11-30"
+      ],
+      "market_prices": {
+        "2024-11-09": 0.034,
+        "2024-11-16": 0.0785,
+        "2024-11-23": 0.0535,
+        "2024-11-30": 0.0065
+      }
+    },
+    {
+      "market_id": "253642",
+      "question": "Will any other Republican Politician win the 2024 US Presidential Election?",
+      "regime": "election",
+      "observed_at": "2024-01-07",
+      "closes_at": "2024-11-05",
+      "timeline": [
+        "2024-01-07",
+        "2024-03-22",
+        "2024-06-06",
+        "2024-08-21"
+      ],
+      "market_prices": {
+        "2024-01-07": 0.0065,
+        "2024-03-22": 0.0055,
+        "2024-06-06": 0.005,
+        "2024-08-21": 0.0035
+      }
+    },
+    {
+      "market_id": "253727",
+      "question": "Kamala Harris wins the popular vote?",
+      "regime": "election",
+      "observed_at": "2024-01-10",
+      "closes_at": "2024-11-05",
+      "timeline": [
+        "2024-01-10",
+        "2024-03-25",
+        "2024-06-08",
+        "2024-08-22"
+      ],
+      "market_prices": {
+        "2024-01-10": 0.5,
+        "2024-03-25": 0.025,
+        "2024-06-08": 0.017,
+        "2024-08-22": 0.684
+      }
+    },
+    {
+      "market_id": "253609",
+      "question": "Will Michelle Obama win the 2024 US Presidential Election?",
+      "regime": "election",
+      "observed_at": "2024-01-06",
+      "closes_at": "2024-11-05",
+      "timeline": [
+        "2024-01-06",
+        "2024-03-22",
+        "2024-06-06",
+        "2024-08-21"
+      ],
+      "market_prices": {
+        "2024-01-06": 0.025,
+        "2024-03-22": 0.0225,
+        "2024-06-06": 0.0405,
+        "2024-08-21": 0.005
+      }
+    },
+    {
+      "market_id": "253595",
+      "question": "Will Robert F. Kennedy Jr. win the 2024 US Presidential Election?",
+      "regime": "election",
+      "observed_at": "2024-01-05",
+      "closes_at": "2024-11-04",
+      "timeline": [
+        "2024-01-05",
+        "2024-03-21",
+        "2024-06-05",
+        "2024-08-20"
+      ],
+      "market_prices": {
+        "2024-01-05": 0.5,
+        "2024-03-21": 0.0285,
+        "2024-06-05": 0.02,
+        "2024-08-20": 0.0035
+      }
+    },
+    {
+      "market_id": "253706",
+      "question": "Will Donald Trump win the popular vote in the 2024 Presidential Election?",
+      "regime": "election",
+      "observed_at": "2024-01-10",
+      "closes_at": "2024-11-05",
+      "timeline": [
+        "2024-01-10",
+        "2024-03-25",
+        "2024-06-08",
+        "2024-08-22"
+      ],
+      "market_prices": {
+        "2024-01-10": 0.5,
+        "2024-03-25": 0.325,
+        "2024-06-08": 0.335,
+        "2024-08-22": 0.305
+      }
+    },
+    {
+      "market_id": "504494",
+      "question": "Fed increases interest rates by 25+ bps after November 2024 meeting?",
+      "regime": "financial",
+      "observed_at": "2024-08-03",
+      "closes_at": "2024-11-07",
+      "timeline": [
+        "2024-08-03",
+        "2024-08-27",
+        "2024-09-20",
+        "2024-10-14"
+      ],
+      "market_prices": {
+        "2024-08-03": 0.025,
+        "2024-08-27": 0.009,
+        "2024-09-20": 0.0025,
+        "2024-10-14": 0.003
+      }
+    },
+    {
+      "market_id": "512325",
+      "question": "Fed increases interest rates by 25+ bps after January 2025 meeting?",
+      "regime": "financial",
+      "observed_at": "2024-11-08",
+      "closes_at": "2025-01-29",
+      "timeline": [
+        "2024-11-08",
+        "2024-11-28",
+        "2024-12-19",
+        "2025-01-08"
+      ],
+      "market_prices": {
+        "2024-11-08": 0.11,
+        "2024-11-28": 0.0115,
+        "2024-12-19": 0.006,
+        "2025-01-08": 0.0045
+      }
+    },
+    {
+      "market_id": "512320",
+      "question": "Fed decreases interest rates by 75+ bps after January 2025 meeting?",
+      "regime": "financial",
+      "observed_at": "2024-11-08",
+      "closes_at": "2025-01-29",
+      "timeline": [
+        "2024-11-08",
+        "2024-11-28",
+        "2024-12-19",
+        "2025-01-08"
+      ],
+      "market_prices": {
+        "2024-11-08": 0.08,
+        "2024-11-28": 0.011,
+        "2024-12-19": 0.007,
+        "2025-01-08": 0.0045
+      }
+    },
+    {
+      "market_id": "512321",
+      "question": "Fed decreases interest rates by 50 bps after January 2025 meeting?",
+      "regime": "financial",
+      "observed_at": "2024-11-08",
+      "closes_at": "2025-01-29",
+      "timeline": [
+        "2024-11-08",
+        "2024-11-28",
+        "2024-12-19",
+        "2025-01-08"
+      ],
+      "market_prices": {
+        "2024-11-08": 0.12,
+        "2024-11-28": 0.054,
+        "2024-12-19": 0.019,
+        "2025-01-08": 0.0055
+      }
+    },
+    {
+      "market_id": "512600",
+      "question": "Will Bitcoin hit $100k in November?",
+      "regime": "financial",
+      "observed_at": "2024-11-12",
+      "closes_at": "2024-11-30",
+      "timeline": [
+        "2024-11-12",
+        "2024-11-16",
+        "2024-11-21",
+        "2024-11-25"
+      ],
+      "market_prices": {
+        "2024-11-12": 0.49,
+        "2024-11-16": 0.41,
+        "2024-11-21": 0.485,
+        "2024-11-25": 0.7
+      }
+    },
+    {
+      "market_id": "507792",
+      "question": "Israel x Hezbollah Ceasefire in 2024?",
+      "regime": "geo",
+      "observed_at": "2024-09-25",
+      "closes_at": "2024-12-31",
+      "timeline": [
+        "2024-09-25",
+        "2024-10-13",
+        "2024-10-31",
+        "2024-11-18"
+      ],
+      "market_prices": {
+        "2024-09-25": 0.25,
+        "2024-10-13": 0.35,
+        "2024-10-31": 0.785,
+        "2024-11-18": 0.49
+      }
+    },
+    {
+      "market_id": "522080",
+      "question": "Will Kanye launch a coin in February?",
+      "regime": "scientific",
+      "observed_at": "2025-02-08",
+      "closes_at": "2025-02-28",
+      "timeline": [
+        "2025-02-08",
+        "2025-02-13",
+        "2025-02-18",
+        "2025-02-23"
+      ],
+      "market_prices": {
+        "2025-02-08": 0.325,
+        "2025-02-13": 0.065,
+        "2025-02-18": 0.31,
+        "2025-02-23": 0.63
+      }
+    },
+    {
+      "market_id": "503301",
+      "question": "Will the Panthers win Super Bowl 2025?",
+      "regime": "sport",
+      "observed_at": "2024-07-10",
+      "closes_at": "2025-02-09",
+      "timeline": [
+        "2024-07-10",
+        "2024-08-19",
+        "2024-09-28",
+        "2024-11-07"
+      ],
+      "market_prices": {
+        "2024-07-10": 0.012,
+        "2024-08-19": 0.004,
+        "2024-09-28": 0.0025,
+        "2024-11-07": 0.0025
+      }
+    },
+    {
+      "market_id": "503314",
+      "question": "Will the Raiders win Super Bowl 2025?",
+      "regime": "sport",
+      "observed_at": "2024-07-10",
+      "closes_at": "2025-02-09",
+      "timeline": [
+        "2024-07-10",
+        "2024-08-15",
+        "2024-09-20",
+        "2024-10-26"
+      ],
+      "market_prices": {
+        "2024-07-10": 0.0135,
+        "2024-08-15": 0.0075,
+        "2024-09-20": 0.0075,
+        "2024-10-26": 0.0025
+      }
+    },
+    {
+      "market_id": "503327",
+      "question": "Will the Titans win Super Bowl 2025?",
+      "regime": "sport",
+      "observed_at": "2024-07-10",
+      "closes_at": "2025-02-09",
+      "timeline": [
+        "2024-07-10",
+        "2024-08-17",
+        "2024-09-24",
+        "2024-11-01"
+      ],
+      "market_prices": {
+        "2024-07-10": 0.0125,
+        "2024-08-17": 0.006,
+        "2024-09-24": 0.0025,
+        "2024-11-01": 0.0025
+      }
+    },
+    {
+      "market_id": "503304",
+      "question": "Will the Browns win Super Bowl 2025?",
+      "regime": "sport",
+      "observed_at": "2024-07-10",
+      "closes_at": "2025-02-09",
+      "timeline": [
+        "2024-07-10",
+        "2024-08-17",
+        "2024-09-24",
+        "2024-11-01"
+      ],
+      "market_prices": {
+        "2024-07-10": 0.035,
+        "2024-08-17": 0.0205,
+        "2024-09-24": 0.0125,
+        "2024-11-01": 0.0045
+      }
+    },
+    {
+      "market_id": "503320",
+      "question": "Will the Giants win Super Bowl 2025?",
+      "regime": "sport",
+      "observed_at": "2024-07-10",
+      "closes_at": "2025-02-09",
+      "timeline": [
+        "2024-07-10",
+        "2024-08-14",
+        "2024-09-19",
+        "2024-10-25"
+      ],
+      "market_prices": {
+        "2024-07-10": 0.0125,
+        "2024-08-14": 0.0085,
+        "2024-09-19": 0.0025,
+        "2024-10-25": 0.0025
+      }
+    },
+    {
+      "market_id": "511754",
+      "question": "Will Donald Trump be inaugurated?",
+      "regime": "other",
+      "observed_at": "2024-11-02",
+      "closes_at": "2025-01-20",
+      "timeline": [
+        "2024-11-02",
+        "2024-11-21",
+        "2024-12-11",
+        "2024-12-31"
+      ],
+      "market_prices": {
+        "2024-11-02": 0.575,
+        "2024-11-21": 0.9495,
+        "2024-12-11": 0.9615,
+        "2024-12-31": 0.9805
+      }
+    },
+    {
+      "market_id": "507286",
+      "question": "Will Aston Villa win the UEFA Champions League?",
+      "regime": "other",
+      "observed_at": "2024-09-18",
+      "closes_at": "2025-05-31",
+      "timeline": [
+        "2024-09-18",
+        "2024-11-09",
+        "2025-01-01",
+        "2025-02-23"
+      ],
+      "market_prices": {
+        "2024-09-18": 0.0305,
+        "2024-11-09": 0.017,
+        "2025-01-01": 0.0145,
+        "2025-02-23": 0.0235
+      }
+    },
+    {
+      "market_id": "507276",
+      "question": "TikTok banned in the US before May 2025?",
+      "regime": "other",
+      "observed_at": "2024-09-19",
+      "closes_at": "2025-04-30",
+      "timeline": [
+        "2024-09-19",
+        "2024-10-20",
+        "2024-11-21",
+        "2024-12-22"
+      ],
+      "market_prices": {
+        "2024-09-19": 0.295,
+        "2024-10-20": 0.215,
+        "2024-11-21": 0.19,
+        "2024-12-22": 0.375
+      }
+    },
+    {
+      "market_id": "506742",
+      "question": "Nottingham Forest wins the Premier League?",
+      "regime": "other",
+      "observed_at": "2024-09-10",
+      "closes_at": "2025-05-25",
+      "timeline": [
+        "2024-09-10",
+        "2024-11-03",
+        "2024-12-27",
+        "2025-02-19"
+      ],
+      "market_prices": {
+        "2024-09-10": 0.0055,
+        "2024-11-03": 0.003,
+        "2024-12-27": 0.007,
+        "2025-02-19": 0.0045
+      }
+    }
+  ],
+  "resolutions": {
+    "253591": 1,
+    "253597": 0,
+    "512340": 0,
+    "253642": 0,
+    "253727": 0,
+    "253609": 0,
+    "253595": 0,
+    "253706": 1,
+    "504494": 0,
+    "512325": 0,
+    "512320": 0,
+    "512321": 0,
+    "512600": 0,
+    "507792": 1,
+    "522080": 0,
+    "503301": 0,
+    "503314": 0,
+    "503327": 0,
+    "503304": 0,
+    "503320": 0,
+    "511754": 1,
+    "507286": 0,
+    "507276": 1,
+    "506742": 0
+  }
+}

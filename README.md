@@ -118,4 +118,19 @@ python -m clio.cli fetch news --markets runs/markets.json --source jsonl \
 
 ## Status
 
-MVP + first real-data adapter + adversarial validation layer. Architecture-complete; live trading and additional micro-agents are the next two milestones.
+MVP + first real-data adapter + adversarial validation layer + first live closed-loop run.
+
+Architecture-complete; live trading and additional micro-agents are the next two milestones.
+
+## Live run
+
+A 24-market closed-loop iteration session on real Polymarket data, with news from
+Hacker News + Wikipedia revisions, is documented in [`docs/LIVE_RUN.md`](docs/LIVE_RUN.md).
+The Red Team correctly refused to promote any of the 5 strategy variants — all underperformed
+the market baseline. That's the gate doing its job, not a system failure.
+
+```bash
+.venv/bin/python scripts/live_fetch.py     # 24 markets, ~75s
+.venv/bin/python scripts/live_news.py      # 85 validated docs, ~90s
+.venv/bin/python scripts/iterate.py        # 5 iterations + Red Team
+```

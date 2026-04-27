@@ -19,3 +19,4 @@ htmlcov/
 clio.egg-info/
 runs/
 data_cache/
+tests/fixtures/*_cache/

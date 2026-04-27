@@ -75,7 +75,16 @@ def _parse_iso_date(s: str | None) -> date | None:
 
 
 def _http_get_json(url: str, timeout: int = _DEFAULT_TIMEOUT) -> Any:
-    req = urllib.request.Request(url, headers={"User-Agent": "clio/0.1"})
+    # Polymarket's CLOB rejects non-browser User-Agents on prices-history.
+    # We send a Mozilla UA universally; identifying as `clio/0.1` lost us the
+    # entire price endpoint until this was discovered.
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0 (clio-research)",
+            "Accept": "application/json",
+        },
+    )
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             return json.loads(resp.read().decode("utf-8"))
@@ -301,31 +310,36 @@ class PolymarketAdapter:
     ) -> Market | None:
         if not raw.token_ids:
             return None
-        # YES is conventionally the first outcome on Polymarket binary markets,
-        # but we double-check by name to be safe.
         yes_idx = self._yes_index(raw.outcomes)
         if yes_idx is None:
             return None
         yes_token = raw.token_ids[yes_idx]
 
-        # Build timeline: timeline_steps evenly spaced dates between start and
-        # end (exclusive of end).
-        days = (raw.end_date - raw.start_date).days
+        prices_by_date = self._fetch_price_history(yes_token)
+        if not prices_by_date:
+            return None
+
+        # The gamma startDate is when the market was *created*, but actual
+        # trading (and price history) often begins later. Align the timeline
+        # to the first available price date so we never have a missing snapshot.
+        first_price = min(prices_by_date)
+        last_price = max(prices_by_date)
+        effective_start = max(raw.start_date, first_price)
+        effective_end = min(raw.end_date, last_price + timedelta(days=1))
+
+        days = (effective_end - effective_start).days
         if days < timeline_steps:
             return None
         step_days = days / max(1, timeline_steps)
         timeline = tuple(
-            raw.start_date + timedelta(days=int(i * step_days))
+            effective_start + timedelta(days=int(i * step_days))
             for i in range(timeline_steps)
         )
 
-        prices_by_date = self._fetch_price_history(yes_token)
         market_prices: dict[date, float] = {}
         for d in timeline:
             p = self._price_at_or_before(prices_by_date, d)
             if p is None:
-                # If no price exists by this date, skip the market — we don't
-                # want to backfill mid prices.
                 return None
             market_prices[d] = p
 
@@ -333,7 +347,7 @@ class PolymarketAdapter:
             market_id=raw.market_id,
             question=raw.question,
             regime=classify_regime(raw.question),
-            observed_at=raw.start_date,
+            observed_at=effective_start,
             closes_at=raw.end_date,
             timeline=timeline,
             market_prices=market_prices,
@@ -355,7 +369,8 @@ class PolymarketAdapter:
         if cached is not None:
             return {date.fromisoformat(k): float(v) for k, v in cached.items()}
 
-        qs = urllib.parse.urlencode({"market": token_id, "interval": "1d", "fidelity": "1440"})
+        # interval=all returns the full history; fidelity=1440 = 1 sample/day.
+        qs = urllib.parse.urlencode({"market": token_id, "interval": "all", "fidelity": "1440"})
         url = f"{self.clob}/prices-history?{qs}"
         try:
             payload = _http_get_json(url, timeout=self.timeout)
