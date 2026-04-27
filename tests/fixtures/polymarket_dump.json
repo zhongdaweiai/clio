@@ -1,0 +1,103 @@
+{
+  "markets": [
+    {
+      "id": "100001",
+      "conditionId": "0xabc001",
+      "question": "Will the Fed raise rates at the March 2024 FOMC meeting?",
+      "slug": "fed-march-2024",
+      "outcomes": "[\"Yes\", \"No\"]",
+      "outcomePrices": "[\"1.0\", \"0.0\"]",
+      "clobTokenIds": "[\"21001\", \"21002\"]",
+      "startDate": "2024-01-15",
+      "endDate": "2024-03-20",
+      "closed": true
+    },
+    {
+      "id": "100002",
+      "conditionId": "0xabc002",
+      "question": "Will Tesla beat Q4 2023 earnings estimates?",
+      "slug": "tesla-q4-2023-earnings",
+      "outcomes": "[\"Yes\", \"No\"]",
+      "outcomePrices": "[\"0.0\", \"1.0\"]",
+      "clobTokenIds": "[\"22001\", \"22002\"]",
+      "startDate": "2024-01-05",
+      "endDate": "2024-01-25",
+      "closed": true
+    },
+    {
+      "id": "100003",
+      "conditionId": "0xabc003",
+      "question": "Will Trump win the Iowa Republican primary?",
+      "slug": "trump-iowa-primary-2024",
+      "outcomes": "[\"Yes\", \"No\"]",
+      "outcomePrices": "[\"1.0\", \"0.0\"]",
+      "clobTokenIds": "[\"23001\", \"23002\"]",
+      "startDate": "2023-12-15",
+      "endDate": "2024-01-16",
+      "closed": true
+    },
+    {
+      "id": "100004",
+      "conditionId": "0xabc004",
+      "question": "Will SpaceX launch Starship before April 2024?",
+      "slug": "spacex-starship-april-2024",
+      "outcomes": "[\"Yes\", \"No\"]",
+      "outcomePrices": "[\"0.0\", \"1.0\"]",
+      "clobTokenIds": "[\"24001\", \"24002\"]",
+      "startDate": "2024-01-01",
+      "endDate": "2024-04-01",
+      "closed": true
+    }
+  ],
+  "details": {
+    "100001": {
+      "id": "100001",
+      "outcomes": "[\"Yes\", \"No\"]",
+      "outcomePrices": "[\"1.0\", \"0.0\"]"
+    },
+    "100002": {
+      "id": "100002",
+      "outcomes": "[\"Yes\", \"No\"]",
+      "outcomePrices": "[\"0.0\", \"1.0\"]"
+    },
+    "100003": {
+      "id": "100003",
+      "outcomes": "[\"Yes\", \"No\"]",
+      "outcomePrices": "[\"1.0\", \"0.0\"]"
+    },
+    "100004": {
+      "id": "100004",
+      "outcomes": "[\"Yes\", \"No\"]",
+      "outcomePrices": "[\"0.0\", \"1.0\"]"
+    }
+  },
+  "prices": {
+    "21001": {
+      "2024-01-15": 0.20,
+      "2024-02-01": 0.30,
+      "2024-02-15": 0.45,
+      "2024-03-01": 0.65,
+      "2024-03-19": 0.92
+    },
+    "22001": {
+      "2024-01-05": 0.55,
+      "2024-01-12": 0.50,
+      "2024-01-18": 0.40,
+      "2024-01-24": 0.10
+    },
+    "23001": {
+      "2023-12-15": 0.60,
+      "2023-12-22": 0.70,
+      "2023-12-30": 0.80,
+      "2024-01-08": 0.88,
+      "2024-01-15": 0.95
+    },
+    "24001": {
+      "2024-01-01": 0.40,
+      "2024-01-25": 0.35,
+      "2024-02-15": 0.30,
+      "2024-03-01": 0.20,
+      "2024-03-25": 0.10
+    }
+  }
+}

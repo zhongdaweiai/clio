@@ -60,7 +60,7 @@ Ten core moves:
 9. **Failure-mode taxonomy** — losses are clustered into named patterns; next iteration targets the largest cluster.
 10. **Bankroll is ground truth** — simulated fractional-Kelly bankroll subsumes accuracy + calibration + sizing + risk.
 
-## What's in the MVP vs out of scope
+## What's in vs out
 
 **In:**
 - Frozen layer: corpus with cutoff enforcement, harness, cost model, scoring.
@@ -69,24 +69,53 @@ Ten core moves:
 - Pareto frontier.
 - Memory layer (SQLite traces + failure clustering).
 - Synthetic market generator (so tests + demo run with no API key).
-- Polymarket adapter as a stub interface.
-- Pytest suite covering scoring math, cutoff enforcement, Pareto, and end-to-end.
+- **Polymarket adapter** (gamma + clob), with disk cache and offline-replay path. See `docs/POLYMARKET.md`.
+- **News pipeline**: Tavily + LocalJSONL sources, **strict published-date validator** (URL + HTML + claim cross-check), `build_corpus` that produces a cutoff-clean Corpus.
+- **Red Team agent**: subset attack (feature-bucket failure miner with bootstrap p-values) + perturbation tests (drop/flip/inject) + promotion gate. See `docs/REDTEAM.md`.
+- Pytest suite (116 tests) covering scoring math, cutoff enforcement, Pareto, calibration, memory, adapter, news pipeline, date validator, Red Team subset/perturbation/gate, end-to-end.
+- CLI: `clio demo`, `clio fetch polymarket`, `clio fetch news`, `clio backtest`, `clio red-team`.
 
 **Out of scope (designed in, not built):**
-- Decomposer, Devil's Advocate, Sizer, Regime Classifier, Red Team agents (interfaces sketched).
-- Real Polymarket / Kalshi / Manifold data ingestion (adapter pattern is in place).
+- Decomposer, Devil's Advocate, Sizer, Regime Classifier agents (interfaces sketched).
 - Live trading execution.
 - The four-layer (inner / middle / outer / meta) loop scheduler.
 - Constitution PR workflow.
+
+## Honest disclosure
+
+The Polymarket and Tavily HTTP adapters are written to the public API contracts
+but were not network-tested in the same session they were written. The unit
+tests exercise them against recorded fixtures that mirror the real response
+shape. **Smoke-test against live before relying on them** — see
+`docs/POLYMARKET.md` for the recommended verification.
 
 ## Quick start
 
 ```bash
 pip install -e ".[dev]"
-pytest                                # all tests pass without external services
+pytest                                # 116 tests, all pass without external services
 python -m clio.cli demo               # synthetic end-to-end backtest
+
+# Real Polymarket pipeline (requires network + Tavily key for news):
+python -m clio.cli fetch polymarket --since 2024-01-01 --until 2024-04-01 \
+                                    --max-markets 100 --out runs/markets.json
+python -m clio.cli fetch news --markets runs/markets.json --source tavily \
+                              --tavily-key $TAVILY_API_KEY \
+                              --out runs/news.jsonl --strict
+python -m clio.cli backtest --markets runs/markets.json --news runs/news.jsonl \
+                            --train-size 50
+python -m clio.cli red-team --markets runs/markets.json --news runs/news.jsonl \
+                            --train-size 50
+
+# Offline (replay from a recorded dump — no network):
+python -m clio.cli fetch polymarket --from-dump tests/fixtures/polymarket_dump.json \
+                                    --since 2023-01-01 --until 2025-01-01 \
+                                    --out runs/markets.json
+python -m clio.cli fetch news --markets runs/markets.json --source jsonl \
+                              --jsonl-path tests/fixtures/news_sample.jsonl \
+                              --out runs/news.jsonl
 ```
 
 ## Status
 
-MVP. Architecture-complete; data and live integration are pluggable.
+MVP + first real-data adapter + adversarial validation layer. Architecture-complete; live trading and additional micro-agents are the next two milestones.
