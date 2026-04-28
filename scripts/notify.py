@@ -43,12 +43,13 @@ REPO_URL = "https://github.com/zhongdaweiai/clio"
 # ---------------- Email senders ----------------
 
 
-def send_resend(to: str, subject: str, html: str) -> bool:
+def send_resend(to: str, subject: str, html: str, sender: str | None = None) -> bool:
     api_key = os.environ.get("RESEND_API_KEY")
     if not api_key:
         return False
+    sender = sender or os.environ.get("RESEND_FROM", "Clio Bot <onboarding@resend.dev>")
     body = json.dumps({
-        "from": "Clio Bot <onboarding@resend.dev>",
+        "from": sender,
         "to": [to],
         "subject": subject,
         "html": html,
@@ -56,7 +57,14 @@ def send_resend(to: str, subject: str, html: str) -> bool:
     req = urllib.request.Request(
         "https://api.resend.com/emails",
         data=body, method="POST",
-        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+            # Resend's Cloudflare WAF blocks the default Python urllib UA.
+            # A browser-like UA gets through.
+            "User-Agent": "Mozilla/5.0 (clio-bot; +https://github.com/zhongdaweiai/clio)",
+            "Accept": "application/json",
+        },
     )
     try:
         with urllib.request.urlopen(req, timeout=20) as r:
