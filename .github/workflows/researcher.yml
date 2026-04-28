@@ -1,0 +1,55 @@
+name: Researcher Agent (weekly)
+
+on:
+  schedule:
+    # Sundays 18:00 UTC = 11 AM PT / 2 PM ET — after weekend resolutions
+    - cron: '0 18 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: researcher
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Need full history + ability to push branches
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install -e ".[dev]" anthropic
+
+      - name: Run researcher agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "clio-researcher"
+          git config user.email "actions@github.com"
+          python scripts/researcher_agent.py
+
+      - name: Commit snapshot + proposal artifacts
+        run: |
+          git add research_proposals/ || true
+          if ! git diff --cached --quiet; then
+            git commit -m "researcher: snapshot $(date -u +%Y-%m-%d) (auto)"
+            git push origin HEAD:main
+          else
+            echo "no artifacts to commit"
+          fi

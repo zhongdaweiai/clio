@@ -44,6 +44,17 @@ GitHub Actions:   free for public repo
 Total:            ~$36/year
 ```
 
+## Researcher Agent (built 2026-04-28)
+
+Weekly (Sunday 18:00 UTC) cron reads live performance, calls Claude to propose ONE bounded parameter change with statistical evidence, opens a **draft PR** for human review. See [`docs/RESEARCHER.md`](docs/RESEARCHER.md).
+
+- Whitelisted params: `edge_threshold`, `max_position_pct`, `kelly_fraction`, `notional_floor`, `min_volume`, `max_days_remaining`
+- Hard floor: ≥20 resolved trades or always emits `hold`
+- Per-step delta cap: ≤ 50% of allowed range (anti-overshoot)
+- Validation downgrades invalid proposals to `hold`
+- Tests: 11 in `tests/test_researcher.py`, all passing
+- Local simulator: `scripts/researcher_agent_simulate.py` (uses 60 synthetic trades)
+
 ## Auto-research directions for the next iteration
 
 The whole project started from "what's autoresearch for prediction markets". Right now the closed loop is offline: backtest → tune → deploy. The next layer is making it **continuously self-improving in production**. Candidate next builds:

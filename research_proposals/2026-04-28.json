@@ -1,0 +1,24 @@
+{
+  "decision": "propose",
+  "summary": "Raise edge_threshold from 0.10 to 0.20 to filter out the underperforming mid_0.10-0.20 band and concentrate on higher-edge signals.",
+  "evidence": [
+    "mid_0.10-0.20 band: n=15, hit_rate=6.7%, avg_per_trade_return=-5.44%, total_pnl_pct=-13.05% \u2014 well below overall and the minimum evidence threshold",
+    "high LLM confidence slice: n=8, hit_rate=0.0%, avg_ret=-100.00%, total_pnl_pct=-128.00% \u2014 14.3pp below overall hit rate with n>=8",
+    "YES side: n=15, hit_rate=6.7%, avg_ret=-5.44% vs NO side n=6, hit_rate=33.3%, avg_ret=+100.52% \u2014 YES trades dominate the mid edge band driving losses",
+    "high_0.20-0.30 band: n=1 (insufficient alone), but very_high>=0.30 n=5 hit=20% still outperforms mid band's 6.7% despite losses, suggesting edge floor matters",
+    "Bankroll has declined from $100,000 to $38,458 (-61.5%), with mid-band trades (n=15) accounting for the majority of resolved trades and negative PnL"
+  ],
+  "parameter_changes": {
+    "edge_threshold": {
+      "old": 0.1,
+      "new": 0.2
+    }
+  },
+  "expected_impact": "Eliminating the mid_0.10-0.20 band (which produced -13.05% total PnL across 15 trades) should reduce trade frequency and concentrate capital on higher-conviction signals with better historical hit rates.",
+  "confidence": "medium",
+  "rollback": "Revert to 0.10 if fewer than 5 new trades are generated over the next 3 weeks, or if the hit rate on new trades at edge>=0.20 falls below 20% after n>=8 resolved trades.",
+  "proposed_at": "2026-04-28T19:35:26.396051+00:00",
+  "branch": null,
+  "pr_url": null,
+  "validation_errors": []
+}
