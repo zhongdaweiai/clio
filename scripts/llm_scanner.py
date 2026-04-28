@@ -204,7 +204,10 @@ def main() -> int:
             "side": "BUY YES" if edge > 0 else "BUY NO",
             "days_remaining": days_rem,
             "n_news_docs": len(docs),
-            "polymarket_url": f"https://polymarket.com/event/{m.get('slug') or cid}",
+            "polymarket_url": (
+                f"https://polymarket.com/event/"
+                f"{(m.get('events') or [{}])[0].get('slug') or m.get('slug') or cid}"
+            ),
             "volume": m.get("volumeNum"),
         }
         if abs(edge) >= 0.10:

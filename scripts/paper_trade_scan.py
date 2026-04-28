@@ -235,6 +235,13 @@ def main() -> int:
         size_frac = 0.10 + 1.2 * f_star * 0.10
         size_frac = min(size_frac, 0.25)
 
+        # URL: prefer the parent event slug for multi-outcome markets (negRisk
+        # events like FOMC rate brackets, sport O/U variants). Fall back to
+        # market slug for true binary standalones.
+        events = m.get("events") or []
+        event_slug = events[0].get("slug") if events and isinstance(events[0], dict) else None
+        url_slug = event_slug or m.get("slug") or cid
+
         rec = {
             "market_id": cid,
             "question": question,
@@ -250,7 +257,7 @@ def main() -> int:
             "size_pct_of_bankroll": round(size_frac * 100, 2),
             "days_remaining": days_rem,
             "end_date": end_d.isoformat(),
-            "polymarket_url": f"https://polymarket.com/event/{m.get('slug') or cid}",
+            "polymarket_url": f"https://polymarket.com/event/{url_slug}",
             "volume": m.get("volumeNum"),
             "n_news_docs": len(docs),
             "news_doc_ids": [d.doc_id for d in docs[:3]],
