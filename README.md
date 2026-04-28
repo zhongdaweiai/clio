@@ -122,6 +122,19 @@ MVP + first real-data adapter + adversarial validation layer + first live closed
 
 Architecture-complete; live trading and additional micro-agents are the next two milestones.
 
+## Live forward paper trading (now running)
+
+Daily GitHub Actions cron scans currently-open Polymarket markets, asks
+Claude Sonnet 4.6 for calibrated probabilities, logs every signal to
+[`paper_trades/`](paper_trades/). When markets resolve, paper PnL is
+auto-computed and pushed to [`paper_trades/SUMMARY.md`](paper_trades/SUMMARY.md).
+
+**This is the only honest test of whether the +259% CAGR backtest in [`docs/LLM_RUN.md`](docs/LLM_RUN.md) was real edge or training-cutoff look-ahead bias.** If the LLM was just remembering 2024 outcomes, the live forward signals will fail to compound. If the strategy is real, the live PnL converges toward the backtest expectation.
+
+Latest signals: [`paper_trades/ALL_SIGNALS.md`](paper_trades/ALL_SIGNALS.md)
+Live PnL scoreboard: [`paper_trades/SUMMARY.md`](paper_trades/SUMMARY.md)
+Setup guide: [`docs/DEPLOYMENT.md`](docs/DEPLOYMENT.md)
+
 ## Live runs
 
 **Three closed-loop iteration sessions on real Polymarket data are documented.** Each one was driven by what the previous one's evaluation surfaced.
