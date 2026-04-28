@@ -1,0 +1,225 @@
+loaded 638 markets, 638 volume records
+
+=== conservative   (current) ===
+  $     10,000 → $       21,256    (   2.13× over 1162 active days)
+  CAGR:                 +26.73%
+  monthly compound:      +1.99%/mo
+  trades:  150   hit_rate:  40.7%   profit factor:  1.58
+  Sharpe:                 1.37
+  Max DD:                15.9%
+  Calmar:                 7.09
+  avg pos size:          1.75% of bankroll
+  avg days held:           87
+  monte carlo (5000 reorderings):
+    P(ruin to <10% of initial):  0.00%
+    p10 final multiplier:        2.22×
+    p50 final multiplier:        2.22×
+    p90 final multiplier:        2.22×
+    p99 final multiplier:        2.22×
+
+=== moderate       (Kelly 1×) ===
+  $     10,000 → $       38,768    (   3.88× over 1162 active days)
+  CAGR:                 +53.05%
+  monthly compound:      +3.61%/mo
+  trades:  125   hit_rate:  40.0%   profit factor:  1.53
+  Sharpe:                 1.51
+  Max DD:                28.7%
+  Calmar:                10.01
+  avg pos size:          4.30% of bankroll
+  avg days held:           85
+  monte carlo (5000 reorderings):
+    P(ruin to <10% of initial):  0.00%
+    p10 final multiplier:        4.31×
+    p50 final multiplier:        4.31×
+    p90 final multiplier:        4.31×
+    p99 final multiplier:        4.31×
+
+=== aggressive     (10% pos) ===
+  $     10,000 → $       51,611    (   5.16× over 1162 active days)
+  CAGR:                 +67.45%
+  monthly compound:      +4.39%/mo
+  trades:  128   hit_rate:  42.2%   profit factor:  1.62
+  Sharpe:                 1.81
+  Max DD:                34.8%
+  Calmar:                11.97
+  avg pos size:          5.35% of bankroll
+  avg days held:           82
+  monte carlo (5000 reorderings):
+    P(ruin to <10% of initial):  0.00%
+    p10 final multiplier:        8.44×
+    p50 final multiplier:        8.44×
+    p90 final multiplier:        8.44×
+    p99 final multiplier:        8.44×
+
+=== full_kelly     (20% pos) ===
+  $     10,000 → $       45,091    (   4.51× over 1162 active days)
+  CAGR:                 +60.49%
+  monthly compound:      +4.02%/mo
+  trades:  146   hit_rate:  40.4%   profit factor:  1.45
+  Sharpe:                 1.57
+  Max DD:                37.6%
+  Calmar:                 9.33
+  avg pos size:          5.62% of bankroll
+  avg days held:           84
+  monte carlo (5000 reorderings):
+    P(ruin to <10% of initial):  0.00%
+    p10 final multiplier:        5.61×
+    p50 final multiplier:        5.61×
+    p90 final multiplier:        5.61×
+    p99 final multiplier:        5.61×
+
+=== yolo           (30% pos) ===
+  $     10,000 → $       51,572    (   5.16× over 1162 active days)
+  CAGR:                 +67.41%
+  monthly compound:      +4.39%/mo
+  trades:  173   hit_rate:  40.5%   profit factor:  1.42
+  Sharpe:                 1.63
+  Max DD:                44.7%
+  Calmar:                 9.31
+  avg pos size:          6.19% of bankroll
+  avg days held:           89
+  monte carlo (5000 reorderings):
+    P(ruin to <10% of initial):  0.02%
+    p10 final multiplier:        6.96×
+    p50 final multiplier:        6.96×
+    p90 final multiplier:        6.96×
+    p99 final multiplier:        6.96×
+
+=== high_conviction (filter+10%) ===
+  $     10,000 → $      173,830    (  17.38× over 939 active days)
+  CAGR:                +203.42%
+  monthly compound:      +9.70%/mo
+  trades:   58   hit_rate:  46.6%   profit factor:  2.27
+  Sharpe:                 1.90
+  Max DD:                44.3%
+  Calmar:                37.00
+  avg pos size:         11.46% of bankroll
+  avg days held:           83
+  monte carlo (5000 reorderings):
+    P(ruin to <10% of initial):  0.00%
+    p10 final multiplier:        14.20×
+    p50 final multiplier:        14.20×
+    p90 final multiplier:        14.20×
+    p99 final multiplier:        14.20×
+
+=== high_conviction_full (filter+25%) ===
+  $     10,000 → $       75,059    (   7.51× over 935 active days)
+  CAGR:                +119.65%
+  monthly compound:      +6.78%/mo
+  trades:   56   hit_rate:  48.2%   profit factor:  1.59
+  Sharpe:                 1.57
+  Max DD:                58.2%
+  Calmar:                11.17
+  avg pos size:         14.02% of bankroll
+  avg days held:           85
+  monte carlo (5000 reorderings):
+    P(ruin to <10% of initial):  0.14%
+    p10 final multiplier:        4.17×
+    p50 final multiplier:        4.17×
+    p90 final multiplier:        4.17×
+    p99 final multiplier:        4.17×
+
+======================================================================
+SIDE BY SIDE
+======================================================================
+  tier                                        final      mult      CAGR        mo     Sh      DD   ruin%
+  ----------------------------------- ------------- --------- --------- --------- ------ ------- -------
+  conservative   (current)            $     21,256     2.1×     +27%   +2.0%/m  1.37  15.9%   0.0%
+  moderate       (Kelly 1×)           $     38,768     3.9×     +53%   +3.6%/m  1.51  28.7%   0.0%
+  aggressive     (10% pos)            $     51,611     5.2×     +67%   +4.4%/m  1.81  34.8%   0.0%
+  full_kelly     (20% pos)            $     45,091     4.5×     +60%   +4.0%/m  1.57  37.6%   0.0%
+  yolo           (30% pos)            $     51,572     5.2×     +67%   +4.4%/m  1.63  44.7%   0.0%
+  high_conviction (filter+10%)        $    173,830    17.4×    +203%   +9.7%/m  1.90  44.3%   0.0%
+  high_conviction_full (filter+25%)   $     75,059     7.5×    +120%   +6.8%/m  1.57  58.2%   0.1%
+
+======================================================================
+EQUITY CURVES
+======================================================================
+
+--- conservative   (current) ---
+        $24K  |                                                                                       *    |
+        $23K  |                                                                                        *   |
+        $21K  |                                                                                     **     |
+        $20K  |                                                                                         ***|
+        $19K  |                                                                                            |
+        $18K  |                                                                                            |
+        $17K  |                                                                                            |
+        $16K  |                                                                                            |
+        $15K  |                                                                                  ***       |
+        $14K  |                                                                  ****                      |
+        $13K  |                                                                      *****   ****          |
+        $12K  |                                                                           ***              |
+        $11K  |                                                 *** *                                      |
+        $10K  |*************************************************···*·************··························|
+              +--------------------------------------------------------------------------------------------+
+              2023-02-23                                                                      2026-04-30
+
+--- full_kelly     (20% pos) ---
+        $61K  |                                                                                       *    |
+        $58K  |                                                                                        *   |
+        $54K  |                                                                                            |
+        $50K  |                                                                                            |
+        $46K  |                                                                                     *      |
+        $42K  |                                                                                      *  ***|
+        $38K  |                                                                                            |
+        $34K  |                                                                                            |
+        $30K  |                                                                                            |
+        $26K  |                                                                                            |
+        $22K  |                                                                                  ***       |
+        $18K  |                                                                  **                        |
+        $14K  |                                                                    **************          |
+        $10K  |******************************************************************··························|
+              +--------------------------------------------------------------------------------------------+
+              2023-02-23                                                                      2026-04-30
+
+--- yolo           (30% pos) ---
+        $72K  |                                                                                       *    |
+        $67K  |                                                                                        *   |
+        $62K  |                                                                                            |
+        $58K  |                                                                                            |
+        $53K  |                                                                                            |
+        $48K  |                                                                                     **   **|
+        $43K  |                                                                                         *  |
+        $39K  |                                                                                            |
+        $34K  |                                                                                            |
+        $29K  |                                                                                            |
+        $24K  |                                                                  **               **       |
+        $19K  |                                                                    **        *   *         |
+        $15K  |                                                      ***********     ******** ***          |
+        $10K  |******************************************************···········*··························|
+              +--------------------------------------------------------------------------------------------+
+              2023-02-23                                                                      2026-04-30
+
+--- high_conviction_full (filter+25%) ---
+       $110K  |                                                                                     *      |
+       $102K  |                                                                                            |
+        $95K  |                                                                                      ***   |
+        $87K  |                                                                                            |
+        $79K  |                                                                                            |
+        $71K  |                                                                                           *|
+        $64K  |                                                                                            |
+        $56K  |                                                                                         *  |
+        $48K  |                                                                                          * |
+        $41K  |                                                                                            |
+        $33K  |                                                                                            |
+        $25K  |                                                                                    *       |
+        $18K  |                                                 **                               **        |
+        $10K  |*************************************************··*******************************··········|
+              +--------------------------------------------------------------------------------------------+
+              2023-02-23                                                                      2026-04-30
+
+======================================================================
+TOP 5 WINNING TRADES (high_conviction_full)
+======================================================================
+  2026-01-04 [event   ] YES mkt=0.026→fill=0.034  outcome=1  pnl=$+84,453  (+2841% on $2,972, 27d)
+     Will Silver (SI) hit (HIGH) $110 by end of January?
+  2026-04-22 [field   ] NO  mkt=0.685→fill=0.678  outcome=0  pnl=$+19,284  (+210% on $9,180, 4d)
+     Will FC Internazionale Milano win on 2026-04-26?
+  2025-11-18 [event   ] NO  mkt=0.910→fill=0.903  outcome=0  pnl=$+11,487  (+926% on $1,241, 44d)
+     Over $400M committed to the Monad public sale?
+  2026-02-01 [event   ] NO  mkt=0.510→fill=0.503  outcome=0  pnl=$+9,862  (+101% on $9,764, 13d)
+     Liverpool FC vs. Brighton & Hove Albion FC: O/U 3.5
+  2026-04-05 [field   ] NO  mkt=0.545→fill=0.538  outcome=0  pnl=$+8,859  (+116% on $7,623, 11d)
+     Will RC Celta de Vigo win on 2026-04-16?
+
+wrote runs/live_iter/aggressive_backtest.json
