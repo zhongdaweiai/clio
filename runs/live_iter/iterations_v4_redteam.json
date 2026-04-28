@@ -1,0 +1,182 @@
+{
+  "temporal_split": {
+    "train_count": 47,
+    "holdout_count": 47,
+    "train_close_min": "2024-01-15",
+    "train_close_max": "2025-02-09",
+    "holdout_close_min": "2025-02-09",
+    "holdout_close_max": "2025-05-31"
+  },
+  "base_rates": {
+    "deadline": 0.35714285714285715,
+    "event": 0.125,
+    "field": 0.0,
+    "durative": 0.0
+  },
+  "v0_market_echo": {
+    "brier": 0.100188625,
+    "pnl": 0,
+    "n_trades": 0
+  },
+  "v6_shrink_typed": {
+    "brier": 0.09756381186170213,
+    "pnl": 0.646379533930215,
+    "n_trades": 14,
+    "trades": [
+      {
+        "market_id": "514670",
+        "qtype": "event",
+        "step": 0,
+        "pred": 0.5730000000000001,
+        "mkt": 0.685,
+        "edge": -0.11199999999999999,
+        "outcome": 0,
+        "payoff": 0.10873015873015877,
+        "question": "Yoon out as president of South Korea before April?"
+      },
+      {
+        "market_id": "514670",
+        "qtype": "event",
+        "step": 1,
+        "pred": 0.593,
+        "mkt": 0.71,
+        "edge": -0.11699999999999999,
+        "outcome": 0,
+        "payoff": 0.12241379310344827,
+        "question": "Yoon out as president of South Korea before April?"
+      },
+      {
+        "market_id": "514670",
+        "qtype": "event",
+        "step": 2,
+        "pred": 0.581,
+        "mkt": 0.695,
+        "edge": -0.11399999999999999,
+        "outcome": 0,
+        "payoff": 0.11393442622950818,
+        "question": "Yoon out as president of South Korea before April?"
+      },
+      {
+        "market_id": "514670",
+        "qtype": "event",
+        "step": 3,
+        "pred": 0.6530000000000001,
+        "mkt": 0.785,
+        "edge": -0.1319999999999999,
+        "outcome": 0,
+        "payoff": 0.18255813953488376,
+        "question": "Yoon out as president of South Korea before April?"
+      },
+      {
+        "market_id": "516769",
+        "qtype": "event",
+        "step": 3,
+        "pred": 0.5730000000000001,
+        "mkt": 0.685,
+        "edge": -0.11199999999999999,
+        "outcome": 1,
+        "payoff": -0.05,
+        "question": "Will Mark Carney be the next Canadian Prime Minister?"
+      },
+      {
+        "market_id": "529312",
+        "qtype": "event",
+        "step": 0,
+        "pred": 0.509,
+        "mkt": 0.605,
+        "edge": -0.09599999999999997,
+        "outcome": 1,
+        "payoff": -0.05,
+        "question": "Yoon out as president of South Korea before May?"
+      },
+      {
+        "market_id": "529312",
+        "qtype": "event",
+        "step": 1,
+        "pred": 0.517,
+        "mkt": 0.615,
+        "edge": -0.09799999999999998,
+        "outcome": 1,
+        "payoff": -0.05,
+        "question": "Yoon out as president of South Korea before May?"
+      },
+      {
+        "market_id": "529312",
+        "qtype": "event",
+        "step": 2,
+        "pred": 0.3410000000000001,
+        "mkt": 0.395,
+        "edge": -0.05399999999999994,
+        "outcome": 1,
+        "payoff": -0.05,
+        "question": "Yoon out as president of South Korea before May?"
+      },
+      {
+        "market_id": "529312",
+        "qtype": "event",
+        "step": 3,
+        "pred": 0.6290000000000001,
+        "mkt": 0.755,
+        "edge": -0.1259999999999999,
+        "outcome": 1,
+        "payoff": -0.05,
+        "question": "Yoon out as president of South Korea before May?"
+      },
+      {
+        "market_id": "514139",
+        "qtype": "event",
+        "step": 0,
+        "pred": 0.42500000000000004,
+        "mkt": 0.5,
+        "edge": -0.07499999999999996,
+        "outcome": 0,
+        "payoff": 0.05,
+        "question": "Will Rafa\u0142 Trzaskowski be the next President of Poland?"
+      },
+      {
+        "market_id": "514139",
+        "qtype": "event",
+        "step": 1,
+        "pred": 0.5730000000000001,
+        "mkt": 0.685,
+        "edge": -0.11199999999999999,
+        "outcome": 0,
+        "payoff": 0.10873015873015877,
+        "question": "Will Rafa\u0142 Trzaskowski be the next President of Poland?"
+      },
+      {
+        "market_id": "514139",
+        "qtype": "event",
+        "step": 2,
+        "pred": 0.581,
+        "mkt": 0.695,
+        "edge": -0.11399999999999999,
+        "outcome": 0,
+        "payoff": 0.11393442622950818,
+        "question": "Will Rafa\u0142 Trzaskowski be the next President of Poland?"
+      },
+      {
+        "market_id": "514139",
+        "qtype": "event",
+        "step": 3,
+        "pred": 0.621,
+        "mkt": 0.745,
+        "edge": -0.124,
+        "outcome": 0,
+        "payoff": 0.14607843137254903,
+        "question": "Will Rafa\u0142 Trzaskowski be the next President of Poland?"
+      },
+      {
+        "market_id": "514138",
+        "qtype": "event",
+        "step": 0,
+        "pred": 0.42500000000000004,
+        "mkt": 0.5,
+        "edge": -0.07499999999999996,
+        "outcome": 1,
+        "payoff": -0.05,
+        "question": "Will Karol Nawrocki be the next President of Poland?"
+      }
+    ]
+  }
+}

@@ -122,15 +122,30 @@ MVP + first real-data adapter + adversarial validation layer + first live closed
 
 Architecture-complete; live trading and additional micro-agents are the next two milestones.
 
-## Live run
+## Live runs
 
-A 24-market closed-loop iteration session on real Polymarket data, with news from
-Hacker News + Wikipedia revisions, is documented in [`docs/LIVE_RUN.md`](docs/LIVE_RUN.md).
-The Red Team correctly refused to promote any of the 5 strategy variants — all underperformed
-the market baseline. That's the gate doing its job, not a system failure.
+**Two closed-loop iteration sessions on real Polymarket data are documented:**
+
+### v1: high-volume markets — gate correctly refused promotion ([`docs/LIVE_RUN.md`](docs/LIVE_RUN.md))
+24 high-volume resolved markets (Trump-Harris, Super Bowl, etc.), 5 strategy iterations. Red Team refused to promote any variant — they all underperformed the market baseline because top-volume markets are too efficient to beat with rule-based reasoning. Honest negative result.
+
+### v2: mid-volume markets — real, robust edge demonstrated ([`docs/LIVE_RUN_V2.md`](docs/LIVE_RUN_V2.md))
+94 mid-volume resolved markets ($200K – $50M USD volume), 8 strategy variants, 30-seed stability test, temporal-split Red Team. **v6_shrink_typed produces edge over market baseline:**
+- ΔBrier −0.0026 (better) in **28/30 random seeds**
+- Positive PnL in **26/30 random seeds**
+- Under temporal split (train past, test future): bootstrap **95% CI on PnL = [+0.024, +1.324]**, strictly positive
+
+The mechanism is interpretable: shrink event-type market prices toward the empirical event base rate (13% YES), trade only when |edge| > 5%. Fades longshots that the market over-prices. Wins on Yoon-out-of-office ✗, Polish-presidential-candidate ✗; loses on Mark-Carney-PM ✓ (market was right, we faded, it happened).
 
 ```bash
-.venv/bin/python scripts/live_fetch.py     # 24 markets, ~75s
-.venv/bin/python scripts/live_news.py      # 85 validated docs, ~90s
-.venv/bin/python scripts/iterate.py        # 5 iterations + Red Team
+# v1 (high-volume markets):
+.venv/bin/python scripts/live_fetch.py
+.venv/bin/python scripts/live_news.py
+.venv/bin/python scripts/iterate.py
+
+# v2 (mid-volume, edge demonstrated):
+.venv/bin/python scripts/live_fetch_v2.py
+.venv/bin/python scripts/iterate_v2.py        # single seed
+.venv/bin/python scripts/iterate_v3.py        # 30-seed stability
+.venv/bin/python scripts/iterate_v4_redteam.py # temporal split + bootstrap
 ```

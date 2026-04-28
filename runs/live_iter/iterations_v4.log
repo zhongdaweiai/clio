@@ -1,0 +1,51 @@
+loaded 94 markets
+
+=== TEMPORAL SPLIT (train=earlier, holdout=later) ===
+train: 47 markets, 2024-01-15..2025-02-09
+holdout: 47 markets, 2025-02-09..2025-05-31
+train base rates: {'deadline': 0.357, 'event': 0.125, 'field': 0.0, 'durative': 0.0}
+
+holdout (later markets):
+  v0_market_echo: brier=0.1002  pnl=+0.000  trades=0
+  v6_shrink_typed: brier=0.0976  pnl=+0.646  trades=14
+  Δ brier = -0.0026, Δ pnl = +0.646
+
+=== v6 trade breakdown by qtype (temporal holdout) ===
+  event      n=14  wins=8   hit=0.57  pnl=+0.646
+
+=== v6 trade pnl by market price band (temporal holdout) ===
+  [0.02, 0.10) n=0
+  [0.10, 0.25) n=0
+  [0.25, 0.50) n=1   wins=0   hit=0.00  pnl=-0.050
+  [0.50, 0.75) n=11  wins=7   hit=0.64  pnl=+0.564
+  [0.75, 0.98) n=2   wins=1   hit=0.50  pnl=+0.133
+
+=== v6 worst losing trades (temporal holdout) ===
+  516769 [event] mkt=0.685 pred=0.573 edge=-0.112 outcome=1 payoff=-0.050
+    Q: Will Mark Carney be the next Canadian Prime Minister?
+  529312 [event] mkt=0.605 pred=0.509 edge=-0.096 outcome=1 payoff=-0.050
+    Q: Yoon out as president of South Korea before May?
+  529312 [event] mkt=0.615 pred=0.517 edge=-0.098 outcome=1 payoff=-0.050
+    Q: Yoon out as president of South Korea before May?
+  529312 [event] mkt=0.395 pred=0.341 edge=-0.054 outcome=1 payoff=-0.050
+    Q: Yoon out as president of South Korea before May?
+  529312 [event] mkt=0.755 pred=0.629 edge=-0.126 outcome=1 payoff=-0.050
+    Q: Yoon out as president of South Korea before May?
+
+=== v6 best winning trades (temporal holdout) ===
+  514670 [event] mkt=0.785 pred=0.653 edge=-0.132 outcome=0 payoff=+0.183
+    Q: Yoon out as president of South Korea before April?
+  514139 [event] mkt=0.745 pred=0.621 edge=-0.124 outcome=0 payoff=+0.146
+    Q: Will Rafał Trzaskowski be the next President of Poland?
+  514670 [event] mkt=0.710 pred=0.593 edge=-0.117 outcome=0 payoff=+0.122
+    Q: Yoon out as president of South Korea before April?
+  514670 [event] mkt=0.695 pred=0.581 edge=-0.114 outcome=0 payoff=+0.114
+    Q: Yoon out as president of South Korea before April?
+  514139 [event] mkt=0.695 pred=0.581 edge=-0.114 outcome=0 payoff=+0.114
+    Q: Will Rafał Trzaskowski be the next President of Poland?
+
+=== Bootstrap 95%% CI on PnL difference (temporal holdout) ===
+  v6 total PnL = +0.646, 95% CI = [+0.024, +1.324] over 14 trades
+  ✓ 95%% CI is strictly positive — edge is statistically robust.
+
+wrote runs/live_iter/iterations_v4_redteam.json

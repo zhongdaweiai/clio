@@ -1,0 +1,4155 @@
+{
+  "n_markets": 94,
+  "n_seeds": 30,
+  "summaries": {
+    "v0_market_echo": {
+      "brier_mu": 0.08316614242021277,
+      "brier_sd": 0.017035328547109013,
+      "pnl_mu": 0,
+      "pnl_sd": 0.0,
+      "trades_mu": 0,
+      "hit_rate_mu": 0,
+      "pnl_pos_seeds": 0
+    },
+    "v2_shrink_10": {
+      "brier_mu": 0.08212357586695795,
+      "brier_sd": 0.01686723171148231,
+      "pnl_mu": 0.6505573272873485,
+      "pnl_sd": 0.46674152597274376,
+      "trades_mu": 9.1,
+      "hit_rate_mu": 0.519610484544695,
+      "pnl_pos_seeds": 26
+    },
+    "v2_shrink_15": {
+      "brier_mu": 0.08192942151055914,
+      "brier_sd": 0.016871252925698577,
+      "pnl_mu": 0.803220941185924,
+      "pnl_sd": 0.4760563239312544,
+      "trades_mu": 17.833333333333332,
+      "hit_rate_mu": 0.5541018697546269,
+      "pnl_pos_seeds": 29
+    },
+    "v6_shrink_typed": {
+      "brier_mu": 0.08050987370020685,
+      "brier_sd": 0.016640824190362474,
+      "pnl_mu": 0.4882066679029832,
+      "pnl_sd": 0.3092163866537825,
+      "trades_mu": 11.566666666666666,
+      "hit_rate_mu": 0.639514406159143,
+      "pnl_pos_seeds": 26
+    },
+    "v7_shrink_typed_v2": {
+      "brier_mu": 0.0810875868302305,
+      "brier_sd": 0.0166795216902404,
+      "pnl_mu": 0.5146701548646623,
+      "pnl_sd": 0.30907895234791816,
+      "trades_mu": 10.3,
+      "hit_rate_mu": 0.6720821624768993,
+      "pnl_pos_seeds": 26
+    },
+    "v8_shrink_typed_strong": {
+      "brier_mu": 0.08013057424468084,
+      "brier_sd": 0.0166451101411392,
+      "pnl_mu": 0.41801849716212536,
+      "pnl_sd": 0.31014921336151297,
+      "trades_mu": 13.933333333333334,
+      "hit_rate_mu": 0.5788110513310742,
+      "pnl_pos_seeds": 27
+    }
+  },
+  "per_seed": {
+    "v0_market_echo": [
+      {
+        "seed": 0,
+        "brier": 0.09933129787234042,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.200294,
+          "field": 0.0074459618055555555,
+          "event": 0.11536184583333334
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 1,
+        "brier": 0.09453163031914893,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.13450117857142857,
+          "field": 0.007359836805555555,
+          "event": 0.16183287083333334
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 2,
+        "brier": 0.05865139095744681,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.12245488839285713,
+          "field": 0.007329256944444444,
+          "event": 0.060688020833333335
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 3,
+        "brier": 0.0749638710106383,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.17302586160714287,
+          "field": 0.014529593750000002,
+          "event": 0.05596047916666667
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 4,
+        "brier": 0.09375750265957446,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.17512811160714284,
+          "field": 0.011111371527777778,
+          "event": 0.11698695833333334
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 5,
+        "brier": 0.0888891875,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.20947773214285714,
+          "field": 0.01091376388888889,
+          "event": 0.0699103875
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 6,
+        "brier": 0.09677628324468084,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.16321365624999998,
+          "field": 0.014137083333333335,
+          "event": 0.13393510833333336
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 7,
+        "brier": 0.10822640026595744,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.17350315178571427,
+          "field": 0.00751203125,
+          "event": 0.168158675
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 8,
+        "brier": 0.10084701063829787,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.21727754464285715,
+          "field": 0.007722343750000001,
+          "event": 0.1039281125
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 9,
+        "brier": 0.09431950265957446,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.17087766964285714,
+          "field": 0.011144902777777778,
+          "event": 0.12267473333333334
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 10,
+        "brier": 0.06784196941489362,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.12593631249999998,
+          "field": 0.007489315972222222,
+          "event": 0.08604376666666667
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 11,
+        "brier": 0.0735185625,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.16574746428571427,
+          "field": 0.004281649305555555,
+          "event": 0.07052255
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 12,
+        "brier": 0.056817353723404254,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.12977551339285714,
+          "field": 0.004304708333333334,
+          "event": 0.051738245833333335
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 13,
+        "brier": 0.0806433324468085,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.19456810267857144,
+          "field": 0.00715417013888889,
+          "event": 0.06250054166666667
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 14,
+        "brier": 0.08525889760638297,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.1640523080357143,
+          "field": 0.0079696875,
+          "event": 0.10446543333333333
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 15,
+        "brier": 0.12414644680851063,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.24874605803571428,
+          "field": 0.0006933368055555557,
+          "event": 0.15599720833333333
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 16,
+        "brier": 0.07193602393617021,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.14278826339285713,
+          "field": 0.011233402777777778,
+          "event": 0.0786504125
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 17,
+        "brier": 0.09120236569148937,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.17840879017857142,
+          "field": 0.0005749027777777778,
+          "event": 0.11856265833333333
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 18,
+        "brier": 0.0679350505319149,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.1370753660714286,
+          "field": 0.004306197916666667,
+          "event": 0.07975871250000001
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 19,
+        "brier": 0.08822499335106383,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.18120545535714286,
+          "field": 0.0077401493055555565,
+          "event": 0.09802504166666666
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 20,
+        "brier": 0.04843865026595745,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.134258,
+          "field": 0.011299444444444444,
+          "event": 0.012907637500000001
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 21,
+        "brier": 0.10511457978723406,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.16831135714285714,
+          "field": 0.004027697916666666,
+          "event": 0.16743517916666667
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 22,
+        "brier": 0.07988154920212766,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.18667807589285715,
+          "field": 0.011234989583333334,
+          "event": 0.06258066250000001
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 23,
+        "brier": 0.09147262234042554,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.186002625,
+          "field": 0.007260072916666667,
+          "event": 0.10429967916666666
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 24,
+        "brier": 0.08808992420212766,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.15814870089285712,
+          "field": 0.004276958333333334,
+          "event": 0.12327729166666666
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 25,
+        "brier": 0.07212973803191489,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.14144347767857143,
+          "field": 0.004192746527777778,
+          "event": 0.08896130416666666
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 26,
+        "brier": 0.07530497340425532,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.1673667098214286,
+          "field": 0.0039447743055555555,
+          "event": 0.075012925
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 27,
+        "brier": 0.059563265957446807,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.12869448214285714,
+          "field": 0.007369427083333334,
+          "event": 0.057673404166666664
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 28,
+        "brier": 0.06793276063829787,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.14956180357142856,
+          "field": 0.0040874340277777775,
+          "event": 0.06836004583333334
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      },
+      {
+        "seed": 29,
+        "brier": 0.08923713563829787,
+        "pnl": 0,
+        "n_trades": 0,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.1683749464285714,
+          "field": 0.007203013888888889,
+          "event": 0.113816125
+        },
+        "by_type_pnl": {},
+        "by_type_trades": {},
+        "by_type_hits": {}
+      }
+    ],
+    "v2_shrink_10": [
+      {
+        "seed": 0,
+        "brier": 0.0971441425633232,
+        "pnl": 0.746379533930215,
+        "n_trades": 10,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.20185762979591834,
+          "field": 0.006031229062500001,
+          "event": 0.10874705068055554
+        },
+        "by_type_pnl": {
+          "deadline": -0.05,
+          "event": 0.796379533930215
+        },
+        "by_type_trades": {
+          "deadline": 1,
+          "event": 9
+        },
+        "by_type_hits": {
+          "event": 7
+        }
+      },
+      {
+        "seed": 1,
+        "brier": 0.09169881711372847,
+        "pnl": 1.3713795339302153,
+        "n_trades": 10,
+        "hits": 8,
+        "by_type_brier": {
+          "deadline": 0.13311674545918367,
+          "field": 0.0059614678125,
+          "event": 0.1559269031527778
+        },
+        "by_type_pnl": {
+          "deadline": 0.5750000000000004,
+          "event": 0.796379533930215
+        },
+        "by_type_trades": {
+          "deadline": 1,
+          "event": 9
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "event": 7
+        }
+      },
+      {
+        "seed": 2,
+        "brier": 0.059897645925785205,
+        "pnl": -0.2,
+        "n_trades": 4,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.12543835755739796,
+          "field": 0.005936698125000001,
+          "event": 0.06347945243055556
+        },
+        "by_type_pnl": {
+          "deadline": -0.1,
+          "event": -0.1
+        },
+        "by_type_trades": {
+          "deadline": 2,
+          "event": 2
+        },
+        "by_type_hits": {}
+      },
+      {
+        "seed": 3,
+        "brier": 0.0749528482339159,
+        "pnl": 0.4068181818181822,
+        "n_trades": 8,
+        "hits": 2,
+        "by_type_brier": {
+          "deadline": 0.17319894535076533,
+          "field": 0.011768970937500001,
+          "event": 0.05907714368055556
+        },
+        "by_type_pnl": {
+          "deadline": 0.4568181818181822,
+          "event": -0.05
+        },
+        "by_type_trades": {
+          "deadline": 7,
+          "event": 1
+        },
+        "by_type_hits": {
+          "deadline": 2
+        }
+      },
+      {
+        "seed": 4,
+        "brier": 0.0930543610954914,
+        "pnl": 0.7344546994161811,
+        "n_trades": 16,
+        "hits": 6,
+        "by_type_brier": {
+          "deadline": 0.17497271172831633,
+          "field": 0.009000210937500001,
+          "event": 0.11746221402777778
+        },
+        "by_type_pnl": {
+          "deadline": 0.4068181818181822,
+          "event": 0.32763651759799894
+        },
+        "by_type_trades": {
+          "deadline": 8,
+          "event": 8
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "event": 4
+        }
+      },
+      {
+        "seed": 5,
+        "brier": 0.08918826416476697,
+        "pnl": 0.7866001591893592,
+        "n_trades": 10,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.21370308548469388,
+          "field": 0.00884014875,
+          "event": 0.06939216943055555
+        },
+        "by_type_pnl": {
+          "deadline": 0.5178571428571432,
+          "event": 0.268743016332216
+        },
+        "by_type_trades": {
+          "deadline": 5,
+          "event": 5
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "event": 3
+        }
+      },
+      {
+        "seed": 6,
+        "brier": 0.09576312630762411,
+        "pnl": 0.6781977157483967,
+        "n_trades": 15,
+        "hits": 8,
+        "by_type_brier": {
+          "deadline": 0.17113752584821426,
+          "field": 0.0114510375,
+          "event": 0.12658819330555554
+        },
+        "by_type_pnl": {
+          "deadline": -0.1681818181818182,
+          "event": 0.8463795339302149
+        },
+        "by_type_trades": {
+          "deadline": 7,
+          "event": 8
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "event": 7
+        }
+      },
+      {
+        "seed": 7,
+        "brier": 0.10941060306041032,
+        "pnl": 0.47819771574839676,
+        "n_trades": 19,
+        "hits": 8,
+        "by_type_brier": {
+          "deadline": 0.18065143049744897,
+          "field": 0.006084745312500001,
+          "event": 0.16691019341666669
+        },
+        "by_type_pnl": {
+          "deadline": -0.1681818181818182,
+          "event": 0.646379533930215
+        },
+        "by_type_trades": {
+          "deadline": 7,
+          "event": 12
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "event": 7
+        }
+      },
+      {
+        "seed": 8,
+        "brier": 0.09735023312563323,
+        "pnl": 1.3031977157483972,
+        "n_trades": 15,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.21379294891581632,
+          "field": 0.0062550984375,
+          "event": 0.09798452668055554
+        },
+        "by_type_pnl": {
+          "deadline": 0.5068181818181822,
+          "event": 0.796379533930215
+        },
+        "by_type_trades": {
+          "deadline": 6,
+          "event": 9
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "event": 7
+        }
+      },
+      {
+        "seed": 9,
+        "brier": 0.09578326422619048,
+        "pnl": 0.20945469941618078,
+        "n_trades": 14,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.17898121853316323,
+          "field": 0.009027371250000001,
+          "event": 0.12223891177777778
+        },
+        "by_type_pnl": {
+          "deadline": -0.11818181818181821,
+          "event": 0.32763651759799894
+        },
+        "by_type_trades": {
+          "deadline": 6,
+          "event": 8
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 10,
+        "brier": 0.06598852714095745,
+        "pnl": 0.30105036401088103,
+        "n_trades": 6,
+        "hits": 3,
+        "by_type_brier": {
+          "deadline": 0.12875377026785714,
+          "field": 0.0060663459375,
+          "event": 0.079314251
+        },
+        "by_type_pnl": {
+          "deadline": -0.1,
+          "event": 0.40105036401088107
+        },
+        "by_type_trades": {
+          "deadline": 2,
+          "event": 4
+        },
+        "by_type_hits": {
+          "event": 3
+        }
+      },
+      {
+        "seed": 11,
+        "brier": 0.06982177169389564,
+        "pnl": 0.7575581395348842,
+        "n_trades": 2,
+        "hits": 2,
+        "by_type_brier": {
+          "deadline": 0.1616060838265306,
+          "field": 0.0034681359375,
+          "event": 0.0637807766111111
+        },
+        "by_type_pnl": {
+          "deadline": 0.5750000000000004,
+          "event": 0.18255813953488376
+        },
+        "by_type_trades": {
+          "deadline": 1,
+          "event": 1
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "event": 1
+        }
+      },
+      {
+        "seed": 12,
+        "brier": 0.05585254967705167,
+        "pnl": 0.09607843137254903,
+        "n_trades": 2,
+        "hits": 1,
+        "by_type_brier": {
+          "deadline": 0.12951728574617347,
+          "field": 0.00348681375,
+          "event": 0.049937679125
+        },
+        "by_type_pnl": {
+          "event": 0.09607843137254903
+        },
+        "by_type_trades": {
+          "event": 2
+        },
+        "by_type_hits": {
+          "event": 1
+        }
+      },
+      {
+        "seed": 13,
+        "brier": 0.07882389791413374,
+        "pnl": 0.8117901144565143,
+        "n_trades": 8,
+        "hits": 4,
+        "by_type_brier": {
+          "deadline": 0.19372055857780612,
+          "field": 0.0057948778125,
+          "event": 0.05922183875
+        },
+        "by_type_pnl": {
+          "deadline": 0.5568181818181822,
+          "event": 0.254971932638332
+        },
+        "by_type_trades": {
+          "deadline": 5,
+          "event": 3
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "event": 2
+        }
+      },
+      {
+        "seed": 14,
+        "brier": 0.08331551658497974,
+        "pnl": 0.9526365175979994,
+        "n_trades": 8,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.16249992052933673,
+          "field": 0.0064554468750000005,
+          "event": 0.10164215655555556
+        },
+        "by_type_pnl": {
+          "deadline": 0.4750000000000004,
+          "event": 0.47763651759799897
+        },
+        "by_type_trades": {
+          "deadline": 3,
+          "event": 5
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 15,
+        "brier": 0.12227724856129686,
+        "pnl": 1.44605485860554,
+        "n_trades": 15,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.24797693455994896,
+          "field": 0.0005616028125,
+          "event": 0.15101631652777778
+        },
+        "by_type_pnl": {
+          "deadline": 0.6496753246753251,
+          "event": 0.796379533930215
+        },
+        "by_type_trades": {
+          "deadline": 6,
+          "event": 9
+        },
+        "by_type_hits": {
+          "deadline": 3,
+          "event": 7
+        }
+      },
+      {
+        "seed": 16,
+        "brier": 0.06933974245820669,
+        "pnl": 0.8799719326383324,
+        "n_trades": 3,
+        "hits": 3,
+        "by_type_brier": {
+          "deadline": 0.14121934794005103,
+          "field": 0.009099056250000001,
+          "event": 0.074540934125
+        },
+        "by_type_pnl": {
+          "deadline": 0.5750000000000004,
+          "event": 0.304971932638332
+        },
+        "by_type_trades": {
+          "deadline": 1,
+          "event": 2
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "event": 2
+        }
+      },
+      {
+        "seed": 17,
+        "brier": 0.08967553956370314,
+        "pnl": 1.2713795339302154,
+        "n_trades": 12,
+        "hits": 8,
+        "by_type_brier": {
+          "deadline": 0.18035876035076528,
+          "field": 0.00046567125000000005,
+          "event": 0.11208970880555555
+        },
+        "by_type_pnl": {
+          "deadline": 0.4750000000000004,
+          "event": 0.796379533930215
+        },
+        "by_type_trades": {
+          "deadline": 3,
+          "event": 9
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "event": 7
+        }
+      },
+      {
+        "seed": 18,
+        "brier": 0.06685941018110436,
+        "pnl": 1.0026365175979994,
+        "n_trades": 7,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.13607773019132655,
+          "field": 0.0034880203125000004,
+          "event": 0.07830131268055555
+        },
+        "by_type_pnl": {
+          "deadline": 0.5750000000000004,
+          "event": 0.427636517597999
+        },
+        "by_type_trades": {
+          "deadline": 1,
+          "event": 6
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 19,
+        "brier": 0.08886179679267983,
+        "pnl": -0.1,
+        "n_trades": 2,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.17971386781887752,
+          "field": 0.0062695209375,
+          "event": 0.10317726152777777
+        },
+        "by_type_pnl": {
+          "event": -0.1
+        },
+        "by_type_trades": {
+          "event": 2
+        },
+        "by_type_hits": {}
+      },
+      {
+        "seed": 20,
+        "brier": 0.0492004419737842,
+        "pnl": -0.15000000000000002,
+        "n_trades": 3,
+        "hits": 0,
+        "by_type_brier": {
+          "deadline": 0.13656561265306122,
+          "field": 0.00915255,
+          "event": 0.015717086375
+        },
+        "by_type_pnl": {
+          "deadline": -0.1,
+          "event": -0.05
+        },
+        "by_type_trades": {
+          "deadline": 2,
+          "event": 1
+        },
+        "by_type_hits": {}
+      },
+      {
+        "seed": 21,
+        "brier": 0.10367875187689969,
+        "pnl": 1.2213795339302154,
+        "n_trades": 13,
+        "hits": 8,
+        "by_type_brier": {
+          "deadline": 0.16566536255102043,
+          "field": 0.0032624353125000004,
+          "event": 0.16632416179166667
+        },
+        "by_type_pnl": {
+          "deadline": 0.5750000000000004,
+          "event": 0.646379533930215
+        },
+        "by_type_trades": {
+          "deadline": 1,
+          "event": 12
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "event": 7
+        }
+      },
+      {
+        "seed": 22,
+        "brier": 0.07931564755889058,
+        "pnl": 0.6457537560478741,
+        "n_trades": 10,
+        "hits": 4,
+        "by_type_brier": {
+          "deadline": 0.19033426698341835,
+          "field": 0.009100341562500001,
+          "event": 0.059956636625
+        },
+        "by_type_pnl": {
+          "deadline": 0.49967532467532505,
+          "event": 0.14607843137254903
+        },
+        "by_type_trades": {
+          "deadline": 9,
+          "event": 1
+        },
+        "by_type_hits": {
+          "deadline": 3,
+          "event": 1
+        }
+      },
+      {
+        "seed": 23,
+        "brier": 0.08887409866514691,
+        "pnl": 1.2531977157483971,
+        "n_trades": 16,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.1853655956377551,
+          "field": 0.0058806590625,
+          "event": 0.09840749568055555
+        },
+        "by_type_pnl": {
+          "deadline": 0.4568181818181822,
+          "event": 0.796379533930215
+        },
+        "by_type_trades": {
+          "deadline": 7,
+          "event": 9
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "event": 7
+        }
+      },
+      {
+        "seed": 24,
+        "brier": 0.0871352722410081,
+        "pnl": 0.7026365175979994,
+        "n_trades": 13,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.15649978445790816,
+          "field": 0.00346433625,
+          "event": 0.12280018402777777
+        },
+        "by_type_pnl": {
+          "deadline": 0.3750000000000004,
+          "event": 0.32763651759799894
+        },
+        "by_type_trades": {
+          "deadline": 5,
+          "event": 8
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 25,
+        "brier": 0.07197389125063323,
+        "pnl": 0.218743016332216,
+        "n_trades": 6,
+        "hits": 3,
+        "by_type_brier": {
+          "deadline": 0.14318574753188776,
+          "field": 0.0033961246875,
+          "event": 0.08780281193055556
+        },
+        "by_type_pnl": {
+          "deadline": -0.1,
+          "event": 0.31874301633221597
+        },
+        "by_type_trades": {
+          "deadline": 2,
+          "event": 4
+        },
+        "by_type_hits": {
+          "event": 3
+        }
+      },
+      {
+        "seed": 26,
+        "brier": 0.07448636989614994,
+        "pnl": 0.427636517597999,
+        "n_trades": 6,
+        "hits": 4,
+        "by_type_brier": {
+          "deadline": 0.16705208597576532,
+          "field": 0.0031952671875000002,
+          "event": 0.07364102480555555
+        },
+        "by_type_pnl": {
+          "event": 0.427636517597999
+        },
+        "by_type_trades": {
+          "event": 6
+        },
+        "by_type_hits": {
+          "event": 4
+        }
+      },
+      {
+        "seed": 27,
+        "brier": 0.05902272110942249,
+        "pnl": -0.00392156862745098,
+        "n_trades": 4,
+        "hits": 1,
+        "by_type_brier": {
+          "deadline": 0.13112059176020407,
+          "field": 0.005969235937500001,
+          "event": 0.055395557375
+        },
+        "by_type_pnl": {
+          "deadline": -0.1,
+          "event": 0.09607843137254903
+        },
+        "by_type_trades": {
+          "deadline": 2,
+          "event": 2
+        },
+        "by_type_hits": {
+          "event": 1
+        }
+      },
+      {
+        "seed": 28,
+        "brier": 0.0656720406762918,
+        "pnl": 0.7210784313725495,
+        "n_trades": 2,
+        "hits": 2,
+        "by_type_brier": {
+          "deadline": 0.14641100477040817,
+          "field": 0.0033108215625000004,
+          "event": 0.065149137125
+        },
+        "by_type_pnl": {
+          "deadline": 0.5750000000000004,
+          "event": 0.14607843137254903
+        },
+        "by_type_trades": {
+          "deadline": 1,
+          "event": 1
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "event": 1
+        }
+      },
+      {
+        "seed": 29,
+        "brier": 0.08928873437563323,
+        "pnl": 0.546379533930215,
+        "n_trades": 14,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.1768663086479592,
+          "field": 0.00583444125,
+          "event": 0.10769481680555555
+        },
+        "by_type_pnl": {
+          "deadline": -0.30000000000000004,
+          "event": 0.8463795339302149
+        },
+        "by_type_trades": {
+          "deadline": 6,
+          "event": 8
+        },
+        "by_type_hits": {
+          "event": 7
+        }
+      }
+    ],
+    "v2_shrink_15": [
+      {
+        "seed": 0,
+        "brier": 0.09633296301671733,
+        "pnl": 0.8666991686334113,
+        "n_trades": 19,
+        "hits": 12,
+        "by_type_brier": {
+          "deadline": 0.20292335887755103,
+          "field": 0.005379707404513889,
+          "event": 0.10599250028125001
+        },
+        "by_type_pnl": {
+          "deadline": 0.02031963470319635,
+          "field": 0.1,
+          "event": 0.746379533930215
+        },
+        "by_type_trades": {
+          "deadline": 5,
+          "field": 2,
+          "event": 12
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 1,
+        "brier": 0.09067211962291033,
+        "pnl": 1.4031977157483972,
+        "n_trades": 19,
+        "hits": 12,
+        "by_type_brier": {
+          "deadline": 0.1329921844260204,
+          "field": 0.005317482092013889,
+          "event": 0.15359895751041666
+        },
+        "by_type_pnl": {
+          "deadline": 0.5568181818181822,
+          "field": 0.1,
+          "event": 0.746379533930215
+        },
+        "by_type_trades": {
+          "deadline": 5,
+          "field": 2,
+          "event": 12
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 2,
+        "brier": 0.06074207145611703,
+        "pnl": -0.16666666666666669,
+        "n_trades": 10,
+        "hits": 3,
+        "by_type_brier": {
+          "deadline": 0.127361692578125,
+          "field": 0.005295388142361111,
+          "event": 0.06509977838541667
+        },
+        "by_type_pnl": {
+          "deadline": -0.11666666666666667,
+          "field": 0.1,
+          "event": -0.15000000000000002
+        },
+        "by_type_trades": {
+          "deadline": 5,
+          "field": 2,
+          "event": 3
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "field": 2
+        }
+      },
+      {
+        "seed": 3,
+        "brier": 0.0752514524662804,
+        "pnl": 0.6160277321253951,
+        "n_trades": 20,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.17391251473054847,
+          "field": 0.010497631484374999,
+          "event": 0.06087237953125
+        },
+        "by_type_pnl": {
+          "deadline": 0.6160277321253951,
+          "field": 0.2,
+          "event": -0.2
+        },
+        "by_type_trades": {
+          "deadline": 12,
+          "field": 4,
+          "event": 4
+        },
+        "by_type_hits": {
+          "deadline": 5,
+          "field": 4
+        }
+      },
+      {
+        "seed": 4,
+        "brier": 0.09307345353628418,
+        "pnl": 0.9936642497233941,
+        "n_trades": 25,
+        "hits": 12,
+        "by_type_brier": {
+          "deadline": 0.1755318941820791,
+          "field": 0.008027965928819443,
+          "event": 0.11816682739583333
+        },
+        "by_type_pnl": {
+          "deadline": 0.566027732125395,
+          "field": 0.15000000000000002,
+          "event": 0.27763651759799896
+        },
+        "by_type_trades": {
+          "deadline": 13,
+          "field": 3,
+          "event": 9
+        },
+        "by_type_hits": {
+          "deadline": 5,
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 5,
+        "brier": 0.08969000179853723,
+        "pnl": 0.7492995986028996,
+        "n_trades": 24,
+        "hits": 11,
+        "by_type_brier": {
+          "deadline": 0.21643909004464287,
+          "field": 0.007885194409722221,
+          "event": 0.06955662163541666
+        },
+        "by_type_pnl": {
+          "deadline": 0.4305565822706836,
+          "field": 0.15000000000000002,
+          "event": 0.16874301633221597
+        },
+        "by_type_trades": {
+          "deadline": 12,
+          "field": 3,
+          "event": 9
+        },
+        "by_type_hits": {
+          "deadline": 4,
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 6,
+        "brier": 0.09565237414276215,
+        "pnl": 0.7632232328045343,
+        "n_trades": 28,
+        "hits": 15,
+        "by_type_brier": {
+          "deadline": 0.1758001128140944,
+          "field": 0.010214042708333333,
+          "event": 0.12337381577083333
+        },
+        "by_type_pnl": {
+          "deadline": -0.2831563011256807,
+          "field": 0.2,
+          "event": 0.8463795339302149
+        },
+        "by_type_trades": {
+          "deadline": 14,
+          "field": 4,
+          "event": 10
+        },
+        "by_type_hits": {
+          "deadline": 3,
+          "field": 4,
+          "event": 8
+        }
+      },
+      {
+        "seed": 7,
+        "brier": 0.11052189106145517,
+        "pnl": 0.17623693143467123,
+        "n_trades": 33,
+        "hits": 12,
+        "by_type_brier": {
+          "deadline": 0.18490510879783165,
+          "field": 0.0054274425781249995,
+          "event": 0.16721089268749997
+        },
+        "by_type_pnl": {
+          "deadline": -0.3701426024955437,
+          "field": 0.1,
+          "event": 0.44637953393021496
+        },
+        "by_type_trades": {
+          "deadline": 13,
+          "field": 2,
+          "event": 18
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 8,
+        "brier": 0.09598074672112462,
+        "pnl": 1.4587542980190804,
+        "n_trades": 26,
+        "hits": 15,
+        "by_type_brier": {
+          "deadline": 0.2126137211575255,
+          "field": 0.005579393359375,
+          "event": 0.09560492794791667
+        },
+        "by_type_pnl": {
+          "deadline": 0.6623747640888654,
+          "field": 0.1,
+          "event": 0.696379533930215
+        },
+        "by_type_trades": {
+          "deadline": 11,
+          "field": 2,
+          "event": 13
+        },
+        "by_type_hits": {
+          "deadline": 5,
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 9,
+        "brier": 0.09689051924297112,
+        "pnl": 0.15749391510245525,
+        "n_trades": 23,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.1836548050924745,
+          "field": 0.008052192256944445,
+          "event": 0.1225165115
+        },
+        "by_type_pnl": {
+          "deadline": -0.2701426024955437,
+          "field": 0.15000000000000002,
+          "event": 0.27763651759799896
+        },
+        "by_type_trades": {
+          "deadline": 11,
+          "field": 3,
+          "event": 9
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 10,
+        "brier": 0.06537026135210866,
+        "pnl": 0.883365835300078,
+        "n_trades": 14,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.13057892200573978,
+          "field": 0.005411030789930555,
+          "event": 0.07645992141666666
+        },
+        "by_type_pnl": {
+          "deadline": -0.06301369863013699,
+          "field": 0.1,
+          "event": 0.8463795339302149
+        },
+        "by_type_trades": {
+          "deadline": 4,
+          "field": 2,
+          "event": 8
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "field": 2,
+          "event": 7
+        }
+      },
+      {
+        "seed": 11,
+        "brier": 0.06832650449135638,
+        "pnl": 1.5213795339302154,
+        "n_trades": 9,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.16007240901785713,
+          "field": 0.0030934916232638887,
+          "event": 0.06097660904166667
+        },
+        "by_type_pnl": {
+          "deadline": 0.5750000000000004,
+          "field": 0.05,
+          "event": 0.896379533930215
+        },
+        "by_type_trades": {
+          "deadline": 1,
+          "field": 1,
+          "event": 7
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "field": 1,
+          "event": 7
+        }
+      },
+      {
+        "seed": 12,
+        "brier": 0.055658427692819146,
+        "pnl": 0.4005611981503978,
+        "n_trades": 8,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.12990135753348214,
+          "field": 0.003110151770833333,
+          "event": 0.04942295761458334
+        },
+        "by_type_pnl": {
+          "deadline": 0.0318181818181818,
+          "field": 0.05,
+          "event": 0.31874301633221597
+        },
+        "by_type_trades": {
+          "deadline": 3,
+          "field": 1,
+          "event": 4
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "field": 1,
+          "event": 3
+        }
+      },
+      {
+        "seed": 13,
+        "brier": 0.07822710575512919,
+        "pnl": 1.2900112816868643,
+        "n_trades": 17,
+        "hits": 11,
+        "by_type_brier": {
+          "deadline": 0.19382934768016583,
+          "field": 0.005168887925347222,
+          "event": 0.058001541354166665
+        },
+        "by_type_pnl": {
+          "deadline": 0.7123747640888654,
+          "field": 0.1,
+          "event": 0.47763651759799897
+        },
+        "by_type_trades": {
+          "deadline": 10,
+          "field": 2,
+          "event": 5
+        },
+        "by_type_hits": {
+          "deadline": 5,
+          "field": 2,
+          "event": 4
+        }
+      },
+      {
+        "seed": 14,
+        "brier": 0.08260919789751141,
+        "pnl": 1.1288269937884756,
+        "n_trades": 14,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.16218667010682397,
+          "field": 0.005758099218749999,
+          "event": 0.10055820891666666
+        },
+        "by_type_pnl": {
+          "deadline": 0.6011904761904766,
+          "field": 0.1,
+          "event": 0.427636517597999
+        },
+        "by_type_trades": {
+          "deadline": 6,
+          "field": 2,
+          "event": 6
+        },
+        "by_type_hits": {
+          "deadline": 3,
+          "field": 2,
+          "event": 4
+        }
+      },
+      {
+        "seed": 15,
+        "brier": 0.12174721245440728,
+        "pnl": 1.3567935137053548,
+        "n_trades": 26,
+        "hits": 14,
+        "by_type_brier": {
+          "deadline": 0.24830467106345666,
+          "field": 0.0005009358420138888,
+          "event": 0.1491224496875
+        },
+        "by_type_pnl": {
+          "deadline": 0.6104139797751399,
+          "event": 0.746379533930215
+        },
+        "by_type_trades": {
+          "deadline": 14,
+          "event": 12
+        },
+        "by_type_hits": {
+          "deadline": 6,
+          "event": 8
+        }
+      },
+      {
+        "seed": 16,
+        "brier": 0.06833984929236323,
+        "pnl": 1.2844546994161812,
+        "n_trades": 11,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.14094886022480868,
+          "field": 0.008116133506944444,
+          "event": 0.07283989803124999
+        },
+        "by_type_pnl": {
+          "deadline": 0.6068181818181821,
+          "field": 0.15000000000000002,
+          "event": 0.527636517597999
+        },
+        "by_type_trades": {
+          "deadline": 4,
+          "field": 3,
+          "event": 4
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 17,
+        "brier": 0.08920723827745061,
+        "pnl": 1.2936027828675651,
+        "n_trades": 19,
+        "hits": 11,
+        "by_type_brier": {
+          "deadline": 0.18176784133769133,
+          "field": 0.00041536725694444444,
+          "event": 0.1093675873125
+        },
+        "by_type_pnl": {
+          "deadline": 0.49722324893735026,
+          "event": 0.796379533930215
+        },
+        "by_type_trades": {
+          "deadline": 8,
+          "event": 11
+        },
+        "by_type_hits": {
+          "deadline": 3,
+          "event": 8
+        }
+      },
+      {
+        "seed": 18,
+        "brier": 0.06662102157769757,
+        "pnl": 0.9526365175979994,
+        "n_trades": 10,
+        "hits": 6,
+        "by_type_brier": {
+          "deadline": 0.13609288310905612,
+          "field": 0.0031112279947916664,
+          "event": 0.07799236978125
+        },
+        "by_type_pnl": {
+          "deadline": 0.5750000000000004,
+          "field": 0.05,
+          "event": 0.32763651759799894
+        },
+        "by_type_trades": {
+          "deadline": 1,
+          "field": 1,
+          "event": 8
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 19,
+        "brier": 0.08937132213383357,
+        "pnl": 0.06515151515151514,
+        "n_trades": 9,
+        "hits": 4,
+        "by_type_brier": {
+          "deadline": 0.17928300782206633,
+          "field": 0.005592257873263888,
+          "event": 0.1059886259375
+        },
+        "by_type_pnl": {
+          "deadline": 0.16515151515151516,
+          "field": 0.1,
+          "event": -0.2
+        },
+        "by_type_trades": {
+          "deadline": 3,
+          "field": 2,
+          "event": 4
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "field": 2
+        }
+      },
+      {
+        "seed": 20,
+        "brier": 0.04983355133691109,
+        "pnl": 0.0318181818181818,
+        "n_trades": 9,
+        "hits": 4,
+        "by_type_brier": {
+          "deadline": 0.13810898153061224,
+          "field": 0.008163848611111111,
+          "event": 0.017446793093750003
+        },
+        "by_type_pnl": {
+          "deadline": 0.0318181818181818,
+          "field": 0.15000000000000002,
+          "event": -0.15000000000000002
+        },
+        "by_type_trades": {
+          "deadline": 3,
+          "field": 3,
+          "event": 3
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "field": 3
+        }
+      },
+      {
+        "seed": 21,
+        "brier": 0.10338234696618541,
+        "pnl": 1.0713795339302155,
+        "n_trades": 20,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.1647333994132653,
+          "field": 0.0029100117447916664,
+          "event": 0.16668816694791666
+        },
+        "by_type_pnl": {
+          "deadline": 0.5750000000000004,
+          "field": 0.05,
+          "event": 0.44637953393021496
+        },
+        "by_type_trades": {
+          "deadline": 1,
+          "field": 1,
+          "event": 18
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "field": 1,
+          "event": 8
+        }
+      },
+      {
+        "seed": 22,
+        "brier": 0.07943747856905395,
+        "pnl": 0.9791569961073558,
+        "n_trades": 23,
+        "hits": 12,
+        "by_type_brier": {
+          "deadline": 0.1930231177407526,
+          "field": 0.008117279973958332,
+          "event": 0.05900845365625
+        },
+        "by_type_pnl": {
+          "deadline": 0.5104139797751399,
+          "field": 0.15000000000000002,
+          "event": 0.31874301633221597
+        },
+        "by_type_trades": {
+          "deadline": 16,
+          "field": 3,
+          "event": 4
+        },
+        "by_type_hits": {
+          "deadline": 6,
+          "field": 3,
+          "event": 3
+        }
+      },
+      {
+        "seed": 23,
+        "brier": 0.08795700459536474,
+        "pnl": 1.275420964685747,
+        "n_trades": 27,
+        "hits": 14,
+        "by_type_brier": {
+          "deadline": 0.18563347819515305,
+          "field": 0.0052454026822916664,
+          "event": 0.09604621819791667
+        },
+        "by_type_pnl": {
+          "deadline": 0.47904143075553207,
+          "field": 0.1,
+          "event": 0.696379533930215
+        },
+        "by_type_trades": {
+          "deadline": 12,
+          "field": 2,
+          "event": 13
+        },
+        "by_type_hits": {
+          "deadline": 4,
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 24,
+        "brier": 0.0869828167405965,
+        "pnl": 0.9606451756066574,
+        "n_trades": 19,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.1561955103746811,
+          "field": 0.003090102395833333,
+          "event": 0.12305555989583333
+        },
+        "by_type_pnl": {
+          "deadline": 0.6330086580086585,
+          "field": 0.05,
+          "event": 0.27763651759799896
+        },
+        "by_type_trades": {
+          "deadline": 9,
+          "field": 1,
+          "event": 9
+        },
+        "by_type_hits": {
+          "deadline": 4,
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 25,
+        "brier": 0.07212178815966945,
+        "pnl": 0.33906265103541233,
+        "n_trades": 13,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.1444336779288903,
+          "field": 0.0030292593663194443,
+          "event": 0.08754172559375001
+        },
+        "by_type_pnl": {
+          "deadline": 0.02031963470319635,
+          "field": 0.05,
+          "event": 0.268743016332216
+        },
+        "by_type_trades": {
+          "deadline": 5,
+          "field": 1,
+          "event": 7
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 26,
+        "brier": 0.07433165787424012,
+        "pnl": 0.4964410007860438,
+        "n_trades": 13,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.16722695039700256,
+          "field": 0.0028500994357638886,
+          "event": 0.07340725497916667
+        },
+        "by_type_pnl": {
+          "deadline": 0.1688044831880448,
+          "field": 0.05,
+          "event": 0.27763651759799896
+        },
+        "by_type_trades": {
+          "deadline": 3,
+          "field": 1,
+          "event": 9
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 27,
+        "brier": 0.05902048511018237,
+        "pnl": 0.4390626510354123,
+        "n_trades": 11,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.1327596970216837,
+          "field": 0.005324411067708333,
+          "event": 0.05463250951041666
+        },
+        "by_type_pnl": {
+          "deadline": 0.02031963470319635,
+          "field": 0.1,
+          "event": 0.31874301633221597
+        },
+        "by_type_trades": {
+          "deadline": 5,
+          "field": 2,
+          "event": 4
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "field": 2,
+          "event": 3
+        }
+      },
+      {
+        "seed": 28,
+        "brier": 0.0648453253362462,
+        "pnl": 0.9255611981503982,
+        "n_trades": 10,
+        "hits": 6,
+        "by_type_brier": {
+          "deadline": 0.1454249528252551,
+          "field": 0.002953171085069444,
+          "event": 0.06390825811458332
+        },
+        "by_type_pnl": {
+          "deadline": 0.5568181818181822,
+          "field": 0.05,
+          "event": 0.31874301633221597
+        },
+        "by_type_trades": {
+          "deadline": 5,
+          "field": 1,
+          "event": 4
+        },
+        "by_type_hits": {
+          "deadline": 2,
+          "field": 1,
+          "event": 3
+        }
+      },
+      {
+        "seed": 29,
+        "brier": 0.08968445663848784,
+        "pnl": 0.38336583530007795,
+        "n_trades": 26,
+        "hits": 11,
+        "by_type_brier": {
+          "deadline": 0.18172234012117347,
+          "field": 0.005204177534722221,
+          "event": 0.10515876697916667
+        },
+        "by_type_pnl": {
+          "deadline": -0.463013698630137,
+          "field": 0.1,
+          "event": 0.746379533930215
+        },
+        "by_type_trades": {
+          "deadline": 12,
+          "field": 2,
+          "event": 12
+        },
+        "by_type_hits": {
+          "deadline": 1,
+          "field": 2,
+          "event": 8
+        }
+      }
+    ],
+    "v6_shrink_typed": [
+      {
+        "seed": 0,
+        "brier": 0.09412525751329787,
+        "pnl": 0.796379533930215,
+        "n_trades": 15,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.200294,
+          "field": 0.003648521284722222,
+          "event": 0.10360651466666666
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.696379533930215
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 13
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 1,
+        "brier": 0.08985629405585108,
+        "pnl": 0.7979033817176224,
+        "n_trades": 18,
+        "hits": 12,
+        "by_type_brier": {
+          "deadline": 0.13450117857142857,
+          "field": 0.003606320034722222,
+          "event": 0.151687704
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.6979033817176225
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 16
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 10
+        }
+      },
+      {
+        "seed": 2,
+        "brier": 0.05919276915780142,
+        "pnl": -0.05,
+        "n_trades": 5,
+        "hits": 2,
+        "by_type_brier": {
+          "deadline": 0.12245488839285713,
+          "field": 0.003591335902777777,
+          "event": 0.06686984444444444
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": -0.15000000000000002
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 3
+        },
+        "by_type_hits": {
+          "field": 2
+        }
+      },
+      {
+        "seed": 3,
+        "brier": 0.07431694353280141,
+        "pnl": -0.05,
+        "n_trades": 9,
+        "hits": 4,
+        "by_type_brier": {
+          "deadline": 0.17302586160714287,
+          "field": 0.0071195009374999995,
+          "event": 0.06282555111111111
+        },
+        "by_type_pnl": {
+          "field": 0.2,
+          "event": -0.25
+        },
+        "by_type_trades": {
+          "field": 4,
+          "event": 5
+        },
+        "by_type_hits": {
+          "field": 4
+        }
+      },
+      {
+        "seed": 4,
+        "brier": 0.09228802821365248,
+        "pnl": 0.32763651759799894,
+        "n_trades": 14,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.17512811160714284,
+          "field": 0.005444572048611111,
+          "event": 0.11918276444444445
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.17763651759799898
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 11
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 5,
+        "brier": 0.08678722058510638,
+        "pnl": 0.268743016332216,
+        "n_trades": 13,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.20947773214285714,
+          "field": 0.005347744305555555,
+          "event": 0.070003448
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.11874301633221597
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 10
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 6,
+        "brier": 0.08971622629432624,
+        "pnl": 1.0463795339302149,
+        "n_trades": 14,
+        "hits": 12,
+        "by_type_brier": {
+          "deadline": 0.16321365624999998,
+          "field": 0.006927170833333333,
+          "event": 0.12046549155555554
+        },
+        "by_type_pnl": {
+          "field": 0.2,
+          "event": 0.8463795339302149
+        },
+        "by_type_trades": {
+          "field": 4,
+          "event": 10
+        },
+        "by_type_hits": {
+          "field": 4,
+          "event": 8
+        }
+      },
+      {
+        "seed": 7,
+        "brier": 0.10674943660904254,
+        "pnl": 0.546379533930215,
+        "n_trades": 20,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.17350315178571427,
+          "field": 0.0036808953124999994,
+          "event": 0.16812821866666666
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.44637953393021496
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 18
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 8,
+        "brier": 0.09604890589095744,
+        "pnl": 0.746379533930215,
+        "n_trades": 16,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.21727754464285715,
+          "field": 0.0037839484375,
+          "event": 0.09362012533333332
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.646379533930215
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 14
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 9,
+        "brier": 0.09228621682624112,
+        "pnl": 0.37916036538540643,
+        "n_trades": 16,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.17087766964285714,
+          "field": 0.00546100236111111,
+          "event": 0.12312445155555556
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.2291603653854064
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 13
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 6
+        }
+      },
+      {
+        "seed": 10,
+        "brier": 0.06251813408244682,
+        "pnl": 0.946379533930215,
+        "n_trades": 12,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.12593631249999998,
+          "field": 0.0036697648263888886,
+          "event": 0.07394587733333334
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.8463795339302149
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 10
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 11,
+        "brier": 0.06886132894060283,
+        "pnl": 0.946379533930215,
+        "n_trades": 8,
+        "hits": 8,
+        "by_type_brier": {
+          "deadline": 0.16574746428571427,
+          "field": 0.0020980081597222217,
+          "event": 0.05855025422222223
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.896379533930215
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 7
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 7
+        }
+      },
+      {
+        "seed": 12,
+        "brier": 0.055155401595744676,
+        "pnl": 0.36874301633221596,
+        "n_trades": 7,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.12977551339285714,
+          "field": 0.002109307083333333,
+          "event": 0.04916527733333333
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.31874301633221597
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 6
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 13,
+        "brier": 0.07750983868351065,
+        "pnl": 0.527636517597999,
+        "n_trades": 8,
+        "hits": 6,
+        "by_type_brier": {
+          "deadline": 0.19456810267857144,
+          "field": 0.003505543368055555,
+          "event": 0.057060613333333336
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.427636517597999
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 6
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 4
+        }
+      },
+      {
+        "seed": 14,
+        "brier": 0.0821790592109929,
+        "pnl": 0.527636517597999,
+        "n_trades": 8,
+        "hits": 6,
+        "by_type_brier": {
+          "deadline": 0.1640523080357143,
+          "field": 0.0039051468749999995,
+          "event": 0.09969272177777776
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.427636517597999
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 6
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 4
+        }
+      },
+      {
+        "seed": 15,
+        "brier": 0.12133945907358157,
+        "pnl": 0.646379533930215,
+        "n_trades": 14,
+        "hits": 8,
+        "by_type_brier": {
+          "deadline": 0.24874605803571428,
+          "field": 0.0003397350347222222,
+          "event": 0.14762630222222223
+        },
+        "by_type_pnl": {
+          "event": 0.646379533930215
+        },
+        "by_type_trades": {
+          "event": 14
+        },
+        "by_type_hits": {
+          "event": 8
+        }
+      },
+      {
+        "seed": 16,
+        "brier": 0.06741987787234043,
+        "pnl": 0.627636517597999,
+        "n_trades": 8,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.14278826339285713,
+          "field": 0.00550436736111111,
+          "event": 0.071374664
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.47763651759799897
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 5
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 17,
+        "brier": 0.08739615372340424,
+        "pnl": 0.796379533930215,
+        "n_trades": 11,
+        "hits": 8,
+        "by_type_brier": {
+          "deadline": 0.17840879017857142,
+          "field": 0.0002817023611111111,
+          "event": 0.10698836799999999
+        },
+        "by_type_pnl": {
+          "event": 0.796379533930215
+        },
+        "by_type_trades": {
+          "event": 11
+        },
+        "by_type_hits": {
+          "event": 8
+        }
+      },
+      {
+        "seed": 18,
+        "brier": 0.06652095242464538,
+        "pnl": 0.32763651759799894,
+        "n_trades": 10,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.1370753660714286,
+          "field": 0.002110036979166666,
+          "event": 0.07796326488888888
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.27763651759799896
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 9
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 19,
+        "brier": 0.0902020615292553,
+        "pnl": -0.14847615221259255,
+        "n_trades": 10,
+        "hits": 4,
+        "by_type_brier": {
+          "deadline": 0.18120545535714286,
+          "field": 0.003792673159722222,
+          "event": 0.10895682666666667
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": -0.24847615221259256
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 8
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 2
+        }
+      },
+      {
+        "seed": 20,
+        "brier": 0.048301498297872336,
+        "pnl": 0.0,
+        "n_trades": 6,
+        "hits": 3,
+        "by_type_brier": {
+          "deadline": 0.134258,
+          "field": 0.005536727777777777,
+          "event": 0.019393154666666666
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": -0.15000000000000002
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 3
+        },
+        "by_type_hits": {
+          "field": 3
+        }
+      },
+      {
+        "seed": 21,
+        "brier": 0.10440129820478723,
+        "pnl": 0.49637953393021494,
+        "n_trades": 19,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.16831135714285714,
+          "field": 0.0019735719791666665,
+          "event": 0.16766518133333333
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.44637953393021496
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 18
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 8
+        }
+      },
+      {
+        "seed": 22,
+        "brier": 0.07632187299202128,
+        "pnl": 0.518743016332216,
+        "n_trades": 8,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.18667807589285715,
+          "field": 0.005505144895833332,
+          "event": 0.058302823999999996
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.36874301633221596
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 5
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 23,
+        "brier": 0.08679133715868793,
+        "pnl": 0.746379533930215,
+        "n_trades": 16,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.186002625,
+          "field": 0.003557435729166666,
+          "event": 0.09407481688888888
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.646379533930215
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 14
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 24,
+        "brier": 0.08737038124113475,
+        "pnl": 0.2791603653854064,
+        "n_trades": 14,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.15814870089285712,
+          "field": 0.002095709583333333,
+          "event": 0.12364022222222222
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.2291603653854064
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 13
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 6
+        }
+      },
+      {
+        "seed": 25,
+        "brier": 0.07084212550088652,
+        "pnl": 0.31874301633221597,
+        "n_trades": 8,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.14144347767857143,
+          "field": 0.002054445798611111,
+          "event": 0.08749274577777776
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.268743016332216
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 7
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 26,
+        "brier": 0.07404363674202127,
+        "pnl": 0.27763651759799896,
+        "n_trades": 11,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.1673667098214286,
+          "field": 0.001932939409722222,
+          "event": 0.07347493866666666
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.22763651759799897
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 10
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 27,
+        "brier": 0.05698982503989361,
+        "pnl": 0.418743016332216,
+        "n_trades": 8,
+        "hits": 6,
+        "by_type_brier": {
+          "deadline": 0.12869448214285714,
+          "field": 0.003611019270833333,
+          "event": 0.05412004533333334
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.31874301633221597
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 6
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 4
+        }
+      },
+      {
+        "seed": 28,
+        "brier": 0.06539516719414894,
+        "pnl": 0.418743016332216,
+        "n_trades": 6,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.14956180357142856,
+          "field": 0.002002842673611111,
+          "event": 0.06291042933333334
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.36874301633221596
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 5
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 29,
+        "brier": 0.08436950281914893,
+        "pnl": 0.796379533930215,
+        "n_trades": 15,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.1683749464285714,
+          "field": 0.0035294768055555547,
+          "event": 0.10297245333333332
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.696379533930215
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 13
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      }
+    ],
+    "v7_shrink_typed_v2": [
+      {
+        "seed": 0,
+        "brier": 0.09531448902593084,
+        "pnl": 0.8463795339302149,
+        "n_trades": 14,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.200294,
+          "field": 0.004765415555555557,
+          "event": 0.10599250028125001
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.746379533930215
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 12
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 1,
+        "brier": 0.09088906771609043,
+        "pnl": 0.8463795339302149,
+        "n_trades": 14,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.13450117857142857,
+          "field": 0.004710295555555556,
+          "event": 0.15359895751041666
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.746379533930215
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 12
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 2,
+        "brier": 0.05904889687832447,
+        "pnl": -0.05,
+        "n_trades": 5,
+        "hits": 2,
+        "by_type_brier": {
+          "deadline": 0.12245488839285713,
+          "field": 0.004690724444444445,
+          "event": 0.06509977838541667
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": -0.15000000000000002
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 3
+        },
+        "by_type_hits": {
+          "field": 2
+        }
+      },
+      {
+        "seed": 3,
+        "brier": 0.07452826969082446,
+        "pnl": 0.0,
+        "n_trades": 8,
+        "hits": 4,
+        "by_type_brier": {
+          "deadline": 0.17302586160714287,
+          "field": 0.009298940000000002,
+          "event": 0.06087237953125
+        },
+        "by_type_pnl": {
+          "field": 0.2,
+          "event": -0.2
+        },
+        "by_type_trades": {
+          "field": 4,
+          "event": 4
+        },
+        "by_type_hits": {
+          "field": 4
+        }
+      },
+      {
+        "seed": 4,
+        "brier": 0.09260210581781915,
+        "pnl": 0.427636517597999,
+        "n_trades": 12,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.17512811160714284,
+          "field": 0.00711127777777778,
+          "event": 0.11816682739583333
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.27763651759799896
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 9
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 5,
+        "brier": 0.08727157733045214,
+        "pnl": 0.31874301633221597,
+        "n_trades": 12,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.20947773214285714,
+          "field": 0.00698480888888889,
+          "event": 0.06955662163541666
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.16874301633221597
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 9
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 6,
+        "brier": 0.09145654519281915,
+        "pnl": 1.0463795339302149,
+        "n_trades": 14,
+        "hits": 12,
+        "by_type_brier": {
+          "deadline": 0.16321365624999998,
+          "field": 0.009047733333333335,
+          "event": 0.12337381577083333
+        },
+        "by_type_pnl": {
+          "field": 0.2,
+          "event": 0.8463795339302149
+        },
+        "by_type_trades": {
+          "field": 4,
+          "event": 10
+        },
+        "by_type_hits": {
+          "field": 4,
+          "event": 8
+        }
+      },
+      {
+        "seed": 7,
+        "brier": 0.1068882152194149,
+        "pnl": 0.546379533930215,
+        "n_trades": 20,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.17350315178571427,
+          "field": 0.0048077000000000016,
+          "event": 0.16721089268749997
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.44637953393021496
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 18
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 8,
+        "brier": 0.09712597753656915,
+        "pnl": 0.796379533930215,
+        "n_trades": 15,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.21727754464285715,
+          "field": 0.004942300000000001,
+          "event": 0.09560492794791667
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.696379533930215
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 13
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 9,
+        "brier": 0.0927324325,
+        "pnl": 0.427636517597999,
+        "n_trades": 12,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.17087766964285714,
+          "field": 0.007132737777777779,
+          "event": 0.1225165115
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.27763651759799896
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 9
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 10,
+        "brier": 0.06375072587765958,
+        "pnl": 0.946379533930215,
+        "n_trades": 10,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.12593631249999998,
+          "field": 0.004793162222222223,
+          "event": 0.07645992141666666
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.8463795339302149
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 8
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 7
+        }
+      },
+      {
+        "seed": 11,
+        "brier": 0.06988166458776596,
+        "pnl": 0.946379533930215,
+        "n_trades": 8,
+        "hits": 8,
+        "by_type_brier": {
+          "deadline": 0.16574746428571427,
+          "field": 0.002740255555555556,
+          "event": 0.06097660904166667
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.896379533930215
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 7
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 7
+        }
+      },
+      {
+        "seed": 12,
+        "brier": 0.055484931738696806,
+        "pnl": 0.36874301633221596,
+        "n_trades": 5,
+        "hits": 4,
+        "by_type_brier": {
+          "deadline": 0.12977551339285714,
+          "field": 0.0027550133333333338,
+          "event": 0.04942295761458334
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.31874301633221597
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 4
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 3
+        }
+      },
+      {
+        "seed": 13,
+        "brier": 0.07822111910239361,
+        "pnl": 0.5776365175979989,
+        "n_trades": 7,
+        "hits": 6,
+        "by_type_brier": {
+          "deadline": 0.19456810267857144,
+          "field": 0.00457866888888889,
+          "event": 0.058001541354166665
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.47763651759799897
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 5
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 4
+        }
+      },
+      {
+        "seed": 14,
+        "brier": 0.08291311162234043,
+        "pnl": 0.527636517597999,
+        "n_trades": 8,
+        "hits": 6,
+        "by_type_brier": {
+          "deadline": 0.1640523080357143,
+          "field": 0.0051006,
+          "event": 0.10055820891666666
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.427636517597999
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 6
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 4
+        }
+      },
+      {
+        "seed": 15,
+        "brier": 0.12185678293218086,
+        "pnl": 0.746379533930215,
+        "n_trades": 12,
+        "hits": 8,
+        "by_type_brier": {
+          "deadline": 0.24874605803571428,
+          "field": 0.0004437355555555556,
+          "event": 0.1491224496875
+        },
+        "by_type_pnl": {
+          "event": 0.746379533930215
+        },
+        "by_type_trades": {
+          "event": 12
+        },
+        "by_type_hits": {
+          "event": 8
+        }
+      },
+      {
+        "seed": 16,
+        "brier": 0.06853282889295212,
+        "pnl": 0.677636517597999,
+        "n_trades": 7,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.14278826339285713,
+          "field": 0.007189377777777779,
+          "event": 0.07283989803124999
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.527636517597999
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 4
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 17,
+        "brier": 0.08818850536569149,
+        "pnl": 0.796379533930215,
+        "n_trades": 11,
+        "hits": 8,
+        "by_type_brier": {
+          "deadline": 0.17840879017857142,
+          "field": 0.00036793777777777777,
+          "event": 0.1093675873125
+        },
+        "by_type_pnl": {
+          "event": 0.796379533930215
+        },
+        "by_type_trades": {
+          "event": 11
+        },
+        "by_type_hits": {
+          "event": 8
+        }
+      },
+      {
+        "seed": 18,
+        "brier": 0.06677761854720746,
+        "pnl": 0.377636517597999,
+        "n_trades": 9,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.1370753660714286,
+          "field": 0.002755966666666667,
+          "event": 0.07799236978125
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.32763651759799894
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 8
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 19,
+        "brier": 0.08969941029920213,
+        "pnl": -0.1,
+        "n_trades": 6,
+        "hits": 2,
+        "by_type_brier": {
+          "deadline": 0.18120545535714286,
+          "field": 0.004953695555555557,
+          "event": 0.1059886259375
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": -0.2
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 4
+        },
+        "by_type_hits": {
+          "field": 2
+        }
+      },
+      {
+        "seed": 20,
+        "brier": 0.04832943609375,
+        "pnl": 0.0,
+        "n_trades": 6,
+        "hits": 3,
+        "by_type_brier": {
+          "deadline": 0.134258,
+          "field": 0.007231644444444445,
+          "event": 0.017446793093750003
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": -0.15000000000000002
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 3
+        },
+        "by_type_hits": {
+          "field": 3
+        }
+      },
+      {
+        "seed": 21,
+        "brier": 0.10432086349401595,
+        "pnl": 0.49637953393021494,
+        "n_trades": 19,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.16831135714285714,
+          "field": 0.002577726666666667,
+          "event": 0.16668816694791666
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.44637953393021496
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 18
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 8
+        }
+      },
+      {
+        "seed": 22,
+        "brier": 0.07719248824135638,
+        "pnl": 0.468743016332216,
+        "n_trades": 7,
+        "hits": 6,
+        "by_type_brier": {
+          "deadline": 0.18667807589285715,
+          "field": 0.007190393333333335,
+          "event": 0.05900845365625
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.31874301633221597
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 4
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 3
+        }
+      },
+      {
+        "seed": 23,
+        "brier": 0.08783757580784575,
+        "pnl": 0.796379533930215,
+        "n_trades": 15,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.186002625,
+          "field": 0.004646446666666668,
+          "event": 0.09604621819791667
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.696379533930215
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 13
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 24,
+        "brier": 0.08742948448803191,
+        "pnl": 0.32763651759799894,
+        "n_trades": 10,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.15814870089285712,
+          "field": 0.002737253333333334,
+          "event": 0.12305555989583333
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.27763651759799896
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 9
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 25,
+        "brier": 0.07109861726396276,
+        "pnl": 0.31874301633221597,
+        "n_trades": 8,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.14144347767857143,
+          "field": 0.0026833577777777783,
+          "event": 0.08754172559375001
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.268743016332216
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 7
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 26,
+        "brier": 0.0742486502593085,
+        "pnl": 0.32763651759799894,
+        "n_trades": 10,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.1673667098214286,
+          "field": 0.0025246555555555558,
+          "event": 0.07340725497916667
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.27763651759799896
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 9
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 27,
+        "brier": 0.05757672750332446,
+        "pnl": 0.418743016332216,
+        "n_trades": 6,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.12869448214285714,
+          "field": 0.004716433333333335,
+          "event": 0.05463250951041666
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.31874301633221597
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 4
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 3
+        }
+      },
+      {
+        "seed": 28,
+        "brier": 0.0659484332280585,
+        "pnl": 0.36874301633221596,
+        "n_trades": 5,
+        "hits": 4,
+        "by_type_brier": {
+          "deadline": 0.14956180357142856,
+          "field": 0.0026159577777777783,
+          "event": 0.06390825811458332
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.31874301633221597
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 4
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 3
+        }
+      },
+      {
+        "seed": 29,
+        "brier": 0.08548105265292553,
+        "pnl": 0.8463795339302149,
+        "n_trades": 14,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.1683749464285714,
+          "field": 0.00460992888888889,
+          "event": 0.10515876697916667
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.746379533930215
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 12
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      }
+    ],
+    "v8_shrink_typed_strong": [
+      {
+        "seed": 0,
+        "brier": 0.09258445530585105,
+        "pnl": 0.7979033817176224,
+        "n_trades": 18,
+        "hits": 12,
+        "by_type_brier": {
+          "deadline": 0.200294,
+          "field": 0.00268054625,
+          "event": 0.09994023779166666
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.6979033817176225
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 16
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 10
+        }
+      },
+      {
+        "seed": 1,
+        "brier": 0.08866887964095745,
+        "pnl": 0.7188253675332252,
+        "n_trades": 21,
+        "hits": 13,
+        "by_type_brier": {
+          "deadline": 0.13450117857142857,
+          "field": 0.00264954125,
+          "event": 0.149115273375
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.6188253675332253
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 19
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 11
+        }
+      },
+      {
+        "seed": 2,
+        "brier": 0.06010106331117022,
+        "pnl": -0.09847615221259255,
+        "n_trades": 9,
+        "hits": 4,
+        "by_type_brier": {
+          "deadline": 0.12245488839285713,
+          "field": 0.0026385325,
+          "event": 0.070859196875
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": -0.19847615221259257
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 7
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 2
+        }
+      },
+      {
+        "seed": 3,
+        "brier": 0.0749914755718085,
+        "pnl": 0.00152384778740745,
+        "n_trades": 11,
+        "hits": 6,
+        "by_type_brier": {
+          "deadline": 0.17302586160714287,
+          "field": 0.00523065375,
+          "event": 0.06720570145833334
+        },
+        "by_type_pnl": {
+          "field": 0.2,
+          "event": -0.19847615221259257
+        },
+        "by_type_trades": {
+          "field": 4,
+          "event": 7
+        },
+        "by_type_hits": {
+          "field": 4,
+          "event": 2
+        }
+      },
+      {
+        "seed": 4,
+        "brier": 0.09268137007978725,
+        "pnl": 0.27763651759799896,
+        "n_trades": 15,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.17512811160714284,
+          "field": 0.004000093749999999,
+          "event": 0.12214860958333333
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.12763651759799896
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 12
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 5,
+        "brier": 0.08679942102393616,
+        "pnl": 0.2702668641196234,
+        "n_trades": 16,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.20947773214285714,
+          "field": 0.0039289550000000005,
+          "event": 0.07174422320833333
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.12026686411962342
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 13
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 6
+        }
+      },
+      {
+        "seed": 6,
+        "brier": 0.08744903263297871,
+        "pnl": 0.996379533930215,
+        "n_trades": 15,
+        "hits": 12,
+        "by_type_brier": {
+          "deadline": 0.16321365624999998,
+          "field": 0.005089349999999999,
+          "event": 0.11556700308333333
+        },
+        "by_type_pnl": {
+          "field": 0.2,
+          "event": 0.796379533930215
+        },
+        "by_type_trades": {
+          "field": 4,
+          "event": 11
+        },
+        "by_type_hits": {
+          "field": 4,
+          "event": 8
+        }
+      },
+      {
+        "seed": 7,
+        "brier": 0.10755134784574467,
+        "pnl": 0.3463795339302149,
+        "n_trades": 24,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.17350315178571427,
+          "field": 0.00270433125,
+          "event": 0.17181275075
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.24637953393021494
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 22
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 8,
+        "brier": 0.09477553275265957,
+        "pnl": 0.7479033817176224,
+        "n_trades": 19,
+        "hits": 12,
+        "by_type_brier": {
+          "deadline": 0.21727754464285715,
+          "field": 0.00278004375,
+          "event": 0.09083490845833334
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.6479033817176224
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 17
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 10
+        }
+      },
+      {
+        "seed": 9,
+        "brier": 0.09243567308510638,
+        "pnl": 0.3500823512010093,
+        "n_trades": 18,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.17087766964285714,
+          "field": 0.004012165,
+          "event": 0.12533135266666667
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.20008235120100926
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 15
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 7
+        }
+      },
+      {
+        "seed": 10,
+        "brier": 0.06086635803191489,
+        "pnl": 0.896379533930215,
+        "n_trades": 13,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.12593631249999998,
+          "field": 0.0026961537499999998,
+          "event": 0.06993864566666666
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.796379533930215
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 11
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      },
+      {
+        "seed": 11,
+        "brier": 0.0674611559574468,
+        "pnl": 0.546379533930215,
+        "n_trades": 18,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.16574746428571427,
+          "field": 0.0015413937499999999,
+          "event": 0.054830982833333326
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.49637953393021494
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 17
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 8
+        }
+      },
+      {
+        "seed": 12,
+        "brier": 0.0550227086037234,
+        "pnl": 0.218743016332216,
+        "n_trades": 10,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.12977551339285714,
+          "field": 0.001549695,
+          "event": 0.04942104045833333
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.16874301633221597
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 9
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 13,
+        "brier": 0.07682054130319149,
+        "pnl": 0.527636517597999,
+        "n_trades": 8,
+        "hits": 6,
+        "by_type_brier": {
+          "deadline": 0.19456810267857144,
+          "field": 0.00257550125,
+          "event": 0.05601686541666666
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.427636517597999
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 6
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 4
+        }
+      },
+      {
+        "seed": 14,
+        "brier": 0.08143899622340425,
+        "pnl": 0.47763651759799897,
+        "n_trades": 9,
+        "hits": 6,
+        "by_type_brier": {
+          "deadline": 0.1640523080357143,
+          "field": 0.0028690875,
+          "event": 0.098617129
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.377636517597999
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 7
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 4
+        }
+      },
+      {
+        "seed": 15,
+        "brier": 0.12073074715425532,
+        "pnl": 0.546379533930215,
+        "n_trades": 16,
+        "hits": 8,
+        "by_type_brier": {
+          "deadline": 0.24874605803571428,
+          "field": 0.00024960125,
+          "event": 0.14582716541666668
+        },
+        "by_type_pnl": {
+          "event": 0.546379533930215
+        },
+        "by_type_trades": {
+          "event": 16
+        },
+        "by_type_hits": {
+          "event": 8
+        }
+      },
+      {
+        "seed": 16,
+        "brier": 0.06615110998670212,
+        "pnl": 0.47763651759799897,
+        "n_trades": 11,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.14278826339285713,
+          "field": 0.004044025,
+          "event": 0.069151602125
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.32763651759799894
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 8
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 17,
+        "brier": 0.08617719087765957,
+        "pnl": 0.696379533930215,
+        "n_trades": 13,
+        "hits": 8,
+        "by_type_brier": {
+          "deadline": 0.17840879017857142,
+          "field": 0.000206965,
+          "event": 0.10325863591666667
+        },
+        "by_type_pnl": {
+          "event": 0.696379533930215
+        },
+        "by_type_trades": {
+          "event": 13
+        },
+        "by_type_hits": {
+          "event": 8
+        }
+      },
+      {
+        "seed": 18,
+        "brier": 0.0665559111569149,
+        "pnl": 0.27763651759799896,
+        "n_trades": 11,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.1370753660714286,
+          "field": 0.0015502312499999999,
+          "event": 0.078744569125
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.22763651759799897
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 10
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 19,
+        "brier": 0.09186145954787234,
+        "pnl": -0.22755416639698972,
+        "n_trades": 13,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.18120545535714286,
+          "field": 0.00278645375,
+          "event": 0.11536373708333333
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": -0.32755416639698975
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 11
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 3
+        }
+      },
+      {
+        "seed": 20,
+        "brier": 0.049188724162234035,
+        "pnl": -0.25,
+        "n_trades": 11,
+        "hits": 3,
+        "by_type_brier": {
+          "deadline": 0.134258,
+          "field": 0.0040678,
+          "event": 0.023935842375000002
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": -0.4
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 8
+        },
+        "by_type_hits": {
+          "field": 3
+        }
+      },
+      {
+        "seed": 21,
+        "brier": 0.10541132019946808,
+        "pnl": 0.29637953393021493,
+        "n_trades": 23,
+        "hits": 9,
+        "by_type_brier": {
+          "deadline": 0.16831135714285714,
+          "field": 0.00144997125,
+          "event": 0.17145823779166666
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.24637953393021494
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 22
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 8
+        }
+      },
+      {
+        "seed": 22,
+        "brier": 0.07554434392287233,
+        "pnl": 0.468743016332216,
+        "n_trades": 9,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.18667807589285715,
+          "field": 0.00404459625,
+          "event": 0.057619224625
+        },
+        "by_type_pnl": {
+          "field": 0.15000000000000002,
+          "event": 0.31874301633221597
+        },
+        "by_type_trades": {
+          "field": 3,
+          "event": 6
+        },
+        "by_type_hits": {
+          "field": 3,
+          "event": 4
+        }
+      },
+      {
+        "seed": 23,
+        "brier": 0.0855448226462766,
+        "pnl": 0.7479033817176224,
+        "n_trades": 19,
+        "hits": 12,
+        "by_type_brier": {
+          "deadline": 0.186002625,
+          "field": 0.00261362625,
+          "event": 0.09130164279166667
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.6479033817176224
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 17
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 10
+        }
+      },
+      {
+        "seed": 24,
+        "brier": 0.08784590630319149,
+        "pnl": 0.25008235120100925,
+        "n_trades": 16,
+        "hits": 8,
+        "by_type_brier": {
+          "deadline": 0.15814870089285712,
+          "field": 0.001539705,
+          "event": 0.12579740625
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.20008235120100926
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 15
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 7
+        }
+      },
+      {
+        "seed": 25,
+        "brier": 0.07080519724734043,
+        "pnl": 0.268743016332216,
+        "n_trades": 9,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.14144347767857143,
+          "field": 0.00150938875,
+          "event": 0.08803110570833333
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.218743016332216
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 8
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 26,
+        "brier": 0.07417906539893618,
+        "pnl": 0.2791603653854064,
+        "n_trades": 14,
+        "hits": 7,
+        "by_type_brier": {
+          "deadline": 0.1673667098214286,
+          "field": 0.00142011875,
+          "event": 0.07451466658333333
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.2291603653854064
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 13
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 6
+        }
+      },
+      {
+        "seed": 27,
+        "brier": 0.05653573740691489,
+        "pnl": 0.418743016332216,
+        "n_trades": 8,
+        "hits": 6,
+        "by_type_brier": {
+          "deadline": 0.12869448214285714,
+          "field": 0.0026529937500000002,
+          "event": 0.05384686804166667
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.31874301633221597
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 6
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 4
+        }
+      },
+      {
+        "seed": 28,
+        "brier": 0.06478746083776596,
+        "pnl": 0.418743016332216,
+        "n_trades": 6,
+        "hits": 5,
+        "by_type_brier": {
+          "deadline": 0.14956180357142856,
+          "field": 0.00147147625,
+          "event": 0.061643922458333326
+        },
+        "by_type_pnl": {
+          "field": 0.05,
+          "event": 0.36874301633221596
+        },
+        "by_type_trades": {
+          "field": 1,
+          "event": 5
+        },
+        "by_type_hits": {
+          "field": 1,
+          "event": 4
+        }
+      },
+      {
+        "seed": 29,
+        "brier": 0.08295021912234042,
+        "pnl": 0.796379533930215,
+        "n_trades": 15,
+        "hits": 10,
+        "by_type_brier": {
+          "deadline": 0.1683749464285714,
+          "field": 0.002593085,
+          "event": 0.09964903458333334
+        },
+        "by_type_pnl": {
+          "field": 0.1,
+          "event": 0.696379533930215
+        },
+        "by_type_trades": {
+          "field": 2,
+          "event": 13
+        },
+        "by_type_hits": {
+          "field": 2,
+          "event": 8
+        }
+      }
+    ]
+  }
+}
