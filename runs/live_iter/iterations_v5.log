@@ -1,0 +1,101 @@
+loaded 638 markets, 638 resolved
+by qtype:
+  deadline   n=71   YES=32.4%
+  event      n=368  YES=20.4%
+  field      n=199  YES=8.5%
+
+temporal split: train=446 (2024-01-23..2025-12-24), holdout=192 (2025-12-25..2026-04-30)
+train base rates: {'field': 0.082, 'event': 0.204, 'deadline': 0.333}
+
+======================================================================
+PHASE 1: grid search on train (446 markets)
+======================================================================
+evaluated 1536 parameter combinations
+top 8 by train PnL:
+  #1  brier=0.0918  pnl=+6.395  trades=436  λ={'event': 0.3, 'field': 0.4, 'deadline': 0.0, 'durative': 0.0}  trend=0.25 td=0.0 et=0.05 kelly=0.5 sym=False
+  #2  brier=0.0918  pnl=+6.395  trades=436  λ={'event': 0.3, 'field': 0.4, 'deadline': 0.0, 'durative': 0.0}  trend=0.25 td=0.0 et=0.05 kelly=0.5 sym=True
+  #3  brier=0.0914  pnl=+6.192  trades=425  λ={'event': 0.3, 'field': 0.3, 'deadline': 0.0, 'durative': 0.0}  trend=0.25 td=0.0 et=0.05 kelly=0.5 sym=False
+  #4  brier=0.0914  pnl=+6.192  trades=425  λ={'event': 0.3, 'field': 0.3, 'deadline': 0.0, 'durative': 0.0}  trend=0.25 td=0.0 et=0.05 kelly=0.5 sym=True
+  #5  brier=0.0919  pnl=+6.049  trades=435  λ={'event': 0.3, 'field': 0.4, 'deadline': 0.1, 'durative': 0.0}  trend=0.25 td=0.0 et=0.05 kelly=0.5 sym=False
+  #6  brier=0.0919  pnl=+6.049  trades=435  λ={'event': 0.3, 'field': 0.4, 'deadline': 0.1, 'durative': 0.0}  trend=0.25 td=0.0 et=0.05 kelly=0.5 sym=True
+  #7  brier=0.0918  pnl=+6.031  trades=436  λ={'event': 0.3, 'field': 0.4, 'deadline': 0.0, 'durative': 0.0}  trend=0.25 td=0.0 et=0.05 kelly=0.0 sym=False
+  #8  brier=0.0918  pnl=+6.031  trades=436  λ={'event': 0.3, 'field': 0.4, 'deadline': 0.0, 'durative': 0.0}  trend=0.25 td=0.0 et=0.05 kelly=0.0 sym=True
+
+holdout market baseline: brier=0.1215  pnl=+0.000
+
+top-1 on holdout:
+  brier=0.1179 (Δ=-0.0036)  pnl=+4.264  trades=228  wins=136 (60%)
+  bootstrap 95% CI on PnL: [+1.253, +7.913]
+
+======================================================================
+PHASE 3: random search (n=300)
+======================================================================
+top 5 random:
+  #1  brier=0.0896  pnl=+3.476  trades=490
+  #2  brier=0.0892  pnl=+2.694  trades=406
+  #3  brier=0.0894  pnl=+2.496  trades=318
+  #4  brier=0.0943  pnl=+2.050  trades=365
+  #5  brier=0.0897  pnl=+1.990  trades=376
+
+======================================================================
+PHASE 4: Pareto frontier across grid+random candidates
+======================================================================
+Pareto frontier (top 15 by PnL):
+  #1  brier=0.0918  pnl=+6.395  trades=436  sym=False
+  #2  brier=0.0918  pnl=+6.395  trades=436  sym=True
+  #3  brier=0.0914  pnl=+6.192  trades=425  sym=False
+  #4  brier=0.0914  pnl=+6.192  trades=425  sym=True
+  #5  brier=0.0913  pnl=+5.837  trades=411  sym=False
+  #6  brier=0.0913  pnl=+5.837  trades=411  sym=True
+  #7  brier=0.0912  pnl=+5.667  trades=421  sym=False
+  #8  brier=0.0912  pnl=+5.667  trades=421  sym=True
+  #9  brier=0.0911  pnl=+5.313  trades=403  sym=False
+  #10  brier=0.0911  pnl=+5.313  trades=403  sym=True
+  #11  brier=0.0896  pnl=+3.476  trades=490  sym=False
+  #12  brier=0.0892  pnl=+2.694  trades=406  sym=False
+  #13  brier=0.0890  pnl=+1.853  trades=155  sym=True
+  #14  brier=0.0887  pnl=+1.604  trades=186  sym=False
+  #15  brier=0.0887  pnl=+1.604  trades=186  sym=True
+
+ensemble (Brier-weighted, 8 members) on holdout:
+  brier=0.1181 (Δ=-0.0034)  pnl=+3.785  trades=216  wins=126 (58%)
+  bootstrap 95% CI: [+0.938, +7.131]
+
+======================================================================
+PHASE 5: genetic evolution (8 generations, pop=60)
+======================================================================
+  gen 0: best_pnl=+2.561  best_brier=0.0886  median_pnl=-0.024
+  gen 1: best_pnl=+4.934  best_brier=0.0886  median_pnl=+0.676
+  gen 2: best_pnl=+6.479  best_brier=0.0886  median_pnl=+1.232
+  gen 3: best_pnl=+6.479  best_brier=0.0885  median_pnl=+2.669
+  gen 4: best_pnl=+6.513  best_brier=0.0887  median_pnl=+4.486
+  gen 5: best_pnl=+7.729  best_brier=0.0887  median_pnl=+5.065
+  gen 6: best_pnl=+7.729  best_brier=0.0894  median_pnl=+5.619
+  gen 7: best_pnl=+8.261  best_brier=0.0895  median_pnl=+6.149
+
+best evolved on holdout:
+  brier=0.1207 (Δ=-0.0008)  pnl=+6.658  trades=198
+  params: λ={'deadline': 0.0, 'durative': 0.09, 'event': 0.5, 'field': 0.49}  trend=-0.30 td=0.0 et=0.09 kelly=0.80 sym=False
+
+======================================================================
+PHASE 6: walk-forward validation
+======================================================================
+ran 12 windows
+#   test_start   test_end     n_tr    n_te    mkt_brier str_brier Δ brier   pnl       trades 
+1   2024-10-19   2024-12-18   35      60      0.1027    0.1177    +0.0150   -1.182   66     
+2   2024-12-03   2025-02-01   88      52      0.1089    0.1086    -0.0003   -0.469   23     
+3   2025-01-17   2025-03-18   114     65      0.0459    0.0459    -0.0000   -0.628   44     
+4   2025-03-03   2025-05-02   165     28      0.1230    0.1177    -0.0053   -0.326   50     
+5   2025-04-17   2025-06-16   164     98      0.0739    0.0733    -0.0006   +2.537   75     
+6   2025-06-01   2025-07-31   194     57      0.1334    0.1366    +0.0032   +0.553   56     
+7   2025-07-16   2025-09-14   216     12      0.0870    0.1109    +0.0239   -0.694   20     
+8   2025-08-30   2025-10-29   160     23      0.1518    0.1533    +0.0015   -0.028   52     
+9   2025-10-14   2025-12-13   159     77      0.0903    0.0858    -0.0045   -0.006   120    
+10  2025-11-28   2026-01-27   122     124     0.0777    0.0780    +0.0003   -0.402   228    
+11  2026-01-12   2026-03-13   181     66      0.1247    0.1255    +0.0007   +0.511   65     
+12  2026-02-26   2026-04-27   220     65      0.1479    0.1406    -0.0073   +1.225   126    
+---
+aggregate: pnl=+1.091  trades=925  wins=366 (40%)  brier-better windows=6/12  pnl-positive windows=4/12
+walk-forward bootstrap 95% CI on aggregate PnL: [-6.659, +9.789]
+
+wrote runs/live_iter/iterations_v5.json in 10.8s

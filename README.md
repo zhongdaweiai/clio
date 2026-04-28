@@ -124,28 +124,34 @@ Architecture-complete; live trading and additional micro-agents are the next two
 
 ## Live runs
 
-**Two closed-loop iteration sessions on real Polymarket data are documented:**
+**Three closed-loop iteration sessions on real Polymarket data are documented.** Each one was driven by what the previous one's evaluation surfaced.
 
 ### v1: high-volume markets — gate correctly refused promotion ([`docs/LIVE_RUN.md`](docs/LIVE_RUN.md))
-24 high-volume resolved markets (Trump-Harris, Super Bowl, etc.), 5 strategy iterations. Red Team refused to promote any variant — they all underperformed the market baseline because top-volume markets are too efficient to beat with rule-based reasoning. Honest negative result.
+24 markets, 5 strategy variants. Red Team refused to promote any of them — top-volume markets are too efficient to beat with rule-based reasoning. Honest negative result.
 
 ### v2: mid-volume markets — real, robust edge demonstrated ([`docs/LIVE_RUN_V2.md`](docs/LIVE_RUN_V2.md))
-94 mid-volume resolved markets ($200K – $50M USD volume), 8 strategy variants, 30-seed stability test, temporal-split Red Team. **v6_shrink_typed produces edge over market baseline:**
-- ΔBrier −0.0026 (better) in **28/30 random seeds**
-- Positive PnL in **26/30 random seeds**
-- Under temporal split (train past, test future): bootstrap **95% CI on PnL = [+0.024, +1.324]**, strictly positive
+94 markets, 8 variants, 30-seed stability + temporal split + bootstrap CI. **v6_shrink_typed:** ΔBrier −0.0026 better in 28/30 seeds, positive PnL in 26/30, bootstrap **95% CI [+0.024, +1.324]** strictly positive. Mechanism: fade favorites — shrink event-type prices toward empirical 13% YES rate.
 
-The mechanism is interpretable: shrink event-type market prices toward the empirical event base rate (13% YES), trade only when |edge| > 5%. Fades longshots that the market over-prices. Wins on Yoon-out-of-office ✗, Polish-presidential-candidate ✗; loses on Mark-Carney-PM ✓ (market was right, we faded, it happened).
+### v3: scaled, auto-tuned, evolved, live-deployed ([`docs/LIVE_RUN_V3.md`](docs/LIVE_RUN_V3.md))
+**638 markets, 1536-combo grid + 300-sample random + 8-generation genetic evolution + 12-window walk-forward + live scanner producing 14 actionable trade recommendations on currently-open markets.**
+
+- Master temporal split: ΔBrier −0.0036, **bootstrap 95% CI [+1.253, +7.913]** on PnL — strictly positive
+- Genetic evolution **discovered mean-reversion** (`trend_alpha = -0.30`) — a region the grid didn't search; produced the best holdout PnL (+6.66)
+- Walk-forward (12 windows): aggregate PnL +1.09 across 925 trades; CI wider, includes zero
+- **Live scanner** outputs ranked recommendations for currently-open markets — Keiko Fujimori 2026 Peru, Arsenal EPL, OKC Thunder NBA Finals all flagged as "fade the favorite"
+
+New `clio/research/` subpackage:
+[`strategies.py`](clio/research/strategies.py) (6-knob parametric strategy) ·
+[`tuner.py`](clio/research/tuner.py) (grid + random search) ·
+[`walk_forward.py`](clio/research/walk_forward.py) (rolling validation + bootstrap CI) ·
+[`ensemble.py`](clio/research/ensemble.py) (Pareto filter + Brier-weighted ensemble) ·
+[`evolve.py`](clio/research/evolve.py) (genetic search)
 
 ```bash
-# v1 (high-volume markets):
-.venv/bin/python scripts/live_fetch.py
-.venv/bin/python scripts/live_news.py
-.venv/bin/python scripts/iterate.py
-
-# v2 (mid-volume, edge demonstrated):
-.venv/bin/python scripts/live_fetch_v2.py
-.venv/bin/python scripts/iterate_v2.py        # single seed
-.venv/bin/python scripts/iterate_v3.py        # 30-seed stability
-.venv/bin/python scripts/iterate_v4_redteam.py # temporal split + bootstrap
+# v1 — gate refused:           live_fetch.py → live_news.py → iterate.py
+# v2 — edge demonstrated:      live_fetch_v2.py → iterate_v2.py → v3.py → v4_redteam.py
+# v3 — scaled + live deployed:
+.venv/bin/python scripts/live_fetch_v3.py        # 638 markets, ~12 min
+.venv/bin/python scripts/iterate_v5_master.py    # tune + ensemble + evolve + walk-forward, ~15s
+.venv/bin/python scripts/live_scanner.py         # 14 live trade recs, ~80s
 ```

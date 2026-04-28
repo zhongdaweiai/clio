@@ -1,0 +1,377 @@
+{
+  "wall_seconds": 10.822021961212158,
+  "n_markets": 638,
+  "n_train": 446,
+  "n_holdout": 192,
+  "base_rates": {
+    "field": 0.08163265306122448,
+    "event": 0.20363636363636364,
+    "deadline": 0.3333333333333333
+  },
+  "market_baseline_holdout": {
+    "brier": 0.12149443326822917,
+    "pnl": 0
+  },
+  "top1_holdout": {
+    "params": {
+      "shrink_lambda": {
+        "event": 0.3,
+        "field": 0.4,
+        "deadline": 0.0,
+        "durative": 0.0
+      },
+      "trend_alpha": 0.25,
+      "time_decay": 0.0,
+      "edge_threshold": 0.05,
+      "kelly_fraction": 0.5,
+      "notional": 0.05,
+      "symmetric": false
+    },
+    "brier": 0.11791393771689174,
+    "pnl": 4.264189335395195,
+    "n_trades": 228
+  },
+  "ensemble_holdout": {
+    "n_members": 8,
+    "weights": [
+      0.12450258489029309,
+      0.12450258489029309,
+      0.12502350128608714,
+      0.12502350128608714,
+      0.1251569318305175,
+      0.1251569318305175,
+      0.1253169819931023,
+      0.1253169819931023
+    ],
+    "brier": 0.11806077924630391,
+    "pnl": 3.7847739793527397,
+    "n_trades": 216
+  },
+  "best_evolved_holdout": {
+    "params": {
+      "shrink_lambda": {
+        "deadline": 0.0,
+        "durative": 0.09,
+        "event": 0.5,
+        "field": 0.49
+      },
+      "trend_alpha": -0.3,
+      "time_decay": 0.0,
+      "edge_threshold": 0.09,
+      "kelly_fraction": 0.8,
+      "notional": 0.05,
+      "symmetric": false
+    },
+    "brier": 0.12072545250581979,
+    "pnl": 6.657895455272158
+  },
+  "walk_forward": {
+    "n_windows": 12,
+    "total_pnl": 1.0911648483494576,
+    "total_trades": 925,
+    "n_brier_better_windows": 6,
+    "n_pnl_positive_windows": 4,
+    "windows": [
+      {
+        "test_start": "2024-10-19",
+        "test_end": "2024-12-18",
+        "n_train": 35,
+        "n_test": 60,
+        "market_brier": 0.1027246125,
+        "strategy_brier": 0.1177230610625,
+        "brier_delta": 0.014998448562499989,
+        "pnl": -1.1824074138282874,
+        "n_trades": 66,
+        "chosen_params": {
+          "shrink_lambda": {
+            "event": 0.3,
+            "field": 0.4,
+            "deadline": 0.0,
+            "durative": 0.0
+          },
+          "trend_alpha": 0.0,
+          "time_decay": 0.0,
+          "edge_threshold": 0.04,
+          "kelly_fraction": 0.5,
+          "notional": 0.05,
+          "symmetric": false
+        }
+      },
+      {
+        "test_start": "2024-12-03",
+        "test_end": "2025-02-01",
+        "n_train": 88,
+        "n_test": 52,
+        "market_brier": 0.1088884110576923,
+        "strategy_brier": 0.10863234648690798,
+        "brier_delta": -0.0002560645707843229,
+        "pnl": -0.46925042593732835,
+        "n_trades": 23,
+        "chosen_params": {
+          "shrink_lambda": {
+            "event": 0.1,
+            "field": 0.0,
+            "deadline": 0.0,
+            "durative": 0.0
+          },
+          "trend_alpha": 0.0,
+          "time_decay": 0.0,
+          "edge_threshold": 0.04,
+          "kelly_fraction": 0.5,
+          "notional": 0.05,
+          "symmetric": false
+        }
+      },
+      {
+        "test_start": "2025-01-17",
+        "test_end": "2025-03-18",
+        "n_train": 114,
+        "n_test": 65,
+        "market_brier": 0.04589692307692307,
+        "strategy_brier": 0.0458851692111204,
+        "brier_delta": -1.1753865802668906e-05,
+        "pnl": -0.6282969987721354,
+        "n_trades": 44,
+        "chosen_params": {
+          "shrink_lambda": {
+            "event": 0.3,
+            "field": 0.0,
+            "deadline": 0.0,
+            "durative": 0.0
+          },
+          "trend_alpha": 0.0,
+          "time_decay": 0.0,
+          "edge_threshold": 0.04,
+          "kelly_fraction": 0.5,
+          "notional": 0.05,
+          "symmetric": false
+        }
+      },
+      {
+        "test_start": "2025-03-03",
+        "test_end": "2025-05-02",
+        "n_train": 165,
+        "n_test": 28,
+        "market_brier": 0.12296304687500001,
+        "strategy_brier": 0.1177071677136654,
+        "brier_delta": -0.005255879161334603,
+        "pnl": -0.3256516522562759,
+        "n_trades": 50,
+        "chosen_params": {
+          "shrink_lambda": {
+            "event": 0.3,
+            "field": 0.4,
+            "deadline": 0.2,
+            "durative": 0.0
+          },
+          "trend_alpha": 0.0,
+          "time_decay": 0.0,
+          "edge_threshold": 0.04,
+          "kelly_fraction": 0.5,
+          "notional": 0.05,
+          "symmetric": false
+        }
+      },
+      {
+        "test_start": "2025-04-17",
+        "test_end": "2025-06-16",
+        "n_train": 164,
+        "n_test": 98,
+        "market_brier": 0.07390320408163265,
+        "strategy_brier": 0.07326838937964922,
+        "brier_delta": -0.0006348147019834272,
+        "pnl": 2.537341126906674,
+        "n_trades": 75,
+        "chosen_params": {
+          "shrink_lambda": {
+            "event": 0.3,
+            "field": 0.3,
+            "deadline": 0.2,
+            "durative": 0.0
+          },
+          "trend_alpha": 0.25,
+          "time_decay": 1.0,
+          "edge_threshold": 0.04,
+          "kelly_fraction": 0.5,
+          "notional": 0.05,
+          "symmetric": false
+        }
+      },
+      {
+        "test_start": "2025-06-01",
+        "test_end": "2025-07-31",
+        "n_train": 194,
+        "n_test": 57,
+        "market_brier": 0.13342116118421052,
+        "strategy_brier": 0.13662915199323455,
+        "brier_delta": 0.003207990809024036,
+        "pnl": 0.5531892593567491,
+        "n_trades": 56,
+        "chosen_params": {
+          "shrink_lambda": {
+            "event": 0.2,
+            "field": 0.4,
+            "deadline": 0.2,
+            "durative": 0.0
+          },
+          "trend_alpha": 0.25,
+          "time_decay": 0.0,
+          "edge_threshold": 0.04,
+          "kelly_fraction": 0.5,
+          "notional": 0.05,
+          "symmetric": false
+        }
+      },
+      {
+        "test_start": "2025-07-16",
+        "test_end": "2025-09-14",
+        "n_train": 216,
+        "n_test": 12,
+        "market_brier": 0.08698684375,
+        "strategy_brier": 0.11092800497865364,
+        "brier_delta": 0.02394116122865364,
+        "pnl": -0.6936365112125648,
+        "n_trades": 20,
+        "chosen_params": {
+          "shrink_lambda": {
+            "event": 0.3,
+            "field": 0.4,
+            "deadline": 0.1,
+            "durative": 0.0
+          },
+          "trend_alpha": 0.0,
+          "time_decay": 0.0,
+          "edge_threshold": 0.04,
+          "kelly_fraction": 0.5,
+          "notional": 0.05,
+          "symmetric": false
+        }
+      },
+      {
+        "test_start": "2025-08-30",
+        "test_end": "2025-10-29",
+        "n_train": 160,
+        "n_test": 23,
+        "market_brier": 0.1517863016304348,
+        "strategy_brier": 0.15328570212269338,
+        "brier_delta": 0.001499400492258579,
+        "pnl": -0.027698372487060998,
+        "n_trades": 52,
+        "chosen_params": {
+          "shrink_lambda": {
+            "event": 0.3,
+            "field": 0.4,
+            "deadline": 0.2,
+            "durative": 0.0
+          },
+          "trend_alpha": 0.25,
+          "time_decay": 0.0,
+          "edge_threshold": 0.04,
+          "kelly_fraction": 0.5,
+          "notional": 0.05,
+          "symmetric": false
+        }
+      },
+      {
+        "test_start": "2025-10-14",
+        "test_end": "2025-12-13",
+        "n_train": 159,
+        "n_test": 77,
+        "market_brier": 0.09029842207792209,
+        "strategy_brier": 0.08576075439871216,
+        "brier_delta": -0.0045376676792099335,
+        "pnl": -0.006379972197021445,
+        "n_trades": 120,
+        "chosen_params": {
+          "shrink_lambda": {
+            "event": 0.3,
+            "field": 0.4,
+            "deadline": 0.0,
+            "durative": 0.0
+          },
+          "trend_alpha": 0.0,
+          "time_decay": 0.0,
+          "edge_threshold": 0.04,
+          "kelly_fraction": 0.5,
+          "notional": 0.05,
+          "symmetric": false
+        }
+      },
+      {
+        "test_start": "2025-11-28",
+        "test_end": "2026-01-27",
+        "n_train": 122,
+        "n_test": 124,
+        "market_brier": 0.07766017137096774,
+        "strategy_brier": 0.07800705254811326,
+        "brier_delta": 0.0003468811771455138,
+        "pnl": -0.4015505511384521,
+        "n_trades": 228,
+        "chosen_params": {
+          "shrink_lambda": {
+            "event": 0.3,
+            "field": 0.4,
+            "deadline": 0.2,
+            "durative": 0.0
+          },
+          "trend_alpha": 0.0,
+          "time_decay": 0.0,
+          "edge_threshold": 0.04,
+          "kelly_fraction": 0.5,
+          "notional": 0.05,
+          "symmetric": false
+        }
+      },
+      {
+        "test_start": "2026-01-12",
+        "test_end": "2026-03-13",
+        "n_train": 181,
+        "n_test": 66,
+        "market_brier": 0.12474252651515151,
+        "strategy_brier": 0.12548886983405222,
+        "brier_delta": 0.0007463433189007079,
+        "pnl": 0.5109805213716445,
+        "n_trades": 65,
+        "chosen_params": {
+          "shrink_lambda": {
+            "event": 0.3,
+            "field": 0.4,
+            "deadline": 0.2,
+            "durative": 0.0
+          },
+          "trend_alpha": 0.25,
+          "time_decay": 0.0,
+          "edge_threshold": 0.06,
+          "kelly_fraction": 0.5,
+          "notional": 0.05,
+          "symmetric": false
+        }
+      },
+      {
+        "test_start": "2026-02-26",
+        "test_end": "2026-04-27",
+        "n_train": 220,
+        "n_test": 65,
+        "market_brier": 0.14786367307692308,
+        "strategy_brier": 0.14056413967171993,
+        "brier_delta": -0.007299533405203146,
+        "pnl": 1.2245258385435163,
+        "n_trades": 126,
+        "chosen_params": {
+          "shrink_lambda": {
+            "event": 0.3,
+            "field": 0.4,
+            "deadline": 0.2,
+            "durative": 0.0
+          },
+          "trend_alpha": 0.0,
+          "time_decay": 0.0,
+          "edge_threshold": 0.04,
+          "kelly_fraction": 0.5,
+          "notional": 0.05,
+          "symmetric": false
+        }
+      }
+    ]
+  }
+}

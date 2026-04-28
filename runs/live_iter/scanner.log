@@ -1,0 +1,31 @@
+2026-04-27 23:56:06,302 loading v3 dataset for training...
+2026-04-27 23:56:06,304 base rates: {'event': 0.204, 'field': 0.085, 'deadline': 0.324}
+2026-04-27 23:56:06,304 tuning strategy on full v3 corpus...
+2026-04-27 23:56:06,661 chosen strategy:
+2026-04-27 23:56:06,661   λ={'event': 0.3, 'field': 0.4, 'deadline': 0.1, 'durative': 0.0} trend=-0.25 td=0.0 et=0.05 kelly=0.5 sym=False
+2026-04-27 23:56:06,661   in-sample brier=0.1002 pnl=+12.336 trades=775 (NB: in-sample, not held-out)
+2026-04-27 23:56:06,661 
+scanning live open markets...
+2026-04-27 23:56:06,661 fetching open Polymarket markets (volume >= 200K)...
+2026-04-27 23:56:07,798 got 300 open markets above volume floor
+2026-04-27 23:57:17,413 
+14 recommendations from 300 scanned markets
+2026-04-27 23:57:17,414 
+=== top 20 by edge ===
+2026-04-27 23:57:17,414 side  qtype    price→pred   edge    size%   days    vol(K)   question
+2026-04-27 23:57:17,414 NO    field    0.645→0.421  -0.224   5.87    40    5616K  Will Keiko Fujimori win the 2026 Peruvian presidential elect
+2026-04-27 23:57:17,414 NO    field    0.595→0.391  -0.204   5.86    28    4309K  Will Ken Paxton win the 2026 Texas Republican Primary?
+2026-04-27 23:57:17,414 NO    field    0.515→0.343  -0.172   5.83    64    9016K  Will the Oklahoma City Thunder win the 2026 NBA Finals?
+2026-04-27 23:57:17,414 NO    field    0.505→0.337  -0.168   5.83    29   10743K  Will Arsenal win the 2025–26 English Premier League?
+2026-04-27 23:57:17,414 NO    field    0.495→0.331  -0.164   5.83    29   11599K  Will Manchester City win the 2025–26 English Premier League?
+2026-04-27 23:57:17,414 NO    field    0.404→0.276  -0.127   5.79   159    4505K  Will Flávio Bolsonaro win the 2026 Brazilian presidential el
+2026-04-27 23:57:17,414 NO    field    0.365→0.253  -0.112   5.77    33    5457K  Will Bayern Munich win the 2025–26 Champions League?
+2026-04-27 23:57:17,414 NO    field    0.355→0.247  -0.108   5.76   159    4856K  Will Luiz Inácio Lula da Silva win the 2026 Brazilian presid
+2026-04-27 23:57:17,414 NO    field    0.335→0.235  -0.100   5.74    40   11760K  Will Roberto Sánchez Palomino win the 2026 Peruvian presiden
+2026-04-27 23:57:17,414 NO    event    0.485→0.401  -0.084   5.43    94   11142K  Will Jesus Christ return before GTA VI?
+2026-04-27 23:57:17,414 NO    field    0.286→0.206  -0.080   5.70    63   13862K  Will the Colorado Avalanche win the 2026 NHL Stanley Cup?
+2026-04-27 23:57:17,414 NO    field    0.265→0.193  -0.072   5.68    33    7153K  Will PSG win the 2025–26 Champions League?
+2026-04-27 23:57:17,414 NO    field    0.265→0.193  -0.072   5.68    33    4951K  Will Arsenal win the 2025–26 Champions League?
+2026-04-27 23:57:17,415 YES   event    0.030→0.082  +0.052   5.13     2    5638K  Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?
+2026-04-27 23:57:17,418 
+wrote runs/live_iter/scanner/recommendations_2026-04-28.json
