@@ -95,6 +95,36 @@ this repo:
 3. In the left sidebar you'll see "Daily Polymarket Paper Trade Scan"
    and "Weekly Resolution Check + PnL Update"
 
+### Step 3.5: Set up email notifications (optional but recommended)
+
+Pick **one** of two paths:
+
+**Path A — Resend (simplest, 30 seconds):**
+
+1. Sign up free at https://resend.com (no credit card)
+2. Go to API Keys → create one
+3. Add to GitHub repo secrets:
+   - `RESEND_API_KEY` = the resend key
+   - `NOTIFY_EMAIL` = `zhongdawei.ai@gmail.com`
+
+The workflow uses Resend's `onboarding@resend.dev` test sender (free 100/day,
+no domain verification needed).
+
+**Path B — Gmail SMTP (no third party signup):**
+
+1. Go to https://myaccount.google.com/security → 2-Step Verification (turn on)
+2. App passwords → "Mail" → "Other (clio)" → generate
+3. Add to GitHub repo secrets:
+   - `GMAIL_USER` = `zhongdawei.ai@gmail.com`
+   - `GMAIL_APP_PASSWORD` = the 16-char app password
+   - `NOTIFY_EMAIL` = `zhongdawei.ai@gmail.com`
+
+Either path works. The workflow tries Resend first, then Gmail.
+
+If you set up neither, the system still works fine — signals just stay
+in the repo without an email summary. You'd check
+[paper_trades/SUMMARY.md](../paper_trades/SUMMARY.md) on GitHub directly.
+
 ### Step 4: Trigger the first run manually (optional)
 
 You don't have to wait for tomorrow's 14:00 UTC scheduled run:
