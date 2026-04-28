@@ -1,0 +1,49 @@
+2026-04-28 01:09:12,171 scanning Polymarket for currently-open short-horizon markets...
+2026-04-28 01:09:13,528 got 80 open markets (vol>=200K, ≤45 days remaining)
+2026-04-28 01:09:24,307 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:09:33,728 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:09:39,147 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:09:45,401 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:09:52,365 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:09:59,657 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:10:06,394 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:10:13,798 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:10:20,505 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:10:26,807 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:10:32,199 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:10:32,202 [30/80] 6 recs so far, ~$0.047 spent
+2026-04-28 01:10:38,934 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:10:46,044 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:10:53,301 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:11:01,934 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:11:06,677 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:11:16,098 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:11:27,495 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:11:35,479 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:11:35,482 [70/80] 12 recs so far, ~$0.077 spent
+2026-04-28 01:11:41,884 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:11:48,224 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:11:55,925 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:12:01,410 HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 01:12:01,411 [80/80] 14 recs so far, ~$0.090 spent
+2026-04-28 01:12:01,411 
+=== TOP 25 RECOMMENDATIONS BY EDGE (LLM-augmented) ===
+2026-04-28 01:12:01,411 side qtype    price→pred        edge days   conf  question
+2026-04-28 01:12:01,411 ----------------------------------------------------------------------------------------------------------------------------------
+2026-04-28 01:12:01,411 YES  deadline 0.033→0.720  +0.688   2d medium  US x Iran diplomatic meeting by April 30, 2026?
+2026-04-28 01:12:01,411 YES  deadline 0.035→0.520  +0.486  33d    low  Will the Iranian regime fall by May 31?
+2026-04-28 01:12:01,411 NO   field    0.495→0.050  -0.445  29d   high  Will Manchester City win the 2025–26 English Premier League?
+2026-04-28 01:12:01,411 YES  event    0.185→0.620  +0.435   3d    low  Will Bitcoin reach $80,000 in April?
+2026-04-28 01:12:01,411 NO   field    0.505→0.120  -0.385  29d    low  Will Arsenal win the 2025–26 English Premier League?
+2026-04-28 01:12:01,411 YES  field    0.400→0.720  +0.320  28d medium  Will John Cornyn win the 2026 Texas Republican Primary?
+2026-04-28 01:12:01,411 NO   field    0.364→0.060  -0.304  18d    low  Will Finland win Eurovision 2026?
+2026-04-28 01:12:01,411 NO   field    0.645→0.350  -0.295  40d medium  Will Keiko Fujimori win the 2026 Peruvian presidential election?
+2026-04-28 01:12:01,411 NO   event    0.365→0.070  -0.295  33d   high  Strait of Hormuz traffic returns to normal by end of May?
+2026-04-28 01:12:01,411 NO   field    0.333→0.070  -0.263  40d medium  Will Roberto Sánchez Palomino win the 2026 Peruvian presidential 
+2026-04-28 01:12:01,411 NO   field    0.973→0.720  -0.253  43d medium  Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?
+2026-04-28 01:12:01,411 NO   field    0.595→0.350  -0.245  28d    low  Will Ken Paxton win the 2026 Texas Republican Primary?
+2026-04-28 01:12:01,411 NO   deadline 0.275→0.040  -0.235  33d   high  US x Iran permanent peace deal by May 31, 2026?
+2026-04-28 01:12:01,411 NO   field    0.265→0.120  -0.145  33d    low  Will Arsenal win the 2025–26 Champions League?
+2026-04-28 01:12:01,414 wrote runs/live_iter/scanner/llm_recommendations_2026-04-28.json
+2026-04-28 01:12:01,414 
+LLM cost this run: $0.090 (23 calls)

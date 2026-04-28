@@ -1,0 +1,15 @@
+2026-04-28 00:50:30,214 loaded 638 markets
+2026-04-28 00:50:43,389 [50/638] corpus=118 elapsed=13s eta=155s
+2026-04-28 00:50:52,668 [100/638] corpus=193 elapsed=22s eta=121s
+2026-04-28 00:51:00,910 [150/638] corpus=296 elapsed=31s eta=100s
+2026-04-28 00:51:09,840 [200/638] corpus=364 elapsed=40s eta=87s
+2026-04-28 00:51:18,276 [250/638] corpus=382 elapsed=48s eta=75s
+2026-04-28 00:51:26,794 [300/638] corpus=442 elapsed=57s eta=64s
+2026-04-28 00:51:34,546 [350/638] corpus=523 elapsed=64s eta=53s
+2026-04-28 00:51:43,818 [400/638] corpus=589 elapsed=74s eta=44s
+2026-04-28 00:51:52,046 [450/638] corpus=648 elapsed=82s eta=34s
+2026-04-28 00:52:00,557 [500/638] corpus=687 elapsed=90s eta=25s
+2026-04-28 00:52:09,191 [550/638] corpus=690 elapsed=99s eta=16s
+2026-04-28 00:52:17,000 [600/638] corpus=696 elapsed=107s eta=7s
+2026-04-28 00:52:23,336 done in 113.1s, 710 docs
+2026-04-28 00:52:23,345 wrote runs/live_iter/news_v3.jsonl
