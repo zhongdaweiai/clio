@@ -1,0 +1,136 @@
+loaded 638 markets
+base rates: {'event': 0.204, 'field': 0.085, 'deadline': 0.324}
+loading volumes (cached: True)...
+
+======================================================================
+MAIN BACKTEST: strategy v3_best, default cost model
+======================================================================
+
+=== v3_best (default costs 1.5% spread + 30bps slippage) ===
+  starting bankroll:  $      10,000
+  ending bankroll:    $      18,828  (return +88.28%)
+  trades:             140  (hit rate 54.3%)
+  avg win:            $+306.77
+  avg loss:           $-222.64
+  profit factor:      1.64
+  Sharpe (annual):    1.41
+  max drawdown:       17.5%
+  Calmar:             5.04
+  avg days held:      93
+  avg position size:  1.79% of bankroll
+
+=== market_echo (no trades) ===
+  starting bankroll:  $      10,000
+  ending bankroll:    $      10,000  (return +0.00%)
+  trades:             0  (hit rate 0.0%)
+  avg win:            $+0.00
+  avg loss:           $+0.00
+  profit factor:      inf
+  Sharpe (annual):    0.00
+  max drawdown:       0.0%
+  Calmar:             0.00
+  avg days held:      0
+  avg position size:  0.00% of bankroll
+
+=== v3_best vs market_echo ===
+  starting bankroll:  $      10,000
+  ending bankroll:    $      18,828  (return +88.28%)
+  vs market echo:     +88.28 pp outperformance
+  trades:             140  (hit rate 54.3%)
+  avg win:            $+306.77
+  avg loss:           $-222.64
+  profit factor:      1.64
+  Sharpe (annual):    1.41
+  max drawdown:       17.5%
+  Calmar:             5.04
+  avg days held:      93
+  avg position size:  1.79% of bankroll
+
+======================================================================
+ALTERNATIVES
+======================================================================
+
+=== v3_evolved (mean-reversion) ===
+  starting bankroll:  $      10,000
+  ending bankroll:    $      22,094  (return +120.94%)
+  vs market echo:     +120.94 pp outperformance
+  trades:             132  (hit rate 52.3%)
+  avg win:            $+387.64
+  avg loss:           $-229.00
+  profit factor:      1.85
+  Sharpe (annual):    1.81
+  max drawdown:       16.4%
+  Calmar:             7.36
+  avg days held:      99
+  avg position size:  1.74% of bankroll
+
+======================================================================
+STRESS TEST: cost sensitivity
+======================================================================
+  low_cost (1.0% + 20bps)   ret=+98.33%  Sharpe=1.43  MaxDD=17.2%  trades=141
+  mid_cost (1.5% + 30bps)   ret=+88.28%  Sharpe=1.41  MaxDD=17.5%  trades=140
+  high_cost (3.0% + 80bps)  ret=+105.16%  Sharpe=1.61  MaxDD=19.6%  trades=143
+
+======================================================================
+STRESS TEST: tail-risk — what if we miss the 5 best trades?
+======================================================================
+  exclude top- 0 wins → return +90.66%  (n=140 trades)
+  exclude top- 5 wins → return -18.24%  (n=135 trades)
+  exclude top-10 wins → return -43.70%  (n=130 trades)
+  exclude top-20 wins → return -73.70%  (n=120 trades)
+
+======================================================================
+TOP 10 WINNERS BY DOLLARS
+======================================================================
+  2025-02-02 [event   ] YES mkt=0.022→fill=0.030  outcome=1  pnl=$+5,612.82  (3233% on $174, 123d)  Will the Indiana Pacers win the Eastern Conference?
+  2025-11-18 [event   ] NO  mkt=0.910→fill=0.903  outcome=0  pnl=$+2,478.35  (926% on $268, 44d)  Over $400M committed to the Monad public sale?
+  2025-12-20 [event   ] NO  mkt=0.825→fill=0.818  outcome=0  pnl=$+1,232.35  (448% on $275, 10d)  Rams vs. Falcons
+  2026-01-28 [event   ] NO  mkt=0.715→fill=0.708  outcome=0  pnl=$+826.14  (242% on $342, 31d)  Will Google have the best AI model at the end of February 20
+  2026-04-22 [field   ] NO  mkt=0.685→fill=0.678  outcome=0  pnl=$+740.30  (210% on $352, 4d)  Will FC Internazionale Milano win on 2026-04-26?
+  2026-01-05 [event   ] NO  mkt=0.635→fill=0.628  outcome=0  pnl=$+653.82  (168% on $388, 13d)  LoL: Los Ratones vs Karmine Corp Blue (BO1)
+  2025-06-10 [field   ] NO  mkt=0.695→fill=0.688  outcome=0  pnl=$+621.05  (220% on $282, 147d)  Will Andrew Cuomo win the 2025 NYC mayoral election?
+  2026-02-18 [event   ] NO  mkt=0.655→fill=0.648  outcome=0  pnl=$+434.07  (184% on $236, 14d)  Panthers vs. Devils
+  2025-11-06 [event   ] NO  mkt=0.680→fill=0.673  outcome=0  pnl=$+431.90  (205% on $210, 56d)  Will 风无向 Web3Feng win the Synthetix trading competition?
+  2025-02-01 [event   ] NO  mkt=0.695→fill=0.688  outcome=0  pnl=$+404.81  (220% on $184, 58d)  Yoon out as president of South Korea before April?
+
+======================================================================
+TOP 10 LOSERS BY DOLLARS
+======================================================================
+  2026-01-11 [deadline] YES mkt=0.365→fill=0.372  outcome=0  pnl=$-372.64  (-100% on $373, 20d)  Israel strikes Iran by January 31, 2026?
+  2026-01-14 [field   ] NO  mkt=0.565→fill=0.557  outcome=1  pnl=$-367.96  (-100% on $368, 88d)  Will TISZA – Respect and Freedom Party (TISZA) win the most 
+  2026-01-11 [event   ] NO  mkt=0.515→fill=0.508  outcome=1  pnl=$-365.13  (-100% on $365, 21d)  UFC 325: Volkanovski vs. Lopes (Featherweight, Main Card)
+  2026-02-01 [event   ] YES mkt=0.021→fill=0.029  outcome=0  pnl=$-358.05  (-100% on $358, 28d)  Will Bitcoin dip to $35,000 in February?
+  2026-02-01 [event   ] YES mkt=0.021→fill=0.029  outcome=0  pnl=$-350.84  (-100% on $351, 28d)  Will Bitcoin reach $125,000 in February?
+  2026-01-17 [deadline] NO  mkt=0.150→fill=0.142  outcome=1  pnl=$-349.25  (-100% on $349, 73d)  Will Apple be the second-largest company in the world by mar
+  2026-01-27 [field   ] NO  mkt=0.475→fill=0.467  outcome=1  pnl=$-348.57  (-100% on $349, 26d)  Will AZ win on 2026-02-22?
+  2026-02-01 [event   ] NO  mkt=0.895→fill=0.888  outcome=1  pnl=$-343.77  (-100% on $344, 58d)  Will the government shutdown last 4 days or more?
+  2026-03-02 [event   ] YES mkt=0.025→fill=0.033  outcome=0  pnl=$-343.20  (-100% on $343, 29d)  Will Crude Oil (CL) hit (LOW) $45 by end of March?
+  2026-03-05 [event   ] NO  mkt=0.500→fill=0.492  outcome=1  pnl=$-342.92  (-100% on $343, 26d)  Flyers vs. Capitals: O/U 5.5
+
+=== PER-QTYPE BREAKDOWN (v3_best) ===
+  deadline   n=13  wins=11  hit=84.6%  pnl=$+1.14  avg_per_trade_ret=0.03%
+  event      n=89  wins=36  hit=40.4%  pnl=$+5,318.16  avg_per_trade_ret=27.63%
+  field      n=38  wins=29  hit=76.3%  pnl=$+3,746.72  avg_per_trade_ret=43.26%
+
+======================================================================
+EQUITY CURVE
+======================================================================
+
+  $    21,363  |                                                                                  *       |
+  $    20,488  |                                                                                ** *      |
+  $    19,612  |                                                                                    ***   |
+  $    18,737  |                                                                                         *|
+  $    17,861  |                                                                                       ** |
+  $    16,986  |                                                                               *          |
+  $    16,111  |                                                                ** **       ***           |
+  $    15,235  |                                                                  *  *** ***              |
+  $    14,360  |                                                                        *                 |
+  $    13,484  |                                                                                          |
+  $    12,609  |                                                                                          |
+  $    11,734  |                                                    *                                     |
+  $    10,858  |                                                **** ***********                          |
+  $     9,983  |************************************************··········································|
+              +------------------------------------------------------------------------------------------+
+              2023-02-23                                                2026-04-30
+
+wrote runs/live_iter/proper_backtest.json

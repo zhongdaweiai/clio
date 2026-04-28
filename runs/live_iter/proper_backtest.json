@@ -1,0 +1,5668 @@
+{
+  "main": {
+    "initial": 10000.0,
+    "final": 18828.145427800602,
+    "total_return": 0.8828145427800602,
+    "n_trades": 140,
+    "hit_rate": 0.5428571428571428,
+    "profit_factor": 1.6362652435256222,
+    "sharpe_annual": 1.4057282870074184,
+    "max_drawdown_pct": 0.1751529785488414,
+    "calmar": 5.040248530708756,
+    "avg_days_held": 93.35,
+    "trades": [
+      {
+        "open_date": "2024-01-26",
+        "close_date": "2024-02-20",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.37,
+        "fill_price": 0.3625,
+        "pred": 0.2561708542713568,
+        "edge": -0.11382914572864322,
+        "size_pct": 0.02,
+        "notional": 166.51998699605352,
+        "outcome": 0,
+        "payoff": 94.68783574285399,
+        "return_pct": 0.5686274509803924,
+        "days_held": 25,
+        "question": "Will Trump win the South Carolina Primary by more than 50% of the vote?",
+        "market_id": "254096"
+      },
+      {
+        "open_date": "2024-02-23",
+        "close_date": "2024-02-29",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.335,
+        "fill_price": 0.3275,
+        "pred": 0.25451630434782613,
+        "edge": -0.08048369565217389,
+        "size_pct": 0.02,
+        "notional": 158.7228756835709,
+        "outcome": 0,
+        "payoff": 77.29627031430405,
+        "return_pct": 0.4869888475836432,
+        "days_held": 6,
+        "question": "Will Ether Rock sell for over $600k at Sotheby\u2019s?",
+        "market_id": "254410"
+      },
+      {
+        "open_date": "2024-01-19",
+        "close_date": "2024-09-05",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.56,
+        "fill_price": 0.5525000000000001,
+        "pred": 0.3701708542713568,
+        "edge": -0.18982914572864323,
+        "size_pct": 0.02,
+        "notional": 173.4391651480902,
+        "outcome": 0,
+        "payoff": 214.13438825546345,
+        "return_pct": 1.2346368715083806,
+        "days_held": 230,
+        "question": "Will Kristi Noem win the 2024 Republican VP nomination?",
+        "market_id": "253994"
+      },
+      {
+        "open_date": "2024-01-19",
+        "close_date": "2024-09-05",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.3341708542713568,
+        "edge": -0.1658291457286432,
+        "size_pct": 0.02,
+        "notional": 169.9443659703562,
+        "outcome": 0,
+        "payoff": 164.92137978404023,
+        "return_pct": 0.9704433497536945,
+        "days_held": 230,
+        "question": "Will Robert F. Kennedy Jr. win the 2024 Republican VP nomination?",
+        "market_id": "253999"
+      },
+      {
+        "open_date": "2023-06-24",
+        "close_date": "2024-09-10",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.495,
+        "fill_price": 0.4875,
+        "pred": 0.4076413043478261,
+        "edge": -0.08735869565217391,
+        "size_pct": 0.02,
+        "notional": 195.97,
+        "outcome": 0,
+        "payoff": 186.4104878048781,
+        "return_pct": 0.9512195121951222,
+        "days_held": 444,
+        "question": "Trump and Biden both win nomination?",
+        "market_id": "251581"
+      },
+      {
+        "open_date": "2023-02-23",
+        "close_date": "2024-09-10",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.34,
+        "fill_price": 0.3325,
+        "pred": 0.2381708542713568,
+        "edge": -0.10182914572864321,
+        "size_pct": 0.02,
+        "notional": 200.0,
+        "outcome": 0,
+        "payoff": 99.62546816479403,
+        "return_pct": 0.49812734082397014,
+        "days_held": 565,
+        "question": "[Single Market] Will Ron DeSantis win the U.S. 2024 Republican presidential nomination?",
+        "market_id": "240379"
+      },
+      {
+        "open_date": "2024-09-06",
+        "close_date": "2024-09-17",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.023,
+        "fill_price": 0.0305,
+        "pred": 0.07671630434782609,
+        "edge": 0.05371630434782609,
+        "size_pct": 0.02,
+        "notional": 170.38157873184252,
+        "outcome": 0,
+        "payoff": -170.38157873184252,
+        "return_pct": -1.0,
+        "days_held": 11,
+        "question": "Fed cuts rates by 75 basis points in Sept meeting?",
+        "market_id": "504561"
+      },
+      {
+        "open_date": "2024-03-09",
+        "close_date": "2024-11-03",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.3341708542713568,
+        "edge": -0.1658291457286432,
+        "size_pct": 0.02,
+        "notional": 160.24499265850443,
+        "outcome": 0,
+        "payoff": 155.5086874567752,
+        "return_pct": 0.9704433497536943,
+        "days_held": 239,
+        "question": "Will a candidate from another party win North Carolina Presidential Election?",
+        "market_id": "255099"
+      },
+      {
+        "open_date": "2024-01-10",
+        "close_date": "2024-11-05",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.3341708542713568,
+        "edge": -0.1658291457286432,
+        "size_pct": 0.02,
+        "notional": 192.02120449999998,
+        "outcome": 0,
+        "payoff": 186.34570091871913,
+        "return_pct": 0.9704433497536943,
+        "days_held": 300,
+        "question": "Will RFK Jr. win the popular vote in the 2024 Presidential Election?",
+        "market_id": "253724"
+      },
+      {
+        "open_date": "2024-01-10",
+        "close_date": "2024-11-05",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.3341708542713568,
+        "edge": -0.1658291457286432,
+        "size_pct": 0.02,
+        "notional": 188.15197722932498,
+        "outcome": 0,
+        "payoff": 182.59083504520697,
+        "return_pct": 0.9704433497536944,
+        "days_held": 300,
+        "question": "Will Ron DeSantis win the popular vote in the 2024 Presidential Election?",
+        "market_id": "253728"
+      },
+      {
+        "open_date": "2024-01-10",
+        "close_date": "2024-11-05",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.3341708542713568,
+        "edge": -0.1658291457286432,
+        "size_pct": 0.02,
+        "notional": 184.36071488815406,
+        "outcome": 0,
+        "payoff": 178.911629719046,
+        "return_pct": 0.9704433497536943,
+        "days_held": 300,
+        "question": "Will Michelle Obama win the popular vote in the 2024 Presidential Election?",
+        "market_id": "253730"
+      },
+      {
+        "open_date": "2024-01-10",
+        "close_date": "2024-11-05",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.3341708542713568,
+        "edge": -0.1658291457286432,
+        "size_pct": 0.02,
+        "notional": 180.64584648315778,
+        "outcome": 0,
+        "payoff": 175.3065603802073,
+        "return_pct": 0.9704433497536945,
+        "days_held": 300,
+        "question": "Will Nikki Haley win the popular vote in the 2024 Presidential Election?",
+        "market_id": "253723"
+      },
+      {
+        "open_date": "2024-03-09",
+        "close_date": "2024-11-05",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.495,
+        "fill_price": 0.4875,
+        "pred": 0.3311708542713568,
+        "edge": -0.1638291457286432,
+        "size_pct": 0.006847702966878793,
+        "notional": 53.75996564526304,
+        "outcome": 1,
+        "payoff": -53.75996564526304,
+        "return_pct": -1.0,
+        "days_held": 241,
+        "question": "Will a Republican win Wisconsin Presidential Election?",
+        "market_id": "255206"
+      },
+      {
+        "open_date": "2024-09-08",
+        "close_date": "2024-11-05",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.845,
+        "fill_price": 0.8375,
+        "pred": 0.5291708542713567,
+        "edge": -0.3158291457286433,
+        "size_pct": 0.02,
+        "notional": 166.9483899203959,
+        "outcome": 1,
+        "payoff": -166.9483899203959,
+        "return_pct": -1.0,
+        "days_held": 58,
+        "question": "Will a Republican win Florida in the 2024 US Presidential Election?",
+        "market_id": "255083"
+      },
+      {
+        "open_date": "2024-11-12",
+        "close_date": "2024-11-30",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.49,
+        "fill_price": 0.4825,
+        "pred": 0.404141304347826,
+        "edge": -0.08585869565217397,
+        "size_pct": 0.02,
+        "notional": 179.49709522948572,
+        "outcome": 0,
+        "payoff": 167.35719506903737,
+        "return_pct": 0.9323671497584539,
+        "days_held": 18,
+        "question": "Will Bitcoin hit $100k in November?",
+        "market_id": "512600"
+      },
+      {
+        "open_date": "2024-11-14",
+        "close_date": "2024-11-30",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.606,
+        "fill_price": 0.5985,
+        "pred": 0.534516304347826,
+        "edge": -0.07148369565217394,
+        "size_pct": 0.016372569633928313,
+        "notional": 143.9805646307177,
+        "outcome": 1,
+        "payoff": -143.9805646307177,
+        "return_pct": -1.0,
+        "days_held": 16,
+        "question": "Will Ethereum reach $3,500 in November?",
+        "market_id": "511534"
+      },
+      {
+        "open_date": "2024-11-09",
+        "close_date": "2024-12-13",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.26,
+        "fill_price": 0.2525,
+        "pred": 0.18717085427135677,
+        "edge": -0.07282914572864324,
+        "size_pct": 0.02,
+        "notional": 186.95549347987318,
+        "outcome": 0,
+        "payoff": 63.15219010524143,
+        "return_pct": 0.33779264214046817,
+        "days_held": 34,
+        "question": "World Chess Championship 2024 Winner",
+        "market_id": "511107"
+      },
+      {
+        "open_date": "2024-12-02",
+        "close_date": "2024-12-16",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.976,
+        "fill_price": 0.9685,
+        "pred": 0.754141304347826,
+        "edge": -0.22185869565217398,
+        "size_pct": 0.02,
+        "notional": 179.91610618927305,
+        "outcome": 1,
+        "payoff": -179.91610618927305,
+        "return_pct": -1.0,
+        "days_held": 14,
+        "question": "Will there be 155,000,000-160,000,000 votes cast in the U.S. Presidential Election?",
+        "market_id": "510525"
+      },
+      {
+        "open_date": "2024-02-01",
+        "close_date": "2024-12-29",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.41114130434782603,
+        "edge": -0.08885869565217397,
+        "size_pct": 0.02,
+        "notional": 163.16460925808303,
+        "outcome": 0,
+        "payoff": 158.34200996966672,
+        "return_pct": 0.9704433497536942,
+        "days_held": 332,
+        "question": "Will 'Joker 2' gross most in 2024?",
+        "market_id": "254250"
+      },
+      {
+        "open_date": "2024-02-01",
+        "close_date": "2024-12-29",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.41114130434782603,
+        "edge": -0.08885869565217397,
+        "size_pct": 0.02,
+        "notional": 159.87684238153267,
+        "outcome": 0,
+        "payoff": 155.15141846877796,
+        "return_pct": 0.9704433497536943,
+        "days_held": 332,
+        "question": "Will 'Despicable Me 4' gross most in 2024?",
+        "market_id": "254252"
+      },
+      {
+        "open_date": "2024-02-01",
+        "close_date": "2024-12-29",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.41114130434782603,
+        "edge": -0.08885869565217397,
+        "size_pct": 0.02,
+        "notional": 156.65532400754478,
+        "outcome": 0,
+        "payoff": 152.02511738663208,
+        "return_pct": 0.9704433497536943,
+        "days_held": 332,
+        "question": "Will 'Furiosa: A Mad Max Saga' gross most in 2024?",
+        "market_id": "254251"
+      },
+      {
+        "open_date": "2024-01-18",
+        "close_date": "2024-12-30",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.4,
+        "fill_price": 0.3925,
+        "pred": 0.3411413043478261,
+        "edge": -0.05885869565217394,
+        "size_pct": 0.02,
+        "notional": 177.00583267652215,
+        "outcome": 0,
+        "payoff": 114.3617931284526,
+        "return_pct": 0.646090534979424,
+        "days_held": 347,
+        "question": "Andrew Tate guilty of human trafficking in 2024?",
+        "market_id": "253942"
+      },
+      {
+        "open_date": "2024-09-13",
+        "close_date": "2024-12-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.43,
+        "fill_price": 0.4225,
+        "pred": 0.3595163043478261,
+        "edge": -0.07048369565217388,
+        "size_pct": 0.02,
+        "notional": 171.58863136536948,
+        "outcome": 0,
+        "payoff": 125.53453983007549,
+        "return_pct": 0.7316017316017315,
+        "days_held": 109,
+        "question": "Israel x Hamas ceasefire in 2024?",
+        "market_id": "504642"
+      },
+      {
+        "open_date": "2024-09-16",
+        "close_date": "2025-01-06",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.86,
+        "fill_price": 0.8525,
+        "pred": 0.650016304347826,
+        "edge": -0.209983695652174,
+        "size_pct": 0.01397305069926669,
+        "notional": 117.46523350397729,
+        "outcome": 1,
+        "payoff": -117.46523350397729,
+        "return_pct": -1.0,
+        "days_held": 112,
+        "question": "Election certified on January 6?",
+        "market_id": "504830"
+      },
+      {
+        "open_date": "2024-12-30",
+        "close_date": "2025-01-07",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.655,
+        "fill_price": 0.6475000000000001,
+        "pred": 0.521391304347826,
+        "edge": -0.13360869565217404,
+        "size_pct": 0.02,
+        "notional": 190.27364094981405,
+        "outcome": 1,
+        "payoff": -190.27364094981405,
+        "return_pct": -1.0,
+        "days_held": 8,
+        "question": "Lions vs. 49ers",
+        "market_id": "516314"
+      },
+      {
+        "open_date": "2024-11-08",
+        "close_date": "2025-01-29",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.435,
+        "fill_price": 0.4275,
+        "pred": 0.36564130434782605,
+        "edge": -0.06935869565217395,
+        "size_pct": 0.02,
+        "notional": 190.8001158135155,
+        "outcome": 0,
+        "payoff": 142.47519565114038,
+        "return_pct": 0.7467248908296943,
+        "days_held": 82,
+        "question": "Fed decreases interest rates by 25 bps after January 2025 meeting?",
+        "market_id": "512323"
+      },
+      {
+        "open_date": "2025-01-08",
+        "close_date": "2025-01-29",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.915,
+        "fill_price": 0.9075000000000001,
+        "pred": 0.7068913043478261,
+        "edge": -0.20810869565217394,
+        "size_pct": 0.017258574684551393,
+        "notional": 155.78083231075925,
+        "outcome": 1,
+        "payoff": -155.78083231075925,
+        "return_pct": -1.0,
+        "days_held": 21,
+        "question": "No change in Fed interest rates after January 2025 meeting?",
+        "market_id": "512324"
+      },
+      {
+        "open_date": "2024-09-11",
+        "close_date": "2025-01-31",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.0285,
+        "fill_price": 0.036000000000000004,
+        "pred": 0.08082880434782608,
+        "edge": 0.05232880434782608,
+        "size_pct": 0.02,
+        "notional": 175.11724382851403,
+        "outcome": 0,
+        "payoff": -175.11724382851403,
+        "return_pct": -1.0,
+        "days_held": 142,
+        "question": "GOP wins popular vote by 3-4%?",
+        "market_id": "504677"
+      },
+      {
+        "open_date": "2024-11-09",
+        "close_date": "2025-01-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.475,
+        "fill_price": 0.46749999999999997,
+        "pred": 0.39364130434782607,
+        "edge": -0.0813586956521739,
+        "size_pct": 0.02,
+        "notional": 183.18834028625375,
+        "outcome": 0,
+        "payoff": 160.827322223143,
+        "return_pct": 0.8779342723004697,
+        "days_held": 83,
+        "question": "GOP wins popular vote by 1.75-2.0%?",
+        "market_id": "512348"
+      },
+      {
+        "open_date": "2025-01-31",
+        "close_date": "2025-02-16",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.53,
+        "fill_price": 0.5225000000000001,
+        "pred": 0.35142085427135683,
+        "edge": -0.1785791457286432,
+        "size_pct": 0.017721367230151983,
+        "notional": 159.79675036162234,
+        "outcome": 0,
+        "payoff": 174.85612997685382,
+        "return_pct": 1.0942408376963355,
+        "days_held": 16,
+        "question": "Super Bowl LIX Winner",
+        "market_id": "520358"
+      },
+      {
+        "open_date": "2024-12-17",
+        "close_date": "2025-02-23",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.03,
+        "fill_price": 0.0375,
+        "pred": 0.08214130434782607,
+        "edge": 0.05214130434782607,
+        "size_pct": 0.01883299397181009,
+        "notional": 164.4909736452014,
+        "outcome": 0,
+        "payoff": -164.4909736452014,
+        "return_pct": -1.0,
+        "days_held": 68,
+        "question": "Will Robert Habeck be the next Chancellor of Germany?",
+        "market_id": "515797"
+      },
+      {
+        "open_date": "2025-02-24",
+        "close_date": "2025-03-19",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.9605,
+        "fill_price": 0.9530000000000001,
+        "pred": 0.750203804347826,
+        "edge": -0.21029619565217406,
+        "size_pct": 0.01482400561693911,
+        "notional": 133.2634629533709,
+        "outcome": 1,
+        "payoff": -133.2634629533709,
+        "return_pct": -1.0,
+        "days_held": 23,
+        "question": "No change in Fed interest rates after March 2025 meeting?",
+        "market_id": "516010"
+      },
+      {
+        "open_date": "2025-02-01",
+        "close_date": "2025-03-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.695,
+        "fill_price": 0.6875,
+        "pred": 0.545016304347826,
+        "edge": -0.14998369565217395,
+        "size_pct": 0.02,
+        "notional": 184.00399992886872,
+        "outcome": 0,
+        "payoff": 404.80879984351117,
+        "return_pct": 2.1999999999999997,
+        "days_held": 58,
+        "question": "Yoon out as president of South Korea before April?",
+        "market_id": "514670"
+      },
+      {
+        "open_date": "2024-11-07",
+        "close_date": "2025-03-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.925,
+        "fill_price": 0.9175000000000001,
+        "pred": 0.708641304347826,
+        "edge": -0.21635869565217403,
+        "size_pct": 0.02,
+        "notional": 194.72380039140225,
+        "outcome": 1,
+        "payoff": -194.72380039140225,
+        "return_pct": -1.0,
+        "days_held": 144,
+        "question": "Will RFK be a member of the Trump administration?",
+        "market_id": "511868"
+      },
+      {
+        "open_date": "2025-01-30",
+        "close_date": "2025-03-31",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.0525,
+        "fill_price": 0.06,
+        "pred": 0.10357880434782607,
+        "edge": 0.05107880434782607,
+        "size_pct": 0.02,
+        "notional": 184.0522439133209,
+        "outcome": 0,
+        "payoff": -184.0522439133209,
+        "return_pct": -1.0,
+        "days_held": 60,
+        "question": "Trudeau no confidence motion passes before April?",
+        "market_id": "515768"
+      },
+      {
+        "open_date": "2025-04-02",
+        "close_date": "2025-04-28",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.685,
+        "fill_price": 0.6775000000000001,
+        "pred": 0.600141304347826,
+        "edge": -0.08485869565217408,
+        "size_pct": 0.02,
+        "notional": 179.5508600917042,
+        "outcome": 1,
+        "payoff": -179.5508600917042,
+        "return_pct": -1.0,
+        "days_held": 26,
+        "question": "Will Mark Carney be the next Canadian Prime Minister?",
+        "market_id": "516769"
+      },
+      {
+        "open_date": "2024-11-07",
+        "close_date": "2025-04-29",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.595,
+        "fill_price": 0.5875,
+        "pred": 0.47764130434782603,
+        "edge": -0.11735869565217394,
+        "size_pct": 0.02,
+        "notional": 198.72817307894297,
+        "outcome": 0,
+        "payoff": 283.03709499122186,
+        "return_pct": 1.4242424242424245,
+        "days_held": 173,
+        "question": "Will Trump create Bitcoin reserve in first 100 days?",
+        "market_id": "512250"
+      },
+      {
+        "open_date": "2024-09-10",
+        "close_date": "2025-05-25",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.025,
+        "fill_price": 0.0325,
+        "pred": 0.07864130434782608,
+        "edge": 0.05364130434782608,
+        "size_pct": 0.012785868633598962,
+        "notional": 104.57841957217306,
+        "outcome": 0,
+        "payoff": -104.57841957217306,
+        "return_pct": -1.0,
+        "days_held": 257,
+        "question": "Tottenham Hotspur wins the Premier League?",
+        "market_id": "506744"
+      },
+      {
+        "open_date": "2024-12-15",
+        "close_date": "2025-05-31",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.033,
+        "fill_price": 0.0405,
+        "pred": 0.08537880434782608,
+        "edge": 0.052378804347826075,
+        "size_pct": 0.02,
+        "notional": 178.27609087035782,
+        "outcome": 0,
+        "payoff": -178.27609087035782,
+        "return_pct": -1.0,
+        "days_held": 167,
+        "question": "Will Bayer Leverkusen win the UEFA Champions League?",
+        "market_id": "507290"
+      },
+      {
+        "open_date": "2024-09-18",
+        "close_date": "2025-05-31",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.0205,
+        "fill_price": 0.028,
+        "pred": 0.07549130434782608,
+        "edge": 0.05499130434782608,
+        "size_pct": 0.016273443260910764,
+        "notional": 134.87771190526564,
+        "outcome": 0,
+        "payoff": -134.87771190526564,
+        "return_pct": -1.0,
+        "days_held": 255,
+        "question": "Will Sturm Graz win the UEFA Champions League?",
+        "market_id": "507317"
+      },
+      {
+        "open_date": "2025-01-01",
+        "close_date": "2025-05-31",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.0205,
+        "fill_price": 0.028,
+        "pred": 0.07689130434782608,
+        "edge": 0.05639130434782608,
+        "size_pct": 0.02,
+        "notional": 190.65420358345978,
+        "outcome": 0,
+        "payoff": -190.65420358345978,
+        "return_pct": -1.0,
+        "days_held": 150,
+        "question": "Will Borussia Dortmund win the UEFA Champions League?",
+        "market_id": "507294"
+      },
+      {
+        "open_date": "2025-01-07",
+        "close_date": "2025-05-31",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.3,
+        "fill_price": 0.2925,
+        "pred": 0.2231708542713568,
+        "edge": -0.07682914572864319,
+        "size_pct": 0.012484066923176424,
+        "notional": 114.12012783806313,
+        "outcome": 0,
+        "payoff": 47.18040620866921,
+        "return_pct": 0.4134275618374559,
+        "days_held": 144,
+        "question": "Will Jalen Johnson win 2024-25 NBA Most Improved?",
+        "market_id": "514194"
+      },
+      {
+        "open_date": "2025-05-28",
+        "close_date": "2025-06-03",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.895,
+        "fill_price": 0.8875000000000001,
+        "pred": 0.5681708542713568,
+        "edge": -0.3268291457286432,
+        "size_pct": 0.010439356246009893,
+        "notional": 92.57892278690724,
+        "outcome": 1,
+        "payoff": -92.57892278690724,
+        "return_pct": -1.0,
+        "days_held": 6,
+        "question": "Will Lee Jun-seok win 3rd place in the South Korean presidential election?",
+        "market_id": "543988"
+      },
+      {
+        "open_date": "2025-05-06",
+        "close_date": "2025-06-03",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.465,
+        "fill_price": 0.4575,
+        "pred": 0.3131708542713568,
+        "edge": -0.1518291457286432,
+        "size_pct": 0.02,
+        "notional": 181.82901607747112,
+        "outcome": 0,
+        "payoff": 153.33967715289043,
+        "return_pct": 0.8433179723502306,
+        "days_held": 28,
+        "question": "Will Han Duck-soo win 2nd place in the South Korean presidential election?",
+        "market_id": "541391"
+      },
+      {
+        "open_date": "2025-05-06",
+        "close_date": "2025-06-03",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.385,
+        "fill_price": 0.3775,
+        "pred": 0.2651708542713568,
+        "edge": -0.11982914572864323,
+        "size_pct": 0.004456602855703688,
+        "notional": 39.70056835488958,
+        "outcome": 1,
+        "payoff": -39.70056835488958,
+        "return_pct": -1.0,
+        "days_held": 28,
+        "question": "Will Kim Moon-soo win 2nd place in the South Korean presidential election?",
+        "market_id": "541392"
+      },
+      {
+        "open_date": "2025-02-02",
+        "close_date": "2025-06-05",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.0225,
+        "fill_price": 0.03,
+        "pred": 0.07662880434782608,
+        "edge": 0.05412880434782608,
+        "size_pct": 0.019256356070741172,
+        "notional": 173.5925061634175,
+        "outcome": 1,
+        "payoff": 5612.824365950501,
+        "return_pct": 32.33333333333334,
+        "days_held": 123,
+        "question": "Will the Indiana Pacers win the Eastern Conference?",
+        "market_id": "508806"
+      },
+      {
+        "open_date": "2025-06-03",
+        "close_date": "2025-06-19",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.455,
+        "fill_price": 0.4475,
+        "pred": 0.37964130434782606,
+        "edge": -0.07535869565217396,
+        "size_pct": 0.02,
+        "notional": 175.12441667012808,
+        "outcome": 0,
+        "payoff": 141.84285332105395,
+        "return_pct": 0.8099547511312216,
+        "days_held": 16,
+        "question": "Thunder vs. Pacers",
+        "market_id": "549224"
+      },
+      {
+        "open_date": "2024-12-31",
+        "close_date": "2025-06-24",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.245,
+        "fill_price": 0.2375,
+        "pred": 0.18117085427135676,
+        "edge": -0.06382914572864323,
+        "size_pct": 0.02,
+        "notional": 188.51022111501854,
+        "outcome": 0,
+        "payoff": 58.71629838008775,
+        "return_pct": 0.31147540983606564,
+        "days_held": 175,
+        "question": "Will Andrew Cuomo win the Democratic Primary for Mayor of New York City?",
+        "market_id": "516785"
+      },
+      {
+        "open_date": "2025-06-26",
+        "close_date": "2025-06-30",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.43,
+        "fill_price": 0.4225,
+        "pred": 0.37526630434782604,
+        "edge": -0.05473369565217395,
+        "size_pct": 0.014362636979949932,
+        "notional": 187.6185595927509,
+        "outcome": 1,
+        "payoff": -187.6185595927509,
+        "return_pct": -1.0,
+        "days_held": 4,
+        "question": "Fordow nuclear facility destroyed before July?",
+        "market_id": "552650"
+      },
+      {
+        "open_date": "2025-06-18",
+        "close_date": "2025-06-30",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.022,
+        "fill_price": 0.0295,
+        "pred": 0.07312880434782608,
+        "edge": 0.05112880434782608,
+        "size_pct": 0.019999999999999997,
+        "notional": 260.2227981510008,
+        "outcome": 0,
+        "payoff": -260.2227981510008,
+        "return_pct": -1.0,
+        "days_held": 12,
+        "question": "Will the US officially declare war on Iran before July?",
+        "market_id": "552106"
+      },
+      {
+        "open_date": "2025-06-15",
+        "close_date": "2025-06-30",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.765,
+        "fill_price": 0.7575000000000001,
+        "pred": 0.674516304347826,
+        "edge": -0.09048369565217407,
+        "size_pct": 0.02,
+        "notional": 271.0354815538102,
+        "outcome": 1,
+        "payoff": -271.0354815538102,
+        "return_pct": -1.0,
+        "days_held": 15,
+        "question": "Major cyberattack on Iran in June?",
+        "market_id": "551655"
+      },
+      {
+        "open_date": "2024-12-03",
+        "close_date": "2025-06-30",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.38,
+        "fill_price": 0.3725,
+        "pred": 0.29651630434782605,
+        "edge": -0.08348369565217395,
+        "size_pct": 0.016985580058698935,
+        "notional": 149.72007200514508,
+        "outcome": 0,
+        "payoff": 88.87765230584313,
+        "return_pct": 0.5936254980079684,
+        "days_held": 209,
+        "question": "Will Lara Trump be appointed as the next Florida senator?",
+        "market_id": "513140"
+      },
+      {
+        "open_date": "2025-06-01",
+        "close_date": "2025-07-01",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.035,
+        "fill_price": 0.0425,
+        "pred": 0.08564130434782607,
+        "edge": 0.05064130434782607,
+        "size_pct": 0.02,
+        "notional": 178.72574033793754,
+        "outcome": 0,
+        "payoff": -178.72574033793754,
+        "return_pct": -1.0,
+        "days_held": 30,
+        "question": "Will Solana dip to $80 in June?",
+        "market_id": "548760"
+      },
+      {
+        "open_date": "2025-06-09",
+        "close_date": "2025-07-13",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.38,
+        "fill_price": 0.3725,
+        "pred": 0.27042085427135676,
+        "edge": -0.10957914572864325,
+        "size_pct": 0.02,
+        "notional": 294.0273709811106,
+        "outcome": 0,
+        "payoff": 174.5421445266354,
+        "return_pct": 0.5936254980079683,
+        "days_held": 34,
+        "question": "Will Carlos Alcaraz win Wimbledon 2025?",
+        "market_id": "541777"
+      },
+      {
+        "open_date": "2025-03-20",
+        "close_date": "2025-07-30",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.0355,
+        "fill_price": 0.043,
+        "pred": 0.08599130434782608,
+        "edge": 0.05049130434782608,
+        "size_pct": 0.010500273452706382,
+        "notional": 92.98458127571439,
+        "outcome": 0,
+        "payoff": -92.98458127571439,
+        "return_pct": -1.0,
+        "days_held": 132,
+        "question": "Fed increases interest rates by 25+ bps after July 2025 meeting?",
+        "market_id": "528975"
+      },
+      {
+        "open_date": "2025-07-08",
+        "close_date": "2025-07-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.795,
+        "fill_price": 0.7875000000000001,
+        "pred": 0.617641304347826,
+        "edge": -0.177358695652174,
+        "size_pct": 0.009374689857039535,
+        "notional": 116.06380075284369,
+        "outcome": 1,
+        "payoff": -116.06380075284369,
+        "return_pct": -1.0,
+        "days_held": 23,
+        "question": "Another Israel strike on Yemen in July?",
+        "market_id": "560832"
+      },
+      {
+        "open_date": "2025-07-01",
+        "close_date": "2025-08-01",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.475,
+        "fill_price": 0.46749999999999997,
+        "pred": 0.39364130434782607,
+        "edge": -0.0813586956521739,
+        "size_pct": 0.016467654682621527,
+        "notional": 207.31824511197328,
+        "outcome": 1,
+        "payoff": -207.31824511197328,
+        "return_pct": -1.0,
+        "days_held": 31,
+        "question": "Will Solana reach $180 in July?",
+        "market_id": "557786"
+      },
+      {
+        "open_date": "2025-06-10",
+        "close_date": "2025-09-17",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.036,
+        "fill_price": 0.0435,
+        "pred": 0.08634130434782608,
+        "edge": 0.050341304347826084,
+        "size_pct": 0.02,
+        "notional": 288.1027194558412,
+        "outcome": 0,
+        "payoff": -288.1027194558412,
+        "return_pct": -1.0,
+        "days_held": 99,
+        "question": "Fed decreases interest rates by 50+ bps after September 2025 meeting?",
+        "market_id": "542537"
+      },
+      {
+        "open_date": "2025-06-10",
+        "close_date": "2025-09-17",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.365,
+        "fill_price": 0.3575,
+        "pred": 0.28951630434782605,
+        "edge": -0.07548369565217394,
+        "size_pct": 0.02,
+        "notional": 276.6091560481811,
+        "outcome": 1,
+        "payoff": -276.6091560481811,
+        "return_pct": -1.0,
+        "days_held": 99,
+        "question": "Fed decreases interest rates by 25 bps after September 2025 meeting?",
+        "market_id": "542538"
+      },
+      {
+        "open_date": "2025-09-24",
+        "close_date": "2025-10-01",
+        "qtype": "deadline",
+        "side": "YES",
+        "open_price": 0.67,
+        "fill_price": 0.6775,
+        "pred": 0.7375,
+        "edge": 0.0675,
+        "size_pct": 0.02,
+        "notional": 241.2740788949652,
+        "outcome": 1,
+        "payoff": 114.85002279502032,
+        "return_pct": 0.4760147601476014,
+        "days_held": 7,
+        "question": "US government shutdown by October 1?",
+        "market_id": "585592"
+      },
+      {
+        "open_date": "2025-06-20",
+        "close_date": "2025-10-29",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.475,
+        "fill_price": 0.46749999999999997,
+        "pred": 0.39364130434782607,
+        "edge": -0.0813586956521739,
+        "size_pct": 0.01900638925583576,
+        "notional": 248.33620304648457,
+        "outcome": 0,
+        "payoff": 218.0228637074771,
+        "return_pct": 0.8779342723004696,
+        "days_held": 131,
+        "question": "No change in Fed interest rates after October 2025 meeting?",
+        "market_id": "553812"
+      },
+      {
+        "open_date": "2025-10-02",
+        "close_date": "2025-11-01",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.385,
+        "fill_price": 0.3775,
+        "pred": 0.330641304347826,
+        "edge": -0.054358695652173994,
+        "size_pct": 0.02,
+        "notional": 239.45753460395943,
+        "outcome": 0,
+        "payoff": 145.2132037156541,
+        "return_pct": 0.6064257028112449,
+        "days_held": 30,
+        "question": "Will Ethereum reach $5000 in October?",
+        "market_id": "618977"
+      },
+      {
+        "open_date": "2025-06-10",
+        "close_date": "2025-11-04",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.695,
+        "fill_price": 0.6875,
+        "pred": 0.43917085427135677,
+        "edge": -0.2558291457286432,
+        "size_pct": 0.02,
+        "notional": 282.297449658806,
+        "outcome": 0,
+        "payoff": 621.0543892493731,
+        "return_pct": 2.1999999999999997,
+        "days_held": 147,
+        "question": "Will Andrew Cuomo win the 2025 NYC mayoral election?",
+        "market_id": "538929"
+      },
+      {
+        "open_date": "2025-11-02",
+        "close_date": "2025-11-09",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.488,
+        "fill_price": 0.4805,
+        "pred": 0.3921458542713568,
+        "edge": -0.0958541457286432,
+        "size_pct": 0.02,
+        "notional": 245.81712669420045,
+        "outcome": 0,
+        "payoff": 227.3630979337118,
+        "return_pct": 0.9249278152069295,
+        "days_held": 7,
+        "question": "Will KT Rolster win LoL Worlds 2025?",
+        "market_id": "633305"
+      },
+      {
+        "open_date": "2025-10-30",
+        "close_date": "2025-11-09",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.615,
+        "fill_price": 0.6075,
+        "pred": 0.49339130434782597,
+        "edge": -0.12160869565217403,
+        "size_pct": 0.02,
+        "notional": 243.95964661676888,
+        "outcome": 0,
+        "payoff": 377.5935931711774,
+        "return_pct": 1.5477707006369432,
+        "days_held": 10,
+        "question": "Colts vs. Steelers",
+        "market_id": "650209"
+      },
+      {
+        "open_date": "2025-11-02",
+        "close_date": "2025-11-15",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.505,
+        "fill_price": 0.4975,
+        "pred": 0.41551630434782605,
+        "edge": -0.08948369565217396,
+        "size_pct": 0.0017388396276949074,
+        "notional": 20.94118571782883,
+        "outcome": 1,
+        "payoff": -20.94118571782883,
+        "return_pct": -1.0,
+        "days_held": 13,
+        "question": "Devils vs. Capitals",
+        "market_id": "639741"
+      },
+      {
+        "open_date": "2025-11-05",
+        "close_date": "2025-11-17",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.415,
+        "fill_price": 0.4075,
+        "pred": 0.340266304347826,
+        "edge": -0.07473369565217397,
+        "size_pct": 0.02,
+        "notional": 258.50898347726167,
+        "outcome": 0,
+        "payoff": 177.79309834090145,
+        "return_pct": 0.6877637130801687,
+        "days_held": 12,
+        "question": "Steelers vs. Chargers",
+        "market_id": "660431"
+      },
+      {
+        "open_date": "2025-10-30",
+        "close_date": "2025-11-19",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.455,
+        "fill_price": 0.4475,
+        "pred": 0.3717663043478261,
+        "edge": -0.08323369565217392,
+        "size_pct": 0.003820629716573188,
+        "notional": 45.664903703861,
+        "outcome": 1,
+        "payoff": -45.664903703861,
+        "return_pct": -1.0,
+        "days_held": 20,
+        "question": "Flames vs. Sabres",
+        "market_id": "646465"
+      },
+      {
+        "open_date": "2025-11-10",
+        "close_date": "2025-11-23",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.77,
+        "fill_price": 0.7625000000000001,
+        "pred": 0.600141304347826,
+        "edge": -0.16985869565217404,
+        "size_pct": 0.02,
+        "notional": 270.95654313358415,
+        "outcome": 1,
+        "payoff": -270.95654313358415,
+        "return_pct": -1.0,
+        "days_held": 13,
+        "question": "Texans vs. Titans",
+        "market_id": "672302"
+      },
+      {
+        "open_date": "2025-11-10",
+        "close_date": "2025-11-23",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.49,
+        "fill_price": 0.4825,
+        "pred": 0.4023913043478261,
+        "edge": -0.08760869565217388,
+        "size_pct": 0.02,
+        "notional": 265.49676878944246,
+        "outcome": 0,
+        "payoff": 247.54046558629165,
+        "return_pct": 0.9323671497584537,
+        "days_held": 13,
+        "question": "Hurricanes vs. Sabres",
+        "market_id": "651763"
+      },
+      {
+        "open_date": "2025-11-18",
+        "close_date": "2025-11-30",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.405,
+        "fill_price": 0.3975,
+        "pred": 0.28092085427135677,
+        "edge": -0.12407914572864326,
+        "size_pct": 0.0034104598909682855,
+        "notional": 44.73654381243705,
+        "outcome": 0,
+        "payoff": 29.51498118745846,
+        "return_pct": 0.6597510373443982,
+        "days_held": 12,
+        "question": "Will Rixi Ramona Moncada Godoy win the 2025 Honduras presidential election?",
+        "market_id": "668098"
+      },
+      {
+        "open_date": "2025-11-11",
+        "close_date": "2025-12-08",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.41114130434782603,
+        "edge": -0.08885869565217397,
+        "size_pct": 0.00430742472860361,
+        "notional": 56.028182960047616,
+        "outcome": 0,
+        "payoff": 54.372177552361464,
+        "return_pct": 0.9704433497536943,
+        "days_held": 27,
+        "question": "Blue Jackets vs. Capitals",
+        "market_id": "674486"
+      },
+      {
+        "open_date": "2025-11-26",
+        "close_date": "2025-12-09",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.3341708542713568,
+        "edge": -0.1658291457286432,
+        "size_pct": 0.02,
+        "notional": 271.0606555531577,
+        "outcome": 0,
+        "payoff": 263.0490105614387,
+        "return_pct": 0.9704433497536945,
+        "days_held": 13,
+        "question": "Will Sporting CP win on 2025-12-09?",
+        "market_id": "703940"
+      },
+      {
+        "open_date": "2025-11-26",
+        "close_date": "2025-12-09",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.3341708542713568,
+        "edge": -0.1658291457286432,
+        "size_pct": 0.02,
+        "notional": 265.59878334376157,
+        "outcome": 1,
+        "payoff": -265.59878334376157,
+        "return_pct": -1.0,
+        "days_held": 13,
+        "question": "Will Olympiak\u00f3s SFP win on 2025-12-09?",
+        "market_id": "703935"
+      },
+      {
+        "open_date": "2025-08-01",
+        "close_date": "2025-12-10",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.385,
+        "fill_price": 0.3775,
+        "pred": 0.330641304347826,
+        "edge": -0.054358695652173994,
+        "size_pct": 0.02,
+        "notional": 249.512601136665,
+        "outcome": 0,
+        "payoff": 151.3108545045639,
+        "return_pct": 0.6064257028112449,
+        "days_held": 131,
+        "question": "No change in Fed interest rates after December 2025 meeting?",
+        "market_id": "570362"
+      },
+      {
+        "open_date": "2025-11-21",
+        "close_date": "2025-12-19",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.81,
+        "fill_price": 0.8025000000000001,
+        "pred": 0.628141304347826,
+        "edge": -0.18185869565217405,
+        "size_pct": 0.002458870043510089,
+        "notional": 32.143283336551576,
+        "outcome": 1,
+        "payoff": -32.143283336551576,
+        "return_pct": -1.0,
+        "days_held": 28,
+        "question": "Will Anthony Joshua win his boxing match against Jake Paul?",
+        "market_id": "691855"
+      },
+      {
+        "open_date": "2025-12-12",
+        "close_date": "2025-12-19",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.535,
+        "fill_price": 0.5275000000000001,
+        "pred": 0.419016304347826,
+        "edge": -0.11598369565217403,
+        "size_pct": 0.020000000000000004,
+        "notional": 270.57734209774287,
+        "outcome": 0,
+        "payoff": 302.0731173683797,
+        "return_pct": 1.1164021164021167,
+        "days_held": 7,
+        "question": "Flyers vs. Sabres",
+        "market_id": "695306"
+      },
+      {
+        "open_date": "2025-12-10",
+        "close_date": "2025-12-24",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.53,
+        "fill_price": 0.5225000000000001,
+        "pred": 0.43739130434782614,
+        "edge": -0.09260869565217389,
+        "size_pct": 0.020000000000000004,
+        "notional": 273.6389509915211,
+        "outcome": 1,
+        "payoff": -273.6389509915211,
+        "return_pct": -1.0,
+        "days_held": 14,
+        "question": "Panthers vs. Hurricanes",
+        "market_id": "705766"
+      },
+      {
+        "open_date": "2025-12-12",
+        "close_date": "2025-12-25",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.58,
+        "fill_price": 0.5725,
+        "pred": 0.4671413043478261,
+        "edge": -0.11285869565217388,
+        "size_pct": 0.02,
+        "notional": 276.14159524186647,
+        "outcome": 1,
+        "payoff": -276.14159524186647,
+        "return_pct": -1.0,
+        "days_held": 13,
+        "question": "Cowboys vs. Commanders",
+        "market_id": "913322"
+      },
+      {
+        "open_date": "2025-12-20",
+        "close_date": "2025-12-30",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.825,
+        "fill_price": 0.8175,
+        "pred": 0.6727663043478259,
+        "edge": -0.15223369565217404,
+        "size_pct": 0.02,
+        "notional": 275.1124969886552,
+        "outcome": 0,
+        "payoff": 1232.3532399354829,
+        "return_pct": 4.47945205479452,
+        "days_held": 10,
+        "question": "Rams vs. Falcons",
+        "market_id": "947816"
+      },
+      {
+        "open_date": "2025-12-03",
+        "close_date": "2025-12-30",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.41114130434782603,
+        "edge": -0.08885869565217397,
+        "size_pct": 0.003728731844943533,
+        "notional": 48.796421856166944,
+        "outcome": 1,
+        "payoff": -48.796421856166944,
+        "return_pct": -1.0,
+        "days_held": 27,
+        "question": "Sharks vs. Ducks",
+        "market_id": "798679"
+      },
+      {
+        "open_date": "2025-07-15",
+        "close_date": "2025-12-31",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.037,
+        "fill_price": 0.0445,
+        "pred": 0.08704130434782607,
+        "edge": 0.050041304347826075,
+        "size_pct": 0.02,
+        "notional": 254.64367110952188,
+        "outcome": 0,
+        "payoff": -254.64367110952188,
+        "return_pct": -1.0,
+        "days_held": 169,
+        "question": "Will Satoshi move any Bitcoin in 2025?",
+        "market_id": "563368"
+      },
+      {
+        "open_date": "2025-08-04",
+        "close_date": "2025-12-31",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.3341708542713568,
+        "edge": -0.1658291457286432,
+        "size_pct": 0.01303532847870119,
+        "notional": 159.347063463822,
+        "outcome": 0,
+        "payoff": 154.6372980412459,
+        "return_pct": 0.9704433497536942,
+        "days_held": 149,
+        "question": "Will David Williams win the 2025 National Heads-Up Poker Championship?",
+        "market_id": "571202"
+      },
+      {
+        "open_date": "2025-09-28",
+        "close_date": "2025-12-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.715,
+        "fill_price": 0.7075,
+        "pred": 0.630766304347826,
+        "edge": -0.08423369565217398,
+        "size_pct": 0.017118395737273844,
+        "notional": 202.3500563311145,
+        "outcome": 1,
+        "payoff": -202.3500563311145,
+        "return_pct": -1.0,
+        "days_held": 94,
+        "question": "Lighter market cap (FDV) >$2B one day after launch?",
+        "market_id": "556033"
+      },
+      {
+        "open_date": "2025-04-01",
+        "close_date": "2025-12-31",
+        "qtype": "deadline",
+        "side": "NO",
+        "open_price": 0.145,
+        "fill_price": 0.13749999999999998,
+        "pred": 0.036250000000000004,
+        "edge": -0.10874999999999999,
+        "size_pct": 0.02,
+        "notional": 187.01149236016195,
+        "outcome": 0,
+        "payoff": 29.813426318286673,
+        "return_pct": 0.1594202898550724,
+        "days_held": 274,
+        "question": "Will Ethereum hit $5,000 by December 31?",
+        "market_id": "516878"
+      },
+      {
+        "open_date": "2025-06-16",
+        "close_date": "2025-12-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.265,
+        "fill_price": 0.2575,
+        "pred": 0.20376630434782608,
+        "edge": -0.06123369565217393,
+        "size_pct": 0.02,
+        "notional": 265.57411660050093,
+        "outcome": 1,
+        "payoff": -265.57411660050093,
+        "return_pct": -1.0,
+        "days_held": 198,
+        "question": "Trump declassifies UFO files in 2025?",
+        "market_id": "537892"
+      },
+      {
+        "open_date": "2025-04-01",
+        "close_date": "2025-12-31",
+        "qtype": "deadline",
+        "side": "NO",
+        "open_price": 0.22,
+        "fill_price": 0.2125,
+        "pred": 0.13874999999999998,
+        "edge": -0.08125000000000002,
+        "size_pct": 0.02,
+        "notional": 183.24321078910467,
+        "outcome": 0,
+        "payoff": 49.44658068912349,
+        "return_pct": 0.2698412698412699,
+        "days_held": 274,
+        "question": "Will Bitcoin reach $150,000 by December 31, 2025?",
+        "market_id": "516864"
+      },
+      {
+        "open_date": "2025-07-01",
+        "close_date": "2025-12-31",
+        "qtype": "deadline",
+        "side": "NO",
+        "open_price": 0.095,
+        "fill_price": 0.0875,
+        "pred": 0.033749999999999995,
+        "edge": -0.061250000000000006,
+        "size_pct": 0.02,
+        "notional": 262.2506505770231,
+        "outcome": 0,
+        "payoff": 25.14732265807072,
+        "return_pct": 0.09589041095890415,
+        "days_held": 183,
+        "question": "Will Bitcoin dip to $50,000 by December 31, 2025?",
+        "market_id": "516872"
+      },
+      {
+        "open_date": "2025-01-01",
+        "close_date": "2025-12-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.505,
+        "fill_price": 0.4975,
+        "pred": 0.4146413043478261,
+        "edge": -0.09035869565217391,
+        "size_pct": 0.02,
+        "notional": 186.81252138125308,
+        "outcome": 1,
+        "payoff": -186.81252138125308,
+        "return_pct": -1.0,
+        "days_held": 364,
+        "question": "Will Google have the top AI model on December 31?",
+        "market_id": "516960"
+      },
+      {
+        "open_date": "2025-01-01",
+        "close_date": "2025-12-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.535,
+        "fill_price": 0.5275000000000001,
+        "pred": 0.4356413043478261,
+        "edge": -0.09935869565217392,
+        "size_pct": 0.0012092273127160774,
+        "notional": 11.067347116342717,
+        "outcome": 0,
+        "payoff": 12.355609743641871,
+        "return_pct": 1.1164021164021165,
+        "days_held": 364,
+        "question": "Will 2025 be the hottest year on record?",
+        "market_id": "516938"
+      },
+      {
+        "open_date": "2024-12-30",
+        "close_date": "2025-12-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.385,
+        "fill_price": 0.3775,
+        "pred": 0.330641304347826,
+        "edge": -0.054358695652173994,
+        "size_pct": 0.02,
+        "notional": 186.43962708467527,
+        "outcome": 0,
+        "payoff": 113.06178188669062,
+        "return_pct": 0.606425702811245,
+        "days_held": 366,
+        "question": "Weed rescheduled in 2025?",
+        "market_id": "516714"
+      },
+      {
+        "open_date": "2025-02-17",
+        "close_date": "2025-12-31",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.43,
+        "fill_price": 0.4225,
+        "pred": 0.2981708542713568,
+        "edge": -0.13182914572864318,
+        "size_pct": 0.02,
+        "notional": 183.49148793787867,
+        "outcome": 0,
+        "payoff": 134.2426903095303,
+        "return_pct": 0.7316017316017317,
+        "days_held": 317,
+        "question": "Will C\u0103lin Georgescu win the Romanian presidential election?",
+        "market_id": "519065"
+      },
+      {
+        "open_date": "2025-07-01",
+        "close_date": "2025-12-31",
+        "qtype": "deadline",
+        "side": "NO",
+        "open_price": 0.145,
+        "fill_price": 0.13749999999999998,
+        "pred": 0.06125,
+        "edge": -0.08374999999999999,
+        "size_pct": 0.02,
+        "notional": 256.9662999678961,
+        "outcome": 0,
+        "payoff": 40.965642023867474,
+        "return_pct": 0.1594202898550724,
+        "days_held": 183,
+        "question": "Will Apple be the largest company in the world by market cap on December 31?",
+        "market_id": "516821"
+      },
+      {
+        "open_date": "2025-11-18",
+        "close_date": "2026-01-01",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.91,
+        "fill_price": 0.9025000000000001,
+        "pred": 0.6981413043478261,
+        "edge": -0.21185869565217397,
+        "size_pct": 0.02,
+        "notional": 267.74408264805345,
+        "outcome": 0,
+        "payoff": 2478.3490727165995,
+        "return_pct": 9.256410256410264,
+        "days_held": 44,
+        "question": "Over $400M committed to the Monad public sale?",
+        "market_id": "688108"
+      },
+      {
+        "open_date": "2025-11-06",
+        "close_date": "2026-01-01",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.68,
+        "fill_price": 0.6725000000000001,
+        "pred": 0.5677663043478262,
+        "edge": -0.11223369565217389,
+        "size_pct": 0.016607199479900147,
+        "notional": 210.33020421478204,
+        "outcome": 0,
+        "payoff": 431.8994269753923,
+        "return_pct": 2.053435114503818,
+        "days_held": 56,
+        "question": "Will \u98ce\u65e0\u5411 Web3Feng win the Synthetix trading competition?",
+        "market_id": "641809"
+      },
+      {
+        "open_date": "2025-12-25",
+        "close_date": "2026-01-04",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.36,
+        "fill_price": 0.3525,
+        "pred": 0.297391304347826,
+        "edge": -0.06260869565217397,
+        "size_pct": 0.018317171175966707,
+        "notional": 245.14744504065902,
+        "outcome": 0,
+        "payoff": 133.4586476862275,
+        "return_pct": 0.5444015444015444,
+        "days_held": 10,
+        "question": "Panthers vs. Buccaneers",
+        "market_id": "988320"
+      },
+      {
+        "open_date": "2026-01-04",
+        "close_date": "2026-01-11",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.245,
+        "fill_price": 0.2375,
+        "pred": 0.18117085427135676,
+        "edge": -0.06382914572864323,
+        "size_pct": 0.02,
+        "notional": 388.37738694948143,
+        "outcome": 0,
+        "payoff": 120.97000577115,
+        "return_pct": 0.3114754098360657,
+        "days_held": 7,
+        "question": "Will Telstar 1963 win on 2026-01-11?",
+        "market_id": "933181"
+      },
+      {
+        "open_date": "2025-12-20",
+        "close_date": "2026-01-16",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.41,
+        "fill_price": 0.40249999999999997,
+        "pred": 0.3481413043478261,
+        "edge": -0.06185869565217389,
+        "size_pct": 0.006993735049380281,
+        "notional": 94.26470124354682,
+        "outcome": 0,
+        "payoff": 63.50048912222192,
+        "return_pct": 0.6736401673640168,
+        "days_held": 27,
+        "question": "Canucks vs. Blue Jackets",
+        "market_id": "972672"
+      },
+      {
+        "open_date": "2026-01-05",
+        "close_date": "2026-01-18",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.635,
+        "fill_price": 0.6275000000000001,
+        "pred": 0.5056413043478261,
+        "edge": -0.12935869565217395,
+        "size_pct": 0.02,
+        "notional": 388.1237044569872,
+        "outcome": 0,
+        "payoff": 653.8191263000255,
+        "return_pct": 1.6845637583892619,
+        "days_held": 13,
+        "question": "LoL: Los Ratones vs Karmine Corp Blue (BO1)",
+        "market_id": "1105560"
+      },
+      {
+        "open_date": "2025-05-02",
+        "close_date": "2026-01-26",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.035,
+        "fill_price": 0.0425,
+        "pred": 0.08564130434782607,
+        "edge": 0.05064130434782607,
+        "size_pct": 0.02,
+        "notional": 185.56821562225966,
+        "outcome": 0,
+        "payoff": -185.56821562225966,
+        "return_pct": -1.0,
+        "days_held": 269,
+        "question": "Will the Panthers win the NFC Championship?",
+        "market_id": "540240"
+      },
+      {
+        "open_date": "2026-01-11",
+        "close_date": "2026-01-31",
+        "qtype": "deadline",
+        "side": "YES",
+        "open_price": 0.365,
+        "fill_price": 0.3725,
+        "pred": 0.42125,
+        "edge": 0.05625000000000002,
+        "size_pct": 0.02,
+        "notional": 372.6399061241635,
+        "outcome": 0,
+        "payoff": -372.6399061241635,
+        "return_pct": -1.0,
+        "days_held": 20,
+        "question": "Israel strikes Iran by January 31, 2026?",
+        "market_id": "994900"
+      },
+      {
+        "open_date": "2025-12-13",
+        "close_date": "2026-01-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.615,
+        "fill_price": 0.6075,
+        "pred": 0.49164130434782605,
+        "edge": -0.12335869565217394,
+        "size_pct": 0.005487255584485764,
+        "notional": 72.74048908886061,
+        "outcome": 1,
+        "payoff": -72.74048908886061,
+        "return_pct": -1.0,
+        "days_held": 49,
+        "question": "Will Trump talk to Emmanuel Macron in January?",
+        "market_id": "920396"
+      },
+      {
+        "open_date": "2025-12-27",
+        "close_date": "2026-01-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.41114130434782603,
+        "edge": -0.08885869565217397,
+        "size_pct": 0.015380498171471716,
+        "notional": 202.04577997832757,
+        "outcome": 1,
+        "payoff": -202.04577997832757,
+        "return_pct": -1.0,
+        "days_held": 35,
+        "question": "Will Silver (SI) hit (HIGH) $110 by end of January?",
+        "market_id": "1032303"
+      },
+      {
+        "open_date": "2026-01-17",
+        "close_date": "2026-01-31",
+        "qtype": "deadline",
+        "side": "YES",
+        "open_price": 0.705,
+        "fill_price": 0.7124999999999999,
+        "pred": 0.7687499999999999,
+        "edge": 0.06374999999999997,
+        "size_pct": 0.02,
+        "notional": 356.4366512377574,
+        "outcome": 1,
+        "payoff": 143.82531541172676,
+        "return_pct": 0.4035087719298248,
+        "days_held": 14,
+        "question": "Will the US not strike Iran by January 31, 2026?",
+        "market_id": "1167607"
+      },
+      {
+        "open_date": "2026-01-08",
+        "close_date": "2026-01-31",
+        "qtype": "deadline",
+        "side": "NO",
+        "open_price": 0.065,
+        "fill_price": 0.0575,
+        "pred": 0.010000000000000009,
+        "edge": -0.05499999999999999,
+        "size_pct": 0.02,
+        "notional": 380.3030118121789,
+        "outcome": 0,
+        "payoff": 23.20151000445651,
+        "return_pct": 0.06100795755968162,
+        "days_held": 23,
+        "question": "Another US strike on Venezuela by January 17?",
+        "market_id": "1097350"
+      },
+      {
+        "open_date": "2026-01-03",
+        "close_date": "2026-01-31",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.35,
+        "fill_price": 0.34249999999999997,
+        "pred": 0.24417085427135676,
+        "edge": -0.10582914572864321,
+        "size_pct": 0.02,
+        "notional": 396.36412404907026,
+        "outcome": 0,
+        "payoff": 206.47104560731043,
+        "return_pct": 0.5209125475285172,
+        "days_held": 28,
+        "question": "Will Aryna Sabalenka win the 2026 Women's Australian Open?",
+        "market_id": "1087422"
+      },
+      {
+        "open_date": "2026-01-11",
+        "close_date": "2026-02-01",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.515,
+        "fill_price": 0.5075000000000001,
+        "pred": 0.4216413043478261,
+        "edge": -0.09335869565217392,
+        "size_pct": 0.02,
+        "notional": 365.13121201576155,
+        "outcome": 1,
+        "payoff": -365.13121201576155,
+        "return_pct": -1.0,
+        "days_held": 21,
+        "question": "UFC 325: Volkanovski vs. Lopes (Featherweight, Main Card)",
+        "market_id": "1155784"
+      },
+      {
+        "open_date": "2026-02-01",
+        "close_date": "2026-02-14",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.51,
+        "fill_price": 0.5025000000000001,
+        "pred": 0.41814130434782604,
+        "edge": -0.09185869565217397,
+        "size_pct": 0.02,
+        "notional": 330.0560780818445,
+        "outcome": 1,
+        "payoff": -330.0560780818445,
+        "return_pct": -1.0,
+        "days_held": 13,
+        "question": "Aston Villa FC vs. Newcastle United FC: O/U 3.5",
+        "market_id": "1309706"
+      },
+      {
+        "open_date": "2026-01-27",
+        "close_date": "2026-02-22",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.475,
+        "fill_price": 0.46749999999999997,
+        "pred": 0.3191708542713568,
+        "edge": -0.1558291457286432,
+        "size_pct": 0.02,
+        "notional": 348.57209091087316,
+        "outcome": 1,
+        "payoff": -348.57209091087316,
+        "return_pct": -1.0,
+        "days_held": 26,
+        "question": "Will AZ win on 2026-02-22?",
+        "market_id": "1271550"
+      },
+      {
+        "open_date": "2026-02-04",
+        "close_date": "2026-02-24",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.475,
+        "fill_price": 0.46749999999999997,
+        "pred": 0.31992085427135675,
+        "edge": -0.15507914572864323,
+        "size_pct": 0.019181673936346844,
+        "notional": 310.1728927427648,
+        "outcome": 1,
+        "payoff": -310.1728927427648,
+        "return_pct": -1.0,
+        "days_held": 20,
+        "question": "Will Southampton FC win on 2026-02-24?",
+        "market_id": "1281265"
+      },
+      {
+        "open_date": "2026-01-28",
+        "close_date": "2026-02-28",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.715,
+        "fill_price": 0.7075,
+        "pred": 0.561641304347826,
+        "edge": -0.15335869565217397,
+        "size_pct": 0.02,
+        "notional": 341.54836327901904,
+        "outcome": 0,
+        "payoff": 826.1383487860035,
+        "return_pct": 2.418803418803419,
+        "days_held": 31,
+        "question": "Will Google have the best AI model at the end of February 2026?",
+        "market_id": "1277190"
+      },
+      {
+        "open_date": "2026-01-28",
+        "close_date": "2026-02-28",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.405,
+        "fill_price": 0.3975,
+        "pred": 0.344641304347826,
+        "edge": -0.060358695652174,
+        "size_pct": 0.02,
+        "notional": 334.66616375894677,
+        "outcome": 1,
+        "payoff": -334.66616375894677,
+        "return_pct": -1.0,
+        "days_held": 31,
+        "question": "Will Anthropic have the best AI model at the end of February 2026?",
+        "market_id": "1277193"
+      },
+      {
+        "open_date": "2026-02-01",
+        "close_date": "2026-03-01",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.021,
+        "fill_price": 0.0285,
+        "pred": 0.07584130434782609,
+        "edge": 0.05484130434782608,
+        "size_pct": 0.02,
+        "notional": 358.05467372165396,
+        "outcome": 0,
+        "payoff": -358.05467372165396,
+        "return_pct": -1.0,
+        "days_held": 28,
+        "question": "Will Bitcoin dip to $35,000 in February?",
+        "market_id": "1303410"
+      },
+      {
+        "open_date": "2026-02-01",
+        "close_date": "2026-03-01",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.0215,
+        "fill_price": 0.028999999999999998,
+        "pred": 0.07619130434782607,
+        "edge": 0.05469130434782608,
+        "size_pct": 0.02,
+        "notional": 350.83987204616267,
+        "outcome": 0,
+        "payoff": -350.83987204616267,
+        "return_pct": -1.0,
+        "days_held": 28,
+        "question": "Will Bitcoin reach $125,000 in February?",
+        "market_id": "1303358"
+      },
+      {
+        "open_date": "2026-02-01",
+        "close_date": "2026-03-01",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.0285,
+        "fill_price": 0.036000000000000004,
+        "pred": 0.08109130434782608,
+        "edge": 0.05259130434782608,
+        "size_pct": 0.02,
+        "notional": 336.84347408465015,
+        "outcome": 0,
+        "payoff": -336.84347408465015,
+        "return_pct": -1.0,
+        "days_held": 28,
+        "question": "Will Bitcoin dip to $45,000 in February?",
+        "market_id": "1303406"
+      },
+      {
+        "open_date": "2026-01-26",
+        "close_date": "2026-03-01",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.49,
+        "fill_price": 0.4825,
+        "pred": 0.404141304347826,
+        "edge": -0.08585869565217397,
+        "size_pct": 0.02,
+        "notional": 355.7402570912621,
+        "outcome": 0,
+        "payoff": 331.6805295585196,
+        "return_pct": 0.9323671497584537,
+        "days_held": 34,
+        "question": "Will Palantir dip to $126 in February?",
+        "market_id": "1262895"
+      },
+      {
+        "open_date": "2026-02-18",
+        "close_date": "2026-03-04",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.655,
+        "fill_price": 0.6475000000000001,
+        "pred": 0.541516304347826,
+        "edge": -0.11348369565217398,
+        "size_pct": 0.014901608065129876,
+        "notional": 236.3063212503439,
+        "outcome": 0,
+        "payoff": 434.06622130382334,
+        "return_pct": 1.836879432624114,
+        "days_held": 14,
+        "question": "Panthers vs. Devils",
+        "market_id": "1334111"
+      },
+      {
+        "open_date": "2026-02-28",
+        "close_date": "2026-03-26",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.46,
+        "fill_price": 0.4525,
+        "pred": 0.3101708542713568,
+        "edge": -0.1498291457286432,
+        "size_pct": 0.02,
+        "notional": 312.39389194653415,
+        "outcome": 0,
+        "payoff": 258.18855909736385,
+        "return_pct": 0.8264840182648402,
+        "days_held": 26,
+        "question": "Will Romania win on 2026-03-26?",
+        "market_id": "1455206"
+      },
+      {
+        "open_date": "2026-03-08",
+        "close_date": "2026-03-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.855,
+        "fill_price": 0.8475,
+        "pred": 0.754141304347826,
+        "edge": -0.10085869565217398,
+        "size_pct": 0.02,
+        "notional": 336.00731133182677,
+        "outcome": 1,
+        "payoff": -336.00731133182677,
+        "return_pct": -1.0,
+        "days_held": 23,
+        "question": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+        "market_id": "1467766"
+      },
+      {
+        "open_date": "2026-02-01",
+        "close_date": "2026-03-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.895,
+        "fill_price": 0.8875000000000001,
+        "pred": 0.754141304347826,
+        "edge": -0.14085869565217402,
+        "size_pct": 0.02,
+        "notional": 343.77044862443245,
+        "outcome": 1,
+        "payoff": -343.77044862443245,
+        "return_pct": -1.0,
+        "days_held": 58,
+        "question": "Will the government shutdown last 4 days or more?",
+        "market_id": "1299961"
+      },
+      {
+        "open_date": "2026-03-16",
+        "close_date": "2026-03-31",
+        "qtype": "deadline",
+        "side": "NO",
+        "open_price": 0.235,
+        "fill_price": 0.22749999999999998,
+        "pred": 0.15999999999999998,
+        "edge": -0.07500000000000001,
+        "size_pct": 0.014377314334689844,
+        "notional": 222.6562485847462,
+        "outcome": 0,
+        "payoff": 65.5719049230159,
+        "return_pct": 0.29449838187702276,
+        "days_held": 15,
+        "question": "Will another country strike Iran by March 31?",
+        "market_id": "1472026"
+      },
+      {
+        "open_date": "2026-01-19",
+        "close_date": "2026-03-31",
+        "qtype": "deadline",
+        "side": "NO",
+        "open_price": 0.07,
+        "fill_price": 0.0625,
+        "pred": 0.01,
+        "edge": -0.060000000000000005,
+        "size_pct": 0.02,
+        "notional": 363.0558321082432,
+        "outcome": 0,
+        "payoff": 24.20372214054953,
+        "return_pct": 0.06666666666666662,
+        "days_held": 71,
+        "question": "Will Russia capture Kostyantynivka by January 31?",
+        "market_id": "898678"
+      },
+      {
+        "open_date": "2026-03-03",
+        "close_date": "2026-03-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.41114130434782603,
+        "edge": -0.08885869565217397,
+        "size_pct": 0.02,
+        "notional": 336.2857987023957,
+        "outcome": 1,
+        "payoff": -336.2857987023957,
+        "return_pct": -1.0,
+        "days_held": 28,
+        "question": "Will Gold (GC) hit (LOW) $4,700 by end of March?",
+        "market_id": "1483739"
+      },
+      {
+        "open_date": "2026-03-15",
+        "close_date": "2026-03-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.63,
+        "fill_price": 0.6225,
+        "pred": 0.575641304347826,
+        "edge": -0.054358695652173994,
+        "size_pct": 0.02,
+        "notional": 316.10219995296296,
+        "outcome": 1,
+        "payoff": -316.10219995296296,
+        "return_pct": -1.0,
+        "days_held": 16,
+        "question": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on March 31?",
+        "market_id": "1541749"
+      },
+      {
+        "open_date": "2026-03-10",
+        "close_date": "2026-03-31",
+        "qtype": "deadline",
+        "side": "NO",
+        "open_price": 0.135,
+        "fill_price": 0.1275,
+        "pred": 0.017500000000000016,
+        "edge": -0.1175,
+        "size_pct": 0.02,
+        "notional": 322.60264321371943,
+        "outcome": 0,
+        "payoff": 47.14250660143176,
+        "return_pct": 0.14613180515759308,
+        "days_held": 21,
+        "question": "US announces military support of Kurds in Iran by March 31?",
+        "market_id": "1493939"
+      },
+      {
+        "open_date": "2026-03-05",
+        "close_date": "2026-03-31",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.41114130434782603,
+        "edge": -0.08885869565217397,
+        "size_pct": 0.02,
+        "notional": 342.91709070962577,
+        "outcome": 1,
+        "payoff": -342.91709070962577,
+        "return_pct": -1.0,
+        "days_held": 26,
+        "question": "Flyers vs. Capitals: O/U 5.5",
+        "market_id": "1499908"
+      },
+      {
+        "open_date": "2026-03-02",
+        "close_date": "2026-03-31",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.025,
+        "fill_price": 0.0325,
+        "pred": 0.07864130434782608,
+        "edge": 0.05364130434782608,
+        "size_pct": 0.02,
+        "notional": 343.2013049981076,
+        "outcome": 0,
+        "payoff": -343.2013049981076,
+        "return_pct": -1.0,
+        "days_held": 29,
+        "question": "Will Crude Oil (CL) hit (LOW) $45 by end of March?",
+        "market_id": "1467777"
+      },
+      {
+        "open_date": "2026-01-17",
+        "close_date": "2026-03-31",
+        "qtype": "deadline",
+        "side": "NO",
+        "open_price": 0.15,
+        "fill_price": 0.1425,
+        "pred": 0.06125,
+        "edge": -0.08875,
+        "size_pct": 0.02,
+        "notional": 349.2544527153166,
+        "outcome": 1,
+        "payoff": -349.2544527153166,
+        "return_pct": -1.0,
+        "days_held": 73,
+        "question": "Will Apple be the second-largest company in the world by market cap on March 31?",
+        "market_id": "1004797"
+      },
+      {
+        "open_date": "2026-03-10",
+        "close_date": "2026-04-04",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.5,
+        "fill_price": 0.4925,
+        "pred": 0.41114130434782603,
+        "edge": -0.08885869565217397,
+        "size_pct": 0.02,
+        "notional": 329.2367640084905,
+        "outcome": 0,
+        "payoff": 319.5056281264661,
+        "return_pct": 0.9704433497536943,
+        "days_held": 25,
+        "question": "Islanders vs. Hurricanes",
+        "market_id": "1537932"
+      },
+      {
+        "open_date": "2026-01-14",
+        "close_date": "2026-04-12",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.565,
+        "fill_price": 0.5575,
+        "pred": 0.37317085427135677,
+        "edge": -0.19182914572864318,
+        "size_pct": 0.02,
+        "notional": 367.9607659480566,
+        "outcome": 1,
+        "payoff": -367.9607659480566,
+        "return_pct": -1.0,
+        "days_held": 88,
+        "question": "Will TISZA \u2013 Respect and Freedom Party (TISZA) win the most seats in the next Hungarian parliamentary election?",
+        "market_id": "948043"
+      },
+      {
+        "open_date": "2026-01-14",
+        "close_date": "2026-04-12",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.415,
+        "fill_price": 0.4075,
+        "pred": 0.2869208542713568,
+        "edge": -0.1280791457286432,
+        "size_pct": 0.02,
+        "notional": 360.54635651420324,
+        "outcome": 0,
+        "payoff": 247.97070089373472,
+        "return_pct": 0.6877637130801688,
+        "days_held": 88,
+        "question": "Will Fidesz\u2013KDNP win the most seats in the next Hungarian parliamentary election?",
+        "market_id": "948038"
+      },
+      {
+        "open_date": "2026-04-01",
+        "close_date": "2026-04-12",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.42,
+        "fill_price": 0.4125,
+        "pred": 0.2861708542713568,
+        "edge": -0.13382914572864318,
+        "size_pct": 0.02,
+        "notional": 331.1818673825887,
+        "outcome": 1,
+        "payoff": -331.1818673825887,
+        "return_pct": -1.0,
+        "days_held": 11,
+        "question": "Will FC Internazionale Milano win on 2026-04-12?",
+        "market_id": "1784029"
+      },
+      {
+        "open_date": "2026-04-05",
+        "close_date": "2026-04-16",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.545,
+        "fill_price": 0.5375000000000001,
+        "pred": 0.3611708542713568,
+        "edge": -0.18382914572864323,
+        "size_pct": 0.02,
+        "notional": 318.2594769859386,
+        "outcome": 0,
+        "payoff": 369.8691219025774,
+        "return_pct": 1.1621621621621625,
+        "days_held": 11,
+        "question": "Will RC Celta de Vigo win on 2026-04-16?",
+        "market_id": "1833091"
+      },
+      {
+        "open_date": "2026-04-04",
+        "close_date": "2026-04-17",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.31,
+        "fill_price": 0.3025,
+        "pred": 0.2201708542713568,
+        "edge": -0.0898291457286432,
+        "size_pct": 0.02,
+        "notional": 311.5626158526708,
+        "outcome": 0,
+        "payoff": 135.1221380579683,
+        "return_pct": 0.43369175627240136,
+        "days_held": 13,
+        "question": "Will Fabiano Caruana win the 2026 FIDE Candidates Tournament?",
+        "market_id": "1632626"
+      },
+      {
+        "open_date": "2026-03-29",
+        "close_date": "2026-04-18",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.23,
+        "fill_price": 0.2225,
+        "pred": 0.1279208542713568,
+        "edge": -0.10207914572864321,
+        "size_pct": 0.02,
+        "notional": 316.6578662358061,
+        "outcome": 0,
+        "payoff": 90.61913213822106,
+        "return_pct": 0.2861736334405145,
+        "days_held": 20,
+        "question": "Will Real Sociedad de F\u00fatbol win on 2026-04-18?",
+        "market_id": "1684082"
+      },
+      {
+        "open_date": "2026-04-09",
+        "close_date": "2026-04-21",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.395,
+        "fill_price": 0.3875,
+        "pred": 0.337641304347826,
+        "edge": -0.057358695652174,
+        "size_pct": 0.02,
+        "notional": 305.5628405718998,
+        "outcome": 0,
+        "payoff": 193.31526648426313,
+        "return_pct": 0.6326530612244897,
+        "days_held": 12,
+        "question": "New York Mets vs. Los Angeles Dodgers",
+        "market_id": "1906812"
+      },
+      {
+        "open_date": "2026-04-22",
+        "close_date": "2026-04-26",
+        "qtype": "field",
+        "side": "NO",
+        "open_price": 0.685,
+        "fill_price": 0.6775000000000001,
+        "pred": 0.44517085427135683,
+        "edge": -0.23982914572864322,
+        "size_pct": 0.02,
+        "notional": 352.3954596471217,
+        "outcome": 0,
+        "payoff": 740.3036400338763,
+        "return_pct": 2.1007751937984507,
+        "days_held": 4,
+        "question": "Will FC Internazionale Milano win on 2026-04-26?",
+        "market_id": "1963598"
+      },
+      {
+        "open_date": "2026-04-09",
+        "close_date": "2026-04-30",
+        "qtype": "deadline",
+        "side": "YES",
+        "open_price": 0.655,
+        "fill_price": 0.6625,
+        "pred": 0.7125,
+        "edge": 0.057499999999999996,
+        "size_pct": 0.020000000000000004,
+        "notional": 311.84654852467196,
+        "outcome": 1,
+        "payoff": 158.86522283332346,
+        "return_pct": 0.5094339622641509,
+        "days_held": 21,
+        "question": "Military action against Iran ends by April 17, 2026?",
+        "market_id": "1706358"
+      },
+      {
+        "open_date": "2026-04-04",
+        "close_date": "2026-04-30",
+        "qtype": "event",
+        "side": "NO",
+        "open_price": 0.47,
+        "fill_price": 0.46249999999999997,
+        "pred": 0.390141304347826,
+        "edge": -0.07985869565217396,
+        "size_pct": 0.02,
+        "notional": 324.5085527548295,
+        "outcome": 1,
+        "payoff": -324.5085527548295,
+        "return_pct": -1.0,
+        "days_held": 26,
+        "question": "Will WTI Crude Oil (WTI) hit (LOW) $80 in April?",
+        "market_id": "1712301"
+      },
+      {
+        "open_date": "2026-04-04",
+        "close_date": "2026-04-30",
+        "qtype": "event",
+        "side": "YES",
+        "open_price": 0.029,
+        "fill_price": 0.036500000000000005,
+        "pred": 0.08529130434782609,
+        "edge": 0.05629130434782609,
+        "size_pct": 0.02,
+        "notional": 317.9697054168197,
+        "outcome": 0,
+        "payoff": -317.9697054168197,
+        "return_pct": -1.0,
+        "days_held": 26,
+        "question": "Military action against Iran ends on April 17, 2026?",
+        "market_id": "1706407"
+      }
+    ],
+    "equity_curve": [
+      [
+        "2023-02-23",
+        10000.0
+      ],
+      [
+        "2023-02-23",
+        9998.5
+      ],
+      [
+        "2023-06-24",
+        9997.030224999999
+      ],
+      [
+        "2024-01-10",
+        9995.59006596625
+      ],
+      [
+        "2024-01-10",
+        9994.178926137029
+      ],
+      [
+        "2024-01-10",
+        9992.796220775368
+      ],
+      [
+        "2024-01-10",
+        9991.441376926745
+      ],
+      [
+        "2024-01-18",
+        9990.11383318167
+      ],
+      [
+        "2024-01-19",
+        9988.81303944306
+      ],
+      [
+        "2024-01-19",
+        9987.538456698281
+      ],
+      [
+        "2024-01-23",
+        9987.538456698281
+      ],
+      [
+        "2024-01-26",
+        9986.289556795811
+      ],
+      [
+        "2024-02-01",
+        9985.065822226376
+      ],
+      [
+        "2024-02-01",
+        9983.866745908514
+      ],
+      [
+        "2024-02-01",
+        9982.691830978456
+      ],
+      [
+        "2024-02-20",
+        10077.37966672131
+      ],
+      [
+        "2024-02-21",
+        10077.37966672131
+      ],
+      [
+        "2024-02-23",
+        10076.189245153684
+      ],
+      [
+        "2024-02-29",
+        10153.485515467988
+      ],
+      [
+        "2024-03-09",
+        10152.28367802305
+      ],
+      [
+        "2024-03-09",
+        10151.88047828071
+      ],
+      [
+        "2024-07-04",
+        10151.88047828071
+      ],
+      [
+        "2024-07-18",
+        10151.88047828071
+      ],
+      [
+        "2024-07-20",
+        10151.88047828071
+      ],
+      [
+        "2024-07-20",
+        10151.88047828071
+      ],
+      [
+        "2024-07-20",
+        10151.88047828071
+      ],
+      [
+        "2024-08-11",
+        10151.88047828071
+      ],
+      [
+        "2024-08-18",
+        10151.88047828071
+      ],
+      [
+        "2024-08-19",
+        10151.88047828071
+      ],
+      [
+        "2024-08-19",
+        10151.88047828071
+      ],
+      [
+        "2024-08-19",
+        10151.88047828071
+      ],
+      [
+        "2024-08-19",
+        10151.88047828071
+      ],
+      [
+        "2024-08-19",
+        10151.88047828071
+      ],
+      [
+        "2024-08-19",
+        10151.88047828071
+      ],
+      [
+        "2024-08-22",
+        10151.88047828071
+      ],
+      [
+        "2024-08-22",
+        10151.88047828071
+      ],
+      [
+        "2024-08-22",
+        10151.88047828071
+      ],
+      [
+        "2024-08-22",
+        10151.88047828071
+      ],
+      [
+        "2024-08-31",
+        10151.88047828071
+      ],
+      [
+        "2024-08-31",
+        10151.88047828071
+      ],
+      [
+        "2024-09-05",
+        10151.88047828071
+      ],
+      [
+        "2024-09-05",
+        10151.88047828071
+      ],
+      [
+        "2024-09-05",
+        10151.88047828071
+      ],
+      [
+        "2024-09-05",
+        10366.014866536172
+      ],
+      [
+        "2024-09-05",
+        10530.936246320212
+      ],
+      [
+        "2024-09-05",
+        10530.936246320212
+      ],
+      [
+        "2024-09-06",
+        10529.658384479724
+      ],
+      [
+        "2024-09-08",
+        10528.406271555321
+      ],
+      [
+        "2024-09-08",
+        10528.406271555321
+      ],
+      [
+        "2024-09-09",
+        10528.406271555321
+      ],
+      [
+        "2024-09-10",
+        10527.621933408529
+      ],
+      [
+        "2024-09-10",
+        10714.032421213407
+      ],
+      [
+        "2024-09-10",
+        10813.6578893782
+      ],
+      [
+        "2024-09-11",
+        10812.344510049486
+      ],
+      [
+        "2024-09-13",
+        10811.057595314247
+      ],
+      [
+        "2024-09-16",
+        10810.176606062967
+      ],
+      [
+        "2024-09-17",
+        10639.795027331123
+      ],
+      [
+        "2024-09-18",
+        10638.783444491834
+      ],
+      [
+        "2024-09-18",
+        10638.783444491834
+      ],
+      [
+        "2024-09-18",
+        10638.783444491834
+      ],
+      [
+        "2024-09-18",
+        10638.783444491834
+      ],
+      [
+        "2024-10-06",
+        10638.783444491834
+      ],
+      [
+        "2024-10-06",
+        10638.783444491834
+      ],
+      [
+        "2024-10-28",
+        10638.783444491834
+      ],
+      [
+        "2024-10-31",
+        10638.783444491834
+      ],
+      [
+        "2024-11-03",
+        10794.29213194861
+      ],
+      [
+        "2024-11-04",
+        10794.29213194861
+      ],
+      [
+        "2024-11-04",
+        10794.29213194861
+      ],
+      [
+        "2024-11-04",
+        10794.29213194861
+      ],
+      [
+        "2024-11-04",
+        10794.29213194861
+      ],
+      [
+        "2024-11-04",
+        10794.29213194861
+      ],
+      [
+        "2024-11-04",
+        10794.29213194861
+      ],
+      [
+        "2024-11-05",
+        10794.29213194861
+      ],
+      [
+        "2024-11-05",
+        10980.637832867329
+      ],
+      [
+        "2024-11-05",
+        10980.637832867329
+      ],
+      [
+        "2024-11-05",
+        11163.228667912535
+      ],
+      [
+        "2024-11-05",
+        11163.228667912535
+      ],
+      [
+        "2024-11-05",
+        11342.140297631582
+      ],
+      [
+        "2024-11-05",
+        11342.140297631582
+      ],
+      [
+        "2024-11-05",
+        11342.140297631582
+      ],
+      [
+        "2024-11-05",
+        11342.140297631582
+      ],
+      [
+        "2024-11-05",
+        11342.140297631582
+      ],
+      [
+        "2024-11-05",
+        11342.140297631582
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11517.44685801179
+      ],
+      [
+        "2024-11-05",
+        11463.686892366526
+      ],
+      [
+        "2024-11-05",
+        11296.738502446131
+      ],
+      [
+        "2024-11-05",
+        11296.738502446131
+      ],
+      [
+        "2024-11-05",
+        11296.738502446131
+      ],
+      [
+        "2024-11-05",
+        11296.738502446131
+      ],
+      [
+        "2024-11-05",
+        11296.738502446131
+      ],
+      [
+        "2024-11-05",
+        11296.738502446131
+      ],
+      [
+        "2024-11-05",
+        11296.738502446131
+      ],
+      [
+        "2024-11-07",
+        11295.248041148037
+      ],
+      [
+        "2024-11-07",
+        11293.787612645103
+      ],
+      [
+        "2024-11-07",
+        11293.787612645103
+      ],
+      [
+        "2024-11-07",
+        11293.787612645103
+      ],
+      [
+        "2024-11-08",
+        11292.356611776502
+      ],
+      [
+        "2024-11-09",
+        11290.954445575402
+      ],
+      [
+        "2024-11-09",
+        11289.580533023256
+      ],
+      [
+        "2024-11-12",
+        11288.234304809033
+      ],
+      [
+        "2024-11-14",
+        11287.154450574304
+      ],
+      [
+        "2024-11-30",
+        11454.51164564334
+      ],
+      [
+        "2024-11-30",
+        11310.531081012623
+      ],
+      [
+        "2024-12-02",
+        11309.181710216202
+      ],
+      [
+        "2024-12-03",
+        11308.058809676164
+      ],
+      [
+        "2024-12-08",
+        11308.058809676164
+      ],
+      [
+        "2024-12-13",
+        11371.210999781404
+      ],
+      [
+        "2024-12-15",
+        11369.873929099876
+      ],
+      [
+        "2024-12-16",
+        11369.873929099876
+      ],
+      [
+        "2024-12-16",
+        11369.873929099876
+      ],
+      [
+        "2024-12-16",
+        11189.957822910605
+      ],
+      [
+        "2024-12-17",
+        11188.724140608265
+      ],
+      [
+        "2024-12-17",
+        11188.724140608265
+      ],
+      [
+        "2024-12-17",
+        11188.724140608265
+      ],
+      [
+        "2024-12-29",
+        11347.066150577932
+      ],
+      [
+        "2024-12-29",
+        11502.21756904671
+      ],
+      [
+        "2024-12-29",
+        11654.242686433343
+      ],
+      [
+        "2024-12-29",
+        11654.242686433343
+      ],
+      [
+        "2024-12-29",
+        11654.242686433343
+      ],
+      [
+        "2024-12-30",
+        11652.815634126218
+      ],
+      [
+        "2024-12-30",
+        11651.417336923081
+      ],
+      [
+        "2024-12-30",
+        11651.417336923081
+      ],
+      [
+        "2024-12-30",
+        11651.417336923081
+      ],
+      [
+        "2024-12-30",
+        11651.417336923081
+      ],
+      [
+        "2024-12-30",
+        11651.417336923081
+      ],
+      [
+        "2024-12-30",
+        11651.417336923081
+      ],
+      [
+        "2024-12-30",
+        11765.779130051535
+      ],
+      [
+        "2024-12-31",
+        11764.365303393171
+      ],
+      [
+        "2024-12-31",
+        11764.365303393171
+      ],
+      [
+        "2024-12-31",
+        11764.365303393171
+      ],
+      [
+        "2024-12-31",
+        11889.899843223246
+      ],
+      [
+        "2024-12-31",
+        11889.899843223246
+      ],
+      [
+        "2024-12-31",
+        11889.899843223246
+      ],
+      [
+        "2024-12-31",
+        11889.899843223246
+      ],
+      [
+        "2024-12-31",
+        11889.899843223246
+      ],
+      [
+        "2024-12-31",
+        11889.899843223246
+      ],
+      [
+        "2024-12-31",
+        11889.899843223246
+      ],
+      [
+        "2025-01-01",
+        11888.469936696369
+      ],
+      [
+        "2025-01-01",
+        11887.068842786011
+      ],
+      [
+        "2025-01-01",
+        11886.98583768264
+      ],
+      [
+        "2025-01-02",
+        11886.98583768264
+      ],
+      [
+        "2025-01-06",
+        11769.520604178662
+      ],
+      [
+        "2025-01-07",
+        11768.664703219876
+      ],
+      [
+        "2025-01-07",
+        11578.39106227006
+      ],
+      [
+        "2025-01-08",
+        11577.222706027731
+      ],
+      [
+        "2025-01-12",
+        11577.222706027731
+      ],
+      [
+        "2025-01-19",
+        11577.222706027731
+      ],
+      [
+        "2025-01-20",
+        11577.222706027731
+      ],
+      [
+        "2025-01-20",
+        11577.222706027731
+      ],
+      [
+        "2025-01-20",
+        11577.222706027731
+      ],
+      [
+        "2025-01-20",
+        11577.222706027731
+      ],
+      [
+        "2025-01-20",
+        11577.222706027731
+      ],
+      [
+        "2025-01-20",
+        11577.222706027731
+      ],
+      [
+        "2025-01-26",
+        11577.222706027731
+      ],
+      [
+        "2025-01-26",
+        11577.222706027731
+      ],
+      [
+        "2025-01-26",
+        11577.222706027731
+      ],
+      [
+        "2025-01-29",
+        11577.222706027731
+      ],
+      [
+        "2025-01-29",
+        11577.222706027731
+      ],
+      [
+        "2025-01-29",
+        11719.697901678872
+      ],
+      [
+        "2025-01-29",
+        11563.917069368114
+      ],
+      [
+        "2025-01-30",
+        11562.536677538763
+      ],
+      [
+        "2025-01-31",
+        11561.33820191105
+      ],
+      [
+        "2025-01-31",
+        11561.33820191105
+      ],
+      [
+        "2025-01-31",
+        11386.220958082537
+      ],
+      [
+        "2025-01-31",
+        11386.220958082537
+      ],
+      [
+        "2025-01-31",
+        11386.220958082537
+      ],
+      [
+        "2025-01-31",
+        11386.220958082537
+      ],
+      [
+        "2025-01-31",
+        11386.220958082537
+      ],
+      [
+        "2025-01-31",
+        11547.04828030568
+      ],
+      [
+        "2025-02-01",
+        11545.668250306215
+      ],
+      [
+        "2025-02-02",
+        11544.366306509988
+      ],
+      [
+        "2025-02-03",
+        11544.366306509988
+      ],
+      [
+        "2025-02-06",
+        11544.366306509988
+      ],
+      [
+        "2025-02-06",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-09",
+        11544.366306509988
+      ],
+      [
+        "2025-02-10",
+        11544.366306509988
+      ],
+      [
+        "2025-02-16",
+        11719.222436486842
+      ],
+      [
+        "2025-02-17",
+        11717.846250327306
+      ],
+      [
+        "2025-02-23",
+        11717.846250327306
+      ],
+      [
+        "2025-02-23",
+        11717.846250327306
+      ],
+      [
+        "2025-02-23",
+        11717.846250327306
+      ],
+      [
+        "2025-02-23",
+        11717.846250327306
+      ],
+      [
+        "2025-02-23",
+        11717.846250327306
+      ],
+      [
+        "2025-02-23",
+        11717.846250327306
+      ],
+      [
+        "2025-02-23",
+        11717.846250327306
+      ],
+      [
+        "2025-02-23",
+        11717.846250327306
+      ],
+      [
+        "2025-02-23",
+        11717.846250327306
+      ],
+      [
+        "2025-02-23",
+        11553.355276682105
+      ],
+      [
+        "2025-02-23",
+        11553.355276682105
+      ],
+      [
+        "2025-02-23",
+        11553.355276682105
+      ],
+      [
+        "2025-02-24",
+        11552.355800709955
+      ],
+      [
+        "2025-02-28",
+        11552.355800709955
+      ],
+      [
+        "2025-02-28",
+        11552.355800709955
+      ],
+      [
+        "2025-02-28",
+        11552.355800709955
+      ],
+      [
+        "2025-02-28",
+        11552.355800709955
+      ],
+      [
+        "2025-02-28",
+        11552.355800709955
+      ],
+      [
+        "2025-02-28",
+        11552.355800709955
+      ],
+      [
+        "2025-02-28",
+        11552.355800709955
+      ],
+      [
+        "2025-03-19",
+        11552.355800709955
+      ],
+      [
+        "2025-03-19",
+        11552.355800709955
+      ],
+      [
+        "2025-03-19",
+        11552.355800709955
+      ],
+      [
+        "2025-03-19",
+        11419.092337756583
+      ],
+      [
+        "2025-03-20",
+        11418.394953397015
+      ],
+      [
+        "2025-03-31",
+        11823.203753240527
+      ],
+      [
+        "2025-03-31",
+        11823.203753240527
+      ],
+      [
+        "2025-03-31",
+        11823.203753240527
+      ],
+      [
+        "2025-03-31",
+        11823.203753240527
+      ],
+      [
+        "2025-03-31",
+        11628.479952849126
+      ],
+      [
+        "2025-03-31",
+        11628.479952849126
+      ],
+      [
+        "2025-03-31",
+        11444.427708935804
+      ],
+      [
+        "2025-03-31",
+        11444.427708935804
+      ],
+      [
+        "2025-04-01",
+        11443.025122743104
+      ],
+      [
+        "2025-04-01",
+        11441.650798662184
+      ],
+      [
+        "2025-04-01",
+        11441.650798662184
+      ],
+      [
+        "2025-04-02",
+        11440.304167211496
+      ],
+      [
+        "2025-04-13",
+        11440.304167211496
+      ],
+      [
+        "2025-04-13",
+        11440.304167211496
+      ],
+      [
+        "2025-04-17",
+        11440.304167211496
+      ],
+      [
+        "2025-04-17",
+        11440.304167211496
+      ],
+      [
+        "2025-04-19",
+        11440.304167211496
+      ],
+      [
+        "2025-04-28",
+        11260.753307119792
+      ],
+      [
+        "2025-04-28",
+        11260.753307119792
+      ],
+      [
+        "2025-04-28",
+        11260.753307119792
+      ],
+      [
+        "2025-04-28",
+        11260.753307119792
+      ],
+      [
+        "2025-04-29",
+        11543.790402111015
+      ],
+      [
+        "2025-04-29",
+        11543.790402111015
+      ],
+      [
+        "2025-04-30",
+        11543.790402111015
+      ],
+      [
+        "2025-04-30",
+        11543.790402111015
+      ],
+      [
+        "2025-04-30",
+        11543.790402111015
+      ],
+      [
+        "2025-04-30",
+        11543.790402111015
+      ],
+      [
+        "2025-05-02",
+        11542.398640493848
+      ],
+      [
+        "2025-05-06",
+        11541.034922873267
+      ],
+      [
+        "2025-05-06",
+        11540.737168610605
+      ],
+      [
+        "2025-05-07",
+        11540.737168610605
+      ],
+      [
+        "2025-05-07",
+        11540.737168610605
+      ],
+      [
+        "2025-05-07",
+        11540.737168610605
+      ],
+      [
+        "2025-05-07",
+        11540.737168610605
+      ],
+      [
+        "2025-05-13",
+        11540.737168610605
+      ],
+      [
+        "2025-05-17",
+        11540.737168610605
+      ],
+      [
+        "2025-05-17",
+        11540.737168610605
+      ],
+      [
+        "2025-05-17",
+        11540.737168610605
+      ],
+      [
+        "2025-05-17",
+        11540.737168610605
+      ],
+      [
+        "2025-05-17",
+        11540.737168610605
+      ],
+      [
+        "2025-05-17",
+        11540.737168610605
+      ],
+      [
+        "2025-05-18",
+        11540.737168610605
+      ],
+      [
+        "2025-05-18",
+        11540.737168610605
+      ],
+      [
+        "2025-05-18",
+        11540.737168610605
+      ],
+      [
+        "2025-05-21",
+        11540.737168610605
+      ],
+      [
+        "2025-05-25",
+        11540.737168610605
+      ],
+      [
+        "2025-05-25",
+        11540.737168610605
+      ],
+      [
+        "2025-05-25",
+        11540.737168610605
+      ],
+      [
+        "2025-05-25",
+        11540.737168610605
+      ],
+      [
+        "2025-05-25",
+        11540.737168610605
+      ],
+      [
+        "2025-05-25",
+        11540.737168610605
+      ],
+      [
+        "2025-05-25",
+        11540.737168610605
+      ],
+      [
+        "2025-05-25",
+        11540.737168610605
+      ],
+      [
+        "2025-05-25",
+        11540.737168610605
+      ],
+      [
+        "2025-05-25",
+        11540.737168610605
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-25",
+        11436.158749038432
+      ],
+      [
+        "2025-05-28",
+        11435.464407117532
+      ],
+      [
+        "2025-05-31",
+        11257.188316247173
+      ],
+      [
+        "2025-05-31",
+        11257.188316247173
+      ],
+      [
+        "2025-05-31",
+        11257.188316247173
+      ],
+      [
+        "2025-05-31",
+        11257.188316247173
+      ],
+      [
+        "2025-05-31",
+        11257.188316247173
+      ],
+      [
+        "2025-05-31",
+        11257.188316247173
+      ],
+      [
+        "2025-05-31",
+        11122.310604341907
+      ],
+      [
+        "2025-05-31",
+        11122.310604341907
+      ],
+      [
+        "2025-05-31",
+        11122.310604341907
+      ],
+      [
+        "2025-05-31",
+        11122.310604341907
+      ],
+      [
+        "2025-05-31",
+        11122.310604341907
+      ],
+      [
+        "2025-05-31",
+        11122.310604341907
+      ],
+      [
+        "2025-05-31",
+        11122.310604341907
+      ],
+      [
+        "2025-05-31",
+        11122.310604341907
+      ],
+      [
+        "2025-05-31",
+        11122.310604341907
+      ],
+      [
+        "2025-05-31",
+        11122.310604341907
+      ],
+      [
+        "2025-05-31",
+        10931.656400758447
+      ],
+      [
+        "2025-05-31",
+        10931.656400758447
+      ],
+      [
+        "2025-05-31",
+        10931.656400758447
+      ],
+      [
+        "2025-05-31",
+        10931.656400758447
+      ],
+      [
+        "2025-05-31",
+        10931.656400758447
+      ],
+      [
+        "2025-05-31",
+        10931.656400758447
+      ],
+      [
+        "2025-05-31",
+        10931.656400758447
+      ],
+      [
+        "2025-05-31",
+        10931.656400758447
+      ],
+      [
+        "2025-05-31",
+        10931.656400758447
+      ],
+      [
+        "2025-05-31",
+        10931.656400758447
+      ],
+      [
+        "2025-05-31",
+        10931.656400758447
+      ],
+      [
+        "2025-05-31",
+        10931.656400758447
+      ],
+      [
+        "2025-05-31",
+        10978.836806967116
+      ],
+      [
+        "2025-05-31",
+        10978.836806967116
+      ],
+      [
+        "2025-06-01",
+        10977.49636391458
+      ],
+      [
+        "2025-06-03",
+        10976.182930789555
+      ],
+      [
+        "2025-06-03",
+        10976.182930789555
+      ],
+      [
+        "2025-06-03",
+        10883.604008002647
+      ],
+      [
+        "2025-06-03",
+        10883.604008002647
+      ],
+      [
+        "2025-06-03",
+        10883.604008002647
+      ],
+      [
+        "2025-06-03",
+        10883.604008002647
+      ],
+      [
+        "2025-06-03",
+        11036.943685155538
+      ],
+      [
+        "2025-06-03",
+        10997.243116800648
+      ],
+      [
+        "2025-06-05",
+        16610.06748275115
+      ],
+      [
+        "2025-06-05",
+        16610.06748275115
+      ],
+      [
+        "2025-06-05",
+        16610.06748275115
+      ],
+      [
+        "2025-06-05",
+        16610.06748275115
+      ],
+      [
+        "2025-06-05",
+        16610.06748275115
+      ],
+      [
+        "2025-06-05",
+        16610.06748275115
+      ],
+      [
+        "2025-06-05",
+        16610.06748275115
+      ],
+      [
+        "2025-06-08",
+        16610.06748275115
+      ],
+      [
+        "2025-06-09",
+        16607.86227746879
+      ],
+      [
+        "2025-06-10",
+        16605.70150707287
+      ],
+      [
+        "2025-06-10",
+        16603.584276200432
+      ],
+      [
+        "2025-06-10",
+        16601.50970753007
+      ],
+      [
+        "2025-06-15",
+        16599.476941418416
+      ],
+      [
+        "2025-06-16",
+        16597.48513554391
+      ],
+      [
+        "2025-06-18",
+        16595.53346455778
+      ],
+      [
+        "2025-06-18",
+        16595.53346455778
+      ],
+      [
+        "2025-06-18",
+        16595.53346455778
+      ],
+      [
+        "2025-06-18",
+        16595.53346455778
+      ],
+      [
+        "2025-06-18",
+        16595.53346455778
+      ],
+      [
+        "2025-06-19",
+        16737.376317878832
+      ],
+      [
+        "2025-06-20",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-23",
+        16735.513796355986
+      ],
+      [
+        "2025-06-24",
+        16735.513796355986
+      ],
+      [
+        "2025-06-24",
+        16794.230094736075
+      ],
+      [
+        "2025-06-26",
+        16792.822955539126
+      ],
+      [
+        "2025-06-30",
+        16792.822955539126
+      ],
+      [
+        "2025-06-30",
+        16792.822955539126
+      ],
+      [
+        "2025-06-30",
+        16605.204395946377
+      ],
+      [
+        "2025-06-30",
+        16344.981597795375
+      ],
+      [
+        "2025-06-30",
+        16073.946116241565
+      ],
+      [
+        "2025-06-30",
+        16073.946116241565
+      ],
+      [
+        "2025-06-30",
+        16162.823768547409
+      ],
+      [
+        "2025-06-30",
+        16162.823768547409
+      ],
+      [
+        "2025-06-30",
+        16162.823768547409
+      ],
+      [
+        "2025-06-30",
+        16162.823768547409
+      ],
+      [
+        "2025-06-30",
+        16162.823768547409
+      ],
+      [
+        "2025-06-30",
+        16162.823768547409
+      ],
+      [
+        "2025-06-30",
+        16162.823768547409
+      ],
+      [
+        "2025-07-01",
+        16160.85688866808
+      ],
+      [
+        "2025-07-01",
+        16158.92964141832
+      ],
+      [
+        "2025-07-01",
+        16157.374754579982
+      ],
+      [
+        "2025-07-01",
+        15978.649014242044
+      ],
+      [
+        "2025-07-08",
+        15977.778535736397
+      ],
+      [
+        "2025-07-13",
+        16152.320680263034
+      ],
+      [
+        "2025-07-15",
+        16150.410852729712
+      ],
+      [
+        "2025-07-30",
+        16057.426271453998
+      ],
+      [
+        "2025-07-30",
+        16057.426271453998
+      ],
+      [
+        "2025-07-30",
+        16057.426271453998
+      ],
+      [
+        "2025-07-30",
+        16057.426271453998
+      ],
+      [
+        "2025-07-31",
+        16057.426271453998
+      ],
+      [
+        "2025-07-31",
+        15941.362470701155
+      ],
+      [
+        "2025-08-01",
+        15939.49112619263
+      ],
+      [
+        "2025-08-01",
+        15939.49112619263
+      ],
+      [
+        "2025-08-01",
+        15939.49112619263
+      ],
+      [
+        "2025-08-01",
+        15732.172881080656
+      ],
+      [
+        "2025-08-04",
+        15730.977778104678
+      ],
+      [
+        "2025-08-31",
+        15730.977778104678
+      ],
+      [
+        "2025-08-31",
+        15730.977778104678
+      ],
+      [
+        "2025-08-31",
+        15730.977778104678
+      ],
+      [
+        "2025-09-15",
+        15730.977778104678
+      ],
+      [
+        "2025-09-16",
+        15730.977778104678
+      ],
+      [
+        "2025-09-17",
+        15442.875058648837
+      ],
+      [
+        "2025-09-17",
+        15166.265902600655
+      ],
+      [
+        "2025-09-23",
+        15166.265902600655
+      ],
+      [
+        "2025-09-24",
+        15164.456347008945
+      ],
+      [
+        "2025-09-28",
+        15162.93872158646
+      ],
+      [
+        "2025-09-30",
+        15162.93872158646
+      ],
+      [
+        "2025-09-30",
+        15162.93872158646
+      ],
+      [
+        "2025-09-30",
+        15162.93872158646
+      ],
+      [
+        "2025-10-01",
+        15277.788744381482
+      ],
+      [
+        "2025-10-02",
+        15275.992812871951
+      ],
+      [
+        "2025-10-10",
+        15275.992812871951
+      ],
+      [
+        "2025-10-12",
+        15275.992812871951
+      ],
+      [
+        "2025-10-14",
+        15275.992812871951
+      ],
+      [
+        "2025-10-20",
+        15275.992812871951
+      ],
+      [
+        "2025-10-20",
+        15275.992812871951
+      ],
+      [
+        "2025-10-20",
+        15275.992812871951
+      ],
+      [
+        "2025-10-26",
+        15275.992812871951
+      ],
+      [
+        "2025-10-26",
+        15275.992812871951
+      ],
+      [
+        "2025-10-26",
+        15275.992812871951
+      ],
+      [
+        "2025-10-26",
+        15275.992812871951
+      ],
+      [
+        "2025-10-28",
+        15275.992812871951
+      ],
+      [
+        "2025-10-29",
+        15494.015676579429
+      ],
+      [
+        "2025-10-30",
+        15492.185979229802
+      ],
+      [
+        "2025-10-30",
+        15491.843492452024
+      ],
+      [
+        "2025-10-31",
+        15491.843492452024
+      ],
+      [
+        "2025-10-31",
+        15491.843492452024
+      ],
+      [
+        "2025-10-31",
+        15491.843492452024
+      ],
+      [
+        "2025-10-31",
+        15491.843492452024
+      ],
+      [
+        "2025-10-31",
+        15491.843492452024
+      ],
+      [
+        "2025-10-31",
+        15491.843492452024
+      ],
+      [
+        "2025-10-31",
+        15491.843492452024
+      ],
+      [
+        "2025-11-01",
+        15491.843492452024
+      ],
+      [
+        "2025-11-01",
+        15637.056696167678
+      ],
+      [
+        "2025-11-01",
+        15637.056696167678
+      ],
+      [
+        "2025-11-01",
+        15637.056696167678
+      ],
+      [
+        "2025-11-01",
+        15637.056696167678
+      ],
+      [
+        "2025-11-01",
+        15637.056696167678
+      ],
+      [
+        "2025-11-02",
+        15635.213067717472
+      ],
+      [
+        "2025-11-02",
+        15635.05600882459
+      ],
+      [
+        "2025-11-02",
+        15635.05600882459
+      ],
+      [
+        "2025-11-03",
+        15635.05600882459
+      ],
+      [
+        "2025-11-04",
+        15635.05600882459
+      ],
+      [
+        "2025-11-04",
+        16256.11039807396
+      ],
+      [
+        "2025-11-04",
+        16256.11039807396
+      ],
+      [
+        "2025-11-04",
+        16256.11039807396
+      ],
+      [
+        "2025-11-04",
+        16256.11039807396
+      ],
+      [
+        "2025-11-04",
+        16256.11039807396
+      ],
+      [
+        "2025-11-04",
+        16256.11039807396
+      ],
+      [
+        "2025-11-04",
+        16256.11039807396
+      ],
+      [
+        "2025-11-05",
+        16254.171580697883
+      ],
+      [
+        "2025-11-06",
+        16252.59410416627
+      ],
+      [
+        "2025-11-09",
+        16479.957202099984
+      ],
+      [
+        "2025-11-09",
+        16857.550795271163
+      ],
+      [
+        "2025-11-10",
+        16855.518621197658
+      ],
+      [
+        "2025-11-10",
+        16853.527395431738
+      ],
+      [
+        "2025-11-11",
+        16853.107184059536
+      ],
+      [
+        "2025-11-11",
+        16853.107184059536
+      ],
+      [
+        "2025-11-11",
+        16853.107184059536
+      ],
+      [
+        "2025-11-13",
+        16853.107184059536
+      ],
+      [
+        "2025-11-13",
+        16853.107184059536
+      ],
+      [
+        "2025-11-15",
+        16832.16599834171
+      ],
+      [
+        "2025-11-16",
+        16832.16599834171
+      ],
+      [
+        "2025-11-16",
+        16832.16599834171
+      ],
+      [
+        "2025-11-17",
+        17009.959096682607
+      ],
+      [
+        "2025-11-18",
+        17007.951016062747
+      ],
+      [
+        "2025-11-18",
+        17007.615491984154
+      ],
+      [
+        "2025-11-19",
+        16961.95058828029
+      ],
+      [
+        "2025-11-21",
+        16961.70951365527
+      ],
+      [
+        "2025-11-23",
+        16690.752970521684
+      ],
+      [
+        "2025-11-23",
+        16938.293436107975
+      ],
+      [
+        "2025-11-26",
+        16936.260481191326
+      ],
+      [
+        "2025-11-26",
+        16934.26849031625
+      ],
+      [
+        "2025-11-30",
+        16934.26849031625
+      ],
+      [
+        "2025-11-30",
+        16963.78347150371
+      ],
+      [
+        "2025-12-01",
+        16963.78347150371
+      ],
+      [
+        "2025-12-01",
+        16963.78347150371
+      ],
+      [
+        "2025-12-01",
+        16963.78347150371
+      ],
+      [
+        "2025-12-01",
+        16963.78347150371
+      ],
+      [
+        "2025-12-03",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-07",
+        16963.417498339786
+      ],
+      [
+        "2025-12-08",
+        17017.78967589215
+      ],
+      [
+        "2025-12-09",
+        17280.838686453586
+      ],
+      [
+        "2025-12-09",
+        17015.239903109825
+      ],
+      [
+        "2025-12-10",
+        17013.187610977388
+      ],
+      [
+        "2025-12-10",
+        17164.498465481953
+      ],
+      [
+        "2025-12-10",
+        17164.498465481953
+      ],
+      [
+        "2025-12-10",
+        17164.498465481953
+      ],
+      [
+        "2025-12-10",
+        17164.498465481953
+      ],
+      [
+        "2025-12-11",
+        17164.498465481953
+      ],
+      [
+        "2025-12-11",
+        17164.498465481953
+      ],
+      [
+        "2025-12-12",
+        17162.42740351764
+      ],
+      [
+        "2025-12-12",
+        17160.398073451906
+      ],
+      [
+        "2025-12-13",
+        17159.852519783737
+      ],
+      [
+        "2025-12-14",
+        17159.852519783737
+      ],
+      [
+        "2025-12-19",
+        17159.852519783737
+      ],
+      [
+        "2025-12-19",
+        17127.709236447186
+      ],
+      [
+        "2025-12-19",
+        17127.709236447186
+      ],
+      [
+        "2025-12-19",
+        17429.782353815564
+      ],
+      [
+        "2025-12-20",
+        17427.71901008815
+      ],
+      [
+        "2025-12-20",
+        17427.012024828826
+      ],
+      [
+        "2025-12-22",
+        17427.012024828826
+      ],
+      [
+        "2025-12-24",
+        17153.373073837305
+      ],
+      [
+        "2025-12-25",
+        17151.5344679995
+      ],
+      [
+        "2025-12-25",
+        16875.39287275763
+      ],
+      [
+        "2025-12-27",
+        16873.877529407793
+      ],
+      [
+        "2025-12-30",
+        18106.230769343278
+      ],
+      [
+        "2025-12-30",
+        18057.43434748711
+      ],
+      [
+        "2025-12-31",
+        17802.79067637759
+      ],
+      [
+        "2025-12-31",
+        17802.79067637759
+      ],
+      [
+        "2025-12-31",
+        17802.79067637759
+      ],
+      [
+        "2025-12-31",
+        17802.79067637759
+      ],
+      [
+        "2025-12-31",
+        17802.79067637759
+      ],
+      [
+        "2025-12-31",
+        17802.79067637759
+      ],
+      [
+        "2025-12-31",
+        17957.427974418835
+      ],
+      [
+        "2025-12-31",
+        17957.427974418835
+      ],
+      [
+        "2025-12-31",
+        17957.427974418835
+      ],
+      [
+        "2025-12-31",
+        17755.07791808772
+      ],
+      [
+        "2025-12-31",
+        17755.07791808772
+      ],
+      [
+        "2025-12-31",
+        17755.07791808772
+      ],
+      [
+        "2025-12-31",
+        17784.891344406005
+      ],
+      [
+        "2025-12-31",
+        17784.891344406005
+      ],
+      [
+        "2025-12-31",
+        17784.891344406005
+      ],
+      [
+        "2025-12-31",
+        17519.317227805506
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17568.76380849463
+      ],
+      [
+        "2025-12-31",
+        17593.9111311527
+      ],
+      [
+        "2025-12-31",
+        17593.9111311527
+      ],
+      [
+        "2025-12-31",
+        17593.9111311527
+      ],
+      [
+        "2025-12-31",
+        17593.9111311527
+      ],
+      [
+        "2025-12-31",
+        17593.9111311527
+      ],
+      [
+        "2025-12-31",
+        17593.9111311527
+      ],
+      [
+        "2025-12-31",
+        17593.9111311527
+      ],
+      [
+        "2025-12-31",
+        17407.09860977145
+      ],
+      [
+        "2025-12-31",
+        17419.45421951509
+      ],
+      [
+        "2025-12-31",
+        17419.45421951509
+      ],
+      [
+        "2025-12-31",
+        17419.45421951509
+      ],
+      [
+        "2025-12-31",
+        17419.45421951509
+      ],
+      [
+        "2025-12-31",
+        17419.45421951509
+      ],
+      [
+        "2025-12-31",
+        17532.51600140178
+      ],
+      [
+        "2025-12-31",
+        17532.51600140178
+      ],
+      [
+        "2025-12-31",
+        17532.51600140178
+      ],
+      [
+        "2025-12-31",
+        17532.51600140178
+      ],
+      [
+        "2025-12-31",
+        17532.51600140178
+      ],
+      [
+        "2025-12-31",
+        17666.758691711308
+      ],
+      [
+        "2025-12-31",
+        17666.758691711308
+      ],
+      [
+        "2025-12-31",
+        17666.758691711308
+      ],
+      [
+        "2025-12-31",
+        17707.724333735176
+      ],
+      [
+        "2025-12-31",
+        17707.724333735176
+      ],
+      [
+        "2025-12-31",
+        17707.724333735176
+      ],
+      [
+        "2025-12-31",
+        17707.724333735176
+      ],
+      [
+        "2025-12-31",
+        17707.724333735176
+      ],
+      [
+        "2025-12-31",
+        17707.724333735176
+      ],
+      [
+        "2025-12-31",
+        17707.724333735176
+      ],
+      [
+        "2025-12-31",
+        17707.724333735176
+      ],
+      [
+        "2025-12-31",
+        17707.724333735176
+      ],
+      [
+        "2026-01-01",
+        17707.724333735176
+      ],
+      [
+        "2026-01-01",
+        17707.724333735176
+      ],
+      [
+        "2026-01-01",
+        20186.073406451775
+      ],
+      [
+        "2026-01-01",
+        20186.073406451775
+      ],
+      [
+        "2026-01-01",
+        20186.073406451775
+      ],
+      [
+        "2026-01-01",
+        20186.073406451775
+      ],
+      [
+        "2026-01-01",
+        20617.972833427164
+      ],
+      [
+        "2026-01-01",
+        20617.972833427164
+      ],
+      [
+        "2026-01-03",
+        20615.000102496797
+      ],
+      [
+        "2026-01-04",
+        20612.087272094675
+      ],
+      [
+        "2026-01-04",
+        20745.545919780907
+      ],
+      [
+        "2026-01-05",
+        20742.63499199748
+      ],
+      [
+        "2026-01-08",
+        20739.782719408886
+      ],
+      [
+        "2026-01-11",
+        20736.987920112955
+      ],
+      [
+        "2026-01-11",
+        20734.249436022834
+      ],
+      [
+        "2026-01-11",
+        20855.219441793986
+      ],
+      [
+        "2026-01-14",
+        20852.45973604937
+      ],
+      [
+        "2026-01-14",
+        20849.755638375518
+      ],
+      [
+        "2026-01-16",
+        20913.256127497738
+      ],
+      [
+        "2026-01-17",
+        20910.582852613457
+      ],
+      [
+        "2026-01-17",
+        20907.96344421809
+      ],
+      [
+        "2026-01-18",
+        21561.782570518117
+      ],
+      [
+        "2026-01-19",
+        21559.059651777305
+      ],
+      [
+        "2026-01-25",
+        21559.059651777305
+      ],
+      [
+        "2026-01-25",
+        21559.059651777305
+      ],
+      [
+        "2026-01-25",
+        21559.059651777305
+      ],
+      [
+        "2026-01-25",
+        21559.059651777305
+      ],
+      [
+        "2026-01-25",
+        21559.059651777305
+      ],
+      [
+        "2026-01-25",
+        21559.059651777305
+      ],
+      [
+        "2026-01-25",
+        21559.059651777305
+      ],
+      [
+        "2026-01-25",
+        21559.059651777305
+      ],
+      [
+        "2026-01-26",
+        21556.39159984912
+      ],
+      [
+        "2026-01-26",
+        21556.39159984912
+      ],
+      [
+        "2026-01-26",
+        21370.82338422686
+      ],
+      [
+        "2026-01-27",
+        21368.209093545025
+      ],
+      [
+        "2026-01-28",
+        21365.647480820433
+      ],
+      [
+        "2026-01-28",
+        21363.13748459224
+      ],
+      [
+        "2026-01-31",
+        21363.13748459224
+      ],
+      [
+        "2026-01-31",
+        21363.13748459224
+      ],
+      [
+        "2026-01-31",
+        21363.13748459224
+      ],
+      [
+        "2026-01-31",
+        21363.13748459224
+      ],
+      [
+        "2026-01-31",
+        20990.49757846808
+      ],
+      [
+        "2026-01-31",
+        20990.49757846808
+      ],
+      [
+        "2026-01-31",
+        20917.757089379218
+      ],
+      [
+        "2026-01-31",
+        20715.71130940089
+      ],
+      [
+        "2026-01-31",
+        20859.536624812616
+      ],
+      [
+        "2026-01-31",
+        20882.73813481707
+      ],
+      [
+        "2026-01-31",
+        21089.20918042438
+      ],
+      [
+        "2026-01-31",
+        21089.20918042438
+      ],
+      [
+        "2026-01-31",
+        21089.20918042438
+      ],
+      [
+        "2026-01-31",
+        21089.20918042438
+      ],
+      [
+        "2026-02-01",
+        21086.523770371467
+      ],
+      [
+        "2026-02-01",
+        21083.89247133112
+      ],
+      [
+        "2026-02-01",
+        21081.314192966438
+      ],
+      [
+        "2026-02-01",
+        21078.787866910803
+      ],
+      [
+        "2026-02-01",
+        21076.31244632519
+      ],
+      [
+        "2026-02-01",
+        21076.31244632519
+      ],
+      [
+        "2026-02-01",
+        20711.181234309428
+      ],
+      [
+        "2026-02-01",
+        20711.181234309428
+      ],
+      [
+        "2026-02-01",
+        20711.181234309428
+      ],
+      [
+        "2026-02-01",
+        20711.181234309428
+      ],
+      [
+        "2026-02-01",
+        20711.181234309428
+      ],
+      [
+        "2026-02-01",
+        20711.181234309428
+      ],
+      [
+        "2026-02-04",
+        20708.854937613858
+      ],
+      [
+        "2026-02-08",
+        20708.854937613858
+      ],
+      [
+        "2026-02-08",
+        20708.854937613858
+      ],
+      [
+        "2026-02-08",
+        20708.854937613858
+      ],
+      [
+        "2026-02-08",
+        20708.854937613858
+      ],
+      [
+        "2026-02-08",
+        20708.854937613858
+      ],
+      [
+        "2026-02-08",
+        20708.854937613858
+      ],
+      [
+        "2026-02-08",
+        20708.854937613858
+      ],
+      [
+        "2026-02-08",
+        20708.854937613858
+      ],
+      [
+        "2026-02-08",
+        20708.854937613858
+      ],
+      [
+        "2026-02-14",
+        20378.798859532013
+      ],
+      [
+        "2026-02-14",
+        20378.798859532013
+      ],
+      [
+        "2026-02-18",
+        20377.026562122635
+      ],
+      [
+        "2026-02-22",
+        20377.026562122635
+      ],
+      [
+        "2026-02-22",
+        20028.454471211764
+      ],
+      [
+        "2026-02-22",
+        20028.454471211764
+      ],
+      [
+        "2026-02-24",
+        19718.281578469
+      ],
+      [
+        "2026-02-28",
+        19715.9386242794
+      ],
+      [
+        "2026-02-28",
+        19715.9386242794
+      ],
+      [
+        "2026-02-28",
+        19715.9386242794
+      ],
+      [
+        "2026-02-28",
+        20542.076973065403
+      ],
+      [
+        "2026-02-28",
+        20542.076973065403
+      ],
+      [
+        "2026-02-28",
+        20542.076973065403
+      ],
+      [
+        "2026-02-28",
+        20207.410809306457
+      ],
+      [
+        "2026-02-28",
+        20207.410809306457
+      ],
+      [
+        "2026-03-01",
+        20207.410809306457
+      ],
+      [
+        "2026-03-01",
+        20207.410809306457
+      ],
+      [
+        "2026-03-01",
+        20207.410809306457
+      ],
+      [
+        "2026-03-01",
+        19849.356135584803
+      ],
+      [
+        "2026-03-01",
+        19498.51626353864
+      ],
+      [
+        "2026-03-01",
+        19498.51626353864
+      ],
+      [
+        "2026-03-01",
+        19498.51626353864
+      ],
+      [
+        "2026-03-01",
+        19161.67278945399
+      ],
+      [
+        "2026-03-01",
+        19493.35331901251
+      ],
+      [
+        "2026-03-01",
+        19493.35331901251
+      ],
+      [
+        "2026-03-02",
+        19490.77930922502
+      ],
+      [
+        "2026-03-03",
+        19488.257165734754
+      ],
+      [
+        "2026-03-04",
+        19922.323387038577
+      ],
+      [
+        "2026-03-05",
+        19919.751508858255
+      ],
+      [
+        "2026-03-08",
+        19917.231454023266
+      ],
+      [
+        "2026-03-10",
+        19914.762178293204
+      ],
+      [
+        "2026-03-10",
+        19912.3426584691
+      ],
+      [
+        "2026-03-15",
+        19909.971891969457
+      ],
+      [
+        "2026-03-16",
+        19908.30197010507
+      ],
+      [
+        "2026-03-26",
+        20166.490529202434
+      ],
+      [
+        "2026-03-29",
+        20164.115595205665
+      ],
+      [
+        "2026-03-31",
+        19828.108283873837
+      ],
+      [
+        "2026-03-31",
+        19828.108283873837
+      ],
+      [
+        "2026-03-31",
+        19828.108283873837
+      ],
+      [
+        "2026-03-31",
+        19828.108283873837
+      ],
+      [
+        "2026-03-31",
+        19828.108283873837
+      ],
+      [
+        "2026-03-31",
+        19484.337835249404
+      ],
+      [
+        "2026-03-31",
+        19484.337835249404
+      ],
+      [
+        "2026-03-31",
+        19549.90974017242
+      ],
+      [
+        "2026-03-31",
+        19549.90974017242
+      ],
+      [
+        "2026-03-31",
+        19549.90974017242
+      ],
+      [
+        "2026-03-31",
+        19574.11346231297
+      ],
+      [
+        "2026-03-31",
+        19237.827663610573
+      ],
+      [
+        "2026-03-31",
+        18921.72546365761
+      ],
+      [
+        "2026-03-31",
+        18968.86797025904
+      ],
+      [
+        "2026-03-31",
+        18625.950879549415
+      ],
+      [
+        "2026-03-31",
+        18282.749574551308
+      ],
+      [
+        "2026-03-31",
+        18282.749574551308
+      ],
+      [
+        "2026-03-31",
+        17933.49512183599
+      ],
+      [
+        "2026-04-01",
+        17931.01125783062
+      ],
+      [
+        "2026-04-01",
+        17931.01125783062
+      ],
+      [
+        "2026-04-01",
+        17931.01125783062
+      ],
+      [
+        "2026-04-01",
+        17931.01125783062
+      ],
+      [
+        "2026-04-01",
+        17931.01125783062
+      ],
+      [
+        "2026-04-01",
+        17931.01125783062
+      ],
+      [
+        "2026-04-01",
+        17931.01125783062
+      ],
+      [
+        "2026-04-01",
+        17931.01125783062
+      ],
+      [
+        "2026-04-04",
+        17928.57744368496
+      ],
+      [
+        "2026-04-04",
+        17926.192670894336
+      ],
+      [
+        "2026-04-04",
+        17923.85595127544
+      ],
+      [
+        "2026-04-04",
+        17923.85595127544
+      ],
+      [
+        "2026-04-04",
+        18243.361579401906
+      ],
+      [
+        "2026-04-04",
+        18243.361579401906
+      ],
+      [
+        "2026-04-05",
+        18240.97463332451
+      ],
+      [
+        "2026-04-07",
+        18240.97463332451
+      ],
+      [
+        "2026-04-09",
+        18238.635784210575
+      ],
+      [
+        "2026-04-09",
+        18236.344062906286
+      ],
+      [
+        "2026-04-12",
+        18236.344062906286
+      ],
+      [
+        "2026-04-12",
+        18236.344062906286
+      ],
+      [
+        "2026-04-12",
+        17868.38329695823
+      ],
+      [
+        "2026-04-12",
+        17868.38329695823
+      ],
+      [
+        "2026-04-12",
+        18116.353997851966
+      ],
+      [
+        "2026-04-12",
+        17785.172130469375
+      ],
+      [
+        "2026-04-13",
+        17785.172130469375
+      ],
+      [
+        "2026-04-13",
+        17785.172130469375
+      ],
+      [
+        "2026-04-13",
+        17785.172130469375
+      ],
+      [
+        "2026-04-15",
+        17785.172130469375
+      ],
+      [
+        "2026-04-15",
+        17785.172130469375
+      ],
+      [
+        "2026-04-16",
+        18155.041252371953
+      ],
+      [
+        "2026-04-17",
+        18290.163390429923
+      ],
+      [
+        "2026-04-18",
+        18380.78252256814
+      ],
+      [
+        "2026-04-21",
+        18574.097789052405
+      ],
+      [
+        "2026-04-22",
+        18571.454823105054
+      ],
+      [
+        "2026-04-22",
+        18571.454823105054
+      ],
+      [
+        "2026-04-26",
+        19311.75846313893
+      ],
+      [
+        "2026-04-30",
+        19470.623685972252
+      ],
+      [
+        "2026-04-30",
+        19470.623685972252
+      ],
+      [
+        "2026-04-30",
+        19146.115133217423
+      ],
+      [
+        "2026-04-30",
+        19146.115133217423
+      ],
+      [
+        "2026-04-30",
+        18828.145427800602
+      ]
+    ]
+  },
+  "alternatives": {
+    "v3_evolved (mean-reversion)": {
+      "total_return": 1.209449594750026,
+      "sharpe": 1.8060403917681862,
+      "max_dd": 0.16421760501241936,
+      "n_trades": 132
+    },
+    "market_echo": {
+      "total_return": 0.0,
+      "sharpe": 0.0,
+      "max_dd": 0.0,
+      "n_trades": 0
+    }
+  }
+}
