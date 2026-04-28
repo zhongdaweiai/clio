@@ -196,7 +196,55 @@ def main() -> int:
     resolved_only.sort(key=lambda r: r["scan_date"])
 
     if not resolved_only:
-        log.info("no resolved trades yet, summary skipped")
+        log.info("no resolved trades yet — writing placeholder SUMMARY.md")
+        # Count pending signals so the user has something to look at.
+        n_pending = 0
+        n_total_signals = 0
+        next_close = None
+        for f in daily_files:
+            try:
+                scan = json.loads(f.read_text())
+            except json.JSONDecodeError:
+                continue
+            n_total_signals += len(scan["recommendations"])
+            for rec in scan["recommendations"]:
+                try:
+                    end_d = date.fromisoformat(rec["end_date"])
+                except (KeyError, ValueError):
+                    continue
+                if end_d > today:
+                    n_pending += 1
+                    if next_close is None or end_d < next_close:
+                        next_close = end_d
+
+        days_to_first = (next_close - today).days if next_close else None
+        md = [
+            "# Clio Paper Trading — Live Forward Performance",
+            "",
+            f"**As of:** {today.isoformat()}",
+            f"**Initial bankroll:** ${INITIAL_BANKROLL:,.0f}",
+            "",
+            "## No resolved trades yet",
+            "",
+            f"- **{n_total_signals}** signals issued so far across **{len(daily_files)}** daily scans",
+            f"- **{n_pending}** signals waiting for their markets to close",
+        ]
+        if next_close is not None:
+            md.append(f"- Earliest pending resolution: **{next_close.isoformat()}** "
+                     f"({days_to_first} day{'s' if days_to_first != 1 else ''} from now)")
+        md += [
+            "",
+            "Realized PnL, hit rate, and equity curve will populate this file",
+            "as soon as the first market closes. Until then, see:",
+            "",
+            "- [`ALL_SIGNALS.md`](ALL_SIGNALS.md) — every signal logged so far",
+            f"- [`{today.isoformat()}.json`](" + f"{today.isoformat()}.json) — today's raw output (if today's scan ran)",
+            "",
+            "Backtest expectation (from `docs/LLM_RUN.md`): **+259% CAGR / +11.25%/mo, hit rate 69%**.",
+            "Live results will be compared after ≥50 resolved trades.",
+            "",
+        ]
+        (pt_dir / "SUMMARY.md").write_text("\n".join(md) + "\n")
         return 0
 
     bankroll = INITIAL_BANKROLL
