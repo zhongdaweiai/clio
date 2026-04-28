@@ -11,6 +11,9 @@ adversarial validation and bankroll-as-ground-truth.
 This repo contains the MVP — the smallest version of that design that can run
 end-to-end without external API access. The architecture is designed to scale up.
 
+> **Live status**: paper-trading cron is running autonomously. See
+> [`STATUS.md`](STATUS.md) for current state, today's signals, and next-iteration roadmap.
+
 ## What's here
 
 ```
