@@ -1,0 +1,30 @@
+name: Weekly Recap
+
+on:
+  schedule:
+    - cron: '0 13 * * 1'  # Mondays 13:00 UTC = 6 AM PT / 9 AM ET
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  recap:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install -e ".[dev]"
+
+      - name: Build + send weekly recap email
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+        run: python scripts/weekly_recap.py

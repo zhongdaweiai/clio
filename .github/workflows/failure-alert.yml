@@ -1,0 +1,59 @@
+name: Workflow Failure Alert
+
+# Fires whenever any other workflow concludes with failure.
+on:
+  workflow_run:
+    workflows:
+      - "Daily Polymarket Paper Trade Scan"
+      - "Weekly Resolution Check + PnL Update"
+      - "Weekly Recap"
+    types: [completed]
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  alert:
+    if: github.event.workflow_run.conclusion == 'failure'
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -e ".[dev]"
+
+      - name: Send failure alert email
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+          FAILED_WORKFLOW: ${{ github.event.workflow_run.name }}
+          FAILED_RUN_URL: ${{ github.event.workflow_run.html_url }}
+          FAILED_DISPLAY_TITLE: ${{ github.event.workflow_run.display_title }}
+        run: |
+          python -c "
+          import os, sys
+          sys.path.insert(0, 'scripts')
+          from notify import send_email
+          to = os.environ.get('NOTIFY_EMAIL')
+          if not to: sys.exit(0)
+          name = os.environ.get('FAILED_WORKFLOW', 'unknown')
+          url  = os.environ.get('FAILED_RUN_URL', '')
+          title = os.environ.get('FAILED_DISPLAY_TITLE', '')
+          subj = f'⚠️ [Clio] Workflow failed: {name}'
+          html = f'''
+              <html><body style=\"font-family:-apple-system,sans-serif;color:#222\">
+              <h2 style=\"color:#c00\">⚠️ Workflow failed: {name}</h2>
+              <p>Commit/title: {title}</p>
+              <p><a href=\"{url}\">View run logs</a></p>
+              <p style=\"color:#666\">No signals or PnL update for this run.
+              The next scheduled run will retry. If failures repeat, check the
+              workflow logs and any expired secrets.</p>
+              </body></html>
+          '''
+          send_email(to, subj, html)
+          "
