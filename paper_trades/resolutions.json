@@ -14,5 +14,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in April?"
+  },
+  "0x06a804e8bd1a539829b7db279ad33b2cf0bcf98f315a3b3a8c7623e6230d88fd::2026-04-28": {
+    "market_id": "0x06a804e8bd1a539829b7db279ad33b2cf0bcf98f315a3b3a8c7623e6230d88fd",
+    "scan_date": "2026-04-28",
+    "end_date": "2026-05-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $80,000 in April?"
+  },
+  "0x06a804e8bd1a539829b7db279ad33b2cf0bcf98f315a3b3a8c7623e6230d88fd::2026-04-29": {
+    "market_id": "0x06a804e8bd1a539829b7db279ad33b2cf0bcf98f315a3b3a8c7623e6230d88fd",
+    "scan_date": "2026-04-29",
+    "end_date": "2026-05-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $80,000 in April?"
   }
 }
