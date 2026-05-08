@@ -273,3 +273,31 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | event | 0.12→0.28 | +0.16 | 54d | medium | 12.13% | [Will Crude Oil (CL) hit (HIGH) $150 by end of June?](https://polymarket.com/event/cl-hit-jun-2026) |
 | 🟢 YES | deadline | 0.04→0.18 | +0.14 | 54d | low | 11.7% | [Netanyahu out by June 30?](https://polymarket.com/event/netanyahu-out-before-2027) |
 | 🔴 NO | field | 0.20→0.07 | -0.13 | 20d | low | 17.9% | [Will Manchester City win the 2025–26 English Premier League?](https://polymarket.com/event/english-premier-league-winner) |
+
+## 2026-05-08  (23 signals, $0.136 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🟢 YES | deadline | 0.04→0.62 | +0.57 | 53d | medium | 17.23% | [Will the Iranian regime fall by June 30?](https://polymarket.com/event/will-the-iranian-regime-fall-by-june-30) |
+| 🔴 NO | field | 0.60→0.08 | -0.53 | 18d | low | 20.41% | [Will Ken Paxton win the 2026 Texas Republican Primary?](https://polymarket.com/event/texas-republican-senate-primary-winner) |
+| 🔴 NO | deadline | 0.53→0.03 | -0.49 | 23d | high | 21.31% | [US x Iran permanent peace deal by June 30, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+| 🔴 NO | field | 0.57→0.12 | -0.45 | 23d | low | 19.5% | [Will PSG win the 2025–26 Champions League?](https://polymarket.com/event/uefa-champions-league-winner) |
+| 🔴 NO | field | 0.80→0.35 | -0.45 | 19d | low | 16.72% | [Will Arsenal win the 2025–26 English Premier League?](https://polymarket.com/event/english-premier-league-winner) |
+| 🔴 NO | field | 0.61→0.18 | -0.43 | 30d | low | 18.49% | [Will Keiko Fujimori win the 2026 Peruvian presidential election?](https://polymarket.com/event/peru-presidential-election-winner) |
+| 🔴 NO | event | 0.97→0.55 | -0.42 | 40d | low | 15.19% | [Will there be no change in Fed interest rates after the June 2026 meeting?](https://polymarket.com/event/fed-decision-in-june-825) |
+| 🟢 YES | deadline | 0.14→0.55 | +0.41 | 7d | low | 15.68% | [US x Iran diplomatic meeting by May 15, 2026?](https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-329) |
+| 🟢 YES | field | 0.62→0.99 | +0.36 | 54d | low | 21.68% | [Will the Oklahoma City Thunder win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🔴 NO | deadline | 0.40→0.04 | -0.36 | 23d | high | 20.8% | [Will Donald Trump announce that the United States blockade of the Strait of Horm](https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by) |
+| 🔴 NO | field | 0.42→0.07 | -0.35 | 23d | low | 20.02% | [Will Arsenal win the 2025–26 Champions League?](https://polymarket.com/event/uefa-champions-league-winner) |
+| 🔴 NO | field | 0.42→0.08 | -0.34 | 8d | low | 19.69% | [Will Finland win Eurovision 2026?](https://polymarket.com/event/eurovision-winner-2026) |
+| 🟢 YES | field | 0.40→0.72 | +0.32 | 18d | medium | 16.45% | [Will John Cornyn win the 2026 Texas Republican Primary?](https://polymarket.com/event/texas-republican-senate-primary-winner) |
+| 🔴 NO | field | 0.37→0.06 | -0.31 | 30d | low | 20.07% | [Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?](https://polymarket.com/event/peru-presidential-election-winner) |
+| 🔴 NO | deadline | 0.34→0.04 | -0.30 | 23d | high | 20.61% | [US x Iran permanent peace deal by May 31, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+| 🔴 NO | field | 0.38→0.08 | -0.30 | 53d | low | 19.46% | [Will the Colorado Avalanche win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+| 🟢 YES | deadline | 0.02→0.32 | +0.30 | 7d | low | 13.64% | [Strait of Hormuz traffic returns to normal by May 15?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-may-15) |
+| 🔴 NO | event | 0.51→0.22 | -0.29 | 53d | low | 16.77% | [Strait of Hormuz traffic returns to normal by end of June?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) |
+| 🔴 NO | deadline | 0.28→0.08 | -0.20 | 53d | medium | 18.51% | [Starmer out by June 30, 2026?](https://polymarket.com/event/starmer-out-in-2025) |
+| 🟢 YES | event | 0.02→0.18 | +0.16 | 40d | low | 11.95% | [Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?](https://polymarket.com/event/fed-decision-in-june-825) |
+| 🔴 NO | deadline | 0.18→0.03 | -0.15 | 7d | high | 20.03% | [US x Iran permanent peace deal by May 15, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+| 🟢 YES | deadline | 0.04→0.18 | +0.14 | 53d | low | 11.7% | [Netanyahu out by June 30?](https://polymarket.com/event/netanyahu-out-before-2027) |
+| 🔴 NO | field | 0.20→0.08 | -0.12 | 19d | high | 17.32% | [Will Manchester City win the 2025–26 English Premier League?](https://polymarket.com/event/english-premier-league-winner) |
