@@ -30,5 +30,173 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Bitcoin reach $80,000 in April?"
+  },
+  "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9::2026-04-29": {
+    "market_id": "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9",
+    "scan_date": "2026-04-29",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by May 15?"
+  },
+  "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9::2026-04-30": {
+    "market_id": "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9",
+    "scan_date": "2026-04-30",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by May 15?"
+  },
+  "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9::2026-05-01": {
+    "market_id": "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by May 15?"
+  },
+  "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9::2026-05-02": {
+    "market_id": "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by May 15?"
+  },
+  "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9::2026-05-03": {
+    "market_id": "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by May 15?"
+  },
+  "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9::2026-05-05": {
+    "market_id": "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by May 15?"
+  },
+  "0x70d706fe084905dbafb95dfff13b727e4073efc3ef590adc8330562bac5d26de::2026-05-06": {
+    "market_id": "0x70d706fe084905dbafb95dfff13b727e4073efc3ef590adc8330562bac5d26de",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by May 15, 2026?"
+  },
+  "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9::2026-05-06": {
+    "market_id": "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by May 15?"
+  },
+  "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7::2026-05-06": {
+    "market_id": "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 15, 2026?"
+  },
+  "0x70d706fe084905dbafb95dfff13b727e4073efc3ef590adc8330562bac5d26de::2026-05-07": {
+    "market_id": "0x70d706fe084905dbafb95dfff13b727e4073efc3ef590adc8330562bac5d26de",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by May 15, 2026?"
+  },
+  "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7::2026-05-07": {
+    "market_id": "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 15, 2026?"
+  },
+  "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9::2026-05-07": {
+    "market_id": "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by May 15?"
+  },
+  "0x70d706fe084905dbafb95dfff13b727e4073efc3ef590adc8330562bac5d26de::2026-05-08": {
+    "market_id": "0x70d706fe084905dbafb95dfff13b727e4073efc3ef590adc8330562bac5d26de",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by May 15, 2026?"
+  },
+  "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9::2026-05-08": {
+    "market_id": "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by May 15?"
+  },
+  "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7::2026-05-08": {
+    "market_id": "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 15, 2026?"
+  },
+  "0x70d706fe084905dbafb95dfff13b727e4073efc3ef590adc8330562bac5d26de::2026-05-09": {
+    "market_id": "0x70d706fe084905dbafb95dfff13b727e4073efc3ef590adc8330562bac5d26de",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by May 15, 2026?"
+  },
+  "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7::2026-05-09": {
+    "market_id": "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 15, 2026?"
+  },
+  "0x70d706fe084905dbafb95dfff13b727e4073efc3ef590adc8330562bac5d26de::2026-05-10": {
+    "market_id": "0x70d706fe084905dbafb95dfff13b727e4073efc3ef590adc8330562bac5d26de",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by May 15, 2026?"
+  },
+  "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7::2026-05-10": {
+    "market_id": "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 15, 2026?"
+  },
+  "0x70d706fe084905dbafb95dfff13b727e4073efc3ef590adc8330562bac5d26de::2026-05-11": {
+    "market_id": "0x70d706fe084905dbafb95dfff13b727e4073efc3ef590adc8330562bac5d26de",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by May 15, 2026?"
+  },
+  "0x70d706fe084905dbafb95dfff13b727e4073efc3ef590adc8330562bac5d26de::2026-05-12": {
+    "market_id": "0x70d706fe084905dbafb95dfff13b727e4073efc3ef590adc8330562bac5d26de",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-05-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by May 15, 2026?"
   }
 }
