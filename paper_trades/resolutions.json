@@ -198,5 +198,229 @@
     "status": "unknown",
     "outcome": null,
     "question": "US x Iran diplomatic meeting by May 15, 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-04-28": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-04-28",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-04-29": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-04-29",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-04-30": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-04-30",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-01": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872::2026-05-01": {
+    "market_id": "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Greece win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-02": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872::2026-05-02": {
+    "market_id": "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Greece win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-03": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872::2026-05-03": {
+    "market_id": "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Greece win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-04": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872::2026-05-04": {
+    "market_id": "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Greece win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-05": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872::2026-05-05": {
+    "market_id": "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Greece win Eurovision 2026?"
+  },
+  "0xac5a968ce63080fd83fcb9a8eb73512f0ad4f0c689a86740b37969f5fb62bb78::2026-05-06": {
+    "market_id": "0xac5a968ce63080fd83fcb9a8eb73512f0ad4f0c689a86740b37969f5fb62bb78",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-06": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872::2026-05-06": {
+    "market_id": "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Greece win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-07": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-08": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-09": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-10": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-11": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872::2026-05-11": {
+    "market_id": "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Greece win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-12": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872::2026-05-12": {
+    "market_id": "0x7382a5e41b0fec7ba5fd4d62191fc1cf4504d3768970c46d4c9185615c416872",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Greece win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-13": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-14": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0::2026-05-15": {
+    "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Finland win Eurovision 2026?"
+  },
+  "0x78547b8ae17c8a584116cc36c30ebbdab2591de259d35868958d806f4c3c211d::2026-05-15": {
+    "market_id": "0x78547b8ae17c8a584116cc36c30ebbdab2591de259d35868958d806f4c3c211d",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-05-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Australia win Eurovision 2026?"
   }
 }
