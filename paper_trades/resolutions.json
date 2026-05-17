@@ -422,5 +422,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Australia win Eurovision 2026?"
+  },
+  "0xc7891488cec2fdbacf92469bbf7c049bda60a54cc1942158ba2ec005bcf254f0::2026-05-10": {
+    "market_id": "0xc7891488cec2fdbacf92469bbf7c049bda60a54cc1942158ba2ec005bcf254f0",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-05-17",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Indian Premier League: Chennai Super Kings vs Lucknow Super Giants"
   }
 }
