@@ -430,5 +430,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Indian Premier League: Chennai Super Kings vs Lucknow Super Giants"
+  },
+  "0x8246b715242536356d2938f90df8b50271fcf6d7586495249e2e9f75a1101981::2026-05-18": {
+    "market_id": "0x8246b715242536356d2938f90df8b50271fcf6d7586495249e2e9f75a1101981",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-05-19",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Spurs vs. Thunder"
   }
 }
