@@ -605,3 +605,33 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🔴 NO | event | 0.29→0.06 | -0.23 | 42d | high | 19.56% | [Strait of Hormuz traffic returns to normal by end of June?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) |
 | 🔴 NO | deadline | 0.30→0.08 | -0.22 | 42d | low | 18.8% | [Starmer out by June 30, 2026?](https://polymarket.com/event/starmer-out-in-2025) |
 | 🔴 NO | deadline | 0.23→0.04 | -0.19 | 13d | high | 19.96% | [Will WTI Crude Oil (WTI) hit (HIGH) $120 in May?](https://polymarket.com/event/what-price-will-wti-hit-in-may-2026) |
+
+## 2026-05-20  (32 signals, $0.182 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | field | 0.94→0.12 | -0.82 | 6d | low | 20.48% | [Will Ken Paxton win the 2026 Texas Republican Primary?](https://polymarket.com/event/texas-republican-senate-primary-winner) |
+| 🔴 NO | event | 0.94→0.12 | -0.82 | 60d | low | 20.46% | [Will Neymar play in the 2026 FIFA World Cup?](https://polymarket.com/event/will-neymar-play-in-the-2026-fifa-world-cup-for-brazil) |
+| 🟢 YES | deadline | 0.07→0.85 | +0.78 | 1d | medium | 20.07% | [Iran closes its airspace by May 21?](https://polymarket.com/event/iran-closes-its-airspace-by) |
+| 🔴 NO | event | 0.98→0.25 | -0.73 | 28d | low | 18.93% | [Will there be no change in Fed interest rates after the June 2026 meeting?](https://polymarket.com/event/fed-decision-in-june-825) |
+| 🟢 YES | field | 0.04→0.72 | +0.67 | 6d | medium | 18.48% | [Will John Cornyn win the 2026 Texas Republican Primary?](https://polymarket.com/event/texas-republican-senate-primary-winner) |
+| 🔴 NO | field | 0.77→0.12 | -0.65 | 18d | low | 20.12% | [Will Keiko Fujimori win the 2026 Peruvian presidential election?](https://polymarket.com/event/peru-presidential-election-winner) |
+| 🔴 NO | deadline | 0.62→0.07 | -0.55 | 42d | medium | 20.64% | [MicroStrategy sells any Bitcoin by June 30, 2026?](https://polymarket.com/event/microstrategy-sell-any-bitcoin-in-2025) |
+| 🟢 YES | deadline | 0.09→0.62 | +0.54 | 12d | low | 17.02% | [Will Bitcoin reach $85,000 in May?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-may-2026) |
+| 🔴 NO | field | 0.58→0.08 | -0.51 | 11d | low | 20.36% | [Will PSG win the 2025–26 Champions League?](https://polymarket.com/event/uefa-champions-league-winner) |
+| 🟢 YES | deadline | 0.23→0.72 | +0.48 | 4d | medium | 17.61% | [Iran closes its airspace by May 24?](https://polymarket.com/event/iran-closes-its-airspace-by) |
+| 🟢 YES | deadline | 0.36→0.82 | +0.45 | 11d | medium | 18.6% | [Iran closes its airspace by May 31?](https://polymarket.com/event/iran-closes-its-airspace-by) |
+| 🔴 NO | field | 0.49→0.05 | -0.44 | 27d | low | 20.76% | [Will the San Antonio Spurs win the NBA Western Conference Finals?](https://polymarket.com/event/nba-playoffs-western-conference-champion) |
+| 🔴 NO | deadline | 0.59→0.18 | -0.41 | 12d | low | 18.37% | [Will Bitcoin dip to $75,000 in May?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-may-2026) |
+| 🔴 NO | field | 0.42→0.08 | -0.34 | 11d | low | 19.74% | [Will Arsenal win the 2025–26 Champions League?](https://polymarket.com/event/uefa-champions-league-winner) |
+| 🔴 NO | deadline | 0.36→0.03 | -0.33 | 11d | high | 21.01% | [US x Iran permanent peace deal by June 30, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+| 🔴 NO | deadline | 0.36→0.04 | -0.33 | 12d | high | 20.68% | [Will WTI Crude Oil (WTI) hit (HIGH) $110 in May?](https://polymarket.com/event/what-price-will-wti-hit-in-may-2026) |
+| 🔴 NO | field | 0.39→0.08 | -0.31 | 41d | low | 19.54% | [Will the Colorado Avalanche win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+| 🟢 YES | deadline | 0.05→0.32 | +0.27 | 11d | low | 13.45% | [Iran leadership change by May 31?](https://polymarket.com/event/iran-leadership-change-by) |
+| 🟢 YES | deadline | 0.03→0.30 | +0.27 | 12d | low | 13.3% | [Will Bitcoin dip to $65,000 in May?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-may-2026) |
+| 🔴 NO | field | 0.38→0.12 | -0.26 | 42d | medium | 18.19% | [Will the San Antonio Spurs win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🔴 NO | field | 0.42→0.18 | -0.24 | 42d | low | 16.92% | [Will the Oklahoma City Thunder win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🔴 NO | deadline | 0.29→0.05 | -0.24 | 41d | high | 19.97% | [Starmer out by June 30, 2026?](https://polymarket.com/event/starmer-out-in-2025) |
+| 🔴 NO | deadline | 0.27→0.04 | -0.23 | 11d | high | 20.19% | [Will Donald Trump announce that the United States blockade of the Strait of Horm](https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by) |
+| 🔴 NO | event | 0.30→0.12 | -0.18 | 41d | medium | 17.28% | [Strait of Hormuz traffic returns to normal by end of June?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) |
+| 🔴 NO | deadline | 0.23→0.05 | -0.17 | 42d | high | 19.33% | [MicroStrategy sells any Bitcoin by May 31, 2026?](https://polymarket.com/event/microstrategy-sell-any-bitcoin-in-2025) |
