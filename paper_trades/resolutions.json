@@ -438,5 +438,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Spurs vs. Thunder"
+  },
+  "0x8530b96422523df2024c4242021b58da538c5e94ba525e8f9893c3fc2f469160::2026-05-19": {
+    "market_id": "0x8530b96422523df2024c4242021b58da538c5e94ba525e8f9893c3fc2f469160",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-05-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Cavaliers vs. Knicks"
   }
 }
