@@ -446,5 +446,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "Cavaliers vs. Knicks"
+  },
+  "0x098afead2c41677b0f09ae9d0013ca520eacdb3f0d7c8985c6581de7a0e9ac37::2026-05-20": {
+    "market_id": "0x098afead2c41677b0f09ae9d0013ca520eacdb3f0d7c8985c6581de7a0e9ac37",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-05-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 21?"
+  },
+  "0x9a0da0f25f94fce088c88803b296d48dd19717370dbafa97484f3ddac70ee4dc::2026-05-20": {
+    "market_id": "0x9a0da0f25f94fce088c88803b296d48dd19717370dbafa97484f3ddac70ee4dc",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-05-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Spurs vs. Thunder"
   }
 }
