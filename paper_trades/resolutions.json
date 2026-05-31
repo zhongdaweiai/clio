@@ -1182,5 +1182,1509 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Arsenal win the 2025\u201326 English Premier League?"
+  },
+  "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2::2026-04-28": {
+    "market_id": "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2",
+    "scan_date": "2026-04-28",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by May 31?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-04-28": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-04-28",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c::2026-04-28": {
+    "market_id": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
+    "scan_date": "2026-04-28",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of May?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-04-28": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-04-28",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-04-28": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-04-28",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-04-29": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-04-29",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd::2026-04-29": {
+    "market_id": "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd",
+    "scan_date": "2026-04-29",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bayern Munich win the 2025\u201326 Champions League?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-04-29": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-04-29",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-04-29": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-04-29",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-04-29": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-04-29",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c::2026-04-29": {
+    "market_id": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
+    "scan_date": "2026-04-29",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of May?"
+  },
+  "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2::2026-04-30": {
+    "market_id": "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2",
+    "scan_date": "2026-04-30",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by May 31?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-04-30": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-04-30",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-04-30": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-04-30",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd::2026-04-30": {
+    "market_id": "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd",
+    "scan_date": "2026-04-30",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bayern Munich win the 2025\u201326 Champions League?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-04-30": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-04-30",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-04-30": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-04-30",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x57c1e8de9d359a76055fe1be95e46a1e72d0537811dcc2ccf070cdfa73d8ba33::2026-04-30": {
+    "market_id": "0x57c1e8de9d359a76055fe1be95e46a1e72d0537811dcc2ccf070cdfa73d8ba33",
+    "scan_date": "2026-04-30",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump announces end of military operations against Iran by May 31st?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-04-30": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-04-30",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-01": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-01": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd::2026-05-01": {
+    "market_id": "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bayern Munich win the 2025\u201326 Champions League?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-01": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-01": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x57c1e8de9d359a76055fe1be95e46a1e72d0537811dcc2ccf070cdfa73d8ba33::2026-05-01": {
+    "market_id": "0x57c1e8de9d359a76055fe1be95e46a1e72d0537811dcc2ccf070cdfa73d8ba33",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump announces end of military operations against Iran by May 31st?"
+  },
+  "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2::2026-05-02": {
+    "market_id": "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by May 31?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-02": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd::2026-05-02": {
+    "market_id": "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bayern Munich win the 2025\u201326 Champions League?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-02": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-02": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-02": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-03": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd::2026-05-03": {
+    "market_id": "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bayern Munich win the 2025\u201326 Champions League?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-03": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-03": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-03": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c::2026-05-03": {
+    "market_id": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of May?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-04": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-04": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-04": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd::2026-05-04": {
+    "market_id": "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bayern Munich win the 2025\u201326 Champions League?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-04": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-04": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c::2026-05-04": {
+    "market_id": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of May?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-05": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-05": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd::2026-05-05": {
+    "market_id": "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bayern Munich win the 2025\u201326 Champions League?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-05": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-05": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-05": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0xbcacd5a055f5a9ced6f69f122216c073dd6987d08253fc07bbcc168fa5b81d55::2026-05-05": {
+    "market_id": "0xbcacd5a055f5a9ced6f69f122216c073dd6987d08253fc07bbcc168fa5b81d55",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US obtains Iranian enriched uranium by May 31?"
+  },
+  "0x2135ffcb43ba9103bb6acf7116d2d5aa98bef6d9eb3dc9c85ea00cb79513f3ec::2026-05-06": {
+    "market_id": "0x2135ffcb43ba9103bb6acf7116d2d5aa98bef6d9eb3dc9c85ea00cb79513f3ec",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 8?"
+  },
+  "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2::2026-05-06": {
+    "market_id": "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by May 31?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-06": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-06": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd::2026-05-06": {
+    "market_id": "0x852fcfca1dfa1372b768aa6df2269d20564378bb6fe9c64bba3bc040370c1efd",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bayern Munich win the 2025\u201326 Champions League?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-06": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-06": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-07": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-07": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-07": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-07": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-07": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c::2026-05-07": {
+    "market_id": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of May?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-08": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-08": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-08": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-08": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-08": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-09": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-09": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-09": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-09": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-09": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-10": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-10": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-10": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-10": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-11": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-11": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-11": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-11": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-11": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-11": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-12": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-12": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-12": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-12": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-12": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-12": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-13": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-13": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-13": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-13": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-13": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-14": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-14": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-14": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-14": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7::2026-05-15": {
+    "market_id": "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by May 31?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-15": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-15": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-15": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-15": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-15": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-16": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-16": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-16": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-16": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-16": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-17": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-17": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7::2026-05-17": {
+    "market_id": "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by May 31?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-17": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-17": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-17": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-18": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-18": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7::2026-05-18": {
+    "market_id": "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by May 31?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-18": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-18": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-18": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-19": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-19": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-19": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-19": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7::2026-05-19": {
+    "market_id": "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by May 31?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-19": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-20": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-20": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-20": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-20": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7::2026-05-20": {
+    "market_id": "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by May 31?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-20": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-20": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-21": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-21": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-21": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-21": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-21": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-21": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0xa1d97efb8a19de58d995edf58b882c4f99ef356c8a564af8daf888a7610edea1::2026-05-22": {
+    "market_id": "0xa1d97efb8a19de58d995edf58b882c4f99ef356c8a564af8daf888a7610edea1",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Kharg Island no longer under Iranian control by May 31?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-22": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7::2026-05-22": {
+    "market_id": "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by May 31?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-22": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-22": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-22": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-22": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7::2026-05-23": {
+    "market_id": "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by May 31?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-23": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-23": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-23": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-23": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-23": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-23": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-24": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-24",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-24": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-24",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-24": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-24",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-24": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-24",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-24": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-24",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7::2026-05-25": {
+    "market_id": "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by May 31?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-25": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-25": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-25": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-25": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c::2026-05-25": {
+    "market_id": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of May?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-26": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-26": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-26": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-26": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x3f0743b88ef23a678e1d07fd2fb92badcbbb17aeca7110f188533b081afbd6af::2026-05-26": {
+    "market_id": "0x3f0743b88ef23a678e1d07fd2fb92badcbbb17aeca7110f188533b081afbd6af",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Trump agree to Iranian enrichment of uranium by May 31?"
+  },
+  "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499::2026-05-26": {
+    "market_id": "0xb7dd41c16cd5b59e543ffcdab6a0d876f5ccef5329ea42ef1798d80c9a2b8499",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by May 31?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-27": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-27": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-27": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-28": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-28": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-28": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-28": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089::2026-05-28": {
+    "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by May 31, 2026?"
+  },
+  "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6::2026-05-29": {
+    "market_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+    "scan_date": "2026-05-29",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-29": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-29",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-29": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-29",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-29": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-29",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x3f0743b88ef23a678e1d07fd2fb92badcbbb17aeca7110f188533b081afbd6af::2026-05-29": {
+    "market_id": "0x3f0743b88ef23a678e1d07fd2fb92badcbbb17aeca7110f188533b081afbd6af",
+    "scan_date": "2026-05-29",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Trump agree to Iranian enrichment of uranium by May 31?"
+  },
+  "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529::2026-05-30": {
+    "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+    "scan_date": "2026-05-30",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will PSG win the 2025\u201326 Champions League?"
+  },
+  "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8::2026-05-30": {
+    "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+    "scan_date": "2026-05-30",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Arsenal win the 2025\u201326 Champions League?"
+  },
+  "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7::2026-05-30": {
+    "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+    "scan_date": "2026-05-30",
+    "end_date": "2026-05-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 30, 2026?"
   }
 }
