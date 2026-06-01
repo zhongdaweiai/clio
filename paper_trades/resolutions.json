@@ -2686,5 +2686,301 @@
     "status": "unknown",
     "outcome": null,
     "question": "US x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec::2026-05-14": {
+    "market_id": "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in May?"
+  },
+  "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec::2026-05-15": {
+    "market_id": "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in May?"
+  },
+  "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec::2026-05-16": {
+    "market_id": "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in May?"
+  },
+  "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837::2026-05-16": {
+    "market_id": "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in May?"
+  },
+  "0xde5ed16b575a0b1d100126266232653f1ba8e5709a4dd79b361491026f6cf65c::2026-05-16": {
+    "market_id": "0xde5ed16b575a0b1d100126266232653f1ba8e5709a4dd79b361491026f6cf65c",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $65,000 in May?"
+  },
+  "0x416e3cbe25a60b8210f4e67c056ea2b03f4d511e7b969826d69ef90b753ff214::2026-05-16": {
+    "market_id": "0x416e3cbe25a60b8210f4e67c056ea2b03f4d511e7b969826d69ef90b753ff214",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in May?"
+  },
+  "0xd72eb4440b11191d981c1ca0e4d363f42c84313067b3a29db721c6780218c2bf::2026-05-16": {
+    "market_id": "0xd72eb4440b11191d981c1ca0e4d363f42c84313067b3a29db721c6780218c2bf",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $60,000 in May?"
+  },
+  "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec::2026-05-17": {
+    "market_id": "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in May?"
+  },
+  "0x12587fe0cd6aa29260510a658db7d3e03de052bbc9d77ec29fbc4579a0999db1::2026-05-17": {
+    "market_id": "0x12587fe0cd6aa29260510a658db7d3e03de052bbc9d77ec29fbc4579a0999db1",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $90,000 in May?"
+  },
+  "0xde5ed16b575a0b1d100126266232653f1ba8e5709a4dd79b361491026f6cf65c::2026-05-17": {
+    "market_id": "0xde5ed16b575a0b1d100126266232653f1ba8e5709a4dd79b361491026f6cf65c",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $65,000 in May?"
+  },
+  "0x416e3cbe25a60b8210f4e67c056ea2b03f4d511e7b969826d69ef90b753ff214::2026-05-17": {
+    "market_id": "0x416e3cbe25a60b8210f4e67c056ea2b03f4d511e7b969826d69ef90b753ff214",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in May?"
+  },
+  "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837::2026-05-17": {
+    "market_id": "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in May?"
+  },
+  "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec::2026-05-18": {
+    "market_id": "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in May?"
+  },
+  "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837::2026-05-18": {
+    "market_id": "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in May?"
+  },
+  "0x12587fe0cd6aa29260510a658db7d3e03de052bbc9d77ec29fbc4579a0999db1::2026-05-18": {
+    "market_id": "0x12587fe0cd6aa29260510a658db7d3e03de052bbc9d77ec29fbc4579a0999db1",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $90,000 in May?"
+  },
+  "0xde5ed16b575a0b1d100126266232653f1ba8e5709a4dd79b361491026f6cf65c::2026-05-18": {
+    "market_id": "0xde5ed16b575a0b1d100126266232653f1ba8e5709a4dd79b361491026f6cf65c",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $65,000 in May?"
+  },
+  "0xd72eb4440b11191d981c1ca0e4d363f42c84313067b3a29db721c6780218c2bf::2026-05-18": {
+    "market_id": "0xd72eb4440b11191d981c1ca0e4d363f42c84313067b3a29db721c6780218c2bf",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $60,000 in May?"
+  },
+  "0x416e3cbe25a60b8210f4e67c056ea2b03f4d511e7b969826d69ef90b753ff214::2026-05-18": {
+    "market_id": "0x416e3cbe25a60b8210f4e67c056ea2b03f4d511e7b969826d69ef90b753ff214",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in May?"
+  },
+  "0x2de954c6acc43b5b6382dfe453c4e2e00dc9c2c8e9caf2a5752039d3c218f231::2026-05-19": {
+    "market_id": "0x2de954c6acc43b5b6382dfe453c4e2e00dc9c2c8e9caf2a5752039d3c218f231",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $75,000 in May?"
+  },
+  "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec::2026-05-19": {
+    "market_id": "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in May?"
+  },
+  "0x12587fe0cd6aa29260510a658db7d3e03de052bbc9d77ec29fbc4579a0999db1::2026-05-19": {
+    "market_id": "0x12587fe0cd6aa29260510a658db7d3e03de052bbc9d77ec29fbc4579a0999db1",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $90,000 in May?"
+  },
+  "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837::2026-05-19": {
+    "market_id": "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in May?"
+  },
+  "0x416e3cbe25a60b8210f4e67c056ea2b03f4d511e7b969826d69ef90b753ff214::2026-05-19": {
+    "market_id": "0x416e3cbe25a60b8210f4e67c056ea2b03f4d511e7b969826d69ef90b753ff214",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in May?"
+  },
+  "0xde5ed16b575a0b1d100126266232653f1ba8e5709a4dd79b361491026f6cf65c::2026-05-19": {
+    "market_id": "0xde5ed16b575a0b1d100126266232653f1ba8e5709a4dd79b361491026f6cf65c",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $65,000 in May?"
+  },
+  "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837::2026-05-20": {
+    "market_id": "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in May?"
+  },
+  "0x2de954c6acc43b5b6382dfe453c4e2e00dc9c2c8e9caf2a5752039d3c218f231::2026-05-20": {
+    "market_id": "0x2de954c6acc43b5b6382dfe453c4e2e00dc9c2c8e9caf2a5752039d3c218f231",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $75,000 in May?"
+  },
+  "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec::2026-05-20": {
+    "market_id": "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in May?"
+  },
+  "0xde5ed16b575a0b1d100126266232653f1ba8e5709a4dd79b361491026f6cf65c::2026-05-20": {
+    "market_id": "0xde5ed16b575a0b1d100126266232653f1ba8e5709a4dd79b361491026f6cf65c",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $65,000 in May?"
+  },
+  "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec::2026-05-21": {
+    "market_id": "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in May?"
+  },
+  "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837::2026-05-22": {
+    "market_id": "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in May?"
+  },
+  "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec::2026-05-22": {
+    "market_id": "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in May?"
+  },
+  "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837::2026-05-23": {
+    "market_id": "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in May?"
+  },
+  "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec::2026-05-23": {
+    "market_id": "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in May?"
+  },
+  "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837::2026-05-24": {
+    "market_id": "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837",
+    "scan_date": "2026-05-24",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in May?"
+  },
+  "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec::2026-05-24": {
+    "market_id": "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec",
+    "scan_date": "2026-05-24",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in May?"
+  },
+  "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837::2026-05-25": {
+    "market_id": "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in May?"
+  },
+  "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837::2026-05-26": {
+    "market_id": "0x58078283e2356f9b9537b42e7479d7785b83bcd6f18002de8a2526c499eda837",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-06-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in May?"
   }
 }
