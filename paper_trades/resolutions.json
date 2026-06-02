@@ -2982,5 +2982,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Bitcoin reach $85,000 in May?"
+  },
+  "0x5a965e943de13a4bdef4fb568d94341a751f02a2f652fa4fb8377d8b02f84606::2026-05-31": {
+    "market_id": "0x5a965e943de13a4bdef4fb568d94341a751f02a2f652fa4fb8377d8b02f84606",
+    "scan_date": "2026-05-31",
+    "end_date": "2026-06-02",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spencer Pratt win the 2026 Los Angeles mayoral election?"
+  },
+  "0x5a965e943de13a4bdef4fb568d94341a751f02a2f652fa4fb8377d8b02f84606::2026-06-01": {
+    "market_id": "0x5a965e943de13a4bdef4fb568d94341a751f02a2f652fa4fb8377d8b02f84606",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-06-02",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spencer Pratt win the 2026 Los Angeles mayoral election?"
   }
 }
