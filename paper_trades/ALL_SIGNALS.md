@@ -909,3 +909,27 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🔴 NO | field | 0.18→0.05 | -0.13 | 6d | low | 18.64% | [Will Joao Fonseca win the 2026 Men's French Open?](https://polymarket.com/event/2026-mens-french-open-winner) |
 | 🔴 NO | deadline | 0.14→0.03 | -0.11 | 14d | high | 19.52% | [US x Iran permanent peace deal by June 15, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
 | 🔴 NO | deadline | 0.23→0.12 | -0.11 | 29d | low | 15.7% | [Iran closes its airspace by June 30?](https://polymarket.com/event/iran-closes-its-airspace-by) |
+
+## 2026-06-02  (19 signals, $0.109 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | event | 0.95→0.18 | -0.77 | 59d | low | 19.73% | [Will Graham Platner be the Democratic nominee for Senate in Maine?](https://polymarket.com/event/maine-democratic-senate-primary-winner) |
+| 🔴 NO | field | 0.81→0.07 | -0.74 | 19d | low | 20.96% | [Will Abelardo de la Espriella  win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
+| 🔴 NO | event | 0.90→0.18 | -0.72 | 47d | low | 19.59% | [Will Neymar play in the World Cup?](https://polymarket.com/event/will-neymar-play-in-the-world-cup) |
+| 🟢 YES | deadline | 0.03→0.72 | +0.69 | 28d | medium | 18.55% | [Will the Iranian regime fall by June 30?](https://polymarket.com/event/will-the-iranian-regime-fall-by-june-30) |
+| 🔴 NO | field | 0.76→0.12 | -0.64 | 5d | low | 20.09% | [Will Keiko Fujimori win the 2026 Peruvian presidential election?](https://polymarket.com/event/peru-presidential-election-winner) |
+| 🟢 YES | deadline | 0.19→0.72 | +0.53 | 28d | medium | 17.84% | [Iran closes its airspace by June 30?](https://polymarket.com/event/iran-closes-its-airspace-by) |
+| 🔴 NO | event | 0.48→0.03 | -0.45 | 59d | high | 21.26% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.04 | -0.45 | 59d | high | 21.03% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | deadline | 0.39→0.04 | -0.35 | 59d | high | 20.75% | [US x Iran permanent peace deal by July 31, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+| 🔴 NO | field | 0.41→0.08 | -0.33 | 28d | low | 19.67% | [Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+| 🟢 YES | field | 0.23→0.55 | +0.32 | 1d | low | 14.99% | [Will Oh Se-hoon win the 2026 Seoul Mayoral Election](https://polymarket.com/event/2026-seoul-mayoral-election-winner) |
+| 🔴 NO | deadline | 0.40→0.08 | -0.32 | 59d | medium | 19.57% | [Strait of Hormuz traffic returns to normal by July 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31) |
+| 🔴 NO | field | 0.64→0.35 | -0.29 | 29d | medium | 15.48% | [Will the San Antonio Spurs win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🔴 NO | field | 0.36→0.08 | -0.28 | 29d | low | 19.31% | [Will the New York Knicks win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🔴 NO | deadline | 0.33→0.12 | -0.21 | 28d | low | 17.57% | [US-Iran nuclear deal by June 30?](https://polymarket.com/event/us-iran-nuclear-deal-by-june-30) |
+| 🔴 NO | field | 0.24→0.07 | -0.17 | 5d | low | 18.56% | [Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?](https://polymarket.com/event/peru-presidential-election-winner) |
+| 🔴 NO | event | 0.21→0.05 | -0.16 | 28d | high | 19.21% | [Strait of Hormuz traffic returns to normal by end of June?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) |
+| 🟢 YES | deadline | 0.02→0.18 | +0.16 | 28d | low | 11.94% | [Netanyahu out by June 30?](https://polymarket.com/event/netanyahu-out-before-2027) |
+| 🔴 NO | field | 0.18→0.05 | -0.14 | 19d | low | 18.76% | [Will Ivan Cepeda Castro win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
