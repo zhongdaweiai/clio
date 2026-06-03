@@ -2998,5 +2998,69 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Spencer Pratt win the 2026 Los Angeles mayoral election?"
+  },
+  "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419::2026-05-16": {
+    "market_id": "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Oh Se-hoon win the 2026 Seoul Mayoral Election"
+  },
+  "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419::2026-05-17": {
+    "market_id": "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Oh Se-hoon win the 2026 Seoul Mayoral Election"
+  },
+  "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419::2026-05-18": {
+    "market_id": "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Oh Se-hoon win the 2026 Seoul Mayoral Election"
+  },
+  "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419::2026-05-19": {
+    "market_id": "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Oh Se-hoon win the 2026 Seoul Mayoral Election"
+  },
+  "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419::2026-05-20": {
+    "market_id": "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-06-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Oh Se-hoon win the 2026 Seoul Mayoral Election"
+  },
+  "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419::2026-05-31": {
+    "market_id": "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419",
+    "scan_date": "2026-05-31",
+    "end_date": "2026-06-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Oh Se-hoon win the 2026 Seoul Mayoral Election"
+  },
+  "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419::2026-06-01": {
+    "market_id": "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-06-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Oh Se-hoon win the 2026 Seoul Mayoral Election"
+  },
+  "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419::2026-06-02": {
+    "market_id": "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-06-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Oh Se-hoon win the 2026 Seoul Mayoral Election"
   }
 }
