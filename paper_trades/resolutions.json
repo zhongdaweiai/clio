@@ -3062,5 +3062,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Oh Se-hoon win the 2026 Seoul Mayoral Election"
+  },
+  "0x9bb9f7c70674e2043580bf634753858eded9b360252c06f891688b95a542ac46::2026-06-03": {
+    "market_id": "0x9bb9f7c70674e2043580bf634753858eded9b360252c06f891688b95a542ac46",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-06-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Knicks vs. Spurs"
   }
 }
