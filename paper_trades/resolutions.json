@@ -3070,5 +3070,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Knicks vs. Spurs"
+  },
+  "0x17e2f3347e34d8a13572baf10c9b4eb3291217868a0fb84b37f36c80f8e2105a::2026-06-05": {
+    "market_id": "0x17e2f3347e34d8a13572baf10c9b4eb3291217868a0fb84b37f36c80f8e2105a",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-06",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Knicks vs. Spurs"
   }
 }
