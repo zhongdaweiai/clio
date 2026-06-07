@@ -3078,5 +3078,677 @@
     "status": "unknown",
     "outcome": null,
     "question": "Knicks vs. Spurs"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-04-28": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-04-28",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-04-28": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-04-28",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-04-29": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-04-29",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-04-29": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-04-29",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-04-30": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-04-30",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-04-30": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-04-30",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-01": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-01": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-02": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-02": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-03": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-03": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-04": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-04": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-05": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-05": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-06": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-06": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-07": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-07": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-08": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-08": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-09": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-09": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-10": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-10": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-11": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-11": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-12": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-12": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-13": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-13": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-14": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-14": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-15": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-15": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-16": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-16": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-17": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-17": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-18": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-18": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-19": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-19": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-20": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-20": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-21": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-21": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-22": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-22": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-23": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-23": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-24": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-24",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-24": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-24",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-25": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-25": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-26": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-26": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-27": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-27": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-28": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x366f89649caea042c96ee741b185461ec7faa408a2664ec44469a0061924b537::2026-05-28": {
+    "market_id": "0x366f89649caea042c96ee741b185461ec7faa408a2664ec44469a0061924b537",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 7, 2026?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-28": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-29": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-29",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-29": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-29",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-30": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-30",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-30": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-30",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-05-31": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-05-31",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-05-31": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-05-31",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-06-01": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-06-01": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0x24e67fb509df7efecc1840008153634d4852c0d2725d0a6c13f2e60beb2f2e2f::2026-06-01": {
+    "market_id": "0x24e67fb509df7efecc1840008153634d4852c0d2725d0a6c13f2e60beb2f2e2f",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Joao Fonseca win the 2026 Men's French Open?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-06-02": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-06-02": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-06-03": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-06-03": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-06-04": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-06-04": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-06-05": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x739e756119534672538d8df821a5b3321e2c802d80afff0c5790126be9b41281::2026-06-05": {
+    "market_id": "0x739e756119534672538d8df821a5b3321e2c802d80afff0c5790126be9b41281",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Alexander Zverev win the 2026 Men's French Open?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-06-05": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0x739e756119534672538d8df821a5b3321e2c802d80afff0c5790126be9b41281::2026-06-06": {
+    "market_id": "0x739e756119534672538d8df821a5b3321e2c802d80afff0c5790126be9b41281",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Alexander Zverev win the 2026 Men's French Open?"
+  },
+  "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a::2026-06-06": {
+    "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?"
+  },
+  "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951::2026-06-06": {
+    "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
   }
 }
