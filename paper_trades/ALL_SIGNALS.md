@@ -1073,3 +1073,26 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | deadline | 0.13→0.28 | +0.15 | 24d | low | 12.09% | [Will MegaETH perform an airdrop by June 30?](https://polymarket.com/event/megaeth-airdrop-by) |
 | 🔴 NO | deadline | 0.21→0.08 | -0.13 | 23d | low | 17.46% | [Iran closes its airspace by June 30?](https://polymarket.com/event/iran-closes-its-airspace-by) |
 | 🔴 NO | field | 0.17→0.05 | -0.12 | 14d | low | 18.36% | [Will Ivan Cepeda Castro win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
+
+## 2026-06-08  (18 signals, $0.111 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | field | 0.83→0.07 | -0.76 | 13d | low | 20.99% | [Will Abelardo de la Espriella  win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
+| 🔴 NO | event | 0.90→0.18 | -0.72 | 41d | low | 19.59% | [Will Neymar play in the World Cup?](https://polymarket.com/event/will-neymar-play-in-the-world-cup) |
+| 🔴 NO | field | 0.78→0.08 | -0.70 | 23d | low | 20.77% | [Will the New York Knicks win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🔴 NO | deadline | 0.91→0.35 | -0.56 | 22d | low | 17.38% | [Will NVIDIA be the largest company in the world by market cap on June 30?](https://polymarket.com/event/largest-company-end-of-june-712) |
+| 🔴 NO | field | 0.63→0.07 | -0.56 | 22d | low | 20.66% | [Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+| 🔴 NO | event | 0.51→0.04 | -0.47 | 53d | high | 21.05% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 53d | high | 21.27% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.04 | -0.45 | 53d | high | 21.03% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🟢 YES | deadline | 0.06→0.38 | +0.32 | 22d | low | 14.06% | [Will Apple be the largest company in the world by market cap on June 30?](https://polymarket.com/event/largest-company-end-of-june-712) |
+| 🔴 NO | deadline | 0.34→0.03 | -0.31 | 22d | high | 20.96% | [Will Donald Trump announce that the United States blockade of the Strait of Horm](https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by) |
+| 🔴 NO | field | 0.38→0.08 | -0.29 | 22d | low | 19.44% | [Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+| 🟢 YES | deadline | 0.04→0.32 | +0.28 | 22d | low | 13.51% | [Iran leadership change by June 30?](https://polymarket.com/event/iran-leadership-change-by) |
+| 🔴 NO | event | 0.47→0.20 | -0.27 | 1d | low | 16.84% | [Spurs vs. Knicks](https://polymarket.com/event/nba-sas-nyk-2026-06-08) |
+| 🔴 NO | deadline | 0.30→0.05 | -0.26 | 53d | medium | 20.03% | [US x Iran permanent peace deal by July 31, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+| 🟢 YES | field | 0.22→0.35 | +0.13 | 23d | medium | 11.99% | [Will the San Antonio Spurs win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🟢 YES | deadline | 0.02→0.15 | +0.13 | 22d | low | 11.54% | [Netanyahu out by June 30?](https://polymarket.com/event/netanyahu-out-before-2027) |
+| 🔴 NO | deadline | 0.20→0.08 | -0.12 | 22d | low | 17.32% | [US-Iran nuclear deal by June 30?](https://polymarket.com/event/us-iran-nuclear-deal-by-june-30) |
+| 🔴 NO | field | 0.17→0.05 | -0.12 | 13d | low | 18.36% | [Will Ivan Cepeda Castro win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
