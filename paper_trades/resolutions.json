@@ -3750,5 +3750,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?"
+  },
+  "0x9188ea717e5239143863359214202750c93c32ca3a7a78c584b93478326b844b::2026-06-01": {
+    "market_id": "0x9188ea717e5239143863359214202750c93c32ca3a7a78c584b93478326b844b",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-06-08",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Roland Garros ATP: Frances Tiafoe vs Matteo Arnaldi"
   }
 }
