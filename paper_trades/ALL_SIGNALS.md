@@ -1096,3 +1096,27 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | deadline | 0.02→0.15 | +0.13 | 22d | low | 11.54% | [Netanyahu out by June 30?](https://polymarket.com/event/netanyahu-out-before-2027) |
 | 🔴 NO | deadline | 0.20→0.08 | -0.12 | 22d | low | 17.32% | [US-Iran nuclear deal by June 30?](https://polymarket.com/event/us-iran-nuclear-deal-by-june-30) |
 | 🔴 NO | field | 0.17→0.05 | -0.12 | 13d | low | 18.36% | [Will Ivan Cepeda Castro win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
+
+## 2026-06-09  (19 signals, $0.103 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | field | 0.84→0.07 | -0.77 | 12d | low | 21.01% | [Will Abelardo de la Espriella  win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
+| 🔴 NO | event | 0.94→0.18 | -0.76 | 40d | low | 19.69% | [Will Neymar play in the World Cup?](https://polymarket.com/event/will-neymar-play-in-the-world-cup) |
+| 🔴 NO | deadline | 0.93→0.32 | -0.60 | 21d | low | 17.85% | [Will NVIDIA be the largest company in the world by market cap on June 30?](https://polymarket.com/event/largest-company-end-of-june-712) |
+| 🔴 NO | field | 0.62→0.07 | -0.55 | 22d | low | 20.65% | [Will the New York Knicks win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🔴 NO | field | 0.62→0.07 | -0.55 | 21d | low | 20.65% | [Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+| 🔴 NO | event | 0.51→0.04 | -0.47 | 52d | high | 21.05% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 52d | high | 21.27% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.04 | -0.45 | 52d | high | 21.03% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | deadline | 0.44→0.03 | -0.41 | 21d | high | 21.18% | [Will Donald Trump announce that the United States blockade of the Strait of Horm](https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by) |
+| 🔴 NO | deadline | 0.48→0.12 | -0.36 | 21d | low | 19.03% | [US announces new Iran agreement/ceasefire extension by June 30?](https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by) |
+| 🔴 NO | field | 0.37→0.05 | -0.32 | 22d | low | 20.39% | [Will the San Antonio Spurs win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🔴 NO | deadline | 0.36→0.05 | -0.32 | 52d | medium | 20.36% | [US x Iran permanent peace deal by July 31, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+| 🔴 NO | field | 0.38→0.08 | -0.29 | 21d | low | 19.44% | [Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+| 🟢 YES | deadline | 0.03→0.32 | +0.29 | 21d | low | 13.57% | [Iran leadership change by June 30?](https://polymarket.com/event/iran-leadership-change-by) |
+| 🟢 YES | deadline | 0.14→0.35 | +0.20 | 21d | low | 12.88% | [Starmer out by June 30, 2026?](https://polymarket.com/event/starmer-out-in-2025) |
+| 🔴 NO | deadline | 0.27→0.08 | -0.18 | 21d | low | 18.38% | [US-Iran nuclear deal by June 30?](https://polymarket.com/event/us-iran-nuclear-deal-by-june-30) |
+| 🔴 NO | deadline | 0.30→0.12 | -0.18 | 52d | medium | 17.28% | [Strait of Hormuz traffic returns to normal by July 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31) |
+| 🟢 YES | deadline | 0.12→0.28 | +0.16 | 22d | low | 12.23% | [Will MegaETH perform an airdrop by June 30?](https://polymarket.com/event/megaeth-airdrop-by) |
+| 🔴 NO | field | 0.15→0.05 | -0.10 | 12d | low | 18.13% | [Will Ivan Cepeda Castro win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
