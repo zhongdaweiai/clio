@@ -3758,5 +3758,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "Roland Garros ATP: Frances Tiafoe vs Matteo Arnaldi"
+  },
+  "0x0923f4cd56ffdd032deca9984f9779303b58c6ef9317c0c6490acccb477ba150::2026-06-07": {
+    "market_id": "0x0923f4cd56ffdd032deca9984f9779303b58c6ef9317c0c6490acccb477ba150",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-06-09",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Spurs vs. Knicks"
+  },
+  "0x0923f4cd56ffdd032deca9984f9779303b58c6ef9317c0c6490acccb477ba150::2026-06-08": {
+    "market_id": "0x0923f4cd56ffdd032deca9984f9779303b58c6ef9317c0c6490acccb477ba150",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-06-09",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Spurs vs. Knicks"
   }
 }
