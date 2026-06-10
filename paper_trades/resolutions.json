@@ -3774,5 +3774,45 @@
     "status": "unknown",
     "outcome": null,
     "question": "Spurs vs. Knicks"
+  },
+  "0x281565cae359040475640be8bc20f4efe15245fe0251805fd338fb1a3e45ffae::2026-04-28": {
+    "market_id": "0x281565cae359040475640be8bc20f4efe15245fe0251805fd338fb1a3e45ffae",
+    "scan_date": "2026-04-28",
+    "end_date": "2026-06-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Shai Gilgeous-Alexander win the 2025\u20132026 NBA MVP?"
+  },
+  "0x281565cae359040475640be8bc20f4efe15245fe0251805fd338fb1a3e45ffae::2026-04-29": {
+    "market_id": "0x281565cae359040475640be8bc20f4efe15245fe0251805fd338fb1a3e45ffae",
+    "scan_date": "2026-04-29",
+    "end_date": "2026-06-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Shai Gilgeous-Alexander win the 2025\u20132026 NBA MVP?"
+  },
+  "0x281565cae359040475640be8bc20f4efe15245fe0251805fd338fb1a3e45ffae::2026-04-30": {
+    "market_id": "0x281565cae359040475640be8bc20f4efe15245fe0251805fd338fb1a3e45ffae",
+    "scan_date": "2026-04-30",
+    "end_date": "2026-06-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Shai Gilgeous-Alexander win the 2025\u20132026 NBA MVP?"
+  },
+  "0x281565cae359040475640be8bc20f4efe15245fe0251805fd338fb1a3e45ffae::2026-05-04": {
+    "market_id": "0x281565cae359040475640be8bc20f4efe15245fe0251805fd338fb1a3e45ffae",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-06-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Shai Gilgeous-Alexander win the 2025\u20132026 NBA MVP?"
+  },
+  "0x281565cae359040475640be8bc20f4efe15245fe0251805fd338fb1a3e45ffae::2026-05-11": {
+    "market_id": "0x281565cae359040475640be8bc20f4efe15245fe0251805fd338fb1a3e45ffae",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-06-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Shai Gilgeous-Alexander win the 2025\u20132026 NBA MVP?"
   }
 }
