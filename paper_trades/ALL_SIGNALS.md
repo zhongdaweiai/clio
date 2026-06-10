@@ -1120,3 +1120,28 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🔴 NO | deadline | 0.30→0.12 | -0.18 | 52d | medium | 17.28% | [Strait of Hormuz traffic returns to normal by July 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31) |
 | 🟢 YES | deadline | 0.12→0.28 | +0.16 | 22d | low | 12.23% | [Will MegaETH perform an airdrop by June 30?](https://polymarket.com/event/megaeth-airdrop-by) |
 | 🔴 NO | field | 0.15→0.05 | -0.10 | 12d | low | 18.13% | [Will Ivan Cepeda Castro win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
+
+## 2026-06-10  (20 signals, $0.109 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | field | 0.85→0.07 | -0.78 | 11d | low | 21.02% | [Will Abelardo de la Espriella  win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
+| 🔴 NO | event | 0.94→0.22 | -0.72 | 39d | low | 19.18% | [Will Neymar play in the World Cup?](https://polymarket.com/event/will-neymar-play-in-the-world-cup) |
+| 🔴 NO | field | 0.62→0.07 | -0.55 | 21d | low | 20.65% | [Will the New York Knicks win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🔴 NO | deadline | 0.93→0.38 | -0.55 | 20d | low | 17.07% | [Will NVIDIA be the largest company in the world by market cap on June 30?](https://polymarket.com/event/largest-company-end-of-june-712) |
+| 🔴 NO | field | 0.57→0.08 | -0.49 | 20d | low | 20.33% | [Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+| 🔴 NO | event | 0.51→0.04 | -0.47 | 51d | high | 21.05% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 51d | high | 21.27% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.04 | -0.45 | 51d | high | 21.03% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | field | 0.42→0.07 | -0.35 | 20d | low | 20.01% | [Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+| 🔴 NO | field | 0.38→0.04 | -0.34 | 21d | medium | 20.72% | [Will the San Antonio Spurs win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🔴 NO | deadline | 0.36→0.05 | -0.32 | 20d | medium | 20.36% | [Israel closes its airspace by June 30?](https://polymarket.com/event/israel-closes-its-airspace-by) |
+| 🟢 YES | deadline | 0.04→0.35 | +0.31 | 20d | low | 13.88% | [Will Apple be the largest company in the world by market cap on June 30?](https://polymarket.com/event/largest-company-end-of-june-712) |
+| 🔴 NO | deadline | 0.33→0.03 | -0.30 | 20d | high | 20.89% | [Will Donald Trump announce that the United States blockade of the Strait of Horm](https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by) |
+| 🟢 YES | deadline | 0.17→0.45 | +0.28 | 20d | low | 14.0% | [US-Iran nuclear deal by June 30?](https://polymarket.com/event/us-iran-nuclear-deal-by-june-30) |
+| 🟢 YES | deadline | 0.05→0.32 | +0.27 | 20d | low | 13.45% | [Iran leadership change by June 30?](https://polymarket.com/event/iran-leadership-change-by) |
+| 🔴 NO | event | 0.47→0.20 | -0.27 | 1d | low | 16.84% | [Spurs vs. Knicks](https://polymarket.com/event/nba-sas-nyk-2026-06-10) |
+| 🔴 NO | deadline | 0.30→0.12 | -0.18 | 51d | medium | 17.28% | [US x Iran permanent peace deal by July 31, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+| 🟢 YES | deadline | 0.36→0.52 | +0.16 | 20d | medium | 13.0% | [US announces new Iran agreement/ceasefire extension by June 30?](https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by) |
+| 🔴 NO | deadline | 0.27→0.12 | -0.15 | 51d | medium | 16.57% | [Strait of Hormuz traffic returns to normal by July 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31) |
+| 🟢 YES | deadline | 0.23→0.35 | +0.12 | 5d | low | 11.87% | [Israel closes its airspace by June 15?](https://polymarket.com/event/israel-closes-its-airspace-by) |
