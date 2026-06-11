@@ -3814,5 +3814,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Shai Gilgeous-Alexander win the 2025\u20132026 NBA MVP?"
+  },
+  "0xdc09be650f66b005c91e585611c924c6ecaac2a313a467b145f0978e5e675f39::2026-06-04": {
+    "market_id": "0xdc09be650f66b005c91e585611c924c6ecaac2a313a467b145f0978e5e675f39",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-11",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Roland Garros WTA: Diana Shnaider vs Maja Chwalinska"
+  },
+  "0xcc5ffe6f0dd2ebbdae948dff2ebb541c17fb03eecd9e152bd0c91646d4e0049a::2026-06-10": {
+    "market_id": "0xcc5ffe6f0dd2ebbdae948dff2ebb541c17fb03eecd9e152bd0c91646d4e0049a",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-06-11",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Spurs vs. Knicks"
   }
 }
