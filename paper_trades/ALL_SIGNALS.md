@@ -1145,3 +1145,27 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | deadline | 0.36→0.52 | +0.16 | 20d | medium | 13.0% | [US announces new Iran agreement/ceasefire extension by June 30?](https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by) |
 | 🔴 NO | deadline | 0.27→0.12 | -0.15 | 51d | medium | 16.57% | [Strait of Hormuz traffic returns to normal by July 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31) |
 | 🟢 YES | deadline | 0.23→0.35 | +0.12 | 5d | low | 11.87% | [Israel closes its airspace by June 15?](https://polymarket.com/event/israel-closes-its-airspace-by) |
+
+## 2026-06-11  (19 signals, $0.108 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | field | 0.88→0.07 | -0.80 | 10d | low | 21.04% | [Will Abelardo de la Espriella  win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
+| 🔴 NO | event | 0.93→0.18 | -0.75 | 38d | low | 19.68% | [Will Neymar play in the World Cup?](https://polymarket.com/event/will-neymar-play-in-the-world-cup) |
+| 🔴 NO | field | 0.80→0.07 | -0.73 | 20d | low | 20.95% | [Will the New York Knicks win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🔴 NO | deadline | 0.92→0.32 | -0.60 | 19d | low | 17.83% | [Will NVIDIA be the largest company in the world by market cap on June 30?](https://polymarket.com/event/largest-company-end-of-june-712) |
+| 🔴 NO | deadline | 0.66→0.08 | -0.58 | 19d | medium | 20.55% | [US announces new Iran agreement/ceasefire extension by June 30?](https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by) |
+| 🔴 NO | field | 0.57→0.08 | -0.49 | 19d | low | 20.33% | [Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+| 🔴 NO | event | 0.51→0.03 | -0.47 | 50d | high | 21.29% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 50d | high | 21.27% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.04 | -0.45 | 50d | high | 21.03% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | deadline | 0.47→0.04 | -0.43 | 19d | high | 20.98% | [Will Donald Trump announce that the United States blockade of the Strait of Horm](https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by) |
+| 🟢 YES | deadline | 0.04→0.38 | +0.34 | 19d | low | 14.29% | [Will Apple be the largest company in the world by market cap on June 30?](https://polymarket.com/event/largest-company-end-of-june-712) |
+| 🔴 NO | field | 0.41→0.07 | -0.34 | 19d | low | 19.97% | [Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+| 🔴 NO | deadline | 0.37→0.04 | -0.33 | 50d | high | 20.7% | [US x Iran permanent peace deal by July 31, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+| 🟢 YES | deadline | 0.05→0.32 | +0.27 | 19d | low | 13.43% | [Iran leadership change by June 30?](https://polymarket.com/event/iran-leadership-change-by) |
+| 🔴 NO | deadline | 0.34→0.12 | -0.22 | 50d | medium | 17.83% | [Strait of Hormuz traffic returns to normal by July 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31) |
+| 🔴 NO | field | 0.20→0.05 | -0.15 | 20d | low | 18.95% | [Will the San Antonio Spurs win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🔴 NO | deadline | 0.18→0.05 | -0.14 | 19d | medium | 18.76% | [Israel closes its airspace by June 30?](https://polymarket.com/event/israel-closes-its-airspace-by) |
+| 🔴 NO | deadline | 0.17→0.04 | -0.13 | 19d | high | 19.18% | [Starmer out by June 30, 2026?](https://polymarket.com/event/starmer-out-in-2025) |
+| 🔴 NO | deadline | 0.14→0.04 | -0.10 | 4d | high | 18.62% | [US x Iran permanent peace deal by June 15, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
