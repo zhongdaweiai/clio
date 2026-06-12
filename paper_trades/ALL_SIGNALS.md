@@ -1169,3 +1169,30 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🔴 NO | deadline | 0.18→0.05 | -0.14 | 19d | medium | 18.76% | [Israel closes its airspace by June 30?](https://polymarket.com/event/israel-closes-its-airspace-by) |
 | 🔴 NO | deadline | 0.17→0.04 | -0.13 | 19d | high | 19.18% | [Starmer out by June 30, 2026?](https://polymarket.com/event/starmer-out-in-2025) |
 | 🔴 NO | deadline | 0.14→0.04 | -0.10 | 4d | high | 18.62% | [US x Iran permanent peace deal by June 15, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+
+## 2026-06-12  (22 signals, $0.117 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | field | 0.88→0.07 | -0.80 | 9d | low | 21.04% | [Will Abelardo de la Espriella  win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
+| 🔴 NO | field | 0.81→0.07 | -0.74 | 19d | low | 20.96% | [Will the New York Knicks win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🔴 NO | field | 0.80→0.08 | -0.72 | 18d | low | 20.79% | [Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+| 🔴 NO | event | 0.86→0.18 | -0.69 | 37d | low | 19.5% | [Will Neymar play in the World Cup?](https://polymarket.com/event/will-neymar-play-in-the-world-cup) |
+| 🔴 NO | deadline | 0.72→0.07 | -0.65 | 18d | high | 20.83% | [US announces new Iran agreement/ceasefire extension by June 30?](https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by) |
+| 🔴 NO | deadline | 0.67→0.04 | -0.62 | 18d | high | 21.28% | [Will Donald Trump announce that the United States blockade of the Strait of Horm](https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by) |
+| 🔴 NO | deadline | 0.94→0.32 | -0.62 | 18d | low | 17.94% | [Will NVIDIA be the largest company in the world by market cap on June 30?](https://polymarket.com/event/largest-company-end-of-june-712) |
+| 🔴 NO | event | 0.51→0.03 | -0.47 | 49d | high | 21.29% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 49d | high | 21.27% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | deadline | 0.49→0.03 | -0.46 | 49d | high | 21.27% | [US x Iran permanent peace deal by July 31, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 49d | high | 21.27% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | deadline | 0.49→0.07 | -0.42 | 18d | medium | 20.3% | [US-Iran nuclear deal by June 30?](https://polymarket.com/event/us-iran-nuclear-deal-by-june-30) |
+| 🔴 NO | field | 0.46→0.08 | -0.38 | 1d | low | 19.89% | [Will United States win on 2026-06-12?](https://polymarket.com/event/fifwc-usa-par-2026-06-12) |
+| 🔴 NO | deadline | 0.49→0.12 | -0.37 | 49d | medium | 19.06% | [Strait of Hormuz traffic returns to normal by July 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31) |
+| 🟢 YES | deadline | 0.03→0.32 | +0.29 | 18d | low | 13.57% | [Iran leadership change by June 30?](https://polymarket.com/event/iran-leadership-change-by) |
+| 🔴 NO | event | 0.35→0.20 | -0.15 | 2d | low | 15.24% | [Knicks vs. Spurs](https://polymarket.com/event/nba-nyk-sas-2026-06-13) |
+| 🔴 NO | event | 0.21→0.07 | -0.14 | 18d | high | 18.09% | [Strait of Hormuz traffic returns to normal by end of June?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) |
+| 🔴 NO | deadline | 0.16→0.02 | -0.14 | 3d | high | 20.53% | [US x Iran permanent peace deal by June 15, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+| 🔴 NO | field | 0.19→0.05 | -0.14 | 19d | low | 18.87% | [Will the San Antonio Spurs win the 2026 NBA Finals?](https://polymarket.com/event/2026-nba-champion) |
+| 🔴 NO | field | 0.20→0.07 | -0.13 | 18d | low | 17.78% | [Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+| 🔴 NO | deadline | 0.17→0.05 | -0.12 | 18d | medium | 18.36% | [Starmer out by June 30, 2026?](https://polymarket.com/event/starmer-out-in-2025) |
+| 🔴 NO | deadline | 0.23→0.12 | -0.11 | 18d | low | 15.74% | [Iran agrees to end enrichment of uranium by June 30?](https://polymarket.com/event/iran-agrees-to-end-enrichment-of-uranium-by-june-30) |
