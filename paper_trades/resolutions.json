@@ -3830,5 +3830,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Spurs vs. Knicks"
+  },
+  "0x26c10c27cde58e2d6214d65ab562d8142d34723b3b6ec3f40836d24f6d22dfc9::2026-06-12": {
+    "market_id": "0x26c10c27cde58e2d6214d65ab562d8142d34723b3b6ec3f40836d24f6d22dfc9",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-06-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will United States win on 2026-06-12?"
   }
 }
