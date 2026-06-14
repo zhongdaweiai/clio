@@ -3838,5 +3838,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will United States win on 2026-06-12?"
+  },
+  "0xd90bf5f45f24c5de7881707cb5374f3d991388a2d220fa7e0fe2be912cd7642a::2026-06-12": {
+    "market_id": "0xd90bf5f45f24c5de7881707cb5374f3d991388a2d220fa7e0fe2be912cd7642a",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-06-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Knicks vs. Spurs"
+  },
+  "0xd90bf5f45f24c5de7881707cb5374f3d991388a2d220fa7e0fe2be912cd7642a::2026-06-13": {
+    "market_id": "0xd90bf5f45f24c5de7881707cb5374f3d991388a2d220fa7e0fe2be912cd7642a",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-06-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Knicks vs. Spurs"
   }
 }
