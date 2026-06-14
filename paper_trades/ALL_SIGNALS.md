@@ -1221,3 +1221,28 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | deadline | 0.60→0.72 | +0.11 | 17d | medium | 13.49% | [US-Iran nuclear deal by June 30?](https://polymarket.com/event/us-iran-nuclear-deal-by-june-30) |
 | 🔴 NO | deadline | 0.17→0.07 | -0.10 | 17d | high | 17.2% | [Starmer out by June 30, 2026?](https://polymarket.com/event/starmer-out-in-2025) |
 | 🔴 NO | deadline | 0.16→0.06 | -0.10 | 17d | medium | 17.6% | [Israel x Iran permanent peace deal by June 30, 2026?](https://polymarket.com/event/israel-x-iran-permanent-peace-deal-by) |
+
+## 2026-06-14  (20 signals, $0.104 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | field | 0.89→0.07 | -0.81 | 7d | low | 21.05% | [Will Abelardo de la Espriella  win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
+| 🟢 YES | deadline | 0.04→0.82 | +0.78 | 16d | high | 19.76% | [Iran leadership change by June 30?](https://polymarket.com/event/iran-leadership-change-by) |
+| 🔴 NO | event | 0.90→0.18 | -0.72 | 35d | low | 19.6% | [Will Neymar play in the World Cup?](https://polymarket.com/event/will-neymar-play-in-the-world-cup) |
+| 🔴 NO | field | 0.80→0.08 | -0.72 | 16d | low | 20.79% | [Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+| 🟢 YES | deadline | 0.09→0.72 | +0.63 | 1d | medium | 18.29% | [US x Iran permanent peace deal by June 15, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+| 🔴 NO | deadline | 0.58→0.03 | -0.55 | 16d | high | 21.38% | [Will Donald Trump announce that the United States blockade of the Strait of Horm](https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by) |
+| 🟢 YES | deadline | 0.18→0.72 | +0.53 | 16d | medium | 17.88% | [Starmer out by June 30, 2026?](https://polymarket.com/event/starmer-out-in-2025) |
+| 🔴 NO | event | 0.91→0.38 | -0.53 | 16d | low | 16.98% | [Will Anthropic have the best AI model at the end of June 2026?](https://polymarket.com/event/which-company-has-best-ai-model-end-of-june) |
+| 🔴 NO | deadline | 0.97→0.45 | -0.52 | 16d | low | 16.41% | [Will NVIDIA be the largest company in the world by market cap on June 30?](https://polymarket.com/event/largest-company-end-of-june-712) |
+| 🔴 NO | event | 0.51→0.03 | -0.47 | 47d | high | 21.29% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 47d | high | 21.27% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.04 | -0.45 | 47d | high | 21.03% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | deadline | 0.54→0.12 | -0.42 | 47d | low | 19.31% | [US x Iran permanent peace deal by July 31, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+| 🔴 NO | deadline | 0.49→0.12 | -0.38 | 47d | medium | 19.09% | [Strait of Hormuz traffic returns to normal by July 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31) |
+| 🟢 YES | deadline | 0.06→0.38 | +0.32 | 16d | low | 14.09% | [Iran agrees to surrender enriched uranium stockpile by June 30, 2026?](https://polymarket.com/event/iran-agrees-to-surrender-enriched-uranium-stockpile-by) |
+| 🟢 YES | deadline | 0.12→0.35 | +0.23 | 1d | low | 13.15% | [Israel closes its airspace by June 15?](https://polymarket.com/event/israel-closes-its-airspace-by) |
+| 🟢 YES | deadline | 0.52→0.72 | +0.20 | 16d | medium | 15.07% | [US-Iran nuclear deal by June 30?](https://polymarket.com/event/us-iran-nuclear-deal-by-june-30) |
+| 🔴 NO | deadline | 0.21→0.03 | -0.18 | 1d | high | 20.29% | [Will Donald Trump announce that the United States blockade of the Strait of Horm](https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by) |
+| 🔴 NO | deadline | 0.23→0.07 | -0.15 | 16d | low | 18.27% | [Israel closes its airspace by June 30?](https://polymarket.com/event/israel-closes-its-airspace-by) |
+| 🔴 NO | field | 0.21→0.07 | -0.14 | 16d | low | 17.96% | [Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
