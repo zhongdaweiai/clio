@@ -3854,5 +3854,109 @@
     "status": "unknown",
     "outcome": null,
     "question": "Knicks vs. Spurs"
+  },
+  "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423::2026-05-27": {
+    "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-06-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 15, 2026?"
+  },
+  "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423::2026-05-28": {
+    "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-06-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 15, 2026?"
+  },
+  "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423::2026-05-29": {
+    "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+    "scan_date": "2026-05-29",
+    "end_date": "2026-06-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 15, 2026?"
+  },
+  "0x46666ceb4c63814f38a8c83784ae10e1c2e1ef52e2db648372bd86dea521cf64::2026-06-01": {
+    "market_id": "0x46666ceb4c63814f38a8c83784ae10e1c2e1ef52e2db648372bd86dea521cf64",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-06-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by June 15?"
+  },
+  "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423::2026-06-01": {
+    "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-06-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 15, 2026?"
+  },
+  "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423::2026-06-04": {
+    "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 15, 2026?"
+  },
+  "0xd8664606498aba2a8ccab56656860cb3f02d74de80e974ab87a9f940e65d4d5e::2026-06-10": {
+    "market_id": "0xd8664606498aba2a8ccab56656860cb3f02d74de80e974ab87a9f940e65d4d5e",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-06-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by June 15?"
+  },
+  "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423::2026-06-11": {
+    "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-06-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 15, 2026?"
+  },
+  "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423::2026-06-12": {
+    "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-06-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 15, 2026?"
+  },
+  "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423::2026-06-13": {
+    "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-06-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 15, 2026?"
+  },
+  "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423::2026-06-14": {
+    "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-06-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by June 15, 2026?"
+  },
+  "0xd8664606498aba2a8ccab56656860cb3f02d74de80e974ab87a9f940e65d4d5e::2026-06-14": {
+    "market_id": "0xd8664606498aba2a8ccab56656860cb3f02d74de80e974ab87a9f940e65d4d5e",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-06-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by June 15?"
+  },
+  "0x3094a2b925483a06aa72945a1472e311e5eb6be75284f61e0c008e279508ddf6::2026-06-14": {
+    "market_id": "0x3094a2b925483a06aa72945a1472e311e5eb6be75284f61e0c008e279508ddf6",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-06-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 15, 2026?"
   }
 }
