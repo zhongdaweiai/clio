@@ -1246,3 +1246,26 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🔴 NO | deadline | 0.21→0.03 | -0.18 | 1d | high | 20.29% | [Will Donald Trump announce that the United States blockade of the Strait of Horm](https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by) |
 | 🔴 NO | deadline | 0.23→0.07 | -0.15 | 16d | low | 18.27% | [Israel closes its airspace by June 30?](https://polymarket.com/event/israel-closes-its-airspace-by) |
 | 🔴 NO | field | 0.21→0.07 | -0.14 | 16d | low | 17.96% | [Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?](https://polymarket.com/event/2026-nhl-stanley-cup-champion) |
+
+## 2026-06-15  (18 signals, $0.092 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | field | 0.89→0.07 | -0.81 | 6d | low | 21.05% | [Will Abelardo de la Espriella  win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
+| 🔴 NO | event | 0.91→0.18 | -0.73 | 34d | low | 19.63% | [Will Neymar play in the World Cup?](https://polymarket.com/event/will-neymar-play-in-the-world-cup) |
+| 🔴 NO | deadline | 0.94→0.32 | -0.62 | 15d | low | 17.91% | [Will NVIDIA be the largest company in the world by market cap on June 30?](https://polymarket.com/event/largest-company-end-of-june-712) |
+| 🔴 NO | deadline | 0.98→0.38 | -0.60 | 46d | low | 17.33% | [US x Iran permanent peace deal by July 31, 2026?](https://polymarket.com/event/us-x-iran-permanent-peace-deal-by) |
+| 🔴 NO | event | 0.90→0.42 | -0.48 | 15d | medium | 16.42% | [Will Anthropic have the best AI model at the end of June 2026?](https://polymarket.com/event/which-company-has-best-ai-model-end-of-june) |
+| 🟢 YES | deadline | 0.04→0.52 | +0.48 | 15d | low | 16.0% | [Iran agrees to surrender enriched uranium stockpile by June 30, 2026?](https://polymarket.com/event/iran-agrees-to-surrender-enriched-uranium-stockpile-by) |
+| 🔴 NO | event | 0.51→0.03 | -0.47 | 46d | high | 21.29% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 46d | high | 21.27% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.04 | -0.45 | 46d | high | 21.03% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🟢 YES | event | 0.23→0.62 | +0.40 | 15d | medium | 16.12% | [Strait of Hormuz traffic returns to normal by end of June?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) |
+| 🔴 NO | event | 0.94→0.55 | -0.39 | 44d | low | 14.94% | [Will there be no change in Fed interest rates after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
+| 🔴 NO | field | 0.41→0.08 | -0.33 | 6d | low | 19.63% | [Will Vitality win IEM Cologne Major 2026?](https://polymarket.com/event/iem-cologne-major-2026-winner) |
+| 🟢 YES | deadline | 0.28→0.52 | +0.24 | 15d | low | 14.06% | [Iran agrees to end enrichment of uranium by June 30?](https://polymarket.com/event/iran-agrees-to-end-enrichment-of-uranium-by-june-30) |
+| 🔴 NO | deadline | 0.20→0.05 | -0.15 | 15d | medium | 19.07% | [Starmer out by June 30, 2026?](https://polymarket.com/event/starmer-out-in-2025) |
+| 🟢 YES | deadline | 0.15→0.28 | +0.13 | 16d | low | 11.85% | [Will MegaETH perform an airdrop by June 30?](https://polymarket.com/event/megaeth-airdrop-by) |
+| 🟢 YES | deadline | 0.06→0.18 | +0.12 | 15d | low | 11.59% | [Israel closes its airspace by June 30?](https://polymarket.com/event/israel-closes-its-airspace-by) |
+| 🔴 NO | deadline | 0.15→0.04 | -0.11 | 15d | high | 18.76% | [Israel x Hezbollah permanent peace deal by June 30, 2026?](https://polymarket.com/event/israel-x-hezbollah-permanent-peace-deal-by) |
+| 🔴 NO | deadline | 0.62→0.52 | -0.10 | 46d | low | 12.02% | [Strait of Hormuz traffic returns to normal by July 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31) |
