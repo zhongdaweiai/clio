@@ -3958,5 +3958,45 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 15, 2026?"
+  },
+  "0xe3e8574f967e628750dff67c641944a84da281ced40ffe7c76e42649e89a6887::2026-05-16": {
+    "market_id": "0xe3e8574f967e628750dff67c641944a84da281ced40ffe7c76e42649e89a6887",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the NBA Western Conference Finals?"
+  },
+  "0xe3e8574f967e628750dff67c641944a84da281ced40ffe7c76e42649e89a6887::2026-05-17": {
+    "market_id": "0xe3e8574f967e628750dff67c641944a84da281ced40ffe7c76e42649e89a6887",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the NBA Western Conference Finals?"
+  },
+  "0xe3e8574f967e628750dff67c641944a84da281ced40ffe7c76e42649e89a6887::2026-05-18": {
+    "market_id": "0xe3e8574f967e628750dff67c641944a84da281ced40ffe7c76e42649e89a6887",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the NBA Western Conference Finals?"
+  },
+  "0xe3e8574f967e628750dff67c641944a84da281ced40ffe7c76e42649e89a6887::2026-05-19": {
+    "market_id": "0xe3e8574f967e628750dff67c641944a84da281ced40ffe7c76e42649e89a6887",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the NBA Western Conference Finals?"
+  },
+  "0xe3e8574f967e628750dff67c641944a84da281ced40ffe7c76e42649e89a6887::2026-05-20": {
+    "market_id": "0xe3e8574f967e628750dff67c641944a84da281ced40ffe7c76e42649e89a6887",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-06-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the NBA Western Conference Finals?"
   }
 }
