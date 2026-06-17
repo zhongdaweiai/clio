@@ -1289,3 +1289,25 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🔴 NO | field | 0.38→0.18 | -0.20 | 5d | low | 16.24% | [Will Vitality win IEM Cologne Major 2026?](https://polymarket.com/event/iem-cologne-major-2026-winner) |
 | 🔴 NO | deadline | 0.23→0.05 | -0.18 | 14d | high | 19.45% | [Starmer out by June 30, 2026?](https://polymarket.com/event/starmer-out-in-2025) |
 | 🔴 NO | deadline | 0.21→0.04 | -0.17 | 14d | high | 19.7% | [Israel x Hezbollah permanent peace deal by June 30, 2026?](https://polymarket.com/event/israel-x-hezbollah-permanent-peace-deal-by) |
+
+## 2026-06-17  (17 signals, $0.094 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | field | 0.88→0.07 | -0.80 | 4d | low | 21.04% | [Will Abelardo de la Espriella  win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
+| 🔴 NO | event | 0.88→0.18 | -0.70 | 32d | low | 19.53% | [Will Neymar play in the World Cup?](https://polymarket.com/event/will-neymar-play-in-the-world-cup) |
+| 🔴 NO | deadline | 0.94→0.32 | -0.62 | 13d | low | 17.93% | [Will NVIDIA be the largest company in the world by market cap on June 30?](https://polymarket.com/event/largest-company-end-of-june-712) |
+| 🔴 NO | event | 0.95→0.38 | -0.57 | 13d | low | 17.18% | [Will Anthropic have the best AI model at the end of June 2026?](https://polymarket.com/event/which-company-has-best-ai-model-end-of-june) |
+| 🔴 NO | event | 0.51→0.04 | -0.47 | 44d | high | 21.05% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 44d | high | 21.27% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.50→0.04 | -0.46 | 44d | high | 21.03% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🟢 YES | event | 0.20→0.62 | +0.42 | 13d | medium | 16.26% | [Strait of Hormuz traffic returns to normal by end of June?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) |
+| 🔴 NO | event | 0.92→0.55 | -0.36 | 42d | low | 14.79% | [Will there be no change in Fed interest rates after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
+| 🟢 YES | deadline | 0.02→0.38 | +0.36 | 13d | low | 14.4% | [Will Apple be the largest company in the world by market cap on June 30?](https://polymarket.com/event/largest-company-end-of-june-712) |
+| 🟢 YES | deadline | 0.05→0.35 | +0.30 | 13d | low | 13.76% | [Iran agrees to surrender enriched uranium stockpile by June 30, 2026?](https://polymarket.com/event/iran-agrees-to-surrender-enriched-uranium-stockpile-by) |
+| 🔴 NO | deadline | 0.34→0.05 | -0.29 | 13d | high | 20.21% | [Starmer out by June 30, 2026?](https://polymarket.com/event/starmer-out-in-2025) |
+| 🟢 YES | deadline | 0.12→0.35 | +0.23 | 13d | low | 13.11% | [Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?](https://polymarket.com/event/where-will-the-next-us-iran-diplomatic-meeting-happen-455) |
+| 🔴 NO | field | 0.39→0.18 | -0.21 | 4d | low | 16.39% | [Will Vitality win IEM Cologne Major 2026?](https://polymarket.com/event/iem-cologne-major-2026-winner) |
+| 🟢 YES | deadline | 0.03→0.18 | +0.15 | 13d | medium | 11.87% | [Israel withdraws from Lebanon by June 30, 2026?](https://polymarket.com/event/israel-withdraws-from-lebanon-by) |
+| 🔴 NO | deadline | 0.45→0.30 | -0.15 | 13d | low | 13.91% | [Iran agrees to end enrichment of uranium by June 30?](https://polymarket.com/event/iran-agrees-to-end-enrichment-of-uranium-by-june-30) |
+| 🔴 NO | deadline | 0.15→0.04 | -0.11 | 13d | high | 18.83% | [Israel x Hezbollah permanent peace deal by June 30, 2026?](https://polymarket.com/event/israel-x-hezbollah-permanent-peace-deal-by) |
