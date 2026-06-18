@@ -1311,3 +1311,26 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | deadline | 0.03→0.18 | +0.15 | 13d | medium | 11.87% | [Israel withdraws from Lebanon by June 30, 2026?](https://polymarket.com/event/israel-withdraws-from-lebanon-by) |
 | 🔴 NO | deadline | 0.45→0.30 | -0.15 | 13d | low | 13.91% | [Iran agrees to end enrichment of uranium by June 30?](https://polymarket.com/event/iran-agrees-to-end-enrichment-of-uranium-by-june-30) |
 | 🔴 NO | deadline | 0.15→0.04 | -0.11 | 13d | high | 18.83% | [Israel x Hezbollah permanent peace deal by June 30, 2026?](https://polymarket.com/event/israel-x-hezbollah-permanent-peace-deal-by) |
+
+## 2026-06-18  (18 signals, $0.092 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | event | 0.86→0.18 | -0.69 | 31d | low | 19.5% | [Will Neymar play in the World Cup?](https://polymarket.com/event/will-neymar-play-in-the-world-cup) |
+| 🔴 NO | deadline | 0.98→0.32 | -0.66 | 12d | low | 18.07% | [Will NVIDIA be the largest company in the world by market cap on June 30?](https://polymarket.com/event/largest-company-end-of-june-712) |
+| 🔴 NO | event | 0.84→0.25 | -0.59 | 12d | low | 18.42% | [Will the next diplomatic US-Iran meeting be in Switzerland?](https://polymarket.com/event/where-will-the-next-us-iran-diplomatic-meeting-happen-455) |
+| 🔴 NO | event | 0.95→0.38 | -0.57 | 12d | low | 17.19% | [Will Anthropic have the best AI model at the end of June 2026?](https://polymarket.com/event/which-company-has-best-ai-model-end-of-june) |
+| 🔴 NO | event | 0.51→0.04 | -0.47 | 43d | high | 21.05% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🟢 YES | event | 0.15→0.62 | +0.46 | 12d | medium | 16.6% | [Strait of Hormuz traffic returns to normal by end of June?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 43d | high | 21.27% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.50→0.04 | -0.46 | 43d | high | 21.03% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | field | 0.90→0.52 | -0.38 | 3d | low | 15.03% | [Will Abelardo de la Espriella  win the 2026 Colombian presidential election?](https://polymarket.com/event/colombia-presidential-election) |
+| 🔴 NO | deadline | 0.65→0.35 | -0.30 | 12d | low | 15.49% | [Iran agrees to end enrichment of uranium by June 30?](https://polymarket.com/event/iran-agrees-to-end-enrichment-of-uranium-by-june-30) |
+| 🔴 NO | field | 0.38→0.08 | -0.29 | 3d | low | 19.44% | [Will Vitality win IEM Cologne Major 2026?](https://polymarket.com/event/iem-cologne-major-2026-winner) |
+| 🔴 NO | deadline | 0.33→0.05 | -0.28 | 12d | high | 20.18% | [Starmer out by June 30, 2026?](https://polymarket.com/event/starmer-out-in-2025) |
+| 🔴 NO | event | 0.31→0.08 | -0.23 | 13d | low | 18.91% | [Will Bitcoin dip to $57,500 in June?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-june-2026) |
+| 🟢 YES | deadline | 0.12→0.35 | +0.23 | 12d | low | 13.09% | [Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?](https://polymarket.com/event/where-will-the-next-us-iran-diplomatic-meeting-happen-455) |
+| 🔴 NO | event | 0.77→0.55 | -0.21 | 41d | low | 13.37% | [Will there be no change in Fed interest rates after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
+| 🟢 YES | deadline | 0.04→0.18 | +0.14 | 12d | medium | 11.8% | [Israel withdraws from Lebanon by June 30, 2026?](https://polymarket.com/event/israel-withdraws-from-lebanon-by) |
+| 🔴 NO | deadline | 0.18→0.04 | -0.14 | 12d | high | 19.4% | [Israel x Hezbollah permanent peace deal by June 30, 2026?](https://polymarket.com/event/israel-x-hezbollah-permanent-peace-deal-by) |
+| 🔴 NO | event | 0.21→0.08 | -0.13 | 41d | low | 17.36% | [Will the Fed increase interest rates by 25 bps after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
