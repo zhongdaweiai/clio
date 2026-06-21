@@ -4302,5 +4302,285 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will there be no change in Fed interest rates after the June 2026 meeting?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-01": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd::2026-06-01": {
+    "market_id": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-02": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd::2026-06-02": {
+    "market_id": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-03": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd::2026-06-03": {
+    "market_id": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-04": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd::2026-06-04": {
+    "market_id": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-05": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd::2026-06-05": {
+    "market_id": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-06": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd::2026-06-06": {
+    "market_id": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-07": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd::2026-06-07": {
+    "market_id": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-08": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd::2026-06-08": {
+    "market_id": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-09": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd::2026-06-09": {
+    "market_id": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-10": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-11": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-12": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-13": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-14": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-15": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0xdf6e9ed2eaf69707c7a1162a240ca025a02b0a5028dc286c9248769e0044bdf7::2026-06-15": {
+    "market_id": "0xdf6e9ed2eaf69707c7a1162a240ca025a02b0a5028dc286c9248769e0044bdf7",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Vitality win IEM Cologne Major 2026?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-16": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-16",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0xdf6e9ed2eaf69707c7a1162a240ca025a02b0a5028dc286c9248769e0044bdf7::2026-06-16": {
+    "market_id": "0xdf6e9ed2eaf69707c7a1162a240ca025a02b0a5028dc286c9248769e0044bdf7",
+    "scan_date": "2026-06-16",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Vitality win IEM Cologne Major 2026?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-17": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0xdf6e9ed2eaf69707c7a1162a240ca025a02b0a5028dc286c9248769e0044bdf7::2026-06-17": {
+    "market_id": "0xdf6e9ed2eaf69707c7a1162a240ca025a02b0a5028dc286c9248769e0044bdf7",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Vitality win IEM Cologne Major 2026?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-18": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0xdf6e9ed2eaf69707c7a1162a240ca025a02b0a5028dc286c9248769e0044bdf7::2026-06-18": {
+    "market_id": "0xdf6e9ed2eaf69707c7a1162a240ca025a02b0a5028dc286c9248769e0044bdf7",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Vitality win IEM Cologne Major 2026?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-19": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0xdf6e9ed2eaf69707c7a1162a240ca025a02b0a5028dc286c9248769e0044bdf7::2026-06-19": {
+    "market_id": "0xdf6e9ed2eaf69707c7a1162a240ca025a02b0a5028dc286c9248769e0044bdf7",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Vitality win IEM Cologne Major 2026?"
+  },
+  "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9::2026-06-20": {
+    "market_id": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
+    "scan_date": "2026-06-20",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
+  },
+  "0x10cfe107f46a1f4465e41501bebf20edda4f16ef47b702a4f45cacce90e01d16::2026-06-20": {
+    "market_id": "0x10cfe107f46a1f4465e41501bebf20edda4f16ef47b702a4f45cacce90e01d16",
+    "scan_date": "2026-06-20",
+    "end_date": "2026-06-21",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Team Spirit win IEM Cologne Major 2026?"
   }
 }
