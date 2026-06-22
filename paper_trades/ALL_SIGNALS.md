@@ -1397,3 +1397,24 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | event | 0.05→0.22 | +0.17 | 9d | low | 12.19% | [Will Google have the best AI model at the end of June 2026?](https://polymarket.com/event/which-company-has-best-ai-model-end-of-june) |
 | 🔴 NO | deadline | 0.23→0.10 | -0.13 | 24d | medium | 16.89% | [Strait of Hormuz traffic returns to normal by July 15?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-15) |
 | 🔴 NO | event | 0.21→0.08 | -0.13 | 38d | low | 17.33% | [Will the Fed increase interest rates by 25 bps after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
+
+## 2026-06-22  (16 signals, $0.102 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | event | 0.92→0.18 | -0.74 | 27d | low | 19.64% | [Will Neymar play in the World Cup?](https://polymarket.com/event/will-neymar-play-in-the-world-cup) |
+| 🔴 NO | event | 0.93→0.35 | -0.58 | 8d | low | 17.5% | [Will Anthropic have the best AI model at the end of June 2026?](https://polymarket.com/event/which-company-has-best-ai-model-end-of-june) |
+| 🟢 YES | event | 0.07→0.62 | +0.55 | 8d | medium | 17.12% | [Strait of Hormuz traffic returns to normal by end of June?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) |
+| 🟢 YES | deadline | 0.03→0.52 | +0.49 | 8d | low | 16.07% | [Iran agrees to unrestricted shipping through Hormuz by June 30?](https://polymarket.com/event/iran-agrees-to-unrestricted-shipping-through-hormuz-by-june-30) |
+| 🔴 NO | event | 0.51→0.03 | -0.47 | 39d | high | 21.29% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 39d | high | 21.27% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 39d | high | 21.27% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | deadline | 0.49→0.12 | -0.38 | 39d | medium | 19.09% | [Strait of Hormuz traffic returns to normal by July 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31) |
+| 🔴 NO | field | 0.42→0.08 | -0.34 | 1d | low | 19.74% | [Will Norway win on 2026-06-22?](https://polymarket.com/event/fifwc-nor-sen-2026-06-22) |
+| 🟢 YES | deadline | 0.04→0.35 | +0.31 | 8d | low | 13.9% | [Iran agrees to end enrichment of uranium by June 30?](https://polymarket.com/event/iran-agrees-to-end-enrichment-of-uranium-by-june-30) |
+| 🔴 NO | deadline | 0.32→0.10 | -0.21 | 23d | medium | 18.19% | [Strait of Hormuz traffic returns to normal by July 15?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-15) |
+| 🟢 YES | event | 0.35→0.55 | +0.20 | 8d | low | 13.74% | [Will Crude Oil (CL) hit (LOW) $70 by end of June?](https://polymarket.com/event/cl-hit-jun-2026) |
+| 🟢 YES | event | 0.05→0.25 | +0.20 | 8d | low | 12.5% | [Will Google have the best AI model at the end of June 2026?](https://polymarket.com/event/which-company-has-best-ai-model-end-of-june) |
+| 🔴 NO | event | 0.74→0.55 | -0.19 | 37d | low | 13.14% | [Will there be no change in Fed interest rates after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
+| 🔴 NO | event | 0.25→0.08 | -0.17 | 37d | low | 18.09% | [Will the Fed increase interest rates by 25 bps after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
+| 🟢 YES | deadline | 0.02→0.18 | +0.16 | 8d | low | 11.92% | [Israel closes its airspace by June 30?](https://polymarket.com/event/israel-closes-its-airspace-by) |
