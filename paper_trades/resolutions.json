@@ -4582,5 +4582,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Team Spirit win IEM Cologne Major 2026?"
+  },
+  "0x9814196ae917e1c962ce23612be50554586828a996b06c800d502a137001bc25::2026-06-22": {
+    "market_id": "0x9814196ae917e1c962ce23612be50554586828a996b06c800d502a137001bc25",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-06-23",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Norway win on 2026-06-22?"
   }
 }
