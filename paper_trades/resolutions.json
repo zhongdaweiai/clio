@@ -4590,5 +4590,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Norway win on 2026-06-22?"
+  },
+  "0x1f5cd4d1a23c11229b2781303dd39fb60ec6ee369dd173cedef8a7f7a1a27298::2026-06-24": {
+    "market_id": "0x1f5cd4d1a23c11229b2781303dd39fb60ec6ee369dd173cedef8a7f7a1a27298",
+    "scan_date": "2026-06-24",
+    "end_date": "2026-06-25",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Mexico win on 2026-06-24?"
   }
 }
