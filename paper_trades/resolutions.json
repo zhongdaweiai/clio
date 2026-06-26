@@ -4598,5 +4598,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Mexico win on 2026-06-24?"
+  },
+  "0x32552863fe8014da2613037970661f0d49f415c86a88cb3d65af7a43395bc4ad::2026-06-23": {
+    "market_id": "0x32552863fe8014da2613037970661f0d49f415c86a88cb3d65af7a43395bc4ad",
+    "scan_date": "2026-06-23",
+    "end_date": "2026-06-26",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will United States win on 2026-06-25?"
+  },
+  "0x32552863fe8014da2613037970661f0d49f415c86a88cb3d65af7a43395bc4ad::2026-06-24": {
+    "market_id": "0x32552863fe8014da2613037970661f0d49f415c86a88cb3d65af7a43395bc4ad",
+    "scan_date": "2026-06-24",
+    "end_date": "2026-06-26",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will United States win on 2026-06-25?"
   }
 }
