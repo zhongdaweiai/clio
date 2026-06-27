@@ -1488,3 +1488,20 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🔴 NO | event | 0.81→0.55 | -0.26 | 33d | low | 13.9% | [Will there be no change in Fed interest rates after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
 | 🔴 NO | deadline | 0.34→0.10 | -0.24 | 19d | medium | 18.42% | [Strait of Hormuz traffic returns to normal by July 15?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-15) |
 | 🔴 NO | event | 0.17→0.05 | -0.12 | 33d | medium | 18.56% | [Will the Fed increase interest rates by 25 bps after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
+
+## 2026-06-27  (12 signals, $0.071 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🟢 YES | deadline | 0.03→0.72 | +0.69 | 4d | medium | 18.53% | [Trump announces US x Iran ceasefire over by June 30?](https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-over-byptptpt-20260607232555290) |
+| 🟢 YES | event | 0.03→0.62 | +0.59 | 3d | medium | 17.28% | [Strait of Hormuz traffic returns to normal by end of June?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) |
+| 🔴 NO | event | 0.51→0.03 | -0.47 | 34d | high | 21.29% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 34d | high | 21.27% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.50→0.04 | -0.46 | 34d | high | 21.03% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | deadline | 0.47→0.12 | -0.35 | 34d | medium | 18.9% | [Strait of Hormuz traffic returns to normal by July 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31) |
+| 🔴 NO | field | 0.85→0.55 | -0.30 | 1d | low | 14.28% | [Will Argentina win on 2026-06-27?](https://polymarket.com/event/fifwc-jor-arg-2026-06-27) |
+| 🔴 NO | event | 0.81→0.55 | -0.26 | 32d | low | 13.8% | [Will there be no change in Fed interest rates after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
+| 🔴 NO | deadline | 0.27→0.10 | -0.17 | 18d | medium | 17.47% | [Strait of Hormuz traffic returns to normal by July 15?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-15) |
+| 🔴 NO | field | 0.23→0.09 | -0.14 | 23d | low | 17.27% | [Will France win the 2026 FIFA World Cup?](https://polymarket.com/event/world-cup-winner) |
+| 🔴 NO | event | 0.18→0.05 | -0.13 | 4d | low | 18.69% | [Will Bitcoin dip to $57,500 in June?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-june-2026) |
+| 🔴 NO | event | 0.18→0.08 | -0.10 | 32d | low | 16.68% | [Will the Fed increase interest rates by 25 bps after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
