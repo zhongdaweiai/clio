@@ -4614,5 +4614,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will United States win on 2026-06-25?"
+  },
+  "0xb465c0d920be7fa9413909befc3989247de10a1d4feca2621bb36f9a62191a12::2026-06-27": {
+    "market_id": "0xb465c0d920be7fa9413909befc3989247de10a1d4feca2621bb36f9a62191a12",
+    "scan_date": "2026-06-27",
+    "end_date": "2026-06-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina win on 2026-06-27?"
   }
 }
