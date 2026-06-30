@@ -4622,5 +4622,2797 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Argentina win on 2026-06-27?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-01": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xc84dfa2ab4a808d1b96a2cf439f8b88a1c5c37762253280deb7663a195d9b859::2026-05-01": {
+    "market_id": "0xc84dfa2ab4a808d1b96a2cf439f8b88a1c5c37762253280deb7663a195d9b859",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump announces end of military operations against Iran by June 30th?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-01": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-01": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-01": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x6897736d782ce70f47126dfcec6669073f563d6e757e60bc61c0367370d6f73e::2026-05-01": {
+    "market_id": "0x6897736d782ce70f47126dfcec6669073f563d6e757e60bc61c0367370d6f73e",
+    "scan_date": "2026-05-01",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Kharg Island no longer under Iranian control by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-02": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-02": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-02": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-02": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-03": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-03": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-03": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-03": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-04": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-04": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-04": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-04": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-04": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-05": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-05": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-05": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-05": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-05": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-06": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0x0d082a85f48a5226b1205acdb6e95ead2fe373acabcf6c471f5895f86f42a276::2026-05-06": {
+    "market_id": "0x0d082a85f48a5226b1205acdb6e95ead2fe373acabcf6c471f5895f86f42a276",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?"
+  },
+  "0xbefea6668e49e328db4d5c792bc15cea309bbc06101dfd6ced1e0556ad3ea301::2026-05-06": {
+    "market_id": "0xbefea6668e49e328db4d5c792bc15cea309bbc06101dfd6ced1e0556ad3ea301",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Buffalo Sabres win the 2026 NHL Stanley Cup?"
+  },
+  "0xeda0e0633f131b761cbe6c6e5e16ae347c48d9448a08c5826bfc2c794b63758e::2026-05-06": {
+    "market_id": "0xeda0e0633f131b761cbe6c6e5e16ae347c48d9448a08c5826bfc2c794b63758e",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-06": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-06": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-06": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-06": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-07": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-07": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-07": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0xeda0e0633f131b761cbe6c6e5e16ae347c48d9448a08c5826bfc2c794b63758e::2026-05-07": {
+    "market_id": "0xeda0e0633f131b761cbe6c6e5e16ae347c48d9448a08c5826bfc2c794b63758e",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-07": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-08": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-08": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-08": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-08": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-08": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-09": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-09": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-09": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-09": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-09": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-10": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-10": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-10": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-10": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-11": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-11": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-11": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-11": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-12": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-12": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-12": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-12": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-13": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-13": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-13": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-13": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-13": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-14": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-14": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-14": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-14": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-14": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-15": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-15": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-15": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-15": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-05-15": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-05-16": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-16": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-16": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-16": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-05-16": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x246559691ae64806ee51dcc5ca1d1216bf6e25d80127a3425b72ba559190e96f::2026-05-16": {
+    "market_id": "0x246559691ae64806ee51dcc5ca1d1216bf6e25d80127a3425b72ba559190e96f",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Gold (GC) hit (HIGH) $5,500 by end of June?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-16": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-05-16": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-16": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-17": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-17": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-17": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0xe0b6f4d40f33f456caba50434db5ea8c5ca93e84eb912054a80ca0c58ad70dd7::2026-05-17": {
+    "market_id": "0xe0b6f4d40f33f456caba50434db5ea8c5ca93e84eb912054a80ca0c58ad70dd7",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by May 31, 2026?"
+  },
+  "0x246559691ae64806ee51dcc5ca1d1216bf6e25d80127a3425b72ba559190e96f::2026-05-17": {
+    "market_id": "0x246559691ae64806ee51dcc5ca1d1216bf6e25d80127a3425b72ba559190e96f",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Gold (GC) hit (HIGH) $5,500 by end of June?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-05-17": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-05-17": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-17": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-18": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-18": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-18": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-05-18": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-05-18": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-18": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-19": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-19": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-19": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-19": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-05-19": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-05-19": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-20": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-20": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-20": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-05-20": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-05-20": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-20": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-21": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-21": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-21": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-21": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-22": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-22": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-22": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-22": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x52847ca1413b76a5570b97c0c432e38dbe61b0140f9d45e912604591b08f6fca::2026-05-22": {
+    "market_id": "0x52847ca1413b76a5570b97c0c432e38dbe61b0140f9d45e912604591b08f6fca",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-23": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-23": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-23": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x52847ca1413b76a5570b97c0c432e38dbe61b0140f9d45e912604591b08f6fca::2026-05-23": {
+    "market_id": "0x52847ca1413b76a5570b97c0c432e38dbe61b0140f9d45e912604591b08f6fca",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-23": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a::2026-05-23": {
+    "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-24": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-24",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-24": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-24",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-24": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-24",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-24": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-24",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-25": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-05-25": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-25": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-26": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-05-26": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-26": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-26": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-27": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-27": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-05-27": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-05-27": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-27": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-28": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-05-28": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-28": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-29": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-29",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-30": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-30",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-30": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-30",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-30": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-30",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-05-31": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-05-31",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-05-31": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-05-31",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-05-31": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-05-31",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c::2026-05-31": {
+    "market_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+    "scan_date": "2026-05-31",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by June 30?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-05-31": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-05-31",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-05-31": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-05-31",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x6cb3ec9e0fb1c258898f648f8b33422f59ba3e8a71aee551449d7cb147bb8ead::2026-05-31": {
+    "market_id": "0x6cb3ec9e0fb1c258898f648f8b33422f59ba3e8a71aee551449d7cb147bb8ead",
+    "scan_date": "2026-05-31",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-06-01": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-06-01": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c::2026-06-01": {
+    "market_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-06-02": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c::2026-06-02": {
+    "market_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by June 30?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-06-02": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-06-02": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-02": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-06-02": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-06-03": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-03": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-06-03": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6::2026-06-03": {
+    "market_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?"
+  },
+  "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291::2026-06-03": {
+    "market_id": "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by June 30?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-06-03": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c::2026-06-03": {
+    "market_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by June 30?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-06-03": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-03": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-06-04": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c::2026-06-04": {
+    "market_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by June 30?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-06-04": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-04": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6::2026-06-04": {
+    "market_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?"
+  },
+  "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291::2026-06-04": {
+    "market_id": "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by June 30?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-06-04": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-04": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-06-04": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-06-05": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-05": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6::2026-06-05": {
+    "market_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-06-05": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291::2026-06-05": {
+    "market_id": "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by June 30?"
+  },
+  "0x27182c8b13f2a6284754660cbb3c6350a04f7aa4afe04d24dad481947014d90d::2026-06-05": {
+    "market_id": "0x27182c8b13f2a6284754660cbb3c6350a04f7aa4afe04d24dad481947014d90d",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces new Iran agreement/ceasefire extension by June 7?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-06-05": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c::2026-06-05": {
+    "market_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by June 30?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-06-05": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-05": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f::2026-06-06": {
+    "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Iranian regime fall by June 30?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-06": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-06-06": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-06-06": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6::2026-06-06": {
+    "market_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?"
+  },
+  "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291::2026-06-06": {
+    "market_id": "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by June 30?"
+  },
+  "0x27182c8b13f2a6284754660cbb3c6350a04f7aa4afe04d24dad481947014d90d::2026-06-06": {
+    "market_id": "0x27182c8b13f2a6284754660cbb3c6350a04f7aa4afe04d24dad481947014d90d",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces new Iran agreement/ceasefire extension by June 7?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-06-06": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c::2026-06-06": {
+    "market_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-06": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-06-07": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-07": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6::2026-06-07": {
+    "market_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?"
+  },
+  "0xc2db6688c6df422104ee751fad721b03ade9c50a8b3c85588cfe4a20ae62ff63::2026-06-07": {
+    "market_id": "0xc2db6688c6df422104ee751fad721b03ade9c50a8b3c85588cfe4a20ae62ff63",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Apple be the largest company in the world by market cap on June 30?"
+  },
+  "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0::2026-06-07": {
+    "market_id": "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?"
+  },
+  "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291::2026-06-07": {
+    "market_id": "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by June 30?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-06-07": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c::2026-06-07": {
+    "market_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran closes its airspace by June 30?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-08": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-06-08": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0xc2db6688c6df422104ee751fad721b03ade9c50a8b3c85588cfe4a20ae62ff63::2026-06-08": {
+    "market_id": "0xc2db6688c6df422104ee751fad721b03ade9c50a8b3c85588cfe4a20ae62ff63",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Apple be the largest company in the world by market cap on June 30?"
+  },
+  "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6::2026-06-08": {
+    "market_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?"
+  },
+  "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0::2026-06-08": {
+    "market_id": "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?"
+  },
+  "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291::2026-06-08": {
+    "market_id": "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by June 30?"
+  },
+  "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce::2026-06-08": {
+    "market_id": "0x865303ccb9a48341d1bae33b3b4379ca86d5abbff3ce1e132716631cc0af3cce",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Netanyahu out by June 30?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-06-08": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-09": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-06-09": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6::2026-06-09": {
+    "market_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?"
+  },
+  "0xa48ee32a0cbe5bc1a48844bd14e1691701d3bf8f45f4dd8cb8d1d304561393b6::2026-06-09": {
+    "market_id": "0xa48ee32a0cbe5bc1a48844bd14e1691701d3bf8f45f4dd8cb8d1d304561393b6",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces new Iran agreement/ceasefire extension by June 30?"
+  },
+  "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0::2026-06-09": {
+    "market_id": "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?"
+  },
+  "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291::2026-06-09": {
+    "market_id": "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-06-09": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-06-09": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-10": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0::2026-06-10": {
+    "market_id": "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-06-10": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c::2026-06-10": {
+    "market_id": "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by June 30?"
+  },
+  "0xc2db6688c6df422104ee751fad721b03ade9c50a8b3c85588cfe4a20ae62ff63::2026-06-10": {
+    "market_id": "0xc2db6688c6df422104ee751fad721b03ade9c50a8b3c85588cfe4a20ae62ff63",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Apple be the largest company in the world by market cap on June 30?"
+  },
+  "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6::2026-06-10": {
+    "market_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-06-10": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291::2026-06-10": {
+    "market_id": "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by June 30?"
+  },
+  "0xa48ee32a0cbe5bc1a48844bd14e1691701d3bf8f45f4dd8cb8d1d304561393b6::2026-06-10": {
+    "market_id": "0xa48ee32a0cbe5bc1a48844bd14e1691701d3bf8f45f4dd8cb8d1d304561393b6",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces new Iran agreement/ceasefire extension by June 30?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-11": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0xa48ee32a0cbe5bc1a48844bd14e1691701d3bf8f45f4dd8cb8d1d304561393b6::2026-06-11": {
+    "market_id": "0xa48ee32a0cbe5bc1a48844bd14e1691701d3bf8f45f4dd8cb8d1d304561393b6",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces new Iran agreement/ceasefire extension by June 30?"
+  },
+  "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0::2026-06-11": {
+    "market_id": "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?"
+  },
+  "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6::2026-06-11": {
+    "market_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?"
+  },
+  "0xc2db6688c6df422104ee751fad721b03ade9c50a8b3c85588cfe4a20ae62ff63::2026-06-11": {
+    "market_id": "0xc2db6688c6df422104ee751fad721b03ade9c50a8b3c85588cfe4a20ae62ff63",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Apple be the largest company in the world by market cap on June 30?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-06-11": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291::2026-06-11": {
+    "market_id": "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by June 30?"
+  },
+  "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c::2026-06-11": {
+    "market_id": "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-06-11": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0::2026-06-12": {
+    "market_id": "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?"
+  },
+  "0xa48ee32a0cbe5bc1a48844bd14e1691701d3bf8f45f4dd8cb8d1d304561393b6::2026-06-12": {
+    "market_id": "0xa48ee32a0cbe5bc1a48844bd14e1691701d3bf8f45f4dd8cb8d1d304561393b6",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces new Iran agreement/ceasefire extension by June 30?"
+  },
+  "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6::2026-06-12": {
+    "market_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-12": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-06-12": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291::2026-06-12": {
+    "market_id": "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-12": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-06-12": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-06-12": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-06-12": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0::2026-06-13": {
+    "market_id": "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?"
+  },
+  "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6::2026-06-13": {
+    "market_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-13": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0x6cb3ec9e0fb1c258898f648f8b33422f59ba3e8a71aee551449d7cb147bb8ead::2026-06-13": {
+    "market_id": "0x6cb3ec9e0fb1c258898f648f8b33422f59ba3e8a71aee551449d7cb147bb8ead",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-13": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-06-13": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-06-13": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-06-13": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x5efa976ebe94080bbda7e45605333ff8f30156cc91604d66c41eb52fd3e25f3e::2026-06-13": {
+    "market_id": "0x5efa976ebe94080bbda7e45605333ff8f30156cc91604d66c41eb52fd3e25f3e",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel x Iran permanent peace deal by June 30, 2026?"
+  },
+  "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291::2026-06-14": {
+    "market_id": "0xb196a122933da9aff6cb8b0f3764d0dc5db1859f46c0481c711521eee8524291",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by June 30?"
+  },
+  "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0::2026-06-14": {
+    "market_id": "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?"
+  },
+  "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6::2026-06-14": {
+    "market_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-06-14": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca::2026-06-14": {
+    "market_id": "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of June 2026?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-14": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0x6cb3ec9e0fb1c258898f648f8b33422f59ba3e8a71aee551449d7cb147bb8ead::2026-06-14": {
+    "market_id": "0x6cb3ec9e0fb1c258898f648f8b33422f59ba3e8a71aee551449d7cb147bb8ead",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?"
+  },
+  "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633::2026-06-14": {
+    "market_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran nuclear deal by June 30?"
+  },
+  "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c::2026-06-14": {
+    "market_id": "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by June 30?"
+  },
+  "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1::2026-06-14": {
+    "market_id": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-15": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca::2026-06-15": {
+    "market_id": "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of June 2026?"
+  },
+  "0x6cb3ec9e0fb1c258898f648f8b33422f59ba3e8a71aee551449d7cb147bb8ead::2026-06-15": {
+    "market_id": "0x6cb3ec9e0fb1c258898f648f8b33422f59ba3e8a71aee551449d7cb147bb8ead",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-15": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-06-15": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-06-15": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c::2026-06-15": {
+    "market_id": "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by June 30?"
+  },
+  "0x86f43746cbd692719483aaeedc657eef89d9ffb91d6ffceacb1edf533e049516::2026-06-15": {
+    "market_id": "0x86f43746cbd692719483aaeedc657eef89d9ffb91d6ffceacb1edf533e049516",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel x Hezbollah permanent peace deal by June 30, 2026?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-16": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca::2026-06-16": {
+    "market_id": "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca",
+    "scan_date": "2026-06-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of June 2026?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-16": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x6cb3ec9e0fb1c258898f648f8b33422f59ba3e8a71aee551449d7cb147bb8ead::2026-06-16": {
+    "market_id": "0x6cb3ec9e0fb1c258898f648f8b33422f59ba3e8a71aee551449d7cb147bb8ead",
+    "scan_date": "2026-06-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?"
+  },
+  "0x189c38e8bf3733572f401f8d578099f7233baef3d5fcb438b4eeb0b73bacc787::2026-06-16": {
+    "market_id": "0x189c38e8bf3733572f401f8d578099f7233baef3d5fcb438b4eeb0b73bacc787",
+    "scan_date": "2026-06-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-06-16": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-06-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x86f43746cbd692719483aaeedc657eef89d9ffb91d6ffceacb1edf533e049516::2026-06-16": {
+    "market_id": "0x86f43746cbd692719483aaeedc657eef89d9ffb91d6ffceacb1edf533e049516",
+    "scan_date": "2026-06-16",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel x Hezbollah permanent peace deal by June 30, 2026?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-17": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca::2026-06-17": {
+    "market_id": "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of June 2026?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-17": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xc2db6688c6df422104ee751fad721b03ade9c50a8b3c85588cfe4a20ae62ff63::2026-06-17": {
+    "market_id": "0xc2db6688c6df422104ee751fad721b03ade9c50a8b3c85588cfe4a20ae62ff63",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Apple be the largest company in the world by market cap on June 30?"
+  },
+  "0x6cb3ec9e0fb1c258898f648f8b33422f59ba3e8a71aee551449d7cb147bb8ead::2026-06-17": {
+    "market_id": "0x6cb3ec9e0fb1c258898f648f8b33422f59ba3e8a71aee551449d7cb147bb8ead",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-06-17": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x189c38e8bf3733572f401f8d578099f7233baef3d5fcb438b4eeb0b73bacc787::2026-06-17": {
+    "market_id": "0x189c38e8bf3733572f401f8d578099f7233baef3d5fcb438b4eeb0b73bacc787",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?"
+  },
+  "0x57165bc68af588cf16e499eecd6c040e458c939e0fb0dd4b193744a9d21aa5f2::2026-06-17": {
+    "market_id": "0x57165bc68af588cf16e499eecd6c040e458c939e0fb0dd4b193744a9d21aa5f2",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by June 30, 2026?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-06-17": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0x86f43746cbd692719483aaeedc657eef89d9ffb91d6ffceacb1edf533e049516::2026-06-17": {
+    "market_id": "0x86f43746cbd692719483aaeedc657eef89d9ffb91d6ffceacb1edf533e049516",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel x Hezbollah permanent peace deal by June 30, 2026?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-18": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0x291ff8aa0b7439389820e49584499d6dc65cf617dde1a47c4b84d05f42c85639::2026-06-18": {
+    "market_id": "0x291ff8aa0b7439389820e49584499d6dc65cf617dde1a47c4b84d05f42c85639",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the next diplomatic US-Iran meeting be in Switzerland?"
+  },
+  "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca::2026-06-18": {
+    "market_id": "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of June 2026?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-18": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-06-18": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-06-18": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x189c38e8bf3733572f401f8d578099f7233baef3d5fcb438b4eeb0b73bacc787::2026-06-18": {
+    "market_id": "0x189c38e8bf3733572f401f8d578099f7233baef3d5fcb438b4eeb0b73bacc787",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?"
+  },
+  "0x57165bc68af588cf16e499eecd6c040e458c939e0fb0dd4b193744a9d21aa5f2::2026-06-18": {
+    "market_id": "0x57165bc68af588cf16e499eecd6c040e458c939e0fb0dd4b193744a9d21aa5f2",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by June 30, 2026?"
+  },
+  "0x86f43746cbd692719483aaeedc657eef89d9ffb91d6ffceacb1edf533e049516::2026-06-18": {
+    "market_id": "0x86f43746cbd692719483aaeedc657eef89d9ffb91d6ffceacb1edf533e049516",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel x Hezbollah permanent peace deal by June 30, 2026?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-19": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca::2026-06-19": {
+    "market_id": "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of June 2026?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-19": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-06-19": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x0f3062f421a43ab9af2f3dc9c3eef48e2aab38a4c9858aca7651947642c4c964::2026-06-19": {
+    "market_id": "0x0f3062f421a43ab9af2f3dc9c3eef48e2aab38a4c9858aca7651947642c4c964",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the next diplomatic US-Iran meeting be in Pakistan?"
+  },
+  "0x57165bc68af588cf16e499eecd6c040e458c939e0fb0dd4b193744a9d21aa5f2::2026-06-19": {
+    "market_id": "0x57165bc68af588cf16e499eecd6c040e458c939e0fb0dd4b193744a9d21aa5f2",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by June 30, 2026?"
+  },
+  "0x86f43746cbd692719483aaeedc657eef89d9ffb91d6ffceacb1edf533e049516::2026-06-19": {
+    "market_id": "0x86f43746cbd692719483aaeedc657eef89d9ffb91d6ffceacb1edf533e049516",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel x Hezbollah permanent peace deal by June 30, 2026?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-06-19": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0x291ff8aa0b7439389820e49584499d6dc65cf617dde1a47c4b84d05f42c85639::2026-06-19": {
+    "market_id": "0x291ff8aa0b7439389820e49584499d6dc65cf617dde1a47c4b84d05f42c85639",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the next diplomatic US-Iran meeting be in Switzerland?"
+  },
+  "0x291ff8aa0b7439389820e49584499d6dc65cf617dde1a47c4b84d05f42c85639::2026-06-20": {
+    "market_id": "0x291ff8aa0b7439389820e49584499d6dc65cf617dde1a47c4b84d05f42c85639",
+    "scan_date": "2026-06-20",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the next diplomatic US-Iran meeting be in Switzerland?"
+  },
+  "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca::2026-06-20": {
+    "market_id": "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca",
+    "scan_date": "2026-06-20",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of June 2026?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-20": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-20",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-06-20": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-06-20",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0x189c38e8bf3733572f401f8d578099f7233baef3d5fcb438b4eeb0b73bacc787::2026-06-20": {
+    "market_id": "0x189c38e8bf3733572f401f8d578099f7233baef3d5fcb438b4eeb0b73bacc787",
+    "scan_date": "2026-06-20",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-06-20": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-06-20",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053::2026-06-21": {
+    "market_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+    "scan_date": "2026-06-21",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Starmer out by June 30, 2026?"
+  },
+  "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca::2026-06-21": {
+    "market_id": "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca",
+    "scan_date": "2026-06-21",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of June 2026?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-21": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-21",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1::2026-06-21": {
+    "market_id": "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1",
+    "scan_date": "2026-06-21",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Crude Oil (CL) hit (LOW) $70 by end of June?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-06-21": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-06-21",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0x0bd1b836a2494f80aaee62927cf01e5f6fceb19114e96fc517c6440aea4576e4::2026-06-21": {
+    "market_id": "0x0bd1b836a2494f80aaee62927cf01e5f6fceb19114e96fc517c6440aea4576e4",
+    "scan_date": "2026-06-21",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of June 2026?"
+  },
+  "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca::2026-06-22": {
+    "market_id": "0xa4d72632ac0ddadcac5247ffc586a193f1bc3bc839cf9ce993c2471e0d599cca",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of June 2026?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-22": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x1723b7ee4118dee6ae6be8802cb7b6e239c37d199997b20a8191e32553a5bd68::2026-06-22": {
+    "market_id": "0x1723b7ee4118dee6ae6be8802cb7b6e239c37d199997b20a8191e32553a5bd68",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to unrestricted shipping through Hormuz by June 30?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-06-22": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1::2026-06-22": {
+    "market_id": "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Crude Oil (CL) hit (LOW) $70 by end of June?"
+  },
+  "0x0bd1b836a2494f80aaee62927cf01e5f6fceb19114e96fc517c6440aea4576e4::2026-06-22": {
+    "market_id": "0x0bd1b836a2494f80aaee62927cf01e5f6fceb19114e96fc517c6440aea4576e4",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of June 2026?"
+  },
+  "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c::2026-06-22": {
+    "market_id": "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by June 30?"
+  },
+  "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95::2026-06-23": {
+    "market_id": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+    "scan_date": "2026-06-23",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-23": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-23",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-06-23": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-06-23",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1::2026-06-23": {
+    "market_id": "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1",
+    "scan_date": "2026-06-23",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Crude Oil (CL) hit (LOW) $70 by end of June?"
+  },
+  "0x41ba322441190c465ec75e5866c6a5a3d429cf4d1efe2682026e8dcd5dbc37db::2026-06-23": {
+    "market_id": "0x41ba322441190c465ec75e5866c6a5a3d429cf4d1efe2682026e8dcd5dbc37db",
+    "scan_date": "2026-06-23",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Trump agree to Iranian enrichment of uranium by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-24": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-24",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1::2026-06-24": {
+    "market_id": "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1",
+    "scan_date": "2026-06-24",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Crude Oil (CL) hit (LOW) $70 by end of June?"
+  },
+  "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7::2026-06-24": {
+    "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+    "scan_date": "2026-06-24",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran agrees to end enrichment of uranium by June 30?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-25": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-25",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1::2026-06-25": {
+    "market_id": "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1",
+    "scan_date": "2026-06-25",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Crude Oil (CL) hit (LOW) $70 by end of June?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-26": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-26",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1::2026-06-26": {
+    "market_id": "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1",
+    "scan_date": "2026-06-26",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Crude Oil (CL) hit (LOW) $70 by end of June?"
+  },
+  "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187::2026-06-27": {
+    "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+    "scan_date": "2026-06-27",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by end of June?"
+  },
+  "0x173be8afaedec7e17be529389b825fa2171aa7e6dff36fc5ad26698195dd2227::2026-06-29": {
+    "market_id": "0x173be8afaedec7e17be529389b825fa2171aa7e6dff36fc5ad26698195dd2227",
+    "scan_date": "2026-06-29",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Norway win on 2026-06-30?"
+  },
+  "0x8ec1344d38fb55aa4adf043a3d81899bda2762b89bebec5769a81a50c3b9c25f::2026-06-29": {
+    "market_id": "0x8ec1344d38fb55aa4adf043a3d81899bda2762b89bebec5769a81a50c3b9c25f",
+    "scan_date": "2026-06-29",
+    "end_date": "2026-06-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Netherlands win on 2026-06-29?"
   }
 }
