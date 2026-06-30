@@ -1535,3 +1535,29 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | field | 0.41→0.55 | +0.14 | 1d | low | 12.77% | [Will Netherlands win on 2026-06-29?](https://polymarket.com/event/fifwc-nld-mar-2026-06-29) |
 | 🔴 NO | event | 0.21→0.08 | -0.14 | 21d | low | 17.53% | [Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?](https://polymarket.com/event/world-cup-golden-boot-winner) |
 | 🔴 NO | event | 0.18→0.05 | -0.13 | 2d | medium | 18.61% | [Will Bitcoin dip to $57,500 in June?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-june-2026) |
+
+## 2026-06-30  (21 signals, $0.128 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🟢 YES | deadline | 0.24→0.92 | +0.68 | 3d | high | 20.73% | [US x Iran diplomatic meeting by July 3, 2026?](https://polymarket.com/event/next-round-of-us-iran-peace-talks-byptptpt-20260623022722982) |
+| 🟢 YES | deadline | 0.26→0.82 | +0.56 | 31d | medium | 19.08% | [Mojtaba Khamenei seen in public by July 31?](https://polymarket.com/event/mojtaba-khamenei-public-appearance-by) |
+| 🔴 NO | event | 0.49→0.02 | -0.47 | 31d | high | 21.52% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.51→0.03 | -0.47 | 31d | high | 21.29% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.50→0.03 | -0.47 | 31d | high | 21.27% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.81→0.35 | -0.46 | 29d | low | 16.78% | [Will there be no change in Fed interest rates after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
+| 🟢 YES | field | 0.07→0.52 | +0.45 | 12d | medium | 15.78% | [Will Iga Świątek be the 2026 Women’s Wimbledon Winner?](https://polymarket.com/event/2026-womens-wimbledon-winner) |
+| 🔴 NO | event | 0.49→0.05 | -0.45 | 31d | high | 20.79% | [Trump out as President before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.52→0.08 | -0.44 | 20d | medium | 20.15% | [Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?](https://polymarket.com/event/world-cup-golden-boot-winner) |
+| 🔴 NO | event | 0.52→0.08 | -0.43 | 31d | medium | 20.14% | [New Rihanna Album before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | field | 0.43→0.08 | -0.35 | 1d | low | 19.79% | [Will Mexico win on 2026-06-30?](https://polymarket.com/event/fifwc-mex-ecu-2026-06-30) |
+| 🔴 NO | event | 0.41→0.08 | -0.33 | 1d | low | 19.63% | [Will Bitcoin dip to $57,500 in June?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-june-2026) |
+| 🔴 NO | event | 0.51→0.18 | -0.33 | 31d | low | 17.72% | [Will GPT-6 be released before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🟢 YES | deadline | 0.03→0.28 | +0.25 | 31d | low | 13.08% | [SCOTUS accepts sports event contract case by July 31, 2026?](https://polymarket.com/event/scotus-accepts-sports-event-contract-case-by-july-31-2026) |
+| 🔴 NO | deadline | 0.34→0.12 | -0.22 | 31d | medium | 17.83% | [Strait of Hormuz traffic returns to normal by July 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31) |
+| 🔴 NO | field | 0.28→0.09 | -0.19 | 20d | low | 18.15% | [Will France win the 2026 FIFA World Cup?](https://polymarket.com/event/world-cup-winner) |
+| 🔴 NO | event | 0.27→0.08 | -0.18 | 20d | low | 18.38% | [Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?](https://polymarket.com/event/world-cup-golden-boot-winner) |
+| 🔴 NO | event | 0.53→0.35 | -0.18 | 31d | low | 14.08% | [New Playboi Carti Album before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🟢 YES | event | 0.09→0.20 | +0.11 | 1d | low | 11.45% | [Will Ethereum dip to $1,500 in June?](https://polymarket.com/event/what-price-will-ethereum-hit-in-june-2026) |
+| 🟢 YES | field | 0.07→0.18 | +0.11 | 12d | medium | 11.39% | [Will Alexander Zverev be the 2026 Men’s Wimbledon winner?](https://polymarket.com/event/2026-mens-wimbledon-winner) |
+| 🔴 NO | event | 0.18→0.08 | -0.10 | 29d | low | 16.68% | [Will the Fed increase interest rates by 25 bps after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
