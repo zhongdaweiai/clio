@@ -7414,5 +7414,1069 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Netherlands win on 2026-06-29?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-02": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0xa0f4c4924ea1a8b410b4ce821c2a9955fad21a1b19bdcfde90816732278b3dd5::2026-05-02": {
+    "market_id": "0xa0f4c4924ea1a8b410b4ce821c2a9955fad21a1b19bdcfde90816732278b3dd5",
+    "scan_date": "2026-05-02",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin hit $150k by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-03": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-03": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-03",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-04": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-04",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-05": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-05": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-05",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0xe202539dfbeced92dc4112f134a205c80ca6cf4db32bd82f05b291c297219fd8::2026-05-06": {
+    "market_id": "0xe202539dfbeced92dc4112f134a205c80ca6cf4db32bd82f05b291c297219fd8",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Detroit Pistons win the 2026 NBA Finals?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-06": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-06",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-07": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-07",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-08": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-08",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-09": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-09": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-09",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-10": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-10": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-10",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-11": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-11": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-11": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-11",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-12": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-12": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-12",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-13": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-13": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-13": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-13",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-14": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-14": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868::2026-05-14": {
+    "market_id": "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by May 31, 2026?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-14": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-14",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-15": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868::2026-05-15": {
+    "market_id": "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by May 31, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-15": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-15": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-15",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-16": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-16": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868::2026-05-16": {
+    "market_id": "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by May 31, 2026?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-16": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-16",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-17": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-17": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868::2026-05-17": {
+    "market_id": "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868",
+    "scan_date": "2026-05-17",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by May 31, 2026?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-18": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-18": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868::2026-05-18": {
+    "market_id": "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by May 31, 2026?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-18": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-18",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x8213d395e079614d6c4d7f4cbb9be9337ab51648a21cc2a334ae8f1966d164b4::2026-05-19": {
+    "market_id": "0x8213d395e079614d6c4d7f4cbb9be9337ab51648a21cc2a334ae8f1966d164b4",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by December 31, 2026?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-19": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-19": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868::2026-05-19": {
+    "market_id": "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by May 31, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-19": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-19",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-20": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-20": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-20": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868::2026-05-20": {
+    "market_id": "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868",
+    "scan_date": "2026-05-20",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by May 31, 2026?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-21": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-21": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-21": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-21",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-22": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-22": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-22": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-05-22": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-05-22",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-23": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-23": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-05-23": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-23": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-23",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-24": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-24",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-25": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-25": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-25": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-25",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-26": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-26": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-05-26": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-05-26",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-27": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-27": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-05-27": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-27": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-27",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-28": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-28": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-05-28": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-28": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-28",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-29": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-29",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-29": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-29",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-05-29": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-05-29",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-29": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-29",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868::2026-05-29": {
+    "market_id": "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868",
+    "scan_date": "2026-05-29",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by May 31, 2026?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-30": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-30",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54::2026-05-30": {
+    "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "scan_date": "2026-05-30",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-05-30": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-05-30",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-30": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-30",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00::2026-05-31": {
+    "market_id": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
+    "scan_date": "2026-05-31",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "MicroStrategy sells any Bitcoin by June 30, 2026?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-05-31": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-05-31",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-05-31": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-05-31",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-06-01": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-06-01": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-06-02": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-06-02": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-06-03": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-06-03": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-06-04": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-06-04": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-06-05": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-06-05": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-06-06": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-06-06": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-06-07": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-06-07": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0xe459d1b598da754c9fd5fc155b6efe3a144aa80abbc7d041fce7d35d903d3c8e::2026-06-07": {
+    "market_id": "0xe459d1b598da754c9fd5fc155b6efe3a144aa80abbc7d041fce7d35d903d3c8e",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will MegaETH perform an airdrop by June 30?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-06-08": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-06-08": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-06-09": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-06-09": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0xe459d1b598da754c9fd5fc155b6efe3a144aa80abbc7d041fce7d35d903d3c8e::2026-06-09": {
+    "market_id": "0xe459d1b598da754c9fd5fc155b6efe3a144aa80abbc7d041fce7d35d903d3c8e",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will MegaETH perform an airdrop by June 30?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-06-10": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-06-10": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-06-11": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-06-11": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-06-12": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-06-12": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37::2026-06-13": {
+    "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Knicks win the 2026 NBA Finals?"
+  },
+  "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73::2026-06-13": {
+    "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?"
+  },
+  "0xe459d1b598da754c9fd5fc155b6efe3a144aa80abbc7d041fce7d35d903d3c8e::2026-06-15": {
+    "market_id": "0xe459d1b598da754c9fd5fc155b6efe3a144aa80abbc7d041fce7d35d903d3c8e",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will MegaETH perform an airdrop by June 30?"
+  },
+  "0xe459d1b598da754c9fd5fc155b6efe3a144aa80abbc7d041fce7d35d903d3c8e::2026-06-16": {
+    "market_id": "0xe459d1b598da754c9fd5fc155b6efe3a144aa80abbc7d041fce7d35d903d3c8e",
+    "scan_date": "2026-06-16",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will MegaETH perform an airdrop by June 30?"
+  },
+  "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003::2026-06-18": {
+    "market_id": "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in June?"
+  },
+  "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003::2026-06-19": {
+    "market_id": "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in June?"
+  },
+  "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003::2026-06-24": {
+    "market_id": "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003",
+    "scan_date": "2026-06-24",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in June?"
+  },
+  "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003::2026-06-25": {
+    "market_id": "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003",
+    "scan_date": "2026-06-25",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in June?"
+  },
+  "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003::2026-06-26": {
+    "market_id": "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003",
+    "scan_date": "2026-06-26",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in June?"
+  },
+  "0x26ca74d41edc9e3a6643698fbe8eae446377e4579d2f55f505da4ff6a1cf0f66::2026-06-27": {
+    "market_id": "0x26ca74d41edc9e3a6643698fbe8eae446377e4579d2f55f505da4ff6a1cf0f66",
+    "scan_date": "2026-06-27",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump announces US x Iran ceasefire over by June 30?"
+  },
+  "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003::2026-06-27": {
+    "market_id": "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003",
+    "scan_date": "2026-06-27",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in June?"
+  },
+  "0x26ca74d41edc9e3a6643698fbe8eae446377e4579d2f55f505da4ff6a1cf0f66::2026-06-28": {
+    "market_id": "0x26ca74d41edc9e3a6643698fbe8eae446377e4579d2f55f505da4ff6a1cf0f66",
+    "scan_date": "2026-06-28",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump announces US x Iran ceasefire over by June 30?"
+  },
+  "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003::2026-06-28": {
+    "market_id": "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003",
+    "scan_date": "2026-06-28",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in June?"
+  },
+  "0xe459d1b598da754c9fd5fc155b6efe3a144aa80abbc7d041fce7d35d903d3c8e::2026-06-29": {
+    "market_id": "0xe459d1b598da754c9fd5fc155b6efe3a144aa80abbc7d041fce7d35d903d3c8e",
+    "scan_date": "2026-06-29",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will MegaETH perform an airdrop by June 30?"
+  },
+  "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003::2026-06-29": {
+    "market_id": "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003",
+    "scan_date": "2026-06-29",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in June?"
+  },
+  "0x65f5760095b3b903c895b320765ccdd4074b72750458b09fde516f6254bcec67::2026-06-30": {
+    "market_id": "0x65f5760095b3b903c895b320765ccdd4074b72750458b09fde516f6254bcec67",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Mexico win on 2026-06-30?"
+  },
+  "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003::2026-06-30": {
+    "market_id": "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in June?"
+  },
+  "0x614732ba7a1fe13aa24f5ca67f8e42564178a6f769fb296a017fdb71f82533f9::2026-06-30": {
+    "market_id": "0x614732ba7a1fe13aa24f5ca67f8e42564178a6f769fb296a017fdb71f82533f9",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ethereum dip to $1,500 in June?"
   }
 }
