@@ -8478,5 +8478,29 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Ethereum dip to $1,500 in June?"
+  },
+  "0xe9d96f957f3f5e4ffa0e920087edf967c4cc353e9d1ad0c2d7ae928b32b61cb0::2026-07-01": {
+    "market_id": "0xe9d96f957f3f5e4ffa0e920087edf967c4cc353e9d1ad0c2d7ae928b32b61cb0",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-02",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will United States win on 2026-07-01?"
+  },
+  "0xab186f403a2260444ccc536fce775670e1a851d8ceff6b7fff3f5f3d240ba412::2026-07-01": {
+    "market_id": "0xab186f403a2260444ccc536fce775670e1a851d8ceff6b7fff3f5f3d240ba412",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-02",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Spread: United States (-1.5)"
+  },
+  "0xc5943cca27ce657f519619520b1664829b1209f9a5ef9266be7f2954be1b0260::2026-07-01": {
+    "market_id": "0xc5943cca27ce657f519619520b1664829b1209f9a5ef9266be7f2954be1b0260",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-02",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win on 2026-07-02?"
   }
 }
