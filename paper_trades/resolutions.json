@@ -8502,5 +8502,77 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Spain win on 2026-07-02?"
+  },
+  "0x545e1bf6ec42e0e8a776a3c3e11ed225f8d3dfcc74f98656e142f99a2b718383::2026-06-30": {
+    "market_id": "0x545e1bf6ec42e0e8a776a3c3e11ed225f8d3dfcc74f98656e142f99a2b718383",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 3, 2026?"
+  },
+  "0x545e1bf6ec42e0e8a776a3c3e11ed225f8d3dfcc74f98656e142f99a2b718383::2026-07-01": {
+    "market_id": "0x545e1bf6ec42e0e8a776a3c3e11ed225f8d3dfcc74f98656e142f99a2b718383",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 3, 2026?"
+  },
+  "0x4a0aa5a56b98476ffbab967ba0eb70d35794ad0f154fbce5b976d6053bb47808::2026-07-01": {
+    "market_id": "0x4a0aa5a56b98476ffbab967ba0eb70d35794ad0f154fbce5b976d6053bb47808",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Argentina vs. Cabo Verde: Team to Advance"
+  },
+  "0xb7dc069ed1fa05b964f3fcf5a201fc5f19c812d7f2f1328b2c922abab8dc250e::2026-07-01": {
+    "market_id": "0xb7dc069ed1fa05b964f3fcf5a201fc5f19c812d7f2f1328b2c922abab8dc250e",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Spread: Argentina (-1.5)"
+  },
+  "0xb81d9a63be774f9c3db1b96af4d0e869128643a29c6eb922c0d8a20137880120::2026-07-01": {
+    "market_id": "0xb81d9a63be774f9c3db1b96af4d0e869128643a29c6eb922c0d8a20137880120",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina win on 2026-07-03?"
+  },
+  "0x498cd7fcb7d5209192cd31676f27413e0a3bdb8c8d8d228229cac24c0701fc27::2026-07-02": {
+    "market_id": "0x498cd7fcb7d5209192cd31676f27413e0a3bdb8c8d8d228229cac24c0701fc27",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Switzerland win on 2026-07-02?"
+  },
+  "0xb7dc069ed1fa05b964f3fcf5a201fc5f19c812d7f2f1328b2c922abab8dc250e::2026-07-02": {
+    "market_id": "0xb7dc069ed1fa05b964f3fcf5a201fc5f19c812d7f2f1328b2c922abab8dc250e",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Spread: Argentina (-1.5)"
+  },
+  "0xb81d9a63be774f9c3db1b96af4d0e869128643a29c6eb922c0d8a20137880120::2026-07-02": {
+    "market_id": "0xb81d9a63be774f9c3db1b96af4d0e869128643a29c6eb922c0d8a20137880120",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina win on 2026-07-03?"
+  },
+  "0x4a0aa5a56b98476ffbab967ba0eb70d35794ad0f154fbce5b976d6053bb47808::2026-07-02": {
+    "market_id": "0x4a0aa5a56b98476ffbab967ba0eb70d35794ad0f154fbce5b976d6053bb47808",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Argentina vs. Cabo Verde: Team to Advance"
   }
 }
