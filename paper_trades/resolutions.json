@@ -8574,5 +8574,45 @@
     "status": "unknown",
     "outcome": null,
     "question": "Argentina vs. Cabo Verde: Team to Advance"
+  },
+  "0xa947b7c696453a288460a8e12aae31b854ca02d0b87970ffc259cec8a9fffcd2::2026-07-01": {
+    "market_id": "0xa947b7c696453a288460a8e12aae31b854ca02d0b87970ffc259cec8a9fffcd2",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Morocco win on 2026-07-04?"
+  },
+  "0xad3441638abca4aa830cb997b7caea5f3c8b84be06b99173781cb9a47c5cbc5a::2026-07-03": {
+    "market_id": "0xad3441638abca4aa830cb997b7caea5f3c8b84be06b99173781cb9a47c5cbc5a",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win on 2026-07-04?"
+  },
+  "0xc4a26ee77fc5777d5036854f3835bf7ce44b42a61e3c6325c22b444627757eca::2026-07-03": {
+    "market_id": "0xc4a26ee77fc5777d5036854f3835bf7ce44b42a61e3c6325c22b444627757eca",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Colombia win on 2026-07-03?"
+  },
+  "0xa947b7c696453a288460a8e12aae31b854ca02d0b87970ffc259cec8a9fffcd2::2026-07-03": {
+    "market_id": "0xa947b7c696453a288460a8e12aae31b854ca02d0b87970ffc259cec8a9fffcd2",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Morocco win on 2026-07-04?"
+  },
+  "0x8c9757e6d49e9243a45ed4c6042d5a3e98cdcce0619495db5d377e510327b769::2026-07-03": {
+    "market_id": "0x8c9757e6d49e9243a45ed4c6042d5a3e98cdcce0619495db5d377e510327b769",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Colombia vs. Ghana: Team to Advance"
   }
 }
