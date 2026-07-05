@@ -8614,5 +8614,37 @@
     "status": "unknown",
     "outcome": null,
     "question": "Colombia vs. Ghana: Team to Advance"
+  },
+  "0x2a0e8ce7c309ec8015c4c721dec574ff100b0512ef412a54bb733dc5bef740dc::2026-07-03": {
+    "market_id": "0x2a0e8ce7c309ec8015c4c721dec574ff100b0512ef412a54bb733dc5bef740dc",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Brazil win on 2026-07-05?"
+  },
+  "0x2a0e8ce7c309ec8015c4c721dec574ff100b0512ef412a54bb733dc5bef740dc::2026-07-04": {
+    "market_id": "0x2a0e8ce7c309ec8015c4c721dec574ff100b0512ef412a54bb733dc5bef740dc",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Brazil win on 2026-07-05?"
+  },
+  "0xad9e90bf3ccd05f9c3d4a25f49109d5f860225c26faec54b52edec93c4ba4e62::2026-07-04": {
+    "market_id": "0xad9e90bf3ccd05f9c3d4a25f49109d5f860225c26faec54b52edec93c4ba4e62",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Brazil vs. Norway: Team to Advance"
+  },
+  "0xe6f040d202cefefe47bdc9d192303905418223fec440f96eb2abe98f3b701bd4::2026-07-04": {
+    "market_id": "0xe6f040d202cefefe47bdc9d192303905418223fec440f96eb2abe98f3b701bd4",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Norway win on 2026-07-05?"
   }
 }
