@@ -1681,3 +1681,33 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | deadline | 0.71→0.92 | +0.21 | 27d | high | 18.63% | [US x Iran diplomatic meeting by July 31, 2026?](https://polymarket.com/event/next-round-of-us-iran-peace-talks-byptptpt-20260623022722982) |
 | 🟢 YES | deadline | 0.12→0.32 | +0.20 | 27d | low | 12.73% | [Mojtaba Khamenei seen in public by July 31?](https://polymarket.com/event/mojtaba-khamenei-public-appearance-by) |
 | 🟢 YES | event | 0.52→0.72 | +0.20 | 27d | medium | 15.0% | [New Playboi Carti Album before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+
+## 2026-07-05  (33 signals, $0.175 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | deadline | 0.98→0.05 | -0.93 | 26d | low | 21.39% | [GPT-5.6 released by July 31, 2026?](https://polymarket.com/event/gpt-5pt6-released-by) |
+| 🟢 YES | deadline | 0.03→0.87 | +0.84 | 5d | high | 20.39% | [US x Iran diplomatic meeting by July 10, 2026?](https://polymarket.com/event/next-round-of-us-iran-peace-talks-byptptpt-20260623022722982) |
+| 🔴 NO | event | 0.94→0.20 | -0.74 | 7d | low | 19.45% | [Wimbledon WTA: Karolina Muchova vs Barbora Krejcikova](https://polymarket.com/event/wta-muchova-krejcik-2026-07-05) |
+| 🔴 NO | event | 0.88→0.22 | -0.66 | 26d | low | 18.98% | [Will Anthropic have the best AI model at the end of July 2026?](https://polymarket.com/event/which-company-has-best-ai-model-end-of-july-299) |
+| 🔴 NO | event | 0.78→0.20 | -0.57 | 7d | low | 18.9% | [Wimbledon ATP: Hubert Hurkacz vs Jan-Lennard Struff](https://polymarket.com/event/atp-hurkacz-struff-2026-07-05) |
+| 🔴 NO | deadline | 0.82→0.32 | -0.50 | 26d | low | 17.35% | [Will NVIDIA be the largest company in the world by market cap on July 31?](https://polymarket.com/event/largest-company-end-of-july-20260624192302727) |
+| 🔴 NO | event | 0.67→0.18 | -0.49 | 7d | low | 18.75% | [UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)](https://polymarket.com/event/ufc-max1-con-2026-07-11) |
+| 🔴 NO | event | 0.50→0.03 | -0.47 | 26d | high | 21.27% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.51→0.04 | -0.47 | 26d | high | 21.05% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 26d | high | 21.27% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.52→0.07 | -0.45 | 26d | medium | 20.37% | [New Rihanna Album before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.05 | -0.45 | 26d | high | 20.79% | [Trump out as President before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.53→0.08 | -0.45 | 26d | medium | 20.17% | [Will GPT-6 be released before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | field | 0.52→0.08 | -0.43 | 1d | low | 20.14% | [Will Spain win on 2026-07-06?](https://polymarket.com/event/fifwc-prt-esp-2026-07-06) |
+| 🔴 NO | event | 0.51→0.08 | -0.42 | 15d | low | 20.1% | [Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?](https://polymarket.com/event/world-cup-golden-boot-winner) |
+| 🔴 NO | field | 0.58→0.18 | -0.40 | 7d | low | 18.31% | [Will Jannik Sinner be the 2026 Men’s Wimbledon winner?](https://polymarket.com/event/2026-mens-wimbledon-winner) |
+| 🔴 NO | event | 0.52→0.12 | -0.40 | 26d | low | 19.2% | [New Playboi Carti Album before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.55→0.18 | -0.37 | 15d | low | 18.04% | [Will France reach the 2026 FIFA World Cup final?](https://polymarket.com/event/world-cup-nation-to-reach-final) |
+| 🔴 NO | event | 0.90→0.55 | -0.34 | 24d | low | 14.63% | [Will there be no change in Fed interest rates after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
+| 🔴 NO | field | 0.40→0.08 | -0.32 | 1d | low | 19.57% | [Will England win on 2026-07-05?](https://polymarket.com/event/fifwc-mex-eng-2026-07-05) |
+| 🔴 NO | event | 0.37→0.08 | -0.29 | 15d | medium | 19.4% | [Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?](https://polymarket.com/event/world-cup-golden-boot-winner) |
+| 🔴 NO | field | 0.36→0.08 | -0.28 | 2d | low | 19.37% | [Will Belgium win on 2026-07-06?](https://polymarket.com/event/fifwc-usa-bel-2026-07-06) |
+| 🔴 NO | field | 0.35→0.08 | -0.27 | 15d | low | 19.27% | [Will France win the 2026 FIFA World Cup?](https://polymarket.com/event/world-cup-winner) |
+| 🔴 NO | field | 0.34→0.08 | -0.26 | 2d | low | 19.22% | [Will United States win on 2026-07-06?](https://polymarket.com/event/fifwc-usa-bel-2026-07-06) |
+| 🟢 YES | deadline | 0.02→0.28 | +0.26 | 26d | low | 13.17% | [SCOTUS accepts sports event contract case by July 31, 2026?](https://polymarket.com/event/scotus-accepts-sports-event-contract-case-by-july-31-2026) |
