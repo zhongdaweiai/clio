@@ -1,0 +1,14 @@
+{
+  "decision": "hold",
+  "summary": "Insufficient resolved trades (0 < 20). No change.",
+  "evidence": [
+    "Only 0 trades resolved so far"
+  ],
+  "parameter_changes": {},
+  "expected_impact": "N/A",
+  "confidence": "low",
+  "rollback": "N/A",
+  "proposed_at": "2026-07-05T19:03:16.144995+00:00",
+  "branch": null,
+  "pr_url": null
+}
