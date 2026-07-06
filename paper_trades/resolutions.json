@@ -8646,5 +8646,45 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Norway win on 2026-07-05?"
+  },
+  "0x99f0c39e4235d840bd25d2c229b2cda57cc087b6b8c2780f804fffeed0d0c628::2026-07-04": {
+    "market_id": "0x99f0c39e4235d840bd25d2c229b2cda57cc087b6b8c2780f804fffeed0d0c628",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-06",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England win on 2026-07-05?"
+  },
+  "0x94e50623d3cfdc1256e16ff372062d42c282bec8af620bb732a19fb4b0dce580::2026-07-04": {
+    "market_id": "0x94e50623d3cfdc1256e16ff372062d42c282bec8af620bb732a19fb4b0dce580",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-06",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mexico vs. England: Team to Advance"
+  },
+  "0xb8c4eb2bc36fb256ac730f0d1d05cf5ff6649a7d8d5ed779544dfa068da1cd18::2026-07-05": {
+    "market_id": "0xb8c4eb2bc36fb256ac730f0d1d05cf5ff6649a7d8d5ed779544dfa068da1cd18",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-06",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win on 2026-07-06?"
+  },
+  "0x99f0c39e4235d840bd25d2c229b2cda57cc087b6b8c2780f804fffeed0d0c628::2026-07-05": {
+    "market_id": "0x99f0c39e4235d840bd25d2c229b2cda57cc087b6b8c2780f804fffeed0d0c628",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-06",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England win on 2026-07-05?"
+  },
+  "0x94e50623d3cfdc1256e16ff372062d42c282bec8af620bb732a19fb4b0dce580::2026-07-05": {
+    "market_id": "0x94e50623d3cfdc1256e16ff372062d42c282bec8af620bb732a19fb4b0dce580",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-06",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mexico vs. England: Team to Advance"
   }
 }
