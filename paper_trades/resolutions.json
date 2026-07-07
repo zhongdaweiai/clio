@@ -8686,5 +8686,93 @@
     "status": "unknown",
     "outcome": null,
     "question": "Mexico vs. England: Team to Advance"
+  },
+  "0x02103f049a5fe127c4ea03c9531772e82f3b9f5e9f5f30d67fda5b472fb56c17::2026-07-03": {
+    "market_id": "0x02103f049a5fe127c4ea03c9531772e82f3b9f5e9f5f30d67fda5b472fb56c17",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Belgium win on 2026-07-06?"
+  },
+  "0x02103f049a5fe127c4ea03c9531772e82f3b9f5e9f5f30d67fda5b472fb56c17::2026-07-04": {
+    "market_id": "0x02103f049a5fe127c4ea03c9531772e82f3b9f5e9f5f30d67fda5b472fb56c17",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Belgium win on 2026-07-06?"
+  },
+  "0x02103f049a5fe127c4ea03c9531772e82f3b9f5e9f5f30d67fda5b472fb56c17::2026-07-05": {
+    "market_id": "0x02103f049a5fe127c4ea03c9531772e82f3b9f5e9f5f30d67fda5b472fb56c17",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Belgium win on 2026-07-06?"
+  },
+  "0xf5a0c2d5b6bf0a7b9899aaf4c6237b08e1dbf8d17430fac4de8468a6e2df2e0e::2026-07-05": {
+    "market_id": "0xf5a0c2d5b6bf0a7b9899aaf4c6237b08e1dbf8d17430fac4de8468a6e2df2e0e",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will United States win on 2026-07-06?"
+  },
+  "0x83d646ac5646bf847f2dc0ce9c18c4d8909bbb7b050b31075afb9b67d3802b33::2026-07-06": {
+    "market_id": "0x83d646ac5646bf847f2dc0ce9c18c4d8909bbb7b050b31075afb9b67d3802b33",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "United States vs. Belgium: Team to Advance"
+  },
+  "0xeb348b65a59bb2752d3dd10636d17de501df76a424e978e136d22e76d07c84e9::2026-07-06": {
+    "market_id": "0xeb348b65a59bb2752d3dd10636d17de501df76a424e978e136d22e76d07c84e9",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Colombia win on 2026-07-07?"
+  },
+  "0xf5a0c2d5b6bf0a7b9899aaf4c6237b08e1dbf8d17430fac4de8468a6e2df2e0e::2026-07-06": {
+    "market_id": "0xf5a0c2d5b6bf0a7b9899aaf4c6237b08e1dbf8d17430fac4de8468a6e2df2e0e",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will United States win on 2026-07-06?"
+  },
+  "0x02103f049a5fe127c4ea03c9531772e82f3b9f5e9f5f30d67fda5b472fb56c17::2026-07-06": {
+    "market_id": "0x02103f049a5fe127c4ea03c9531772e82f3b9f5e9f5f30d67fda5b472fb56c17",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Belgium win on 2026-07-06?"
+  },
+  "0x2f3e8ba123deb05e3aff47ad738429054f345fbb872b9305510706bff3aa8c3e::2026-07-06": {
+    "market_id": "0x2f3e8ba123deb05e3aff47ad738429054f345fbb872b9305510706bff3aa8c3e",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "United States vs. Belgium: O/U 2.5"
+  },
+  "0xa7b5b123f9fd38f83fbe19773a5d04e38208b370ca66be27b9688155e7b5c60a::2026-07-06": {
+    "market_id": "0xa7b5b123f9fd38f83fbe19773a5d04e38208b370ca66be27b9688155e7b5c60a",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina win on 2026-07-07?"
+  },
+  "0x7f481c96a3bf0d8292a2515e3dd0e709e5bdd240189b81fc98f8003480b4eb14::2026-07-06": {
+    "market_id": "0x7f481c96a3bf0d8292a2515e3dd0e709e5bdd240189b81fc98f8003480b4eb14",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Argentina vs. Egypt: Team to Advance"
   }
 }
