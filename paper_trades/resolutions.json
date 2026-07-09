@@ -8782,5 +8782,53 @@
     "status": "unknown",
     "outcome": null,
     "question": "Wimbledon ATP: Roman Safiullin vs Botic van de Zandschulp"
+  },
+  "0xdbf69c69fe1e6b0bbbea06b89a59a6e7dbb1ec356087d36744b683e8aa1498c3::2026-07-02": {
+    "market_id": "0xdbf69c69fe1e6b0bbbea06b89a59a6e7dbb1ec356087d36744b683e8aa1498c3",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-09",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Wimbledon ATP: James Duckworth vs Flavio Cobolli"
+  },
+  "0xc09537a0976d0927901432859fbb6dfe5d23d1d69bb4e8355253e7b142a44e83::2026-07-07": {
+    "market_id": "0xc09537a0976d0927901432859fbb6dfe5d23d1d69bb4e8355253e7b142a44e83",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-09",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win on 2026-07-09?"
+  },
+  "0x9918c9f426379e48d5e6a6fbf591e75e5b4a9cd33807b097810fdbaf3aebd1b4::2026-07-07": {
+    "market_id": "0x9918c9f426379e48d5e6a6fbf591e75e5b4a9cd33807b097810fdbaf3aebd1b4",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-09",
+    "status": "unknown",
+    "outcome": null,
+    "question": "France vs. Morocco: Team to Advance"
+  },
+  "0xc09537a0976d0927901432859fbb6dfe5d23d1d69bb4e8355253e7b142a44e83::2026-07-08": {
+    "market_id": "0xc09537a0976d0927901432859fbb6dfe5d23d1d69bb4e8355253e7b142a44e83",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-09",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win on 2026-07-09?"
+  },
+  "0x9918c9f426379e48d5e6a6fbf591e75e5b4a9cd33807b097810fdbaf3aebd1b4::2026-07-08": {
+    "market_id": "0x9918c9f426379e48d5e6a6fbf591e75e5b4a9cd33807b097810fdbaf3aebd1b4",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-09",
+    "status": "unknown",
+    "outcome": null,
+    "question": "France vs. Morocco: Team to Advance"
+  },
+  "0x17e6ca6b83b4937b4cd575f2acbbefa194b3d52b62e8af192feae6f1c38da0c1::2026-07-08": {
+    "market_id": "0x17e6ca6b83b4937b4cd575f2acbbefa194b3d52b62e8af192feae6f1c38da0c1",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-09",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Morocco win on 2026-07-09?"
   }
 }
