@@ -8830,5 +8830,101 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Morocco win on 2026-07-09?"
+  },
+  "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7::2026-07-01": {
+    "market_id": "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 10, 2026?"
+  },
+  "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7::2026-07-02": {
+    "market_id": "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 10, 2026?"
+  },
+  "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7::2026-07-03": {
+    "market_id": "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 10, 2026?"
+  },
+  "0x4a575a7cce7e0a3d40e3b92bb5ef3f00882c9e51e2ae41ac7d727d0ee5a10a9d::2026-07-03": {
+    "market_id": "0x4a575a7cce7e0a3d40e3b92bb5ef3f00882c9e51e2ae41ac7d727d0ee5a10a9d",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Wimbledon ATP: Jan-Lennard Struff vs Daniil Medvedev"
+  },
+  "0x0c4334e84edeff507fe1907f7c206a883027983f74b81469fd48d8a7746cec97::2026-07-04": {
+    "market_id": "0x0c4334e84edeff507fe1907f7c206a883027983f74b81469fd48d8a7746cec97",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Wimbledon ATP: Zizou Bergs vs Arthur Fery"
+  },
+  "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7::2026-07-05": {
+    "market_id": "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 10, 2026?"
+  },
+  "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7::2026-07-06": {
+    "market_id": "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 10, 2026?"
+  },
+  "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7::2026-07-07": {
+    "market_id": "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 10, 2026?"
+  },
+  "0x2c37e07b722442c2381fac76f8564d580660aa028066e08bad1b32bd11813e9d::2026-07-08": {
+    "market_id": "0x2c37e07b722442c2381fac76f8564d580660aa028066e08bad1b32bd11813e9d",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win on 2026-07-10?"
+  },
+  "0x2c37e07b722442c2381fac76f8564d580660aa028066e08bad1b32bd11813e9d::2026-07-09": {
+    "market_id": "0x2c37e07b722442c2381fac76f8564d580660aa028066e08bad1b32bd11813e9d",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win on 2026-07-10?"
+  },
+  "0x7e6a99d23ee6beff337091fc92ecac6f2d8810aa899eb70b7488b72d5abbb052::2026-07-09": {
+    "market_id": "0x7e6a99d23ee6beff337091fc92ecac6f2d8810aa899eb70b7488b72d5abbb052",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Spain vs. Belgium: Team to Advance"
+  },
+  "0x87c9134e18d318a68a48326b8d7492efd08efc2324e5b4414f6bfa512b88b115::2026-07-09": {
+    "market_id": "0x87c9134e18d318a68a48326b8d7492efd08efc2324e5b4414f6bfa512b88b115",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-10",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Spain vs. Belgium: O/U 2.5"
   }
 }
