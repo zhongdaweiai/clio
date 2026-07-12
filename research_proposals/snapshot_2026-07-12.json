@@ -1,0 +1,28 @@
+{
+  "n_resolved": 0,
+  "n_pending": 1720,
+  "overall": {
+    "n": 0,
+    "n_wins": 0,
+    "avg_edge": 0.0,
+    "avg_return_pct": 0.0,
+    "total_pnl_pct": 0.0
+  },
+  "by_qtype": {},
+  "by_edge_band": {},
+  "by_confidence": {},
+  "by_side": {},
+  "by_days_held_bucket": {},
+  "bankroll_initial": 100000.0,
+  "bankroll_current": 100000.0,
+  "max_drawdown_pct": 0.0,
+  "backtest_expectations": {
+    "hit_rate": 0.69,
+    "monthly_compound": 0.1125,
+    "cagr": 2.591,
+    "profit_factor": 3.26,
+    "max_dd": 0.346,
+    "sharpe_annual": 3.12,
+    "best_edge_threshold": 0.2
+  }
+}
