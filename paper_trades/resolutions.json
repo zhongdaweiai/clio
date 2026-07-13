@@ -9390,5 +9390,85 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Alexander Zverev be the 2026 Men\u2019s Wimbledon winner?"
+  },
+  "0xaa9814ea10240748005552c1a0cb9327defe6ecef2af432607a697cd87e75031::2026-07-06": {
+    "market_id": "0xaa9814ea10240748005552c1a0cb9327defe6ecef2af432607a697cd87e75031",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Wimbledon ATP: Grigor Dimitrov vs Arthur Fery"
+  },
+  "0x508af22a38ad600b6b7526970e26be280e4183731954b575320050735d991fa8::2026-07-06": {
+    "market_id": "0x508af22a38ad600b6b7526970e26be280e4183731954b575320050735d991fa8",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the Semifinals at the 2026 FIFA World Cup?"
+  },
+  "0x508af22a38ad600b6b7526970e26be280e4183731954b575320050735d991fa8::2026-07-07": {
+    "market_id": "0x508af22a38ad600b6b7526970e26be280e4183731954b575320050735d991fa8",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the Semifinals at the 2026 FIFA World Cup?"
+  },
+  "0x3910cb53f972d00c049ad674c1b183b375bd56786eb4c085ea217f84defdd1ca::2026-07-07": {
+    "market_id": "0x3910cb53f972d00c049ad674c1b183b375bd56786eb4c085ea217f84defdd1ca",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the Semifinals at the 2026 FIFA World Cup?"
+  },
+  "0x508af22a38ad600b6b7526970e26be280e4183731954b575320050735d991fa8::2026-07-08": {
+    "market_id": "0x508af22a38ad600b6b7526970e26be280e4183731954b575320050735d991fa8",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the Semifinals at the 2026 FIFA World Cup?"
+  },
+  "0x3910cb53f972d00c049ad674c1b183b375bd56786eb4c085ea217f84defdd1ca::2026-07-08": {
+    "market_id": "0x3910cb53f972d00c049ad674c1b183b375bd56786eb4c085ea217f84defdd1ca",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the Semifinals at the 2026 FIFA World Cup?"
+  },
+  "0x508af22a38ad600b6b7526970e26be280e4183731954b575320050735d991fa8::2026-07-09": {
+    "market_id": "0x508af22a38ad600b6b7526970e26be280e4183731954b575320050735d991fa8",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the Semifinals at the 2026 FIFA World Cup?"
+  },
+  "0x3910cb53f972d00c049ad674c1b183b375bd56786eb4c085ea217f84defdd1ca::2026-07-09": {
+    "market_id": "0x3910cb53f972d00c049ad674c1b183b375bd56786eb4c085ea217f84defdd1ca",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the Semifinals at the 2026 FIFA World Cup?"
+  },
+  "0x3910cb53f972d00c049ad674c1b183b375bd56786eb4c085ea217f84defdd1ca::2026-07-10": {
+    "market_id": "0x3910cb53f972d00c049ad674c1b183b375bd56786eb4c085ea217f84defdd1ca",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the Semifinals at the 2026 FIFA World Cup?"
+  },
+  "0x3910cb53f972d00c049ad674c1b183b375bd56786eb4c085ea217f84defdd1ca::2026-07-11": {
+    "market_id": "0x3910cb53f972d00c049ad674c1b183b375bd56786eb4c085ea217f84defdd1ca",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the Semifinals at the 2026 FIFA World Cup?"
   }
 }
