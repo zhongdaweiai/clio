@@ -9470,5 +9470,53 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Argentina reach the Semifinals at the 2026 FIFA World Cup?"
+  },
+  "0x71cf19220d20cbad74d50c08f51995fc8aa7f93455878bffbbec739d1d63cee6::2026-07-07": {
+    "market_id": "0x71cf19220d20cbad74d50c08f51995fc8aa7f93455878bffbbec739d1d63cee6",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Wimbledon ATP: Felix Auger-Aliassime vs Novak Djokovic"
+  },
+  "0x20fac1c925b7a2fed6b3b2736f47a800b4d0d4001b9deaeb7b918868eb63d081::2026-07-12": {
+    "market_id": "0x20fac1c925b7a2fed6b3b2736f47a800b4d0d4001b9deaeb7b918868eb63d081",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win on 2026-07-14?"
+  },
+  "0xfb2314dcad9273745bd3de0db31a2036cda3eae847039a58e41a3c2dcc233657::2026-07-12": {
+    "market_id": "0xfb2314dcad9273745bd3de0db31a2036cda3eae847039a58e41a3c2dcc233657",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "France vs. Spain: O/U 2.5"
+  },
+  "0x20fac1c925b7a2fed6b3b2736f47a800b4d0d4001b9deaeb7b918868eb63d081::2026-07-13": {
+    "market_id": "0x20fac1c925b7a2fed6b3b2736f47a800b4d0d4001b9deaeb7b918868eb63d081",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win on 2026-07-14?"
+  },
+  "0xfb2314dcad9273745bd3de0db31a2036cda3eae847039a58e41a3c2dcc233657::2026-07-13": {
+    "market_id": "0xfb2314dcad9273745bd3de0db31a2036cda3eae847039a58e41a3c2dcc233657",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "France vs. Spain: O/U 2.5"
+  },
+  "0xaa23528a8f30c7566c04c7bcd513440dc2d7645ae383f27a876dec5dc4881282::2026-07-13": {
+    "market_id": "0xaa23528a8f30c7566c04c7bcd513440dc2d7645ae383f27a876dec5dc4881282",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win on 2026-07-14?"
   }
 }
