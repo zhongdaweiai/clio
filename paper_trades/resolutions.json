@@ -9518,5 +9518,213 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Spain win on 2026-07-14?"
+  },
+  "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13::2026-06-21": {
+    "market_id": "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13",
+    "scan_date": "2026-06-21",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 15?"
+  },
+  "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13::2026-06-22": {
+    "market_id": "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 15?"
+  },
+  "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13::2026-06-23": {
+    "market_id": "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13",
+    "scan_date": "2026-06-23",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 15?"
+  },
+  "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13::2026-06-24": {
+    "market_id": "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13",
+    "scan_date": "2026-06-24",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 15?"
+  },
+  "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13::2026-06-25": {
+    "market_id": "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13",
+    "scan_date": "2026-06-25",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 15?"
+  },
+  "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13::2026-06-26": {
+    "market_id": "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13",
+    "scan_date": "2026-06-26",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 15?"
+  },
+  "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13::2026-06-27": {
+    "market_id": "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13",
+    "scan_date": "2026-06-27",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 15?"
+  },
+  "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5::2026-07-06": {
+    "market_id": "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 15?"
+  },
+  "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5::2026-07-07": {
+    "market_id": "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 15?"
+  },
+  "0x75dd98fa62a51db40b0349e5db1f6b5d0da7481287586752db91278a7822ef15::2026-07-08": {
+    "market_id": "0x75dd98fa62a51db40b0349e5db1f6b5d0da7481287586752db91278a7822ef15",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by July 15?"
+  },
+  "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5::2026-07-08": {
+    "market_id": "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 15?"
+  },
+  "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5::2026-07-09": {
+    "market_id": "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 15?"
+  },
+  "0x6c486242e79252cc0bb57163a3b8d95e3b9538ea6a1de2e91848beeb5c6ad986::2026-07-09": {
+    "market_id": "0x6c486242e79252cc0bb57163a3b8d95e3b9538ea6a1de2e91848beeb5c6ad986",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 15?"
+  },
+  "0x004d381f7d632fcf39610994958ef02295e0bb2b4341b212602bc2f7331550e8::2026-07-09": {
+    "market_id": "0x004d381f7d632fcf39610994958ef02295e0bb2b4341b212602bc2f7331550e8",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Wimbledon ATP: Jannik Sinner vs Novak Djokovic"
+  },
+  "0x75dd98fa62a51db40b0349e5db1f6b5d0da7481287586752db91278a7822ef15::2026-07-09": {
+    "market_id": "0x75dd98fa62a51db40b0349e5db1f6b5d0da7481287586752db91278a7822ef15",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by July 15?"
+  },
+  "0x004d381f7d632fcf39610994958ef02295e0bb2b4341b212602bc2f7331550e8::2026-07-10": {
+    "market_id": "0x004d381f7d632fcf39610994958ef02295e0bb2b4341b212602bc2f7331550e8",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Wimbledon ATP: Jannik Sinner vs Novak Djokovic"
+  },
+  "0x75dd98fa62a51db40b0349e5db1f6b5d0da7481287586752db91278a7822ef15::2026-07-10": {
+    "market_id": "0x75dd98fa62a51db40b0349e5db1f6b5d0da7481287586752db91278a7822ef15",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by July 15?"
+  },
+  "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5::2026-07-10": {
+    "market_id": "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 15?"
+  },
+  "0x6c486242e79252cc0bb57163a3b8d95e3b9538ea6a1de2e91848beeb5c6ad986::2026-07-11": {
+    "market_id": "0x6c486242e79252cc0bb57163a3b8d95e3b9538ea6a1de2e91848beeb5c6ad986",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 15?"
+  },
+  "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5::2026-07-11": {
+    "market_id": "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 15?"
+  },
+  "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5::2026-07-12": {
+    "market_id": "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 15?"
+  },
+  "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5::2026-07-13": {
+    "market_id": "0x20cb32a3ff2b1932b99fe3343034d4dafe67cfce196eab2d771047f3d6e33be5",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 15?"
+  },
+  "0x776956c5185fb6e9115e4a52fb0a8386172cae91d6812b447795fb171f478a69::2026-07-13": {
+    "market_id": "0x776956c5185fb6e9115e4a52fb0a8386172cae91d6812b447795fb171f478a69",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "England vs. Argentina: Team to Advance"
+  },
+  "0xbbb20aee74d8d120db212bc10c1fc915a412a758117a64ed6ff6f3948c2f7d66::2026-07-14": {
+    "market_id": "0xbbb20aee74d8d120db212bc10c1fc915a412a758117a64ed6ff6f3948c2f7d66",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England win on 2026-07-15?"
+  },
+  "0xadf4acda3ae836e6c4f6646eaa940c7934d1b97de2a8f7a51ff585139e8f693a::2026-07-14": {
+    "market_id": "0xadf4acda3ae836e6c4f6646eaa940c7934d1b97de2a8f7a51ff585139e8f693a",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina win on 2026-07-15?"
+  },
+  "0xfb22501ffce04e5a029bcc79ebb9e6a534cc676677c1354e29d29e3adfd08f46::2026-07-14": {
+    "market_id": "0xfb22501ffce04e5a029bcc79ebb9e6a534cc676677c1354e29d29e3adfd08f46",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "England vs. Argentina: O/U 2.5"
   }
 }
