@@ -9742,5 +9742,93 @@
     "status": "unknown",
     "outcome": null,
     "question": "Newport: Jacob Fearnley vs Stefan Kozlov"
+  },
+  "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd::2026-07-08": {
+    "market_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-17",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 17, 2026?"
+  },
+  "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd::2026-07-09": {
+    "market_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-17",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 17, 2026?"
+  },
+  "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd::2026-07-10": {
+    "market_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-17",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 17, 2026?"
+  },
+  "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd::2026-07-11": {
+    "market_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-17",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 17, 2026?"
+  },
+  "0x47b10cee6b566fb39018c6df4b189f8be68630e7da55ce8fe7708123cb6573bf::2026-07-11": {
+    "market_id": "0x47b10cee6b566fb39018c6df4b189f8be68630e7da55ce8fe7708123cb6573bf",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-17",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Milwaukee Brewers vs. Pittsburgh Pirates"
+  },
+  "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd::2026-07-12": {
+    "market_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-17",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 17, 2026?"
+  },
+  "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd::2026-07-13": {
+    "market_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-17",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 17, 2026?"
+  },
+  "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd::2026-07-14": {
+    "market_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-17",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 17, 2026?"
+  },
+  "0xa37edbac74383987e7b3c4e25360c223207b5f8ffdaaddea7e6e62ab2aa0d56a::2026-07-14": {
+    "market_id": "0xa37edbac74383987e7b3c4e25360c223207b5f8ffdaaddea7e6e62ab2aa0d56a",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-17",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Iran announce withdrawal from MOU negotiations by July 17?"
+  },
+  "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd::2026-07-15": {
+    "market_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-17",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 17, 2026?"
+  },
+  "0xa37edbac74383987e7b3c4e25360c223207b5f8ffdaaddea7e6e62ab2aa0d56a::2026-07-16": {
+    "market_id": "0xa37edbac74383987e7b3c4e25360c223207b5f8ffdaaddea7e6e62ab2aa0d56a",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-17",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Iran announce withdrawal from MOU negotiations by July 17?"
   }
 }
