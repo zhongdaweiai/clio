@@ -9830,5 +9830,45 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Iran announce withdrawal from MOU negotiations by July 17?"
+  },
+  "0xb86425238a6bb2abbea65a4730da96a877bb8f1c18e5579271f5bd08fcd7fdff::2026-07-11": {
+    "market_id": "0xb86425238a6bb2abbea65a4730da96a877bb8f1c18e5579271f5bd08fcd7fdff",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-18",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Wimbledon WTA: Karolina Muchova vs Linda Noskova"
+  },
+  "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5::2026-07-16": {
+    "market_id": "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-18",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win on 2026-07-18?"
+  },
+  "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5::2026-07-17": {
+    "market_id": "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-18",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win on 2026-07-18?"
+  },
+  "0x8ee99ee9a4b5e2c9ef24d5eadd17890a8961f1bfd9a3f3f321d40cf0f617efc6::2026-07-17": {
+    "market_id": "0x8ee99ee9a4b5e2c9ef24d5eadd17890a8961f1bfd9a3f3f321d40cf0f617efc6",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-18",
+    "status": "unknown",
+    "outcome": null,
+    "question": "France vs. England: O/U 3.5"
+  },
+  "0xaeec5397b4ee2ce20555c0099f0dcf4de4648a2f080c2d10b65ceaff9c26d7a8::2026-07-17": {
+    "market_id": "0xaeec5397b4ee2ce20555c0099f0dcf4de4648a2f080c2d10b65ceaff9c26d7a8",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-18",
+    "status": "unknown",
+    "outcome": null,
+    "question": "France vs. England: Team to Win"
   }
 }
