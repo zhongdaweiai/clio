@@ -2071,3 +2071,33 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🔴 NO | event | 0.45→0.22 | -0.23 | 1d | low | 16.07% | [France vs. England: O/U 3.5](https://polymarket.com/event/fifwc-fra-eng-2026-07-18-more-markets) |
 | 🔴 NO | event | 0.42→0.20 | -0.22 | 2d | low | 16.35% | [Spain vs. Argentina: O/U 2.5](https://polymarket.com/event/fifwc-esp-arg-2026-07-19-more-markets) |
 | 🔴 NO | event | 0.39→0.18 | -0.21 | 34d | low | 16.39% | [US-Iran 60 day negotiation period extended?](https://polymarket.com/event/us-iran-60-day-negotiation-period-extended-20260624044855448) |
+
+## 2026-07-18  (32 signals, $0.163 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | field | 0.90→0.05 | -0.85 | 2d | low | 21.34% | [Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup?](https://polymarket.com/event/world-cup-golden-ball-winner-20260603194031758) |
+| 🔴 NO | event | 0.75→0.07 | -0.68 | 14d | medium | 20.88% | [Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?](https://polymarket.com/event/what-price-will-wti-hit-in-july-2026) |
+| 🔴 NO | event | 0.98→0.35 | -0.63 | 13d | low | 17.7% | [Will Anthropic have the best AI model at the end of July 2026?](https://polymarket.com/event/which-company-has-best-ai-model-end-of-july-299) |
+| 🔴 NO | event | 0.95→0.35 | -0.60 | 11d | low | 17.57% | [Will there be no change in Fed interest rates after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
+| 🔴 NO | field | 0.59→0.08 | -0.51 | 2d | low | 20.38% | [Will Spain win the 2026 FIFA World Cup?](https://polymarket.com/event/world-cup-winner) |
+| 🔴 NO | event | 0.57→0.08 | -0.49 | 2d | low | 20.32% | [Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?](https://polymarket.com/event/world-cup-golden-boot-winner) |
+| 🔴 NO | event | 0.51→0.03 | -0.47 | 13d | high | 21.29% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.49→0.03 | -0.46 | 13d | high | 21.27% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.50→0.04 | -0.46 | 13d | high | 21.04% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.51→0.05 | -0.46 | 13d | medium | 20.81% | [New Rihanna Album before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.51→0.05 | -0.46 | 13d | high | 20.81% | [Trump out as President before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.51→0.08 | -0.42 | 13d | medium | 20.1% | [Will GPT-6 be released before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.96→0.55 | -0.41 | 2d | low | 15.16% | [President Trump to Attend World Cup Final?](https://polymarket.com/event/president-trump-to-attend-world-cup-final-20260608152749044) |
+| 🔴 NO | event | 0.59→0.20 | -0.39 | 1d | low | 17.97% | [Spain vs. Argentina: Team to Advance](https://polymarket.com/event/fifwc-esp-arg-2026-07-19-more-markets) |
+| 🔴 NO | event | 0.43→0.05 | -0.38 | 14d | medium | 20.59% | [Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?](https://polymarket.com/event/what-price-will-wti-hit-in-july-2026) |
+| 🔴 NO | field | 0.42→0.08 | -0.34 | 1d | low | 19.74% | [Will Spain win on 2026-07-19?](https://polymarket.com/event/fifwc-esp-arg-2026-07-19) |
+| 🔴 NO | event | 0.58→0.25 | -0.33 | 60d | low | 16.87% | [Will there be no change in Fed interest rates after the September 2026 meeting?](https://polymarket.com/event/fed-decision-in-september-762) |
+| 🔴 NO | deadline | 0.53→0.22 | -0.31 | 13d | medium | 16.97% | [Will NVIDIA be the largest company in the world by market cap on July 31?](https://polymarket.com/event/largest-company-end-of-july-20260624192302727) |
+| 🔴 NO | event | 0.42→0.12 | -0.30 | 2d | low | 18.61% | [Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?](https://polymarket.com/event/world-cup-golden-boot-winner) |
+| 🟢 YES | event | 0.06→0.35 | +0.29 | 14d | low | 13.75% | [Will WTI Crude Oil (WTI) hit (LOW) $65 in July?](https://polymarket.com/event/what-price-will-wti-hit-in-july-2026) |
+| 🟢 YES | event | 0.06→0.35 | +0.29 | 14d | low | 13.71% | [Will Bitcoin reach $72,500 in July?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-july-2026) |
+| 🔴 NO | event | 0.35→0.08 | -0.27 | 60d | low | 19.3% | [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](https://polymarket.com/event/fed-decision-in-september-762) |
+| 🟢 YES | deadline | 0.12→0.35 | +0.23 | 13d | low | 13.19% | [US x Iran diplomatic meeting by July 31, 2026?](https://polymarket.com/event/next-round-of-us-iran-peace-talks-byptptpt-20260623022722982) |
+| 🔴 NO | deadline | 0.32→0.08 | -0.23 | 13d | low | 18.95% | [Iran full airspace closure by July 31?](https://polymarket.com/event/iran-full-airspace-closure-byptptpt-20260625195253028) |
+| 🔴 NO | event | 0.41→0.20 | -0.21 | 1d | low | 16.22% | [Spain vs. Argentina: O/U 2.5](https://polymarket.com/event/fifwc-esp-arg-2026-07-19-more-markets) |
