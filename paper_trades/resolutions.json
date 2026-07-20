@@ -10150,5 +10150,1165 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Argentina win on 2026-07-19?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-06-24": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-06-24",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-06-25": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-06-25",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-06-27": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-06-27",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-06-28": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-06-28",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-06-28": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-06-28",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-06-29": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-06-29",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-06-29": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-06-29",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-06-30": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-06-30": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-06-30": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-01": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77::2026-07-01": {
+    "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the 2026 FIFA World Cup final?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-01": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-07-01": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-01": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-02": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77::2026-07-02": {
+    "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the 2026 FIFA World Cup final?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-02": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-07-02": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-02": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90::2026-07-02": {
+    "market_id": "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will USA win the 2026 FIFA World Cup?"
+  },
+  "0xe3829381f51ef07bc79fa71605d413f4b16ff8d0bc491bf0ef587ef65311e582::2026-07-02": {
+    "market_id": "0xe3829381f51ef07bc79fa71605d413f4b16ff8d0bc491bf0ef587ef65311e582",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will A Nation That Has Never Won the World Cup Win in 2026?"
+  },
+  "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77::2026-07-03": {
+    "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the 2026 FIFA World Cup final?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-03": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-03": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-07-03": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-03": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90::2026-07-03": {
+    "market_id": "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will USA win the 2026 FIFA World Cup?"
+  },
+  "0xe3829381f51ef07bc79fa71605d413f4b16ff8d0bc491bf0ef587ef65311e582::2026-07-03": {
+    "market_id": "0xe3829381f51ef07bc79fa71605d413f4b16ff8d0bc491bf0ef587ef65311e582",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will A Nation That Has Never Won the World Cup Win in 2026?"
+  },
+  "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77::2026-07-04": {
+    "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the 2026 FIFA World Cup final?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-04": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-04": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-07-04": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0xe3829381f51ef07bc79fa71605d413f4b16ff8d0bc491bf0ef587ef65311e582::2026-07-04": {
+    "market_id": "0xe3829381f51ef07bc79fa71605d413f4b16ff8d0bc491bf0ef587ef65311e582",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will A Nation That Has Never Won the World Cup Win in 2026?"
+  },
+  "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90::2026-07-04": {
+    "market_id": "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will USA win the 2026 FIFA World Cup?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-04": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-05": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77::2026-07-05": {
+    "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the 2026 FIFA World Cup final?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-05": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-07-05": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90::2026-07-05": {
+    "market_id": "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will USA win the 2026 FIFA World Cup?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-05": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0xf0da2d17e6a966439fdb10c3623972da50825e6dbec55bf43ce651fbb8952bca::2026-07-05": {
+    "market_id": "0xf0da2d17e6a966439fdb10c3623972da50825e6dbec55bf43ce651fbb8952bca",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will USA reach the 2026 FIFA World Cup final?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-06": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77::2026-07-06": {
+    "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the 2026 FIFA World Cup final?"
+  },
+  "0xf0da2d17e6a966439fdb10c3623972da50825e6dbec55bf43ce651fbb8952bca::2026-07-06": {
+    "market_id": "0xf0da2d17e6a966439fdb10c3623972da50825e6dbec55bf43ce651fbb8952bca",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will USA reach the 2026 FIFA World Cup final?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-06": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-07-06": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90::2026-07-06": {
+    "market_id": "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will USA win the 2026 FIFA World Cup?"
+  },
+  "0xe3829381f51ef07bc79fa71605d413f4b16ff8d0bc491bf0ef587ef65311e582::2026-07-06": {
+    "market_id": "0xe3829381f51ef07bc79fa71605d413f4b16ff8d0bc491bf0ef587ef65311e582",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will A Nation That Has Never Won the World Cup Win in 2026?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-06": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0x00406e85288b97f3d587f259f15c557f61bdaa235124d82fe956c65974949ee8::2026-07-07": {
+    "market_id": "0x00406e85288b97f3d587f259f15c557f61bdaa235124d82fe956c65974949ee8",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "World Cup: Unbeaten Champion?"
+  },
+  "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77::2026-07-07": {
+    "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the 2026 FIFA World Cup final?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-07": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-07-07": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-07": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139::2026-07-07": {
+    "market_id": "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England reach the 2026 FIFA World Cup final?"
+  },
+  "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892::2026-07-07": {
+    "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win the 2026 FIFA World Cup?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-07": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0x00406e85288b97f3d587f259f15c557f61bdaa235124d82fe956c65974949ee8::2026-07-08": {
+    "market_id": "0x00406e85288b97f3d587f259f15c557f61bdaa235124d82fe956c65974949ee8",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "World Cup: Unbeaten Champion?"
+  },
+  "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77::2026-07-08": {
+    "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the 2026 FIFA World Cup final?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-08": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-08": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-07-08": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-08": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139::2026-07-08": {
+    "market_id": "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England reach the 2026 FIFA World Cup final?"
+  },
+  "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892::2026-07-08": {
+    "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win the 2026 FIFA World Cup?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-09": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-09": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77::2026-07-09": {
+    "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the 2026 FIFA World Cup final?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-07-09": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-09": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139::2026-07-09": {
+    "market_id": "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England reach the 2026 FIFA World Cup final?"
+  },
+  "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892::2026-07-09": {
+    "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win the 2026 FIFA World Cup?"
+  },
+  "0x00406e85288b97f3d587f259f15c557f61bdaa235124d82fe956c65974949ee8::2026-07-10": {
+    "market_id": "0x00406e85288b97f3d587f259f15c557f61bdaa235124d82fe956c65974949ee8",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "World Cup: Unbeaten Champion?"
+  },
+  "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77::2026-07-10": {
+    "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the 2026 FIFA World Cup final?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-10": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-10": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-07-10": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-10": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139::2026-07-10": {
+    "market_id": "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England reach the 2026 FIFA World Cup final?"
+  },
+  "0x224488d5b8e4e454c6f7ed545bd56d3d5768b582eee6bbddf286ad5ccd8adadf::2026-07-10": {
+    "market_id": "0x224488d5b8e4e454c6f7ed545bd56d3d5768b582eee6bbddf286ad5ccd8adadf",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Norway reach the 2026 FIFA World Cup final?"
+  },
+  "0x00406e85288b97f3d587f259f15c557f61bdaa235124d82fe956c65974949ee8::2026-07-11": {
+    "market_id": "0x00406e85288b97f3d587f259f15c557f61bdaa235124d82fe956c65974949ee8",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "World Cup: Unbeaten Champion?"
+  },
+  "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77::2026-07-11": {
+    "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the 2026 FIFA World Cup final?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-11": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-11": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-07-11": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0xe3829381f51ef07bc79fa71605d413f4b16ff8d0bc491bf0ef587ef65311e582::2026-07-11": {
+    "market_id": "0xe3829381f51ef07bc79fa71605d413f4b16ff8d0bc491bf0ef587ef65311e582",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will A Nation That Has Never Won the World Cup Win in 2026?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-11": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139::2026-07-11": {
+    "market_id": "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England reach the 2026 FIFA World Cup final?"
+  },
+  "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892::2026-07-11": {
+    "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win the 2026 FIFA World Cup?"
+  },
+  "0x224488d5b8e4e454c6f7ed545bd56d3d5768b582eee6bbddf286ad5ccd8adadf::2026-07-11": {
+    "market_id": "0x224488d5b8e4e454c6f7ed545bd56d3d5768b582eee6bbddf286ad5ccd8adadf",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Norway reach the 2026 FIFA World Cup final?"
+  },
+  "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77::2026-07-12": {
+    "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the 2026 FIFA World Cup final?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-12": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x6389dc74e27218b50657af632dbca4c5005d241c760bd979944bcd0d68493380::2026-07-12": {
+    "market_id": "0x6389dc74e27218b50657af632dbca4c5005d241c760bd979944bcd0d68493380",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "President Trump to Attend World Cup Final?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-12": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-07-12": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-12": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139::2026-07-12": {
+    "market_id": "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England reach the 2026 FIFA World Cup final?"
+  },
+  "0x8bdf55664cb17a543fef1f43bd6aeb0aa7b7849cb31620808ce258b3e2ab136d::2026-07-12": {
+    "market_id": "0x8bdf55664cb17a543fef1f43bd6aeb0aa7b7849cb31620808ce258b3e2ab136d",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain reach the 2026 FIFA World Cup final?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-13": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77::2026-07-13": {
+    "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the 2026 FIFA World Cup final?"
+  },
+  "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139::2026-07-13": {
+    "market_id": "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England reach the 2026 FIFA World Cup final?"
+  },
+  "0x6389dc74e27218b50657af632dbca4c5005d241c760bd979944bcd0d68493380::2026-07-13": {
+    "market_id": "0x6389dc74e27218b50657af632dbca4c5005d241c760bd979944bcd0d68493380",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "President Trump to Attend World Cup Final?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-07-13": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-13": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-13": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f::2026-07-13": {
+    "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England win the 2026 FIFA World Cup?"
+  },
+  "0xb29963253d09afb46911c3e18251a28ab87a2a60a293e9b58e1391e317c1827d::2026-07-14": {
+    "market_id": "0xb29963253d09afb46911c3e18251a28ab87a2a60a293e9b58e1391e317c1827d",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Swiss Open: Stefanos Tsitsipas vs Ignacio Buse"
+  },
+  "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77::2026-07-14": {
+    "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France reach the 2026 FIFA World Cup final?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-14": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x6389dc74e27218b50657af632dbca4c5005d241c760bd979944bcd0d68493380::2026-07-14": {
+    "market_id": "0x6389dc74e27218b50657af632dbca4c5005d241c760bd979944bcd0d68493380",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "President Trump to Attend World Cup Final?"
+  },
+  "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894::2026-07-14": {
+    "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will France win the 2026 FIFA World Cup?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-14": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139::2026-07-14": {
+    "market_id": "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England reach the 2026 FIFA World Cup final?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-14": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892::2026-07-14": {
+    "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win the 2026 FIFA World Cup?"
+  },
+  "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f::2026-07-14": {
+    "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England win the 2026 FIFA World Cup?"
+  },
+  "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892::2026-07-15": {
+    "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win the 2026 FIFA World Cup?"
+  },
+  "0x7d3e5102bd59f05398b0737a4680758ec730885e6a0384725d327b38bd94eb22::2026-07-15": {
+    "market_id": "0x7d3e5102bd59f05398b0737a4680758ec730885e6a0384725d327b38bd94eb22",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup?"
+  },
+  "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139::2026-07-15": {
+    "market_id": "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England reach the 2026 FIFA World Cup final?"
+  },
+  "0x6389dc74e27218b50657af632dbca4c5005d241c760bd979944bcd0d68493380::2026-07-15": {
+    "market_id": "0x6389dc74e27218b50657af632dbca4c5005d241c760bd979944bcd0d68493380",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "President Trump to Attend World Cup Final?"
+  },
+  "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66::2026-07-15": {
+    "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina reach the 2026 FIFA World Cup final?"
+  },
+  "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f::2026-07-15": {
+    "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina win the 2026 FIFA World Cup?"
+  },
+  "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f::2026-07-15": {
+    "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will England win the 2026 FIFA World Cup?"
+  },
+  "0x6389dc74e27218b50657af632dbca4c5005d241c760bd979944bcd0d68493380::2026-07-16": {
+    "market_id": "0x6389dc74e27218b50657af632dbca4c5005d241c760bd979944bcd0d68493380",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "President Trump to Attend World Cup Final?"
+  },
+  "0x7d3e5102bd59f05398b0737a4680758ec730885e6a0384725d327b38bd94eb22::2026-07-16": {
+    "market_id": "0x7d3e5102bd59f05398b0737a4680758ec730885e6a0384725d327b38bd94eb22",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-16": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892::2026-07-16": {
+    "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win the 2026 FIFA World Cup?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-16": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f::2026-07-16": {
+    "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina win the 2026 FIFA World Cup?"
+  },
+  "0x7d3e5102bd59f05398b0737a4680758ec730885e6a0384725d327b38bd94eb22::2026-07-17": {
+    "market_id": "0x7d3e5102bd59f05398b0737a4680758ec730885e6a0384725d327b38bd94eb22",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup?"
+  },
+  "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892::2026-07-17": {
+    "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win the 2026 FIFA World Cup?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-17": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x6389dc74e27218b50657af632dbca4c5005d241c760bd979944bcd0d68493380::2026-07-17": {
+    "market_id": "0x6389dc74e27218b50657af632dbca4c5005d241c760bd979944bcd0d68493380",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "President Trump to Attend World Cup Final?"
+  },
+  "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f::2026-07-17": {
+    "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina win the 2026 FIFA World Cup?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-17": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x7d3e5102bd59f05398b0737a4680758ec730885e6a0384725d327b38bd94eb22::2026-07-18": {
+    "market_id": "0x7d3e5102bd59f05398b0737a4680758ec730885e6a0384725d327b38bd94eb22",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup?"
+  },
+  "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892::2026-07-18": {
+    "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win the 2026 FIFA World Cup?"
+  },
+  "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97::2026-07-18": {
+    "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x6389dc74e27218b50657af632dbca4c5005d241c760bd979944bcd0d68493380::2026-07-18": {
+    "market_id": "0x6389dc74e27218b50657af632dbca4c5005d241c760bd979944bcd0d68493380",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "President Trump to Attend World Cup Final?"
+  },
+  "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e::2026-07-18": {
+    "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
+  },
+  "0x7d3e5102bd59f05398b0737a4680758ec730885e6a0384725d327b38bd94eb22::2026-07-19": {
+    "market_id": "0x7d3e5102bd59f05398b0737a4680758ec730885e6a0384725d327b38bd94eb22",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup?"
+  },
+  "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892::2026-07-19": {
+    "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Spain win the 2026 FIFA World Cup?"
+  },
+  "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f::2026-07-19": {
+    "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Argentina win the 2026 FIFA World Cup?"
   }
 }
