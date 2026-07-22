@@ -11310,5 +11310,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Argentina win the 2026 FIFA World Cup?"
+  },
+  "0xc8eca6329a25c634de96be03461ec6165f59964b53edee376070e93e9d739581::2026-07-02": {
+    "market_id": "0xc8eca6329a25c634de96be03461ec6165f59964b53edee376070e93e9d739581",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-22",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kyler Murray be traded?"
+  },
+  "0x2520d8a196b2faf1ba9bd4d3ff86406dd19da1678a19c1caaf6127562e71245d::2026-07-15": {
+    "market_id": "0x2520d8a196b2faf1ba9bd4d3ff86406dd19da1678a19c1caaf6127562e71245d",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-22",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iasi Open: Anna Bondar vs Tamara Zidansek"
   }
 }
