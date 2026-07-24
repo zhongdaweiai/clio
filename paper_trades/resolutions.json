@@ -11326,5 +11326,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "Iasi Open: Anna Bondar vs Tamara Zidansek"
+  },
+  "0x58180f4a69651f67c23ac92845721b2320cc0c76effeb5e79db5288d8d8e6b28::2026-07-22": {
+    "market_id": "0x58180f4a69651f67c23ac92845721b2320cc0c76effeb5e79db5288d8d8e6b28",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-24",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by July 24?"
+  },
+  "0x58180f4a69651f67c23ac92845721b2320cc0c76effeb5e79db5288d8d8e6b28::2026-07-23": {
+    "market_id": "0x58180f4a69651f67c23ac92845721b2320cc0c76effeb5e79db5288d8d8e6b28",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-24",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by July 24?"
   }
 }
