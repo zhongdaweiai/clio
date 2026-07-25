@@ -2281,3 +2281,33 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🔴 NO | event | 0.75→0.55 | -0.20 | 5d | low | 13.24% | [Will there be no change in Fed interest rates after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
 | 🔴 NO | event | 0.75→0.55 | -0.20 | 5d | low | 13.16% | [Will the Fed Pause–Pause–Pause in the next three decisions (Apr–Jun–Jul)?](https://polymarket.com/event/fed-decisions-apr-jul) |
 | 🔴 NO | deadline | 0.37→0.18 | -0.19 | 7d | low | 16.16% | [Iran full airspace closure by July 31?](https://polymarket.com/event/iran-full-airspace-closure-byptptpt-20260625195253028) |
+
+## 2026-07-25  (32 signals, $0.142 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | field | 0.65→0.08 | -0.57 | 10d | low | 20.51% | [Will Abdul El-Sayed win the 2026 Michigan Democratic Primary?](https://polymarket.com/event/michigan-democratic-senate-primary-winner) |
+| 🟢 YES | deadline | 0.07→0.62 | +0.55 | 6d | medium | 17.1% | [US x Iran diplomatic meeting by July 31, 2026?](https://polymarket.com/event/next-round-of-us-iran-peace-talks-byptptpt-20260623022722982) |
+| 🟢 YES | event | 0.02→0.55 | +0.53 | 7d | low | 16.48% | [Will Bitcoin reach $72,500 in July?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-july-2026) |
+| 🟢 YES | deadline | 0.02→0.55 | +0.53 | 6d | low | 16.48% | [Iran leadership change by July 31?](https://polymarket.com/event/iran-leadership-change-by) |
+| 🟢 YES | deadline | 0.21→0.72 | +0.51 | 6d | medium | 17.73% | [Will Apple be the largest company in the world by market cap on July 31?](https://polymarket.com/event/largest-company-end-of-july-20260624192302727) |
+| 🔴 NO | deadline | 0.77→0.28 | -0.48 | 6d | medium | 17.61% | [Will NVIDIA be the largest company in the world by market cap on July 31?](https://polymarket.com/event/largest-company-end-of-july-20260624192302727) |
+| 🔴 NO | event | 0.49→0.02 | -0.47 | 6d | high | 21.52% | [Will Jesus Christ return before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.51→0.03 | -0.47 | 6d | high | 21.29% | [Will China invades Taiwan before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.50→0.03 | -0.47 | 6d | high | 21.28% | [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.54→0.08 | -0.46 | 53d | low | 20.21% | [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](https://polymarket.com/event/fed-decision-in-september-762) |
+| 🔴 NO | event | 0.49→0.04 | -0.46 | 6d | high | 21.03% | [Trump out as President before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.52→0.07 | -0.45 | 6d | medium | 20.38% | [New Rihanna Album before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.51→0.08 | -0.42 | 6d | medium | 20.1% | [Will GPT-6 be released before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🔴 NO | event | 0.52→0.12 | -0.40 | 7d | low | 19.24% | [Will Bitcoin dip to $62,500 in July?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-july-2026) |
+| 🔴 NO | event | 0.60→0.20 | -0.40 | 7d | low | 17.98% | [Hamburg European Open: Elina Avanesyan vs Anna Bondar](https://polymarket.com/event/wta-avanesy-bondar-2026-07-25) |
+| 🔴 NO | event | 0.51→0.15 | -0.35 | 6d | low | 18.44% | [New Playboi Carti Album before GTA VI?](https://polymarket.com/event/what-will-happen-before-gta-vi) |
+| 🟢 YES | deadline | 0.03→0.38 | +0.35 | 37d | low | 14.34% | [Israel withdraws from Lebanon by August 31, 2026?](https://polymarket.com/event/israel-withdraws-from-lebanon-by) |
+| 🔴 NO | deadline | 0.41→0.08 | -0.33 | 37d | low | 19.69% | [Iran full airspace closure by August 31?](https://polymarket.com/event/iran-full-airspace-closure-byptptpt-20260625195253028) |
+| 🔴 NO | event | 0.48→0.20 | -0.28 | 1d | low | 17.05% | [UFC Fight Night: Wellington Turman vs. Islam Dulatov (Welterweight, Main Card)](https://polymarket.com/event/ufc-wel-isl2-2026-07-25) |
+| 🟢 YES | event | 0.04→0.30 | +0.26 | 53d | low | 13.29% | [Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?](https://polymarket.com/event/fed-decision-in-september-762) |
+| 🟢 YES | deadline | 0.09→0.35 | +0.26 | 6d | low | 13.45% | [Will 30 ships transit the Strait of Hormuz on any day by July 31, 2026?](https://polymarket.com/event/will-ships-transit-the-strait-of-hormuz-on-any-day-by-july-31-20260626152655081) |
+| 🔴 NO | event | 0.43→0.18 | -0.25 | 26d | low | 16.98% | [US-Iran 60 day negotiation period extended?](https://polymarket.com/event/us-iran-60-day-negotiation-period-extended-20260624044855448) |
+| 🔴 NO | deadline | 0.96→0.72 | -0.24 | 6d | medium | 13.03% | [Will Trump meet with Netanyahu by July 31, 2026?](https://polymarket.com/event/will-trump-meet-with-netanyahu-byptptpt-20260714195149520) |
+| 🔴 NO | event | 0.28→0.05 | -0.23 | 7d | medium | 19.86% | [Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?](https://polymarket.com/event/what-price-will-wti-hit-in-july-2026) |
+| 🔴 NO | event | 0.75→0.55 | -0.20 | 4d | low | 13.16% | [Will there be no change in Fed interest rates after the July 2026 meeting?](https://polymarket.com/event/fed-decision-in-july-181) |
