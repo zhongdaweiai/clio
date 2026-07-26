@@ -11342,5 +11342,29 @@
     "status": "unknown",
     "outcome": null,
     "question": "US x Iran Effective Ceasefire by July 24?"
+  },
+  "0x05a39aff1955281554360ba418de700deb554212eb4215cfe3bcfaf6eecb4ea3::2026-07-19": {
+    "market_id": "0x05a39aff1955281554360ba418de700deb554212eb4215cfe3bcfaf6eecb4ea3",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-26",
+    "status": "unknown",
+    "outcome": null,
+    "question": "ODI Series England vs India: England vs India"
+  },
+  "0xe1537d96b7be2d51520f443434415af5780acf69eed0e76a05b4019047205d01::2026-07-19": {
+    "market_id": "0xe1537d96b7be2d51520f443434415af5780acf69eed0e76a05b4019047205d01",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-26",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Chicago White Sox vs. Toronto Blue Jays"
+  },
+  "0xb743a55c7570de6dbc6ac5e584f98cc39edd3a1058c5c774fa88d8bc271f1b2f::2026-07-25": {
+    "market_id": "0xb743a55c7570de6dbc6ac5e584f98cc39edd3a1058c5c774fa88d8bc271f1b2f",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-26",
+    "status": "unknown",
+    "outcome": null,
+    "question": "UFC Fight Night: Wellington Turman vs. Islam Dulatov (Welterweight, Main Card)"
   }
 }
