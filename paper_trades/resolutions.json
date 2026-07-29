@@ -11382,5 +11382,605 @@
     "status": "unknown",
     "outcome": null,
     "question": "Baltimore Orioles vs. Boston Red Sox"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-15": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-16": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-16",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-17": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-18": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-06-18": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-06-19": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-19": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-20": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-20",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-06-20": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-06-20",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-21": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-21",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-06-21": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-06-21",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-22": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-06-22": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-23": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-23",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-06-23": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-06-23",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-24": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-24",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-06-24": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-06-24",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-25": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-25",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-06-25": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-06-25",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-26": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-26",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-06-26": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-06-26",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-27": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-27",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-06-27": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-06-27",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-28": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-28",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-29": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-29",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-06-30": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-06-30": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-01": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-07-01": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-02": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-03": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-04": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-05": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-06": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-07": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-08": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-07-08": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-09": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-10": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-11": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-07-11": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-12": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-07-12": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-07-13": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-13": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-14": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-15": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-16": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-17": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-18": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-19": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x647fe897e10ecde7f5bf00b420cd00b76634b7de8830ae683136c9d3102c5532::2026-07-20": {
+    "market_id": "0x647fe897e10ecde7f5bf00b420cd00b76634b7de8830ae683136c9d3102c5532",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed Pause\u2013Pause\u2013Pause in the next three decisions (Apr\u2013Jun\u2013Jul)?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-20": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-21": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x647fe897e10ecde7f5bf00b420cd00b76634b7de8830ae683136c9d3102c5532::2026-07-21": {
+    "market_id": "0x647fe897e10ecde7f5bf00b420cd00b76634b7de8830ae683136c9d3102c5532",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed Pause\u2013Pause\u2013Pause in the next three decisions (Apr\u2013Jun\u2013Jul)?"
+  },
+  "0xc79334f3c99fba6006327d86850730be413dcb272e41206991597aba8492cb69::2026-07-22": {
+    "market_id": "0xc79334f3c99fba6006327d86850730be413dcb272e41206991597aba8492cb69",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Estoril Open: Nuno Borges vs Roman Andres Burruchaga"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-22": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x9ad61723d90a55c337d3f9a4815ad63934875d92d3a03f55fdc6094df546822b::2026-07-22": {
+    "market_id": "0x9ad61723d90a55c337d3f9a4815ad63934875d92d3a03f55fdc6094df546822b",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Hamburg European Open: Alina Charaeva vs Sinja Kraus"
+  },
+  "0x647fe897e10ecde7f5bf00b420cd00b76634b7de8830ae683136c9d3102c5532::2026-07-22": {
+    "market_id": "0x647fe897e10ecde7f5bf00b420cd00b76634b7de8830ae683136c9d3102c5532",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed Pause\u2013Pause\u2013Pause in the next three decisions (Apr\u2013Jun\u2013Jul)?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-07-22": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-23": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x647fe897e10ecde7f5bf00b420cd00b76634b7de8830ae683136c9d3102c5532::2026-07-23": {
+    "market_id": "0x647fe897e10ecde7f5bf00b420cd00b76634b7de8830ae683136c9d3102c5532",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed Pause\u2013Pause\u2013Pause in the next three decisions (Apr\u2013Jun\u2013Jul)?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-07-23": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-24": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x647fe897e10ecde7f5bf00b420cd00b76634b7de8830ae683136c9d3102c5532::2026-07-24": {
+    "market_id": "0x647fe897e10ecde7f5bf00b420cd00b76634b7de8830ae683136c9d3102c5532",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed Pause\u2013Pause\u2013Pause in the next three decisions (Apr\u2013Jun\u2013Jul)?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-07-24": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-25": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-07-25": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-26": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x647fe897e10ecde7f5bf00b420cd00b76634b7de8830ae683136c9d3102c5532::2026-07-26": {
+    "market_id": "0x647fe897e10ecde7f5bf00b420cd00b76634b7de8830ae683136c9d3102c5532",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed Pause\u2013Pause\u2013Pause in the next three decisions (Apr\u2013Jun\u2013Jul)?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-07-26": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-07-27": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-27": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86::2026-07-28": {
+    "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?"
+  },
+  "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793::2026-07-28": {
+    "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-07-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
   }
 }
