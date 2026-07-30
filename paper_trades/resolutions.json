@@ -11982,5 +11982,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+  },
+  "0x61fc3b479c8f00a79da7ab93c45f3ef9d5d7bec59c6692548e928704541a15b5::2026-07-23": {
+    "market_id": "0x61fc3b479c8f00a79da7ab93c45f3ef9d5d7bec59c6692548e928704541a15b5",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-30",
+    "status": "unknown",
+    "outcome": null,
+    "question": "San Diego Padres vs. Atlanta Braves"
   }
 }
