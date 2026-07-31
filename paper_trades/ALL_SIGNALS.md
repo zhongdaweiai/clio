@@ -2454,3 +2454,26 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | deadline | 0.07→0.18 | +0.11 | 32d | medium | 11.48% | [Strait of Hormuz traffic returns to normal by August 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320) |
 | 🟢 YES | event | 0.39→0.50 | +0.11 | 7d | low | 12.24% | [Texas Rangers vs. Tampa Bay Rays](https://polymarket.com/event/mlb-tex-tb-2026-07-30) |
 | 🟢 YES | deadline | 0.21→0.32 | +0.11 | 1d | low | 11.67% | [US x Iran Effective Ceasefire by July 31?](https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042) |
+
+## 2026-07-31  (18 signals, $0.091 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | field | 0.97→0.08 | -0.89 | 4d | low | 21.01% | [Will Abdul El-Sayed win the 2026 Michigan Democratic Primary?](https://polymarket.com/event/michigan-democratic-senate-primary-winner) |
+| 🔴 NO | event | 0.79→0.12 | -0.67 | 13d | low | 20.17% | [Will Count Binface get second place in the Clacton by-election?](https://polymarket.com/event/clacton-by-election-2nd-place-20260707214539733) |
+| 🟢 YES | field | 0.02→0.62 | +0.60 | 37d | medium | 17.34% | [Will CDU win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?](https://polymarket.com/event/sachsen-anhalt-parliamentary-election-winner) |
+| 🔴 NO | event | 0.56→0.07 | -0.49 | 47d | medium | 20.49% | [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](https://polymarket.com/event/fed-decision-in-september-762) |
+| 🔴 NO | deadline | 0.42→0.05 | -0.38 | 31d | high | 20.59% | [US x Iran diplomatic meeting by August 31, 2026?](https://polymarket.com/event/next-round-of-us-iran-peace-talks-byptptpt-20260623022722982) |
+| 🔴 NO | event | 0.54→0.20 | -0.34 | 11d | low | 17.59% | [Will Darline Graham Nordone be the new republican nominee for Senate in South Ca](https://polymarket.com/event/south-carolina-republican-senate-special-primary-winner-20260712135206676) |
+| 🔴 NO | event | 0.52→0.20 | -0.32 | 36d | low | 17.34% | [Boston Red Sox vs. New York Yankees](https://polymarket.com/event/mlb-bos-nyy-2026-06-06) |
+| 🔴 NO | event | 0.50→0.20 | -0.30 | 27d | low | 17.2% | [Atlanta Braves vs. Chicago White Sox](https://polymarket.com/event/mlb-atl-cws-2026-06-11) |
+| 🟢 YES | deadline | 0.03→0.32 | +0.29 | 31d | low | 13.57% | [Iran leadership change by August 31?](https://polymarket.com/event/iran-leadership-change-by) |
+| 🟢 YES | event | 0.02→0.28 | +0.26 | 47d | low | 13.16% | [Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?](https://polymarket.com/event/fed-decision-in-september-762) |
+| 🔴 NO | field | 0.97→0.72 | -0.25 | 13d | medium | 13.1% | [Will Nigel Farage win the Clacton by-election?](https://polymarket.com/event/clacton-by-election-winner-20260707143521303) |
+| 🔴 NO | event | 0.48→0.25 | -0.23 | 20d | low | 15.81% | [US-Iran 60 day negotiation period extended?](https://polymarket.com/event/us-iran-60-day-negotiation-period-extended-20260624044855448) |
+| 🔴 NO | event | 0.42→0.20 | -0.22 | 24d | low | 16.35% | [St. Louis Cardinals vs. Cincinnati Reds](https://polymarket.com/event/mlb-stl-cin-2026-05-24) |
+| 🔴 NO | deadline | 0.53→0.32 | -0.21 | 31d | low | 14.69% | [US x Iran Effective Ceasefire by August 31?](https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042) |
+| 🔴 NO | deadline | 0.27→0.08 | -0.19 | 31d | low | 18.44% | [Iran full airspace closure by August 31?](https://polymarket.com/event/iran-full-airspace-closure-byptptpt-20260625195253028) |
+| 🟢 YES | event | 0.41→0.55 | +0.15 | 47d | low | 12.92% | [Will there be no change in Fed interest rates after the September 2026 meeting?](https://polymarket.com/event/fed-decision-in-september-762) |
+| 🟢 YES | deadline | 0.26→0.38 | +0.12 | 31d | low | 12.01% | [Iran charges Hormuz fees by August 31?](https://polymarket.com/event/iran-charges-hormuz-fees-byptptpt-20260625175035466) |
+| 🟢 YES | deadline | 0.07→0.18 | +0.11 | 31d | medium | 11.48% | [Strait of Hormuz traffic returns to normal by August 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320) |
