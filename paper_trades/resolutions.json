@@ -11990,5 +11990,4069 @@
     "status": "unknown",
     "outcome": null,
     "question": "San Diego Padres vs. Atlanta Braves"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-01": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-01": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-01": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-01": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0x807a5bd3d52942c2d8b58bf71a583d4aa03a637f3fd9ff7a7c4a1ad818003067::2026-06-02": {
+    "market_id": "0x807a5bd3d52942c2d8b58bf71a583d4aa03a637f3fd9ff7a7c4a1ad818003067",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Graham Platner be the Democratic nominee for Senate in Maine?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-02": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-02": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-02": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-02": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x807a5bd3d52942c2d8b58bf71a583d4aa03a637f3fd9ff7a7c4a1ad818003067::2026-06-03": {
+    "market_id": "0x807a5bd3d52942c2d8b58bf71a583d4aa03a637f3fd9ff7a7c4a1ad818003067",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Graham Platner be the Democratic nominee for Senate in Maine?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-03": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-03": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-03": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-03": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-03": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x807a5bd3d52942c2d8b58bf71a583d4aa03a637f3fd9ff7a7c4a1ad818003067::2026-06-04": {
+    "market_id": "0x807a5bd3d52942c2d8b58bf71a583d4aa03a637f3fd9ff7a7c4a1ad818003067",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Graham Platner be the Democratic nominee for Senate in Maine?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-04": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-04": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-04": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-04": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-04": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x807a5bd3d52942c2d8b58bf71a583d4aa03a637f3fd9ff7a7c4a1ad818003067::2026-06-05": {
+    "market_id": "0x807a5bd3d52942c2d8b58bf71a583d4aa03a637f3fd9ff7a7c4a1ad818003067",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Graham Platner be the Democratic nominee for Senate in Maine?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-05": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-05": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-05": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-05": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-05": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-06": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-06": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-06": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-06": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-06": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-07": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-07": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-07": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-07": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-07": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-08": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-08": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-08": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-08": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-09": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-09": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-09": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-09": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-09": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-10": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-10": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-10": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-10": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-10": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-11": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-11": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-11": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-11": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-11": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-12": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-12": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-12": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-12": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-12": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-13": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-13": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-13": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-13": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-13": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-14": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-14": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-14": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-14": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-14": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122::2026-06-15": {
+    "market_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran permanent peace deal by July 31, 2026?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-15": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-15": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-15": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-15": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-16": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-16": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-16": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-17": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-17": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-17": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-17",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-18": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-18": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-18": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-18",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-19": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-19": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-19": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-19": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-20": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-20",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-20": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-20",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-20": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-20",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-20": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-20",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-21": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-21": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-21": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-21": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-22": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-22": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-22": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-22": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-23": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-23": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-23": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-23": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-24": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-24": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-24": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-24": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-25": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-25": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-25": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-25": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-26": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-26": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-26": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-26": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-27": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-27",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-27": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-27",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-27": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-27",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-27": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-27",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-28": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-28",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-28": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-28",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-28": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-28",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-28": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-28",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-29": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-29",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-29": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-29",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-29": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-29",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-29": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-29",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-06-30": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-06-30": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-06-30": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-06-30": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-06-30": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-06-30": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-06-30": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x139ba0e7f931f09466c0fb27fc8ddb5e77ce9d1e2bdc953a5f22765bf779452f::2026-06-30": {
+    "market_id": "0x139ba0e7f931f09466c0fb27fc8ddb5e77ce9d1e2bdc953a5f22765bf779452f",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "SCOTUS accepts sports event contract case by July 31, 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-06-30": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-06-30": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-06-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0xadc76ee95ed51195ce46e91570ef08e6bd7002cb8929bc81de4b64c4f16852e4::2026-07-01": {
+    "market_id": "0xadc76ee95ed51195ce46e91570ef08e6bd7002cb8929bc81de4b64c4f16852e4",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "GPT-5.6 released by July 31, 2026?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-01": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-01": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-01": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-01": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-01": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-01": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-01": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-01": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x139ba0e7f931f09466c0fb27fc8ddb5e77ce9d1e2bdc953a5f22765bf779452f::2026-07-01": {
+    "market_id": "0x139ba0e7f931f09466c0fb27fc8ddb5e77ce9d1e2bdc953a5f22765bf779452f",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "SCOTUS accepts sports event contract case by July 31, 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-07-01": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0xadc76ee95ed51195ce46e91570ef08e6bd7002cb8929bc81de4b64c4f16852e4::2026-07-02": {
+    "market_id": "0xadc76ee95ed51195ce46e91570ef08e6bd7002cb8929bc81de4b64c4f16852e4",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "GPT-5.6 released by July 31, 2026?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-02": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-02": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-02": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-02": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-02": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-02": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-02": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-02": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-07-02": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-02": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-03": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-03": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-03": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-03": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-03": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-03": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-03": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-03": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-03": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-07-03": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-04": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-04": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-04": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-04": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-04": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-04": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-04": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-04": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-04": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-04": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0xadc76ee95ed51195ce46e91570ef08e6bd7002cb8929bc81de4b64c4f16852e4::2026-07-05": {
+    "market_id": "0xadc76ee95ed51195ce46e91570ef08e6bd7002cb8929bc81de4b64c4f16852e4",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "GPT-5.6 released by July 31, 2026?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-05": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-05": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-05": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-05": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-05": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-05": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-05": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-05": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-05": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x139ba0e7f931f09466c0fb27fc8ddb5e77ce9d1e2bdc953a5f22765bf779452f::2026-07-05": {
+    "market_id": "0x139ba0e7f931f09466c0fb27fc8ddb5e77ce9d1e2bdc953a5f22765bf779452f",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "SCOTUS accepts sports event contract case by July 31, 2026?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-05": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-05": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0xadc76ee95ed51195ce46e91570ef08e6bd7002cb8929bc81de4b64c4f16852e4::2026-07-06": {
+    "market_id": "0xadc76ee95ed51195ce46e91570ef08e6bd7002cb8929bc81de4b64c4f16852e4",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "GPT-5.6 released by July 31, 2026?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-06": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-06": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-06": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-06": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-06": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-06": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-06": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-06": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-06": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0xed5356b5d6f3b0d1095e21d586214de01b438ccb8d0ae5c59b55647d8fc95e97::2026-07-06": {
+    "market_id": "0xed5356b5d6f3b0d1095e21d586214de01b438ccb8d0ae5c59b55647d8fc95e97",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will OpenAI have the best AI model at the end of July 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-07-06": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-06": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-07": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-07": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-07": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-07": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-07": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-07": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-07": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-07": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0xed5356b5d6f3b0d1095e21d586214de01b438ccb8d0ae5c59b55647d8fc95e97::2026-07-07": {
+    "market_id": "0xed5356b5d6f3b0d1095e21d586214de01b438ccb8d0ae5c59b55647d8fc95e97",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will OpenAI have the best AI model at the end of July 2026?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-07": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-07": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-07": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-07-07": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1::2026-07-07": {
+    "market_id": "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of July 2026?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-08": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-08": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-08": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-08": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-08": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-08": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-08": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-08": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-08": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0xed5356b5d6f3b0d1095e21d586214de01b438ccb8d0ae5c59b55647d8fc95e97::2026-07-08": {
+    "market_id": "0xed5356b5d6f3b0d1095e21d586214de01b438ccb8d0ae5c59b55647d8fc95e97",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will OpenAI have the best AI model at the end of July 2026?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-08": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-07-08": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x136f4e242faeb42f66fa6baf4c192fbfa0b5788ed47a2bf1a3d3a2051b87715a::2026-07-08": {
+    "market_id": "0x136f4e242faeb42f66fa6baf4c192fbfa0b5788ed47a2bf1a3d3a2051b87715a",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the US announce a blockade on Iran by July 31?"
+  },
+  "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1::2026-07-08": {
+    "market_id": "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of July 2026?"
+  },
+  "0x636f780f794635820e8cafe81924ef2dd67622fc01b6b2e5e64e9cc99593a005::2026-07-08": {
+    "market_id": "0x636f780f794635820e8cafe81924ef2dd67622fc01b6b2e5e64e9cc99593a005",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Iran announce withdrawal from MOU negotiations by July 31?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-08": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-09": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-09": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-09": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-09": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-09": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-09": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-09": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-09": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-09": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0xed5356b5d6f3b0d1095e21d586214de01b438ccb8d0ae5c59b55647d8fc95e97::2026-07-09": {
+    "market_id": "0xed5356b5d6f3b0d1095e21d586214de01b438ccb8d0ae5c59b55647d8fc95e97",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will OpenAI have the best AI model at the end of July 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-07-09": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x136f4e242faeb42f66fa6baf4c192fbfa0b5788ed47a2bf1a3d3a2051b87715a::2026-07-09": {
+    "market_id": "0x136f4e242faeb42f66fa6baf4c192fbfa0b5788ed47a2bf1a3d3a2051b87715a",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the US announce a blockade on Iran by July 31?"
+  },
+  "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1::2026-07-09": {
+    "market_id": "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of July 2026?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-09": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-09": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-10": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-10": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-10": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-10": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-10": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-10": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-10": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-10": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1::2026-07-10": {
+    "market_id": "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of July 2026?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-10": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-10": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-07-10": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0x136f4e242faeb42f66fa6baf4c192fbfa0b5788ed47a2bf1a3d3a2051b87715a::2026-07-10": {
+    "market_id": "0x136f4e242faeb42f66fa6baf4c192fbfa0b5788ed47a2bf1a3d3a2051b87715a",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the US announce a blockade on Iran by July 31?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-10": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-10": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-11": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-11": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-11": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-11": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-11": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-11": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-11": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-11": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-11": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-11": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1::2026-07-11": {
+    "market_id": "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of July 2026?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-11": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0x136f4e242faeb42f66fa6baf4c192fbfa0b5788ed47a2bf1a3d3a2051b87715a::2026-07-11": {
+    "market_id": "0x136f4e242faeb42f66fa6baf4c192fbfa0b5788ed47a2bf1a3d3a2051b87715a",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the US announce a blockade on Iran by July 31?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-12": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-12": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-12": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-12": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-12": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-12": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-12": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-12": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-12": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x136f4e242faeb42f66fa6baf4c192fbfa0b5788ed47a2bf1a3d3a2051b87715a::2026-07-12": {
+    "market_id": "0x136f4e242faeb42f66fa6baf4c192fbfa0b5788ed47a2bf1a3d3a2051b87715a",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the US announce a blockade on Iran by July 31?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-12": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1::2026-07-12": {
+    "market_id": "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of July 2026?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-12": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-12": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21::2026-07-12": {
+    "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by July 31?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-13": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-13": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-13": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-13": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-13": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-13": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-13": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-13": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-13": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-13": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-13": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0x636f780f794635820e8cafe81924ef2dd67622fc01b6b2e5e64e9cc99593a005::2026-07-13": {
+    "market_id": "0x636f780f794635820e8cafe81924ef2dd67622fc01b6b2e5e64e9cc99593a005",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Iran announce withdrawal from MOU negotiations by July 31?"
+  },
+  "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1::2026-07-13": {
+    "market_id": "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of July 2026?"
+  },
+  "0xb12f5e328a7d9f7a26e0a074625ea775025104e673c776d575dab422a472ef59::2026-07-13": {
+    "market_id": "0xb12f5e328a7d9f7a26e0a074625ea775025104e673c776d575dab422a472ef59",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by July 31?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-13": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-14": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-14": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-14": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-14": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-14": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-14": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-14": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-14": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-14": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-14": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-14": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-14": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1::2026-07-14": {
+    "market_id": "0x8a8e093b25d7909ae01e944e746a1dee88801224fcff001c1c890ca43e2a66e1",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of July 2026?"
+  },
+  "0x636f780f794635820e8cafe81924ef2dd67622fc01b6b2e5e64e9cc99593a005::2026-07-14": {
+    "market_id": "0x636f780f794635820e8cafe81924ef2dd67622fc01b6b2e5e64e9cc99593a005",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Iran announce withdrawal from MOU negotiations by July 31?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-15": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-15": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-15": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-15": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-15": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-15": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-15": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-15": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-15": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-15": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-15": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56::2026-07-16": {
+    "market_id": "0x253676d94edd8f3e92060410bec8bca9117890d117d06664d31867db0e396c56",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mojtaba Khamenei seen in public by July 31?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-16": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-16": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-16": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-16": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-16": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-16": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-16": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-16": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-16": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-16": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-16": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0x636f780f794635820e8cafe81924ef2dd67622fc01b6b2e5e64e9cc99593a005::2026-07-16": {
+    "market_id": "0x636f780f794635820e8cafe81924ef2dd67622fc01b6b2e5e64e9cc99593a005",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Iran announce withdrawal from MOU negotiations by July 31?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-17": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-17": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-17": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-17": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-17": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-17": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-17": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-17": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-17": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-17": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-17": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-18": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-18": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-18": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-18": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-18": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-18": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-18": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-18": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-18": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-18": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-18": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce::2026-07-19": {
+    "market_id": "0xd2a472c051e1ab231a4feb40322ccdafccff5fe9e4a006381224e10aff0e83ce",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of July 2026?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-19": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-19": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-19": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-19": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-19": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-19": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-19": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-19": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-19": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-19": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0xb12f5e328a7d9f7a26e0a074625ea775025104e673c776d575dab422a472ef59::2026-07-19": {
+    "market_id": "0xb12f5e328a7d9f7a26e0a074625ea775025104e673c776d575dab422a472ef59",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by July 31?"
+  },
+  "0x0d3ad3afe0e01075d00e6869a09f1982742fba950b4cae8fff452b282b5a80fc::2026-07-20": {
+    "market_id": "0x0d3ad3afe0e01075d00e6869a09f1982742fba950b4cae8fff452b282b5a80fc",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by July 31?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-20": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-20": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-20": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-20": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-20": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-20": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-20": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-20": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-20": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-21": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-21": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-21": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-21": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-21": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-21": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-21": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-21": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x0d3ad3afe0e01075d00e6869a09f1982742fba950b4cae8fff452b282b5a80fc::2026-07-21": {
+    "market_id": "0x0d3ad3afe0e01075d00e6869a09f1982742fba950b4cae8fff452b282b5a80fc",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by July 31?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-21": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0xb12f5e328a7d9f7a26e0a074625ea775025104e673c776d575dab422a472ef59::2026-07-21": {
+    "market_id": "0xb12f5e328a7d9f7a26e0a074625ea775025104e673c776d575dab422a472ef59",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by July 31?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-22": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-22": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-22": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-22": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-22": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-22": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-22": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x0d3ad3afe0e01075d00e6869a09f1982742fba950b4cae8fff452b282b5a80fc::2026-07-22": {
+    "market_id": "0x0d3ad3afe0e01075d00e6869a09f1982742fba950b4cae8fff452b282b5a80fc",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by July 31?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-22": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-22": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0xb12f5e328a7d9f7a26e0a074625ea775025104e673c776d575dab422a472ef59::2026-07-22": {
+    "market_id": "0xb12f5e328a7d9f7a26e0a074625ea775025104e673c776d575dab422a472ef59",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by July 31?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-22": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0x6c58bfcdfd03d3aeb4f973dfe8b70f88d8e9bd630a421222682efb2cc0f05fb0::2026-07-22": {
+    "market_id": "0x6c58bfcdfd03d3aeb4f973dfe8b70f88d8e9bd630a421222682efb2cc0f05fb0",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will 30 ships transit the Strait of Hormuz on any day by July 31, 2026?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-23": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x5f0f80c1d904c0348409832375a6d36580f9a552295ae3dba2595adfcea84a97::2026-07-23": {
+    "market_id": "0x5f0f80c1d904c0348409832375a6d36580f9a552295ae3dba2595adfcea84a97",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Apple be the largest company in the world by market cap on July 31?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-23": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0x5a9395dae6c7643ea06e7a555580a5526e81073aea9c9306363529c5b76a8f8b::2026-07-23": {
+    "market_id": "0x5a9395dae6c7643ea06e7a555580a5526e81073aea9c9306363529c5b76a8f8b",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by July 31?"
+  },
+  "0x0d3ad3afe0e01075d00e6869a09f1982742fba950b4cae8fff452b282b5a80fc::2026-07-23": {
+    "market_id": "0x0d3ad3afe0e01075d00e6869a09f1982742fba950b4cae8fff452b282b5a80fc",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-23": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-23": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-23": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-23": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-23": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-23": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-23": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-23": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0xb12f5e328a7d9f7a26e0a074625ea775025104e673c776d575dab422a472ef59::2026-07-23": {
+    "market_id": "0xb12f5e328a7d9f7a26e0a074625ea775025104e673c776d575dab422a472ef59",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by July 31?"
+  },
+  "0x6c58bfcdfd03d3aeb4f973dfe8b70f88d8e9bd630a421222682efb2cc0f05fb0::2026-07-23": {
+    "market_id": "0x6c58bfcdfd03d3aeb4f973dfe8b70f88d8e9bd630a421222682efb2cc0f05fb0",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will 30 ships transit the Strait of Hormuz on any day by July 31, 2026?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-24": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x5f0f80c1d904c0348409832375a6d36580f9a552295ae3dba2595adfcea84a97::2026-07-24": {
+    "market_id": "0x5f0f80c1d904c0348409832375a6d36580f9a552295ae3dba2595adfcea84a97",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Apple be the largest company in the world by market cap on July 31?"
+  },
+  "0x0d3ad3afe0e01075d00e6869a09f1982742fba950b4cae8fff452b282b5a80fc::2026-07-24": {
+    "market_id": "0x0d3ad3afe0e01075d00e6869a09f1982742fba950b4cae8fff452b282b5a80fc",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-24": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-24": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-24": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-24": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-24": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-24": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-24": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x6c58bfcdfd03d3aeb4f973dfe8b70f88d8e9bd630a421222682efb2cc0f05fb0::2026-07-24": {
+    "market_id": "0x6c58bfcdfd03d3aeb4f973dfe8b70f88d8e9bd630a421222682efb2cc0f05fb0",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will 30 ships transit the Strait of Hormuz on any day by July 31, 2026?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-24": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0xb12f5e328a7d9f7a26e0a074625ea775025104e673c776d575dab422a472ef59::2026-07-24": {
+    "market_id": "0xb12f5e328a7d9f7a26e0a074625ea775025104e673c776d575dab422a472ef59",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by July 31?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-25": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0x0d3ad3afe0e01075d00e6869a09f1982742fba950b4cae8fff452b282b5a80fc::2026-07-25": {
+    "market_id": "0x0d3ad3afe0e01075d00e6869a09f1982742fba950b4cae8fff452b282b5a80fc",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by July 31?"
+  },
+  "0x5f0f80c1d904c0348409832375a6d36580f9a552295ae3dba2595adfcea84a97::2026-07-25": {
+    "market_id": "0x5f0f80c1d904c0348409832375a6d36580f9a552295ae3dba2595adfcea84a97",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Apple be the largest company in the world by market cap on July 31?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-25": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-25": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-25": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-25": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-25": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-25": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-25": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-25": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x6c58bfcdfd03d3aeb4f973dfe8b70f88d8e9bd630a421222682efb2cc0f05fb0::2026-07-25": {
+    "market_id": "0x6c58bfcdfd03d3aeb4f973dfe8b70f88d8e9bd630a421222682efb2cc0f05fb0",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will 30 ships transit the Strait of Hormuz on any day by July 31, 2026?"
+  },
+  "0x62aa73d8a6f3b9984e7c9a58d688ca6f398c96e2b1558dfbb296df0868f8c4c8::2026-07-25": {
+    "market_id": "0x62aa73d8a6f3b9984e7c9a58d688ca6f398c96e2b1558dfbb296df0868f8c4c8",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Trump meet with Netanyahu by July 31, 2026?"
+  },
+  "0x5fe50c3617f3a7385aaaa076897b60ca9312dfe67252b0581a688af31b7961ca::2026-07-25": {
+    "market_id": "0x5fe50c3617f3a7385aaaa076897b60ca9312dfe67252b0581a688af31b7961ca",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the US announce withdrawal from MOU negotiations by July 31?"
+  },
+  "0x5f0f80c1d904c0348409832375a6d36580f9a552295ae3dba2595adfcea84a97::2026-07-26": {
+    "market_id": "0x5f0f80c1d904c0348409832375a6d36580f9a552295ae3dba2595adfcea84a97",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Apple be the largest company in the world by market cap on July 31?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-26": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-26": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x8b0e301fc552e953579c625ce9adb7409d1852d5bf4879efee849decc1c9dc91::2026-07-26": {
+    "market_id": "0x8b0e301fc552e953579c625ce9adb7409d1852d5bf4879efee849decc1c9dc91",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by July 31, 2026?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-26": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-26": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-26": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-26": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-26": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-26": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-26": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x62aa73d8a6f3b9984e7c9a58d688ca6f398c96e2b1558dfbb296df0868f8c4c8::2026-07-26": {
+    "market_id": "0x62aa73d8a6f3b9984e7c9a58d688ca6f398c96e2b1558dfbb296df0868f8c4c8",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Trump meet with Netanyahu by July 31, 2026?"
+  },
+  "0x5fe50c3617f3a7385aaaa076897b60ca9312dfe67252b0581a688af31b7961ca::2026-07-26": {
+    "market_id": "0x5fe50c3617f3a7385aaaa076897b60ca9312dfe67252b0581a688af31b7961ca",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the US announce withdrawal from MOU negotiations by July 31?"
+  },
+  "0x6c58bfcdfd03d3aeb4f973dfe8b70f88d8e9bd630a421222682efb2cc0f05fb0::2026-07-26": {
+    "market_id": "0x6c58bfcdfd03d3aeb4f973dfe8b70f88d8e9bd630a421222682efb2cc0f05fb0",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will 30 ships transit the Strait of Hormuz on any day by July 31, 2026?"
+  },
+  "0x5a9395dae6c7643ea06e7a555580a5526e81073aea9c9306363529c5b76a8f8b::2026-07-27": {
+    "market_id": "0x5a9395dae6c7643ea06e7a555580a5526e81073aea9c9306363529c5b76a8f8b",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by July 31?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-27": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-27": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-27": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-27": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-27": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-27": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-27": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-27": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-27": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec::2026-07-28": {
+    "market_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by July 31, 2026?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-28": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-28": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-28": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-28": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-28": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-28": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-28": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0x5a9395dae6c7643ea06e7a555580a5526e81073aea9c9306363529c5b76a8f8b::2026-07-28": {
+    "market_id": "0x5a9395dae6c7643ea06e7a555580a5526e81073aea9c9306363529c5b76a8f8b",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by July 31?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-29": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-29": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-29": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-29": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-29": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-29": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55::2026-07-29": {
+    "market_id": "0xa38f0aba5b78cfc9894826c431dc6c8b16e1dff8bb1f4ff3b9ab51d35e12cd55",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?"
+  },
+  "0xee78796c2501ccee253b7b3fc9ebda254acb4c82c424db2dd24fc6b16885417d::2026-07-30": {
+    "market_id": "0xee78796c2501ccee253b7b3fc9ebda254acb4c82c424db2dd24fc6b16885417d",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "U.S. anti-cartel operation outside of the U.S. by July 31?"
+  },
+  "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13::2026-07-30": {
+    "market_id": "0x3953c85ab5e965cb5b3b4deaa2a5294daa6b1165ff83b586804c04a7abf51a13",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by July 31?"
+  },
+  "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2::2026-07-30": {
+    "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will bitcoin hit $1m before GTA VI?"
+  },
+  "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11::2026-07-30": {
+    "market_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will China invades Taiwan before GTA VI?"
+  },
+  "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c::2026-07-30": {
+    "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Jesus Christ return before GTA VI?"
+  },
+  "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9::2026-07-30": {
+    "market_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Trump out as President before GTA VI?"
+  },
+  "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be::2026-07-30": {
+    "market_id": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Rihanna Album before GTA VI?"
+  },
+  "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc::2026-07-30": {
+    "market_id": "0x50ddb9cd80d5c271664a2ebb7fcaed1d0a148d82c8e8d314d830f75a944c3dcc",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "New Playboi Carti Album before GTA VI?"
+  },
+  "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2::2026-07-30": {
+    "market_id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will GPT-6 be released before GTA VI?"
+  },
+  "0x5a9395dae6c7643ea06e7a555580a5526e81073aea9c9306363529c5b76a8f8b::2026-07-30": {
+    "market_id": "0x5a9395dae6c7643ea06e7a555580a5526e81073aea9c9306363529c5b76a8f8b",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by July 31?"
   }
 }
