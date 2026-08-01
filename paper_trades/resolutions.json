@@ -16054,5 +16054,965 @@
     "status": "unknown",
     "outcome": null,
     "question": "US x Iran Effective Ceasefire by July 31?"
+  },
+  "0x2be031440c5a571cd4fc3e05e2478d98aee41c7a44d10d3c5e6a24e38b30fabb::2026-07-07": {
+    "market_id": "0x2be031440c5a571cd4fc3e05e2478d98aee41c7a44d10d3c5e6a24e38b30fabb",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-07": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x2be031440c5a571cd4fc3e05e2478d98aee41c7a44d10d3c5e6a24e38b30fabb::2026-07-08": {
+    "market_id": "0x2be031440c5a571cd4fc3e05e2478d98aee41c7a44d10d3c5e6a24e38b30fabb",
+    "scan_date": "2026-07-08",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in July?"
+  },
+  "0xc9c9790c8f26dd9c8cabae9dd76be37aa86a6ded7de660e1da9d19324cf618d4::2026-07-09": {
+    "market_id": "0xc9c9790c8f26dd9c8cabae9dd76be37aa86a6ded7de660e1da9d19324cf618d4",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $65,000 in July?"
+  },
+  "0x2be031440c5a571cd4fc3e05e2478d98aee41c7a44d10d3c5e6a24e38b30fabb::2026-07-09": {
+    "market_id": "0x2be031440c5a571cd4fc3e05e2478d98aee41c7a44d10d3c5e6a24e38b30fabb",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-09": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358::2026-07-09": {
+    "market_id": "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358",
+    "scan_date": "2026-07-09",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $70,000 in July?"
+  },
+  "0xc9c9790c8f26dd9c8cabae9dd76be37aa86a6ded7de660e1da9d19324cf618d4::2026-07-10": {
+    "market_id": "0xc9c9790c8f26dd9c8cabae9dd76be37aa86a6ded7de660e1da9d19324cf618d4",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $65,000 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-10": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714::2026-07-10": {
+    "market_id": "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $65 in July?"
+  },
+  "0x2be031440c5a571cd4fc3e05e2478d98aee41c7a44d10d3c5e6a24e38b30fabb::2026-07-10": {
+    "market_id": "0x2be031440c5a571cd4fc3e05e2478d98aee41c7a44d10d3c5e6a24e38b30fabb",
+    "scan_date": "2026-07-10",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in July?"
+  },
+  "0xc9c9790c8f26dd9c8cabae9dd76be37aa86a6ded7de660e1da9d19324cf618d4::2026-07-11": {
+    "market_id": "0xc9c9790c8f26dd9c8cabae9dd76be37aa86a6ded7de660e1da9d19324cf618d4",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $65,000 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-11": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6::2026-07-11": {
+    "market_id": "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $75,000 in July?"
+  },
+  "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714::2026-07-11": {
+    "market_id": "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $65 in July?"
+  },
+  "0xc9c9790c8f26dd9c8cabae9dd76be37aa86a6ded7de660e1da9d19324cf618d4::2026-07-12": {
+    "market_id": "0xc9c9790c8f26dd9c8cabae9dd76be37aa86a6ded7de660e1da9d19324cf618d4",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $65,000 in July?"
+  },
+  "0x140c41f4491c885da7763e4111ca13fb169d907d73d3918429f98e1c1862aab9::2026-07-12": {
+    "market_id": "0x140c41f4491c885da7763e4111ca13fb169d907d73d3918429f98e1c1862aab9",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $80 in July?"
+  },
+  "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6::2026-07-12": {
+    "market_id": "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $75,000 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-12": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0xcfa5b3d9e618d3f7dbda457b95af3b45d23e53d5b90b7474638769d0003a30bf::2026-07-12": {
+    "market_id": "0xcfa5b3d9e618d3f7dbda457b95af3b45d23e53d5b90b7474638769d0003a30bf",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $60 in July?"
+  },
+  "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1::2026-07-12": {
+    "market_id": "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?"
+  },
+  "0x140c41f4491c885da7763e4111ca13fb169d907d73d3918429f98e1c1862aab9::2026-07-13": {
+    "market_id": "0x140c41f4491c885da7763e4111ca13fb169d907d73d3918429f98e1c1862aab9",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $80 in July?"
+  },
+  "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6::2026-07-13": {
+    "market_id": "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $75,000 in July?"
+  },
+  "0x2be031440c5a571cd4fc3e05e2478d98aee41c7a44d10d3c5e6a24e38b30fabb::2026-07-13": {
+    "market_id": "0x2be031440c5a571cd4fc3e05e2478d98aee41c7a44d10d3c5e6a24e38b30fabb",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in July?"
+  },
+  "0xc9c9790c8f26dd9c8cabae9dd76be37aa86a6ded7de660e1da9d19324cf618d4::2026-07-13": {
+    "market_id": "0xc9c9790c8f26dd9c8cabae9dd76be37aa86a6ded7de660e1da9d19324cf618d4",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $65,000 in July?"
+  },
+  "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714::2026-07-13": {
+    "market_id": "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $65 in July?"
+  },
+  "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1::2026-07-13": {
+    "market_id": "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?"
+  },
+  "0xc9c9790c8f26dd9c8cabae9dd76be37aa86a6ded7de660e1da9d19324cf618d4::2026-07-14": {
+    "market_id": "0xc9c9790c8f26dd9c8cabae9dd76be37aa86a6ded7de660e1da9d19324cf618d4",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $65,000 in July?"
+  },
+  "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d::2026-07-14": {
+    "market_id": "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $72,500 in July?"
+  },
+  "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1::2026-07-14": {
+    "market_id": "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-14": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6::2026-07-14": {
+    "market_id": "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $75,000 in July?"
+  },
+  "0xcfa5b3d9e618d3f7dbda457b95af3b45d23e53d5b90b7474638769d0003a30bf::2026-07-14": {
+    "market_id": "0xcfa5b3d9e618d3f7dbda457b95af3b45d23e53d5b90b7474638769d0003a30bf",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $60 in July?"
+  },
+  "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360::2026-07-14": {
+    "market_id": "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?"
+  },
+  "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358::2026-07-14": {
+    "market_id": "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $70,000 in July?"
+  },
+  "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e::2026-07-14": {
+    "market_id": "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?"
+  },
+  "0x13dae092813125bf5e892a59dac2154e0fdb6aff600a3996ed0ab3b07d68e683::2026-07-15": {
+    "market_id": "0x13dae092813125bf5e892a59dac2154e0fdb6aff600a3996ed0ab3b07d68e683",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $77,500 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-15": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1::2026-07-15": {
+    "market_id": "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?"
+  },
+  "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6::2026-07-15": {
+    "market_id": "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $75,000 in July?"
+  },
+  "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d::2026-07-15": {
+    "market_id": "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $72,500 in July?"
+  },
+  "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360::2026-07-15": {
+    "market_id": "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?"
+  },
+  "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714::2026-07-15": {
+    "market_id": "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $65 in July?"
+  },
+  "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1::2026-07-16": {
+    "market_id": "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?"
+  },
+  "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6::2026-07-16": {
+    "market_id": "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $75,000 in July?"
+  },
+  "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714::2026-07-16": {
+    "market_id": "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $65 in July?"
+  },
+  "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d::2026-07-16": {
+    "market_id": "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $72,500 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-16": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360::2026-07-16": {
+    "market_id": "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?"
+  },
+  "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358::2026-07-16": {
+    "market_id": "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $70,000 in July?"
+  },
+  "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1::2026-07-17": {
+    "market_id": "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?"
+  },
+  "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d::2026-07-17": {
+    "market_id": "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $72,500 in July?"
+  },
+  "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714::2026-07-17": {
+    "market_id": "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $65 in July?"
+  },
+  "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360::2026-07-17": {
+    "market_id": "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?"
+  },
+  "0x2be031440c5a571cd4fc3e05e2478d98aee41c7a44d10d3c5e6a24e38b30fabb::2026-07-17": {
+    "market_id": "0x2be031440c5a571cd4fc3e05e2478d98aee41c7a44d10d3c5e6a24e38b30fabb",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $57,500 in July?"
+  },
+  "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1::2026-07-18": {
+    "market_id": "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?"
+  },
+  "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360::2026-07-18": {
+    "market_id": "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?"
+  },
+  "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714::2026-07-18": {
+    "market_id": "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $65 in July?"
+  },
+  "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d::2026-07-18": {
+    "market_id": "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $72,500 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-18": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e::2026-07-18": {
+    "market_id": "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?"
+  },
+  "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1::2026-07-19": {
+    "market_id": "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?"
+  },
+  "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360::2026-07-19": {
+    "market_id": "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?"
+  },
+  "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d::2026-07-19": {
+    "market_id": "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $72,500 in July?"
+  },
+  "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e::2026-07-19": {
+    "market_id": "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?"
+  },
+  "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714::2026-07-19": {
+    "market_id": "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $65 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-19": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x21c77725363b6717538157cf5ce5cf9c69571120870d6def4233257566e07db4::2026-07-19": {
+    "market_id": "0x21c77725363b6717538157cf5ce5cf9c69571120870d6def4233257566e07db4",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in July?"
+  },
+  "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1::2026-07-20": {
+    "market_id": "0x3a869359895989c1dee6f920c203f12791f03c206e86ce48353c46626ee743b1",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-20": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6::2026-07-20": {
+    "market_id": "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $75,000 in July?"
+  },
+  "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714::2026-07-20": {
+    "market_id": "0x668373148ae84fcdb7c43f6559e7a02c8a3f36bfcbebddb9d85f61166b342714",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $65 in July?"
+  },
+  "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360::2026-07-20": {
+    "market_id": "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?"
+  },
+  "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e::2026-07-20": {
+    "market_id": "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?"
+  },
+  "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d::2026-07-20": {
+    "market_id": "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $72,500 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-21": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360::2026-07-21": {
+    "market_id": "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?"
+  },
+  "0x13dae092813125bf5e892a59dac2154e0fdb6aff600a3996ed0ab3b07d68e683::2026-07-21": {
+    "market_id": "0x13dae092813125bf5e892a59dac2154e0fdb6aff600a3996ed0ab3b07d68e683",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $77,500 in July?"
+  },
+  "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6::2026-07-21": {
+    "market_id": "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $75,000 in July?"
+  },
+  "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358::2026-07-21": {
+    "market_id": "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $70,000 in July?"
+  },
+  "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d::2026-07-21": {
+    "market_id": "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $72,500 in July?"
+  },
+  "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e::2026-07-21": {
+    "market_id": "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?"
+  },
+  "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360::2026-07-22": {
+    "market_id": "0x4c63863c9f4449243981ae1748c5ee9d4d8c8f22e25f708a9afd4c86e124f360",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?"
+  },
+  "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6::2026-07-22": {
+    "market_id": "0x5523e3b9895124788b2bed38f4b6be72c3f41cd2d2ee4354d93b26a3f533eaf6",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $75,000 in July?"
+  },
+  "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e::2026-07-22": {
+    "market_id": "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-22": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x21c77725363b6717538157cf5ce5cf9c69571120870d6def4233257566e07db4::2026-07-22": {
+    "market_id": "0x21c77725363b6717538157cf5ce5cf9c69571120870d6def4233257566e07db4",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in July?"
+  },
+  "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358::2026-07-22": {
+    "market_id": "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $70,000 in July?"
+  },
+  "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d::2026-07-22": {
+    "market_id": "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $72,500 in July?"
+  },
+  "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e::2026-07-23": {
+    "market_id": "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?"
+  },
+  "0x21c77725363b6717538157cf5ce5cf9c69571120870d6def4233257566e07db4::2026-07-23": {
+    "market_id": "0x21c77725363b6717538157cf5ce5cf9c69571120870d6def4233257566e07db4",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in July?"
+  },
+  "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d::2026-07-23": {
+    "market_id": "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $72,500 in July?"
+  },
+  "0x5062a23690144ef266851c95571c63af1f8b06b14607fe859b9d3bc7ed9d2813::2026-07-23": {
+    "market_id": "0x5062a23690144ef266851c95571c63af1f8b06b14607fe859b9d3bc7ed9d2813",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in July?"
+  },
+  "0x335f5ef09fa8a90a55afb75b2ccc93854a38de9af172b4c19d8269daba90376a::2026-07-23": {
+    "market_id": "0x335f5ef09fa8a90a55afb75b2ccc93854a38de9af172b4c19d8269daba90376a",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in July?"
+  },
+  "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d::2026-07-24": {
+    "market_id": "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $72,500 in July?"
+  },
+  "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358::2026-07-24": {
+    "market_id": "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $70,000 in July?"
+  },
+  "0x14ea3802ada17265002bff37ddc4ea65014d3e37cb80ef2ea8aa2f588a5f78bc::2026-07-24": {
+    "market_id": "0x14ea3802ada17265002bff37ddc4ea65014d3e37cb80ef2ea8aa2f588a5f78bc",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $62,500 in July?"
+  },
+  "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e::2026-07-24": {
+    "market_id": "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?"
+  },
+  "0x21c77725363b6717538157cf5ce5cf9c69571120870d6def4233257566e07db4::2026-07-24": {
+    "market_id": "0x21c77725363b6717538157cf5ce5cf9c69571120870d6def4233257566e07db4",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in July?"
+  },
+  "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d::2026-07-25": {
+    "market_id": "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $72,500 in July?"
+  },
+  "0x14ea3802ada17265002bff37ddc4ea65014d3e37cb80ef2ea8aa2f588a5f78bc::2026-07-25": {
+    "market_id": "0x14ea3802ada17265002bff37ddc4ea65014d3e37cb80ef2ea8aa2f588a5f78bc",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $62,500 in July?"
+  },
+  "0x2dd90df0420f46d98d546d8957373685d9ee35df5436ae745407c1c01aa85598::2026-07-25": {
+    "market_id": "0x2dd90df0420f46d98d546d8957373685d9ee35df5436ae745407c1c01aa85598",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Hamburg European Open: Elina Avanesyan vs Anna Bondar"
+  },
+  "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e::2026-07-25": {
+    "market_id": "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?"
+  },
+  "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358::2026-07-25": {
+    "market_id": "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $70,000 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-25": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d::2026-07-26": {
+    "market_id": "0x38903ef70b7d9ee41ea22ef2aec6287e4e6c77ec8702ca741e37d5c5df090a4d",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $72,500 in July?"
+  },
+  "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358::2026-07-26": {
+    "market_id": "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $70,000 in July?"
+  },
+  "0x14ea3802ada17265002bff37ddc4ea65014d3e37cb80ef2ea8aa2f588a5f78bc::2026-07-26": {
+    "market_id": "0x14ea3802ada17265002bff37ddc4ea65014d3e37cb80ef2ea8aa2f588a5f78bc",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $62,500 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-26": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e::2026-07-26": {
+    "market_id": "0x7d352ec1d718dd1f2d2fdb93d65fd3908cf34755d1aa45a8697a84d2b5ae1e8e",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?"
+  },
+  "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358::2026-07-27": {
+    "market_id": "0xe284a52d608552290b056def0a62e1914b3ebe316407504f56f6361fafc68358",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $70,000 in July?"
+  },
+  "0x14ea3802ada17265002bff37ddc4ea65014d3e37cb80ef2ea8aa2f588a5f78bc::2026-07-27": {
+    "market_id": "0x14ea3802ada17265002bff37ddc4ea65014d3e37cb80ef2ea8aa2f588a5f78bc",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $62,500 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-27": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x14ea3802ada17265002bff37ddc4ea65014d3e37cb80ef2ea8aa2f588a5f78bc::2026-07-28": {
+    "market_id": "0x14ea3802ada17265002bff37ddc4ea65014d3e37cb80ef2ea8aa2f588a5f78bc",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $62,500 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-28": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x14ea3802ada17265002bff37ddc4ea65014d3e37cb80ef2ea8aa2f588a5f78bc::2026-07-29": {
+    "market_id": "0x14ea3802ada17265002bff37ddc4ea65014d3e37cb80ef2ea8aa2f588a5f78bc",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $62,500 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-29": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
+  },
+  "0x66fbbbdd85018017c1b6de182e27afbefbceb10baea9c5e13a458ea35d853ace::2026-07-29": {
+    "market_id": "0x66fbbbdd85018017c1b6de182e27afbefbceb10baea9c5e13a458ea35d853ace",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ethereum reach $2,000 in July?"
+  },
+  "0x66fbbbdd85018017c1b6de182e27afbefbceb10baea9c5e13a458ea35d853ace::2026-07-30": {
+    "market_id": "0x66fbbbdd85018017c1b6de182e27afbefbceb10baea9c5e13a458ea35d853ace",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ethereum reach $2,000 in July?"
+  },
+  "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9::2026-07-30": {
+    "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-08-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in July?"
   }
 }
