@@ -2507,3 +2507,33 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🔴 NO | deadline | 0.28→0.12 | -0.16 | 60d | low | 16.95% | [US-Iran Final Nuclear Deal by December 31, 2026?](https://polymarket.com/event/us-iran-final-nuclear-deal-by-20260621201254412) |
 | 🔴 NO | deadline | 0.48→0.32 | -0.16 | 30d | low | 14.08% | [US x Iran Effective Ceasefire by August 31?](https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042) |
 | 🟢 YES | deadline | 0.39→0.52 | +0.13 | 60d | low | 12.59% | [Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?](https://polymarket.com/event/where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663) |
+
+## 2026-08-02  (30 signals, $0.144 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | field | 0.98→0.07 | -0.91 | 11d | low | 21.14% | [Will Nigel Farage win the Clacton by-election?](https://polymarket.com/event/clacton-by-election-winner-20260707143521303) |
+| 🔴 NO | field | 0.97→0.08 | -0.89 | 2d | low | 21.01% | [Will Abdul El-Sayed win the 2026 Michigan Democratic Primary?](https://polymarket.com/event/michigan-democratic-senate-primary-winner) |
+| 🔴 NO | event | 0.80→0.08 | -0.72 | 11d | low | 20.79% | [Will Count Binface get second place in the Clacton by-election?](https://polymarket.com/event/clacton-by-election-2nd-place-20260707214539733) |
+| 🟢 YES | deadline | 0.14→0.72 | +0.58 | 13d | medium | 18.09% | [Iran full airspace closure by August 15?](https://polymarket.com/event/iran-full-airspace-closure-byptptpt-20260625195253028) |
+| 🟢 YES | deadline | 0.20→0.72 | +0.52 | 29d | medium | 17.77% | [Iran full airspace closure by August 31?](https://polymarket.com/event/iran-full-airspace-closure-byptptpt-20260625195253028) |
+| 🔴 NO | event | 0.58→0.07 | -0.51 | 45d | medium | 20.56% | [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](https://polymarket.com/event/fed-decision-in-september-762) |
+| 🔴 NO | deadline | 0.83→0.32 | -0.51 | 59d | low | 17.4% | [Will Russia capture Kostyantynivka by September 30?](https://polymarket.com/event/will-russia-capture-kostyantynivka-by) |
+| 🔴 NO | event | 0.63→0.18 | -0.45 | 9d | low | 18.58% | [Will Darline Graham Nordone be the new republican nominee for Senate in South Ca](https://polymarket.com/event/south-carolina-republican-senate-special-primary-winner-20260712135206676) |
+| 🔴 NO | event | 0.56→0.15 | -0.41 | 18d | low | 18.81% | [US-Iran 60 day negotiation period extended?](https://polymarket.com/event/us-iran-60-day-negotiation-period-extended-20260624044855448) |
+| 🔴 NO | event | 0.60→0.20 | -0.40 | 45d | low | 18.03% | [Will the Fed decide differently in the next three decisions (Jun–Jul–Sep)?](https://polymarket.com/event/fed-decisions-jun-sep) |
+| 🔴 NO | deadline | 0.71→0.32 | -0.39 | 29d | low | 16.63% | [US x Iran Effective Ceasefire by August 31?](https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042) |
+| 🔴 NO | deadline | 0.42→0.05 | -0.37 | 29d | high | 20.57% | [US x Iran diplomatic meeting by August 31, 2026?](https://polymarket.com/event/next-round-of-us-iran-peace-talks-byptptpt-20260623022722982) |
+| 🔴 NO | deadline | 0.41→0.04 | -0.37 | 13d | high | 20.81% | [US announces end of Iranian blockade by August 15, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
+| 🔴 NO | deadline | 0.65→0.32 | -0.33 | 12d | low | 16.05% | [US x Iran Effective Ceasefire by August 14?](https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042) |
+| 🟢 YES | deadline | 0.03→0.35 | +0.32 | 60d | low | 14.0% | [Will MetaMask launch a token by September 30, 2026?](https://polymarket.com/event/will-metamask-launch-a-token-in-2025) |
+| 🔴 NO | event | 0.52→0.20 | -0.32 | 34d | low | 17.34% | [Boston Red Sox vs. New York Yankees](https://polymarket.com/event/mlb-bos-nyy-2026-06-06) |
+| 🔴 NO | event | 0.51→0.20 | -0.31 | 25d | low | 17.29% | [Atlanta Braves vs. Chicago White Sox](https://polymarket.com/event/mlb-atl-cws-2026-06-11) |
+| 🟢 YES | deadline | 0.02→0.32 | +0.30 | 29d | low | 13.65% | [Iran leadership change by August 31?](https://polymarket.com/event/iran-leadership-change-by) |
+| 🟢 YES | event | 0.65→0.92 | +0.28 | 59d | high | 19.3% | [Will United Russia (ER) gain the most seats in the next Russian parliamentary el](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
+| 🟢 YES | deadline | 0.05→0.32 | +0.27 | 59d | low | 13.42% | [Will Russia capture all of Stepnohirsk by September 30, 2026?](https://polymarket.com/event/will-russia-capture-all-of-stepnohirsk-by) |
+| 🔴 NO | deadline | 0.34→0.08 | -0.26 | 59d | low | 19.13% | [US-Iran Final Nuclear Deal by December 31, 2026?](https://polymarket.com/event/us-iran-final-nuclear-deal-by-20260621201254412) |
+| 🟢 YES | deadline | 0.07→0.32 | +0.26 | 59d | low | 13.27% | [Iran leadership change by September 30?](https://polymarket.com/event/iran-leadership-change-by) |
+| 🔴 NO | event | 0.42→0.20 | -0.22 | 22d | low | 16.29% | [St. Louis Cardinals vs. Cincinnati Reds](https://polymarket.com/event/mlb-stl-cin-2026-05-24) |
+| 🟢 YES | deadline | 0.07→0.28 | +0.21 | 59d | low | 12.71% | [Will the next diplomatic US-Iran meeting be in Oman by September 30, 2026?](https://polymarket.com/event/where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663) |
+| 🔴 NO | event | 0.29→0.08 | -0.21 | 59d | low | 18.64% | [Will New People (NL) gain the most seats in the next Russian parliamentary elect](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
