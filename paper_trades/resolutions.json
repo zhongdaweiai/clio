@@ -17142,5 +17142,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Haley Stevens win the 2026 Michigan Democratic Primary?"
+  },
+  "0x491b270b1537fe6971fb09d497808f467fff32d79fc9868e4a9058a9137d1471::2026-07-29": {
+    "market_id": "0x491b270b1537fe6971fb09d497808f467fff32d79fc9868e4a9058a9137d1471",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-08-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Philadelphia Phillies vs. Miami Marlins"
   }
 }
