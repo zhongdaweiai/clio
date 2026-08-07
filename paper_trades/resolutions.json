@@ -17150,5 +17150,45 @@
     "status": "unknown",
     "outcome": null,
     "question": "Philadelphia Phillies vs. Miami Marlins"
+  },
+  "0x48ff4ccbcfcf953e7ed526eed8bd70a8720a5127dcce5116f65644e5179c723c::2026-07-30": {
+    "market_id": "0x48ff4ccbcfcf953e7ed526eed8bd70a8720a5127dcce5116f65644e5179c723c",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-08-06",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mubadala Citi DC Open: Brandon Nakashima vs Jakub Mensik"
+  },
+  "0x797c0a39079b390e91ad69b538cf7762802ae735be03faa58d9990d1388ed34a::2026-07-30": {
+    "market_id": "0x797c0a39079b390e91ad69b538cf7762802ae735be03faa58d9990d1388ed34a",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-08-06",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Texas Rangers vs. Tampa Bay Rays"
+  },
+  "0x5dc212b712dcf514432221436140eec9717aea8f9fbead457c858d14ee519b90::2026-08-03": {
+    "market_id": "0x5dc212b712dcf514432221436140eec9717aea8f9fbead457c858d14ee519b90",
+    "scan_date": "2026-08-03",
+    "end_date": "2026-08-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 7, 2026?"
+  },
+  "0x5dc212b712dcf514432221436140eec9717aea8f9fbead457c858d14ee519b90::2026-08-04": {
+    "market_id": "0x5dc212b712dcf514432221436140eec9717aea8f9fbead457c858d14ee519b90",
+    "scan_date": "2026-08-04",
+    "end_date": "2026-08-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 7, 2026?"
+  },
+  "0x5dc212b712dcf514432221436140eec9717aea8f9fbead457c858d14ee519b90::2026-08-05": {
+    "market_id": "0x5dc212b712dcf514432221436140eec9717aea8f9fbead457c858d14ee519b90",
+    "scan_date": "2026-08-05",
+    "end_date": "2026-08-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 7, 2026?"
   }
 }
