@@ -17190,5 +17190,29 @@
     "status": "unknown",
     "outcome": null,
     "question": "US announces end of Iranian blockade by August 7, 2026?"
+  },
+  "0x7a50d6ca06cd4b6c1d49d86d5852f6d3c9ae68ea7b2fb3407ce5f9dbd0d6e7d2::2026-08-03": {
+    "market_id": "0x7a50d6ca06cd4b6c1d49d86d5852f6d3c9ae68ea7b2fb3407ce5f9dbd0d6e7d2",
+    "scan_date": "2026-08-03",
+    "end_date": "2026-08-09",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala"
+  },
+  "0x7cc8729c2bea651d00f502c2f9707f44991b1605afbe9cf793fcc77393c547b7::2026-08-03": {
+    "market_id": "0x7cc8729c2bea651d00f502c2f9707f44991b1605afbe9cf793fcc77393c547b7",
+    "scan_date": "2026-08-03",
+    "end_date": "2026-08-09",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Mubadala Citi DC Open: Taylor Fritz vs Rafael Jodar"
+  },
+  "0x88d2251f33c6e5745edc2424a79578fcbd289667790514b04da8a0392154e539::2026-08-03": {
+    "market_id": "0x88d2251f33c6e5745edc2424a79578fcbd289667790514b04da8a0392154e539",
+    "scan_date": "2026-08-03",
+    "end_date": "2026-08-09",
+    "status": "unknown",
+    "outcome": null,
+    "question": "National Bank Open: Michael Zheng vs Miomir Kecmanovic"
   }
 }
