@@ -2744,3 +2744,28 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | deadline | 0.03→0.18 | +0.15 | 51d | medium | 11.84% | [Will Crude Oil reach a new all-time high by September 30?](https://polymarket.com/event/crude-oil-all-time-high-by) |
 | 🟢 YES | deadline | 0.14→0.28 | +0.15 | 7d | low | 12.01% | [Will Kai and Speed beat the Minecraft challenge by August 17?](https://polymarket.com/event/kai-and-speed-beat-minecraft-challenge-byptptpt-20260807141254095) |
 | 🔴 NO | event | 0.33→0.20 | -0.12 | 10d | low | 14.62% | [US-Iran 60 day negotiation period extended?](https://polymarket.com/event/us-iran-60-day-negotiation-period-extended-20260624044855448) |
+
+## 2026-08-11  (20 signals, $0.129 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | deadline | 0.94→0.32 | -0.62 | 3d | low | 17.94% | [US x Iran Effective Ceasefire by August 14?](https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042) |
+| 🔴 NO | deadline | 0.95→0.35 | -0.60 | 20d | low | 17.58% | [US x Iran Effective Ceasefire by August 31?](https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042) |
+| 🟢 YES | event | 0.04→0.52 | +0.48 | 48d | medium | 16.02% | [Will Andy Pages lead the MLB in RBIs for the 2026 regular season?](https://polymarket.com/event/mlb-rbis-leader) |
+| 🔴 NO | field | 0.64→0.22 | -0.42 | 54d | low | 17.84% | [Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?](https://polymarket.com/event/brazil-presidential-election) |
+| 🔴 NO | deadline | 0.43→0.04 | -0.40 | 20d | high | 20.9% | [US announces end of Iranian blockade by August 31, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
+| 🔴 NO | event | 0.41→0.05 | -0.36 | 36d | medium | 20.52% | [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](https://polymarket.com/event/fed-decision-in-september-762) |
+| 🔴 NO | event | 0.56→0.20 | -0.36 | 7d | low | 17.68% | [National Bank Open: Rafael Jodar vs Arthur Fils](https://polymarket.com/event/atp-jodar-fils-2026-08-11) |
+| 🔴 NO | event | 0.54→0.20 | -0.34 | 25d | low | 17.56% | [Boston Red Sox vs. New York Yankees](https://polymarket.com/event/mlb-bos-nyy-2026-06-06) |
+| 🔴 NO | event | 0.53→0.20 | -0.33 | 16d | low | 17.47% | [Atlanta Braves vs. Chicago White Sox](https://polymarket.com/event/mlb-atl-cws-2026-06-11) |
+| 🟢 YES | deadline | 0.03→0.35 | +0.32 | 20d | low | 13.98% | [Iran leadership change by August 31?](https://polymarket.com/event/iran-leadership-change-by) |
+| 🟢 YES | deadline | 0.03→0.35 | +0.32 | 50d | low | 13.93% | [Will Russia capture all of Stepnohirsk by September 30, 2026?](https://polymarket.com/event/will-russia-capture-all-of-stepnohirsk-by) |
+| 🟢 YES | deadline | 0.05→0.35 | +0.30 | 50d | low | 13.8% | [Will Crude Oil reach a new all-time high by September 30?](https://polymarket.com/event/crude-oil-all-time-high-by) |
+| 🟢 YES | event | 0.67→0.92 | +0.26 | 50d | high | 19.13% | [Will United Russia (ER) gain the most seats in the next Russian parliamentary el](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
+| 🔴 NO | event | 0.58→0.35 | -0.23 | 36d | low | 14.82% | [Will there be no change in Fed interest rates after the September 2026 meeting?](https://polymarket.com/event/fed-decision-in-september-762) |
+| 🔴 NO | field | 0.27→0.04 | -0.23 | 54d | low | 20.22% | [Will Flávio Bolsonaro win the 2026 Brazilian presidential election?](https://polymarket.com/event/brazil-presidential-election) |
+| 🔴 NO | event | 0.26→0.05 | -0.21 | 50d | high | 19.71% | [Will New People (NL) gain the most seats in the next Russian parliamentary elect](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
+| 🟢 YES | deadline | 0.03→0.22 | +0.19 | 51d | low | 12.39% | [Will MetaMask launch a token by September 30, 2026?](https://polymarket.com/event/will-metamask-launch-a-token-in-2025) |
+| 🔴 NO | deadline | 0.27→0.08 | -0.18 | 50d | low | 18.38% | [US-Iran Final Nuclear Deal by December 31, 2026?](https://polymarket.com/event/us-iran-final-nuclear-deal-by-20260621201254412) |
+| 🔴 NO | deadline | 0.21→0.04 | -0.17 | 20d | high | 19.77% | [US x Iran diplomatic meeting by August 31, 2026?](https://polymarket.com/event/next-round-of-us-iran-peace-talks-byptptpt-20260623022722982) |
+| 🔴 NO | event | 0.33→0.20 | -0.12 | 9d | low | 14.62% | [US-Iran 60 day negotiation period extended?](https://polymarket.com/event/us-iran-60-day-negotiation-period-extended-20260624044855448) |
