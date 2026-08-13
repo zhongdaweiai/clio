@@ -17302,5 +17302,109 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Darline Graham Nordone be the new republican nominee for Senate in South Carolina?"
+  },
+  "0x95a7c8f39ccda84bf59b54c474f2a006cbc4167737630365f416670466b37ab9::2026-07-29": {
+    "market_id": "0x95a7c8f39ccda84bf59b54c474f2a006cbc4167737630365f416670466b37ab9",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-08-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Nigel Farage win the Clacton by-election?"
+  },
+  "0x95a7c8f39ccda84bf59b54c474f2a006cbc4167737630365f416670466b37ab9::2026-07-30": {
+    "market_id": "0x95a7c8f39ccda84bf59b54c474f2a006cbc4167737630365f416670466b37ab9",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-08-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Nigel Farage win the Clacton by-election?"
+  },
+  "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c::2026-07-31": {
+    "market_id": "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c",
+    "scan_date": "2026-07-31",
+    "end_date": "2026-08-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Count Binface get second place in the Clacton by-election?"
+  },
+  "0x95a7c8f39ccda84bf59b54c474f2a006cbc4167737630365f416670466b37ab9::2026-07-31": {
+    "market_id": "0x95a7c8f39ccda84bf59b54c474f2a006cbc4167737630365f416670466b37ab9",
+    "scan_date": "2026-07-31",
+    "end_date": "2026-08-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Nigel Farage win the Clacton by-election?"
+  },
+  "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c::2026-08-01": {
+    "market_id": "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c",
+    "scan_date": "2026-08-01",
+    "end_date": "2026-08-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Count Binface get second place in the Clacton by-election?"
+  },
+  "0x95a7c8f39ccda84bf59b54c474f2a006cbc4167737630365f416670466b37ab9::2026-08-01": {
+    "market_id": "0x95a7c8f39ccda84bf59b54c474f2a006cbc4167737630365f416670466b37ab9",
+    "scan_date": "2026-08-01",
+    "end_date": "2026-08-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Nigel Farage win the Clacton by-election?"
+  },
+  "0x95a7c8f39ccda84bf59b54c474f2a006cbc4167737630365f416670466b37ab9::2026-08-02": {
+    "market_id": "0x95a7c8f39ccda84bf59b54c474f2a006cbc4167737630365f416670466b37ab9",
+    "scan_date": "2026-08-02",
+    "end_date": "2026-08-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Nigel Farage win the Clacton by-election?"
+  },
+  "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c::2026-08-02": {
+    "market_id": "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c",
+    "scan_date": "2026-08-02",
+    "end_date": "2026-08-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Count Binface get second place in the Clacton by-election?"
+  },
+  "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c::2026-08-03": {
+    "market_id": "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c",
+    "scan_date": "2026-08-03",
+    "end_date": "2026-08-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Count Binface get second place in the Clacton by-election?"
+  },
+  "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c::2026-08-04": {
+    "market_id": "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c",
+    "scan_date": "2026-08-04",
+    "end_date": "2026-08-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Count Binface get second place in the Clacton by-election?"
+  },
+  "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c::2026-08-05": {
+    "market_id": "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c",
+    "scan_date": "2026-08-05",
+    "end_date": "2026-08-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Count Binface get second place in the Clacton by-election?"
+  },
+  "0x8829c327e1a8115ae11f32d17a2041a4fa9983264e389a4c1cd0c6b92149888a::2026-08-05": {
+    "market_id": "0x8829c327e1a8115ae11f32d17a2041a4fa9983264e389a4c1cd0c6b92149888a",
+    "scan_date": "2026-08-05",
+    "end_date": "2026-08-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "National Bank Open: Valentin Vacherot vs Mariano Navone"
+  },
+  "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c::2026-08-07": {
+    "market_id": "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c",
+    "scan_date": "2026-08-07",
+    "end_date": "2026-08-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Count Binface get second place in the Clacton by-election?"
   }
 }
