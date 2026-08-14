@@ -17406,5 +17406,77 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Count Binface get second place in the Clacton by-election?"
+  },
+  "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f::2026-08-02": {
+    "market_id": "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f",
+    "scan_date": "2026-08-02",
+    "end_date": "2026-08-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 14?"
+  },
+  "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f::2026-08-03": {
+    "market_id": "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f",
+    "scan_date": "2026-08-03",
+    "end_date": "2026-08-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 14?"
+  },
+  "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f::2026-08-04": {
+    "market_id": "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f",
+    "scan_date": "2026-08-04",
+    "end_date": "2026-08-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 14?"
+  },
+  "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f::2026-08-05": {
+    "market_id": "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f",
+    "scan_date": "2026-08-05",
+    "end_date": "2026-08-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 14?"
+  },
+  "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f::2026-08-07": {
+    "market_id": "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f",
+    "scan_date": "2026-08-07",
+    "end_date": "2026-08-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 14?"
+  },
+  "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f::2026-08-08": {
+    "market_id": "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f",
+    "scan_date": "2026-08-08",
+    "end_date": "2026-08-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 14?"
+  },
+  "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f::2026-08-09": {
+    "market_id": "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f",
+    "scan_date": "2026-08-09",
+    "end_date": "2026-08-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 14?"
+  },
+  "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f::2026-08-10": {
+    "market_id": "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-08-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 14?"
+  },
+  "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f::2026-08-11": {
+    "market_id": "0x833f0bac240ad7d5c947d58a8acac0f77a74cf03dccd8f9b72a28811836a920f",
+    "scan_date": "2026-08-11",
+    "end_date": "2026-08-14",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 14?"
   }
 }
