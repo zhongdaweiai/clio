@@ -17566,5 +17566,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "Israel closes its airspace by August 15?"
+  },
+  "0xc04094452b0386a73a9a6e07da0370fffb2722e05c837a5246b88c914e78b79f::2026-08-14": {
+    "market_id": "0xc04094452b0386a73a9a6e07da0370fffb2722e05c837a5246b88c914e78b79f",
+    "scan_date": "2026-08-14",
+    "end_date": "2026-08-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)"
+  },
+  "0xc04094452b0386a73a9a6e07da0370fffb2722e05c837a5246b88c914e78b79f::2026-08-15": {
+    "market_id": "0xc04094452b0386a73a9a6e07da0370fffb2722e05c837a5246b88c914e78b79f",
+    "scan_date": "2026-08-15",
+    "end_date": "2026-08-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)"
   }
 }
