@@ -2867,3 +2867,26 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🔴 NO | deadline | 0.21→0.03 | -0.18 | 16d | high | 20.33% | [US announces end of Iranian blockade by August 31, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
 | 🔴 NO | deadline | 0.18→0.07 | -0.11 | 46d | low | 17.46% | [US-Iran Final Nuclear Deal by December 31, 2026?](https://polymarket.com/event/us-iran-final-nuclear-deal-by-20260621201254412) |
 | 🔴 NO | event | 0.18→0.07 | -0.11 | 46d | low | 17.29% | [Will New People (NL) gain the most seats in the next Russian parliamentary elect](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
+
+## 2026-08-16  (18 signals, $0.117 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🔴 NO | field | 0.67→0.18 | -0.49 | 49d | low | 18.75% | [Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?](https://polymarket.com/event/brazil-presidential-election) |
+| 🔴 NO | event | 0.65→0.18 | -0.47 | 16d | low | 18.68% | [Will WTI Crude Oil (WTI) hit (HIGH) $85 in August?](https://polymarket.com/event/what-price-will-wti-hit-in-august-2026) |
+| 🔴 NO | event | 0.73→0.35 | -0.39 | 31d | low | 16.29% | [Will there be no change in Fed interest rates after the September 2026 meeting?](https://polymarket.com/event/fed-decision-in-september-762) |
+| 🔴 NO | deadline | 0.41→0.03 | -0.39 | 45d | high | 21.13% | [US announces end of Iranian blockade by September 30, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
+| 🔴 NO | event | 0.53→0.20 | -0.33 | 20d | low | 17.47% | [Boston Red Sox vs. New York Yankees](https://polymarket.com/event/mlb-bos-nyy-2026-06-06) |
+| 🟢 YES | deadline | 0.03→0.35 | +0.32 | 46d | low | 13.98% | [Will MetaMask launch a token by September 30, 2026?](https://polymarket.com/event/will-metamask-launch-a-token-in-2025) |
+| 🔴 NO | event | 0.52→0.20 | -0.32 | 11d | low | 17.38% | [Atlanta Braves vs. Chicago White Sox](https://polymarket.com/event/mlb-atl-cws-2026-06-11) |
+| 🟢 YES | deadline | 0.02→0.32 | +0.30 | 45d | low | 13.65% | [Will Russia capture all of Stepnohirsk by September 30, 2026?](https://polymarket.com/event/will-russia-capture-all-of-stepnohirsk-by) |
+| 🟢 YES | deadline | 0.09→0.38 | +0.29 | 15d | low | 13.87% | [Iran charges Hormuz fees by August 31?](https://polymarket.com/event/iran-charges-hormuz-fees-byptptpt-20260625175035466) |
+| 🔴 NO | event | 0.33→0.07 | -0.26 | 56d | low | 19.48% | [Will the Philadelphia Phillies have the highest ABS success rate during the 2026](https://polymarket.com/event/mlb-highest-abs-challenge-success-rate-team-20260702220030937) |
+| 🔴 NO | field | 0.29→0.04 | -0.25 | 49d | medium | 20.32% | [Will Flávio Bolsonaro win the 2026 Brazilian presidential election?](https://polymarket.com/event/brazil-presidential-election) |
+| 🔴 NO | deadline | 0.67→0.45 | -0.22 | 45d | low | 13.92% | [Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?](https://polymarket.com/event/where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663) |
+| 🟢 YES | event | 0.72→0.92 | +0.20 | 45d | high | 18.51% | [Will United Russia (ER) gain the most seats in the next Russian parliamentary el](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
+| 🟢 YES | deadline | 0.03→0.22 | +0.19 | 45d | low | 12.32% | [Will Crude Oil reach a new all-time high by September 30?](https://polymarket.com/event/crude-oil-all-time-high-by) |
+| 🔴 NO | event | 0.24→0.07 | -0.17 | 31d | medium | 18.57% | [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](https://polymarket.com/event/fed-decision-in-september-762) |
+| 🟢 YES | event | 0.10→0.25 | +0.15 | 4d | low | 12.06% | [US-Iran 60 day negotiation period extended?](https://polymarket.com/event/us-iran-60-day-negotiation-period-extended-20260624044855448) |
+| 🔴 NO | event | 0.20→0.05 | -0.15 | 45d | high | 18.95% | [Will New People (NL) gain the most seats in the next Russian parliamentary elect](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
+| 🔴 NO | deadline | 0.14→0.03 | -0.11 | 15d | high | 19.52% | [US announces end of Iranian blockade by August 31, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
