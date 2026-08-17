@@ -17582,5 +17582,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)"
+  },
+  "0x60613b262912ce2e3138ec5610a31a2f932b6300843c094053cb33aaff9f2238::2026-08-10": {
+    "market_id": "0x60613b262912ce2e3138ec5610a31a2f932b6300843c094053cb33aaff9f2238",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-08-17",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kai and Speed beat the Minecraft challenge by August 17?"
   }
 }
