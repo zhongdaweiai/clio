@@ -2890,3 +2890,24 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | event | 0.10→0.25 | +0.15 | 4d | low | 12.06% | [US-Iran 60 day negotiation period extended?](https://polymarket.com/event/us-iran-60-day-negotiation-period-extended-20260624044855448) |
 | 🔴 NO | event | 0.20→0.05 | -0.15 | 45d | high | 18.95% | [Will New People (NL) gain the most seats in the next Russian parliamentary elect](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
 | 🔴 NO | deadline | 0.14→0.03 | -0.11 | 15d | high | 19.52% | [US announces end of Iranian blockade by August 31, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
+
+## 2026-08-17  (16 signals, $0.108 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🟢 YES | deadline | 0.10→0.82 | +0.72 | 14d | high | 19.61% | [Iran charges Hormuz fees by August 31?](https://polymarket.com/event/iran-charges-hormuz-fees-byptptpt-20260625175035466) |
+| 🔴 NO | event | 0.65→0.05 | -0.59 | 15d | high | 21.07% | [Will WTI Crude Oil (WTI) hit (HIGH) $85 in August?](https://polymarket.com/event/what-price-will-wti-hit-in-august-2026) |
+| 🔴 NO | field | 0.65→0.18 | -0.47 | 48d | low | 18.65% | [Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?](https://polymarket.com/event/brazil-presidential-election) |
+| 🔴 NO | event | 0.74→0.35 | -0.40 | 30d | low | 16.36% | [Will there be no change in Fed interest rates after the September 2026 meeting?](https://polymarket.com/event/fed-decision-in-september-762) |
+| 🔴 NO | deadline | 0.39→0.04 | -0.35 | 44d | high | 20.75% | [US announces end of Iranian blockade by September 30, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
+| 🔴 NO | event | 0.54→0.20 | -0.34 | 19d | low | 17.51% | [Boston Red Sox vs. New York Yankees](https://polymarket.com/event/mlb-bos-nyy-2026-06-06) |
+| 🟢 YES | deadline | 0.02→0.35 | +0.33 | 45d | low | 14.0% | [Will MetaMask launch a token by September 30, 2026?](https://polymarket.com/event/will-metamask-launch-a-token-in-2025) |
+| 🔴 NO | event | 0.53→0.20 | -0.33 | 10d | low | 17.43% | [Atlanta Braves vs. Chicago White Sox](https://polymarket.com/event/mlb-atl-cws-2026-06-11) |
+| 🟢 YES | deadline | 0.03→0.35 | +0.32 | 44d | low | 13.93% | [Will Crude Oil reach a new all-time high by September 30?](https://polymarket.com/event/crude-oil-all-time-high-by) |
+| 🟢 YES | deadline | 0.03→0.32 | +0.29 | 44d | low | 13.57% | [Will Russia capture all of Stepnohirsk by September 30, 2026?](https://polymarket.com/event/will-russia-capture-all-of-stepnohirsk-by) |
+| 🔴 NO | field | 0.31→0.04 | -0.27 | 48d | low | 20.44% | [Will Flávio Bolsonaro win the 2026 Brazilian presidential election?](https://polymarket.com/event/brazil-presidential-election) |
+| 🔴 NO | deadline | 0.69→0.45 | -0.24 | 44d | low | 14.12% | [Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?](https://polymarket.com/event/where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663) |
+| 🟢 YES | event | 0.69→0.92 | +0.23 | 44d | high | 18.85% | [Will United Russia (ER) gain the most seats in the next Russian parliamentary el](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
+| 🔴 NO | event | 0.23→0.07 | -0.16 | 30d | medium | 18.43% | [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](https://polymarket.com/event/fed-decision-in-september-762) |
+| 🔴 NO | event | 0.20→0.07 | -0.13 | 44d | low | 17.79% | [Will New People (NL) gain the most seats in the next Russian parliamentary elect](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
+| 🔴 NO | deadline | 0.14→0.04 | -0.10 | 14d | high | 18.69% | [US announces end of Iranian blockade by August 31, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
