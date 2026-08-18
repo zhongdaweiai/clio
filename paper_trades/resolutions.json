@@ -17590,5 +17590,53 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Kai and Speed beat the Minecraft challenge by August 17?"
+  },
+  "0xc0aed6d5d893988b4bef5a8242435bbc7c3b45b1e438bcffc9e9bf71d173ae46::2026-07-01": {
+    "market_id": "0xc0aed6d5d893988b4bef5a8242435bbc7c3b45b1e438bcffc9e9bf71d173ae46",
+    "scan_date": "2026-07-01",
+    "end_date": "2026-08-18",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by August 18, 2026?"
+  },
+  "0xc0aed6d5d893988b4bef5a8242435bbc7c3b45b1e438bcffc9e9bf71d173ae46::2026-07-04": {
+    "market_id": "0xc0aed6d5d893988b4bef5a8242435bbc7c3b45b1e438bcffc9e9bf71d173ae46",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-08-18",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by August 18, 2026?"
+  },
+  "0xd8b94a79241263ba30e9cd7f58e88bf2a9013ce2ccdce73606916b2f53033466::2026-07-15": {
+    "market_id": "0xd8b94a79241263ba30e9cd7f58e88bf2a9013ce2ccdce73606916b2f53033466",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-08-18",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will James Fishback be the Republican nominee for Florida Governor?"
+  },
+  "0xd8b94a79241263ba30e9cd7f58e88bf2a9013ce2ccdce73606916b2f53033466::2026-07-25": {
+    "market_id": "0xd8b94a79241263ba30e9cd7f58e88bf2a9013ce2ccdce73606916b2f53033466",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-08-18",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will James Fishback be the Republican nominee for Florida Governor?"
+  },
+  "0xd8b94a79241263ba30e9cd7f58e88bf2a9013ce2ccdce73606916b2f53033466::2026-07-27": {
+    "market_id": "0xd8b94a79241263ba30e9cd7f58e88bf2a9013ce2ccdce73606916b2f53033466",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-08-18",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will James Fishback be the Republican nominee for Florida Governor?"
+  },
+  "0x8fb8c5b5e504f8b1bbf18ac9aa85aefc65bba1ffc5075c91910d0dd9767c7486::2026-08-11": {
+    "market_id": "0x8fb8c5b5e504f8b1bbf18ac9aa85aefc65bba1ffc5075c91910d0dd9767c7486",
+    "scan_date": "2026-08-11",
+    "end_date": "2026-08-18",
+    "status": "unknown",
+    "outcome": null,
+    "question": "National Bank Open: Rafael Jodar vs Arthur Fils"
   }
 }
