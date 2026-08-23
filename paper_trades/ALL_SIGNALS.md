@@ -3041,3 +3041,33 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | deadline | 0.05→0.50 | +0.45 | 39d | low | 15.7% | [Will the next diplomatic US-Iran meeting be in Qatar by September 30, 2026?](https://polymarket.com/event/where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663) |
 | 🟢 YES | event | 0.06→0.50 | +0.44 | 39d | low | 15.62% | [Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the ne](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
 | 🟢 YES | event | 0.06→0.50 | +0.44 | 10d | low | 15.6% | [Will Ethereum reach $3,000 in August?](https://polymarket.com/event/what-price-will-ethereum-hit-in-august-2026) |
+
+## 2026-08-23  (41 signals, $0.000 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🟢 YES | event | 0.02→0.50 | +0.48 | 9d | low | 15.87% | [Will Bitcoin dip to $62,500 in August?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-august-2026) |
+| 🟢 YES | deadline | 0.02→0.50 | +0.48 | 9d | low | 15.87% | [Israel closes its airspace by August 31?](https://polymarket.com/event/israel-closes-its-airspace-by) |
+| 🟢 YES | deadline | 0.02→0.50 | +0.48 | 39d | low | 15.87% | [Will Crude Oil reach a new all-time high by September 30?](https://polymarket.com/event/crude-oil-all-time-high-by) |
+| 🟢 YES | field | 0.02→0.50 | +0.48 | 48d | low | 15.87% | [Will Tamim bin Hamad Al Thani win the Nobel Peace Prize in 2026?](https://polymarket.com/event/nobel-peace-prize-winner-2026-139) |
+| 🟢 YES | field | 0.02→0.50 | +0.48 | 48d | low | 15.86% | [Will Donald Trump win the Nobel Peace Prize in 2026?](https://polymarket.com/event/nobel-peace-prize-winner-2026-139) |
+| 🟢 YES | field | 0.02→0.50 | +0.48 | 21d | low | 15.86% | [Will Felix Auger Aliassime win the 2026 Men's US Open?](https://polymarket.com/event/2026-mens-us-open-winner-tennis) |
+| 🟢 YES | deadline | 0.02→0.50 | +0.48 | 39d | low | 15.86% | [US-Iran Final Nuclear Deal by September 30, 2026?](https://polymarket.com/event/us-iran-final-nuclear-deal-by-20260621201254412) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 39d | low | 15.84% | [Will MetaMask launch a token by September 30, 2026?](https://polymarket.com/event/will-metamask-launch-a-token-in-2025) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 39d | low | 15.84% | [Will Russia capture all of Stepnohirsk by September 30, 2026?](https://polymarket.com/event/will-russia-capture-all-of-stepnohirsk-by) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 39d | low | 15.83% | [Bitcoin all time high by September 30, 2026?](https://polymarket.com/event/bitcoin-all-time-high-by) |
+| 🟢 YES | field | 0.03→0.50 | +0.47 | 48d | low | 15.83% | [Will the International Court of Justice win the Nobel Peace Prize in 2026?](https://polymarket.com/event/nobel-peace-prize-winner-2026-139) |
+| 🟢 YES | field | 0.03→0.50 | +0.47 | 48d | low | 15.81% | [Will Pope Leo XIV win the Nobel Peace Prize in 2026?](https://polymarket.com/event/nobel-peace-prize-winner-2026-139) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 9d | low | 15.8% | [Iran full airspace closure by August 31?](https://polymarket.com/event/iran-full-airspace-closure-byptptpt-20260625195253028) |
+| 🟢 YES | field | 0.03→0.50 | +0.47 | 42d | low | 15.79% | [Will Renan Santos win the 2026 Brazilian presidential election?](https://polymarket.com/event/brazil-presidential-election) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 42d | low | 15.79% | [Will Renan Santos finish in second place in the first round of the 2026 Brazilia](https://polymarket.com/event/brazil-presidential-election-first-round-2nd-place) |
+| 🟢 YES | deadline | 0.04→0.50 | +0.46 | 9d | low | 15.77% | [Iran charges Hormuz fees by August 31?](https://polymarket.com/event/iran-charges-hormuz-fees-byptptpt-20260625175035466) |
+| 🟢 YES | deadline | 0.04→0.50 | +0.46 | 9d | low | 15.73% | [US announces end of Iranian blockade by August 31, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
+| 🟢 YES | field | 0.04→0.50 | +0.46 | 48d | low | 15.73% | [Will UNRWA win the Nobel Peace Prize in 2026?](https://polymarket.com/event/nobel-peace-prize-winner-2026-139) |
+| 🟢 YES | deadline | 0.05→0.50 | +0.45 | 38d | low | 15.71% | [Will the next diplomatic US-Iran meeting be in Qatar by September 30, 2026?](https://polymarket.com/event/where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663) |
+| 🟢 YES | field | 0.05→0.50 | +0.45 | 48d | low | 15.71% | [Will Volodymyr Zelenskyy win the Nobel Peace Prize in 2026?](https://polymarket.com/event/nobel-peace-prize-winner-2026-139) |
+| 🟢 YES | deadline | 0.05→0.50 | +0.45 | 9d | low | 15.7% | [NATO x Russia military clash by August 31, 2026?](https://polymarket.com/event/nato-x-russia-military-clash-in-2025) |
+| 🟢 YES | event | 0.05→0.50 | +0.45 | 38d | low | 15.65% | [Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the ne](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
+| 🟢 YES | deadline | 0.06→0.50 | +0.45 | 38d | low | 15.65% | [Strait of Hormuz traffic returns to normal by September 30?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440) |
+| 🟢 YES | deadline | 0.07→0.50 | +0.43 | 39d | low | 15.55% | [Bab el-Mandeb Strait effectively closed by September 30?](https://polymarket.com/event/bab-el-mandeb-strait-effectively-closed-by) |
+| 🟢 YES | event | 0.08→0.50 | +0.42 | 9d | low | 15.51% | [Will Ethereum reach $3,000 in August?](https://polymarket.com/event/what-price-will-ethereum-hit-in-august-2026) |
