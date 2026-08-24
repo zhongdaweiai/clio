@@ -3071,3 +3071,33 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | deadline | 0.06→0.50 | +0.45 | 38d | low | 15.65% | [Strait of Hormuz traffic returns to normal by September 30?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440) |
 | 🟢 YES | deadline | 0.07→0.50 | +0.43 | 39d | low | 15.55% | [Bab el-Mandeb Strait effectively closed by September 30?](https://polymarket.com/event/bab-el-mandeb-strait-effectively-closed-by) |
 | 🟢 YES | event | 0.08→0.50 | +0.42 | 9d | low | 15.51% | [Will Ethereum reach $3,000 in August?](https://polymarket.com/event/what-price-will-ethereum-hit-in-august-2026) |
+
+## 2026-08-24  (38 signals, $0.000 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🟢 YES | field | 0.02→0.50 | +0.48 | 47d | low | 15.87% | [Will Donald Trump win the Nobel Peace Prize in 2026?](https://polymarket.com/event/nobel-peace-prize-winner-2026-139) |
+| 🟢 YES | deadline | 0.02→0.50 | +0.48 | 38d | low | 15.85% | [Bitcoin all time high by September 30, 2026?](https://polymarket.com/event/bitcoin-all-time-high-by) |
+| 🟢 YES | field | 0.02→0.50 | +0.48 | 20d | low | 15.85% | [Will Felix Auger Aliassime win the 2026 Men's US Open?](https://polymarket.com/event/2026-mens-us-open-winner-tennis) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 38d | low | 15.85% | [Will Crude Oil reach a new all-time high by September 30?](https://polymarket.com/event/crude-oil-all-time-high-by) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 38d | low | 15.83% | [Will Russia capture all of Stepnohirsk by September 30, 2026?](https://polymarket.com/event/will-russia-capture-all-of-stepnohirsk-by) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 8d | low | 15.82% | [Iran full airspace closure by August 31?](https://polymarket.com/event/iran-full-airspace-closure-byptptpt-20260625195253028) |
+| 🟢 YES | field | 0.03→0.50 | +0.47 | 47d | low | 15.82% | [Will the International Court of Justice win the Nobel Peace Prize in 2026?](https://polymarket.com/event/nobel-peace-prize-winner-2026-139) |
+| 🟢 YES | field | 0.03→0.50 | +0.47 | 47d | low | 15.81% | [Will Pope Leo XIV win the Nobel Peace Prize in 2026?](https://polymarket.com/event/nobel-peace-prize-winner-2026-139) |
+| 🟢 YES | field | 0.03→0.50 | +0.47 | 41d | low | 15.79% | [Will Renan Santos win the 2026 Brazilian presidential election?](https://polymarket.com/event/brazil-presidential-election) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 8d | low | 15.79% | [NATO x Russia military clash by August 31, 2026?](https://polymarket.com/event/nato-x-russia-military-clash-in-2025) |
+| 🟢 YES | deadline | 0.04→0.50 | +0.46 | 8d | low | 15.78% | [US announces end of Iranian blockade by August 31, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
+| 🟢 YES | event | 0.04→0.50 | +0.46 | 41d | low | 15.74% | [Will Renan Santos finish in second place in the first round of the 2026 Brazilia](https://polymarket.com/event/brazil-presidential-election-first-round-2nd-place) |
+| 🟢 YES | field | 0.04→0.50 | +0.46 | 47d | low | 15.73% | [Will UNRWA win the Nobel Peace Prize in 2026?](https://polymarket.com/event/nobel-peace-prize-winner-2026-139) |
+| 🟢 YES | deadline | 0.04→0.50 | +0.46 | 8d | low | 15.72% | [Iran charges Hormuz fees by August 31?](https://polymarket.com/event/iran-charges-hormuz-fees-byptptpt-20260625175035466) |
+| 🟢 YES | field | 0.05→0.50 | +0.45 | 47d | low | 15.71% | [Will Volodymyr Zelenskyy win the Nobel Peace Prize in 2026?](https://polymarket.com/event/nobel-peace-prize-winner-2026-139) |
+| 🟢 YES | deadline | 0.06→0.50 | +0.45 | 37d | low | 15.65% | [Strait of Hormuz traffic returns to normal by September 30?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440) |
+| 🟢 YES | event | 0.06→0.50 | +0.44 | 37d | low | 15.65% | [Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the ne](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
+| 🔴 NO | event | 0.94→0.50 | -0.44 | 8d | low | 15.6% | [Will Bitcoin reach $80,000 in August?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-august-2026) |
+| 🟢 YES | deadline | 0.07→0.50 | +0.42 | 38d | low | 15.51% | [Bab el-Mandeb Strait effectively closed by September 30?](https://polymarket.com/event/bab-el-mandeb-strait-effectively-closed-by) |
+| 🟢 YES | event | 0.09→0.50 | +0.41 | 8d | low | 15.4% | [Will Ethereum reach $3,000 in August?](https://polymarket.com/event/what-price-will-ethereum-hit-in-august-2026) |
+| 🟢 YES | field | 0.10→0.50 | +0.40 | 27d | low | 15.36% | [Will AfD win the most seats in the 2026 Berlin state elections?](https://polymarket.com/event/berlin-state-election-winner) |
+| 🟢 YES | field | 0.10→0.50 | +0.40 | 20d | low | 15.3% | [Will Novak Djokovic win the 2026 Men's US Open?](https://polymarket.com/event/2026-mens-us-open-winner-tennis) |
+| 🟢 YES | event | 0.12→0.50 | +0.39 | 8d | low | 15.22% | [Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?](https://polymarket.com/event/what-price-will-wti-hit-in-august-2026) |
+| 🟢 YES | deadline | 0.22→0.50 | +0.28 | 7d | low | 14.33% | [Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by ](https://polymarket.com/event/spider-man-brand-new-day-total-domestic-gross-by-august-31-20260716181307512) |
+| 🟢 YES | event | 0.23→0.50 | +0.27 | 37d | low | 14.21% | [Will New People (NL) gain the most seats in the next Russian parliamentary elect](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
