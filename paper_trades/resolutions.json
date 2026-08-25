@@ -17942,5 +17942,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "St. Louis Cardinals vs. Cincinnati Reds"
+  },
+  "0x70831611831c0792bfb971d613ec2db2e06d59a234967b45f8302b3671b515cd::2026-08-24": {
+    "market_id": "0x70831611831c0792bfb971d613ec2db2e06d59a234967b45f8302b3671b515cd",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-08-25",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ralph Norman be the new Republican nominee for Senate in South Carolina?"
+  },
+  "0x26a6c7e4a905dfc13f23c44a8e41d0b96ad60569ef49869c46c237dfd8f3c003::2026-08-24": {
+    "market_id": "0x26a6c7e4a905dfc13f23c44a8e41d0b96ad60569ef49869c46c237dfd8f3c003",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-08-25",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Darline Graham Nordone be the new republican nominee for Senate in South Carolina?"
   }
 }
