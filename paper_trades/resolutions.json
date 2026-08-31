@@ -18118,5 +18118,1213 @@
     "status": "unknown",
     "outcome": null,
     "question": "Atlanta Braves vs. Chicago White Sox"
+  },
+  "0xa1b3158fedfddaf2a0d8b364f6a57ee68146fb6ad458222aa8e02bcf0abbb099::2026-07-02": {
+    "market_id": "0xa1b3158fedfddaf2a0d8b364f6a57ee68146fb6ad458222aa8e02bcf0abbb099",
+    "scan_date": "2026-07-02",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by August 31, 2026?"
+  },
+  "0xa1b3158fedfddaf2a0d8b364f6a57ee68146fb6ad458222aa8e02bcf0abbb099::2026-07-03": {
+    "market_id": "0xa1b3158fedfddaf2a0d8b364f6a57ee68146fb6ad458222aa8e02bcf0abbb099",
+    "scan_date": "2026-07-03",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by August 31, 2026?"
+  },
+  "0xa1b3158fedfddaf2a0d8b364f6a57ee68146fb6ad458222aa8e02bcf0abbb099::2026-07-04": {
+    "market_id": "0xa1b3158fedfddaf2a0d8b364f6a57ee68146fb6ad458222aa8e02bcf0abbb099",
+    "scan_date": "2026-07-04",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by August 31, 2026?"
+  },
+  "0xa1b3158fedfddaf2a0d8b364f6a57ee68146fb6ad458222aa8e02bcf0abbb099::2026-07-05": {
+    "market_id": "0xa1b3158fedfddaf2a0d8b364f6a57ee68146fb6ad458222aa8e02bcf0abbb099",
+    "scan_date": "2026-07-05",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by August 31, 2026?"
+  },
+  "0xa1b3158fedfddaf2a0d8b364f6a57ee68146fb6ad458222aa8e02bcf0abbb099::2026-07-06": {
+    "market_id": "0xa1b3158fedfddaf2a0d8b364f6a57ee68146fb6ad458222aa8e02bcf0abbb099",
+    "scan_date": "2026-07-06",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by August 31, 2026?"
+  },
+  "0xa1b3158fedfddaf2a0d8b364f6a57ee68146fb6ad458222aa8e02bcf0abbb099::2026-07-07": {
+    "market_id": "0xa1b3158fedfddaf2a0d8b364f6a57ee68146fb6ad458222aa8e02bcf0abbb099",
+    "scan_date": "2026-07-07",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by August 31, 2026?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-11": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-11",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-12": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-12",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-13": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-13",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-14": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-14",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-15": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-16": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-16",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-07-19": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-19": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-07-20": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-20": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-07-20": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-21": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-07-21": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-07-21": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x31327c6fbdc70a44d97f8e8973f536b6a748e01b4c0ca5549ed0910c703b1d7b::2026-07-21": {
+    "market_id": "0x31327c6fbdc70a44d97f8e8973f536b6a748e01b4c0ca5549ed0910c703b1d7b",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by August 31?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-07-22": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-22": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-07-22": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x31327c6fbdc70a44d97f8e8973f536b6a748e01b4c0ca5549ed0910c703b1d7b::2026-07-22": {
+    "market_id": "0x31327c6fbdc70a44d97f8e8973f536b6a748e01b4c0ca5549ed0910c703b1d7b",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by August 31?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-23": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-07-23": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-07-23": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x31327c6fbdc70a44d97f8e8973f536b6a748e01b4c0ca5549ed0910c703b1d7b::2026-07-23": {
+    "market_id": "0x31327c6fbdc70a44d97f8e8973f536b6a748e01b4c0ca5549ed0910c703b1d7b",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by August 31?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-24": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-07-24": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-07-24": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-25": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-07-25": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-07-25": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-07-26": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-07-26": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-07-26": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-26": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0xba34d786cd7bfbd719aa77c705f27969aba84d6649dca9adb365aad8c255db7a::2026-07-27": {
+    "market_id": "0xba34d786cd7bfbd719aa77c705f27969aba84d6649dca9adb365aad8c255db7a",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces halt in Iran offensive operations by July 31?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-07-27": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-27": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-07-27": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0x5e0190c0160f075a95fd5034b1d97d2245ef0c1ccb725fcbbadfc54db2ac8028::2026-07-28": {
+    "market_id": "0x5e0190c0160f075a95fd5034b1d97d2245ef0c1ccb725fcbbadfc54db2ac8028",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces halt in Iran offensive operations by August 31?"
+  },
+  "0xba34d786cd7bfbd719aa77c705f27969aba84d6649dca9adb365aad8c255db7a::2026-07-28": {
+    "market_id": "0xba34d786cd7bfbd719aa77c705f27969aba84d6649dca9adb365aad8c255db7a",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces halt in Iran offensive operations by July 31?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-07-28": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-07-28": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-28": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0x5e0190c0160f075a95fd5034b1d97d2245ef0c1ccb725fcbbadfc54db2ac8028::2026-07-29": {
+    "market_id": "0x5e0190c0160f075a95fd5034b1d97d2245ef0c1ccb725fcbbadfc54db2ac8028",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces halt in Iran offensive operations by August 31?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-29": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-07-29": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-07-29": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0xa1b3158fedfddaf2a0d8b364f6a57ee68146fb6ad458222aa8e02bcf0abbb099::2026-07-29": {
+    "market_id": "0xa1b3158fedfddaf2a0d8b364f6a57ee68146fb6ad458222aa8e02bcf0abbb099",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by August 31, 2026?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-07-30": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df::2026-07-30": {
+    "market_id": "0x1baf407855ceab1d3e1a9c9c1fe32b547a3ccd575e4d8eb1f7d4b5b27a1122df",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel withdraws from Lebanon by August 31, 2026?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-07-30": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8::2026-07-30": {
+    "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by August 31?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-07-31": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-07-31",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e::2026-07-31": {
+    "market_id": "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e",
+    "scan_date": "2026-07-31",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by August 31?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-07-31": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-07-31",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-07-31": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-07-31",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-07-31": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-07-31",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8::2026-07-31": {
+    "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+    "scan_date": "2026-07-31",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by August 31?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-08-01": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e::2026-08-01": {
+    "market_id": "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e",
+    "scan_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by August 31?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-01": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-01": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-08-01": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8::2026-08-01": {
+    "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+    "scan_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by August 31?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-08-02": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-08-02",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-08-02": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-08-02",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-02": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-02",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e::2026-08-02": {
+    "market_id": "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e",
+    "scan_date": "2026-08-02",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-02": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-02",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-08-03": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-08-03",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-03": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-03",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e::2026-08-03": {
+    "market_id": "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e",
+    "scan_date": "2026-08-03",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-03": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-03",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-08-03": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-08-03",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-04": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-04",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-08-04": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-08-04",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-04": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-04",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e::2026-08-04": {
+    "market_id": "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e",
+    "scan_date": "2026-08-04",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-05": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-05",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-08-05": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-08-05",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-05": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-05",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e::2026-08-05": {
+    "market_id": "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e",
+    "scan_date": "2026-08-05",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-05": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-05",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-07": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-07",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-08-07": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-08-07",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-07": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-07",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e::2026-08-07": {
+    "market_id": "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e",
+    "scan_date": "2026-08-07",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-08": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-08",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-08-08": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-08-08",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-08": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-08",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e::2026-08-08": {
+    "market_id": "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e",
+    "scan_date": "2026-08-08",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by August 31?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-08-09": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-08-09",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-09": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-09",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e::2026-08-09": {
+    "market_id": "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e",
+    "scan_date": "2026-08-09",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by August 31?"
+  },
+  "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc::2026-08-09": {
+    "market_id": "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc",
+    "scan_date": "2026-08-09",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-09": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-09",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-09": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-09",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8::2026-08-09": {
+    "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+    "scan_date": "2026-08-09",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by August 31?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-08-10": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-08-10": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-10": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e::2026-08-10": {
+    "market_id": "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by August 31?"
+  },
+  "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc::2026-08-10": {
+    "market_id": "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-10": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-10": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3::2026-08-11": {
+    "market_id": "0x61c2b9e70f7fdf3441fd1cfa2c8fa93308fefe3f5ecc2db87c393efab3a207a3",
+    "scan_date": "2026-08-11",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran Effective Ceasefire by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-11": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-11",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e::2026-08-11": {
+    "market_id": "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e",
+    "scan_date": "2026-08-11",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by August 31?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-11": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-11",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-12": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-12",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e::2026-08-12": {
+    "market_id": "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e",
+    "scan_date": "2026-08-12",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-12": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-12",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-12": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-12",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e::2026-08-13": {
+    "market_id": "0x43e12647a58ee0b20d2539d23764b0d561ea7be322acb8823f7bb126e67c115e",
+    "scan_date": "2026-08-13",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-13": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-13",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-08-13": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-08-13",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-13": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-13",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-13": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-13",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-14": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-14",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-08-14": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-08-14",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc::2026-08-14": {
+    "market_id": "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc",
+    "scan_date": "2026-08-14",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-14": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-14",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc::2026-08-15": {
+    "market_id": "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc",
+    "scan_date": "2026-08-15",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-15": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-15",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-15": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-15",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-16": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-16",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-16": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-16",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-17": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-17",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-17": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-17",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-08-18": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-08-18",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-18": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-18",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc::2026-08-18": {
+    "market_id": "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc",
+    "scan_date": "2026-08-18",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-20": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-20",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-21": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-08-21": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0xcd6c66b11ed8fdbdc1183fb761cf22959c6b481e843a715a7a9f53e22b90d420::2026-08-21": {
+    "market_id": "0xcd6c66b11ed8fdbdc1183fb761cf22959c6b481e843a715a7a9f53e22b90d420",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-21": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc::2026-08-21": {
+    "market_id": "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?"
+  },
+  "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc::2026-08-22": {
+    "market_id": "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?"
+  },
+  "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc::2026-08-23": {
+    "market_id": "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?"
+  },
+  "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc::2026-08-24": {
+    "market_id": "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?"
+  },
+  "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc::2026-08-25": {
+    "market_id": "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?"
+  },
+  "0x325e6ab1dd315e6f435183fbf7dff8a7c4be37f9bbf7abcd4459e75110aa9f1d::2026-08-26": {
+    "market_id": "0x325e6ab1dd315e6f435183fbf7dff8a7c4be37f9bbf7abcd4459e75110aa9f1d",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will NVIDIA be the largest company in the world by market cap on August 31?"
+  },
+  "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc::2026-08-26": {
+    "market_id": "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?"
+  },
+  "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc::2026-08-27": {
+    "market_id": "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?"
+  },
+  "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc::2026-08-28": {
+    "market_id": "0xfa52f5817ea613138cbd376abf4adf5d128dcee82c7b04751409577b70cb15bc",
+    "scan_date": "2026-08-28",
+    "end_date": "2026-08-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?"
   }
 }
