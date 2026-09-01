@@ -19326,5 +19326,677 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?"
+  },
+  "0x4ca4c2914ffc92a7e686e6b732da62cc6440242895df5c527225cb7b62255615::2026-08-04": {
+    "market_id": "0x4ca4c2914ffc92a7e686e6b732da62cc6440242895df5c527225cb7b62255615",
+    "scan_date": "2026-08-04",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $60 in August?"
+  },
+  "0x4ca4c2914ffc92a7e686e6b732da62cc6440242895df5c527225cb7b62255615::2026-08-09": {
+    "market_id": "0x4ca4c2914ffc92a7e686e6b732da62cc6440242895df5c527225cb7b62255615",
+    "scan_date": "2026-08-09",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $60 in August?"
+  },
+  "0xc78d4cb90b765aeb4c6b3bed7f1119dbcf164975f015b78b954632fcabf8cf71::2026-08-10": {
+    "market_id": "0xc78d4cb90b765aeb4c6b3bed7f1119dbcf164975f015b78b954632fcabf8cf71",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in August?"
+  },
+  "0x4ca4c2914ffc92a7e686e6b732da62cc6440242895df5c527225cb7b62255615::2026-08-10": {
+    "market_id": "0x4ca4c2914ffc92a7e686e6b732da62cc6440242895df5c527225cb7b62255615",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $60 in August?"
+  },
+  "0xc78d4cb90b765aeb4c6b3bed7f1119dbcf164975f015b78b954632fcabf8cf71::2026-08-13": {
+    "market_id": "0xc78d4cb90b765aeb4c6b3bed7f1119dbcf164975f015b78b954632fcabf8cf71",
+    "scan_date": "2026-08-13",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in August?"
+  },
+  "0xc78d4cb90b765aeb4c6b3bed7f1119dbcf164975f015b78b954632fcabf8cf71::2026-08-14": {
+    "market_id": "0xc78d4cb90b765aeb4c6b3bed7f1119dbcf164975f015b78b954632fcabf8cf71",
+    "scan_date": "2026-08-14",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in August?"
+  },
+  "0xc78d4cb90b765aeb4c6b3bed7f1119dbcf164975f015b78b954632fcabf8cf71::2026-08-15": {
+    "market_id": "0xc78d4cb90b765aeb4c6b3bed7f1119dbcf164975f015b78b954632fcabf8cf71",
+    "scan_date": "2026-08-15",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in August?"
+  },
+  "0xc78d4cb90b765aeb4c6b3bed7f1119dbcf164975f015b78b954632fcabf8cf71::2026-08-16": {
+    "market_id": "0xc78d4cb90b765aeb4c6b3bed7f1119dbcf164975f015b78b954632fcabf8cf71",
+    "scan_date": "2026-08-16",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in August?"
+  },
+  "0xc78d4cb90b765aeb4c6b3bed7f1119dbcf164975f015b78b954632fcabf8cf71::2026-08-17": {
+    "market_id": "0xc78d4cb90b765aeb4c6b3bed7f1119dbcf164975f015b78b954632fcabf8cf71",
+    "scan_date": "2026-08-17",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in August?"
+  },
+  "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8::2026-08-18": {
+    "market_id": "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8",
+    "scan_date": "2026-08-18",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in August?"
+  },
+  "0x0a061d09daa5ac4221fa7ea0d7abf84ab2ac42af0817a001d4c0dd3262be2cd8::2026-08-18": {
+    "market_id": "0x0a061d09daa5ac4221fa7ea0d7abf84ab2ac42af0817a001d4c0dd3262be2cd8",
+    "scan_date": "2026-08-18",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in August?"
+  },
+  "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8::2026-08-19": {
+    "market_id": "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8",
+    "scan_date": "2026-08-19",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in August?"
+  },
+  "0x0a061d09daa5ac4221fa7ea0d7abf84ab2ac42af0817a001d4c0dd3262be2cd8::2026-08-19": {
+    "market_id": "0x0a061d09daa5ac4221fa7ea0d7abf84ab2ac42af0817a001d4c0dd3262be2cd8",
+    "scan_date": "2026-08-19",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $67,500 in August?"
+  },
+  "0xfd13c67069e83a4a8ba1ba425f259185bcbae282c4f91074646e3c5cf97b7ae3::2026-08-20": {
+    "market_id": "0xfd13c67069e83a4a8ba1ba425f259185bcbae282c4f91074646e3c5cf97b7ae3",
+    "scan_date": "2026-08-20",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $72,500 in August?"
+  },
+  "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8::2026-08-20": {
+    "market_id": "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8",
+    "scan_date": "2026-08-20",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in August?"
+  },
+  "0xc4bde1d397625e1990fec7f787b9eb2e5727c666d0480c4e9c96b0dbd12602c6::2026-08-20": {
+    "market_id": "0xc4bde1d397625e1990fec7f787b9eb2e5727c666d0480c4e9c96b0dbd12602c6",
+    "scan_date": "2026-08-20",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $75,000 in August?"
+  },
+  "0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d::2026-08-20": {
+    "market_id": "0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d",
+    "scan_date": "2026-08-20",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?"
+  },
+  "0xe7db5d31d8ce10fad03ffc9ccea14496cf038438e7c26b36300230cf91fc32ec::2026-08-20": {
+    "market_id": "0xe7db5d31d8ce10fad03ffc9ccea14496cf038438e7c26b36300230cf91fc32ec",
+    "scan_date": "2026-08-20",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $62,500 in August?"
+  },
+  "0xe7db5d31d8ce10fad03ffc9ccea14496cf038438e7c26b36300230cf91fc32ec::2026-08-21": {
+    "market_id": "0xe7db5d31d8ce10fad03ffc9ccea14496cf038438e7c26b36300230cf91fc32ec",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $62,500 in August?"
+  },
+  "0xdb4123deb55868184575c563cb904af0054df8ced4b5426a21557b0b5e38eef0::2026-08-21": {
+    "market_id": "0xdb4123deb55868184575c563cb904af0054df8ced4b5426a21557b0b5e38eef0",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ethereum reach $3,000 in August?"
+  },
+  "0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d::2026-08-21": {
+    "market_id": "0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-22": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0x211f2f58d38d8022f3d71a99685ebec3ff12a396118c38e8fb97fdcab53ded1e::2026-08-22": {
+    "market_id": "0x211f2f58d38d8022f3d71a99685ebec3ff12a396118c38e8fb97fdcab53ded1e",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $60,000 in August?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-22": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-08-22": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0x12aa595f4883b1a856dcf8155b87e89a8d098b5ad8a7781c75804fd13d166718::2026-08-22": {
+    "market_id": "0x12aa595f4883b1a856dcf8155b87e89a8d098b5ad8a7781c75804fd13d166718",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by August 31?"
+  },
+  "0xe7db5d31d8ce10fad03ffc9ccea14496cf038438e7c26b36300230cf91fc32ec::2026-08-22": {
+    "market_id": "0xe7db5d31d8ce10fad03ffc9ccea14496cf038438e7c26b36300230cf91fc32ec",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $62,500 in August?"
+  },
+  "0xcd6c66b11ed8fdbdc1183fb761cf22959c6b481e843a715a7a9f53e22b90d420::2026-08-22": {
+    "market_id": "0xcd6c66b11ed8fdbdc1183fb761cf22959c6b481e843a715a7a9f53e22b90d420",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-22": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0xdb4123deb55868184575c563cb904af0054df8ced4b5426a21557b0b5e38eef0::2026-08-22": {
+    "market_id": "0xdb4123deb55868184575c563cb904af0054df8ced4b5426a21557b0b5e38eef0",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ethereum reach $3,000 in August?"
+  },
+  "0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d::2026-08-22": {
+    "market_id": "0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?"
+  },
+  "0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11::2026-08-22": {
+    "market_id": "0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $82,500 in August?"
+  },
+  "0xe7db5d31d8ce10fad03ffc9ccea14496cf038438e7c26b36300230cf91fc32ec::2026-08-23": {
+    "market_id": "0xe7db5d31d8ce10fad03ffc9ccea14496cf038438e7c26b36300230cf91fc32ec",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $62,500 in August?"
+  },
+  "0x12aa595f4883b1a856dcf8155b87e89a8d098b5ad8a7781c75804fd13d166718::2026-08-23": {
+    "market_id": "0x12aa595f4883b1a856dcf8155b87e89a8d098b5ad8a7781c75804fd13d166718",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by August 31?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-08-23": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-23": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-23": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0xcd6c66b11ed8fdbdc1183fb761cf22959c6b481e843a715a7a9f53e22b90d420::2026-08-23": {
+    "market_id": "0xcd6c66b11ed8fdbdc1183fb761cf22959c6b481e843a715a7a9f53e22b90d420",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by August 31, 2026?"
+  },
+  "0xdb4123deb55868184575c563cb904af0054df8ced4b5426a21557b0b5e38eef0::2026-08-23": {
+    "market_id": "0xdb4123deb55868184575c563cb904af0054df8ced4b5426a21557b0b5e38eef0",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ethereum reach $3,000 in August?"
+  },
+  "0x7f668805bfee7909997562f60489ddef01e40a3dca43781efeb59ce380779295::2026-08-23": {
+    "market_id": "0x7f668805bfee7909997562f60489ddef01e40a3dca43781efeb59ce380779295",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in August?"
+  },
+  "0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d::2026-08-23": {
+    "market_id": "0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?"
+  },
+  "0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11::2026-08-23": {
+    "market_id": "0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $82,500 in August?"
+  },
+  "0xfd105823dbf627e8a57aa1924703ef23138050d9d8da4a98a5136ea2ad98acd4::2026-08-23": {
+    "market_id": "0xfd105823dbf627e8a57aa1924703ef23138050d9d8da4a98a5136ea2ad98acd4",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $80,000 in August?"
+  },
+  "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024::2026-08-24": {
+    "market_id": "0xbad91c213787a7542345b8abd72a1d55754987c47ba82ef5d4aa625ac046f024",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran full airspace closure by August 31?"
+  },
+  "0xcd6c66b11ed8fdbdc1183fb761cf22959c6b481e843a715a7a9f53e22b90d420::2026-08-24": {
+    "market_id": "0xcd6c66b11ed8fdbdc1183fb761cf22959c6b481e843a715a7a9f53e22b90d420",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by August 31, 2026?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-24": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-24": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0xfd105823dbf627e8a57aa1924703ef23138050d9d8da4a98a5136ea2ad98acd4::2026-08-24": {
+    "market_id": "0xfd105823dbf627e8a57aa1924703ef23138050d9d8da4a98a5136ea2ad98acd4",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $80,000 in August?"
+  },
+  "0xdb4123deb55868184575c563cb904af0054df8ced4b5426a21557b0b5e38eef0::2026-08-24": {
+    "market_id": "0xdb4123deb55868184575c563cb904af0054df8ced4b5426a21557b0b5e38eef0",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ethereum reach $3,000 in August?"
+  },
+  "0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d::2026-08-24": {
+    "market_id": "0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?"
+  },
+  "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8::2026-08-24": {
+    "market_id": "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in August?"
+  },
+  "0x7f668805bfee7909997562f60489ddef01e40a3dca43781efeb59ce380779295::2026-08-24": {
+    "market_id": "0x7f668805bfee7909997562f60489ddef01e40a3dca43781efeb59ce380779295",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in August?"
+  },
+  "0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11::2026-08-24": {
+    "market_id": "0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $82,500 in August?"
+  },
+  "0x12aa595f4883b1a856dcf8155b87e89a8d098b5ad8a7781c75804fd13d166718::2026-08-25": {
+    "market_id": "0x12aa595f4883b1a856dcf8155b87e89a8d098b5ad8a7781c75804fd13d166718",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel closes its airspace by August 31?"
+  },
+  "0xcd6c66b11ed8fdbdc1183fb761cf22959c6b481e843a715a7a9f53e22b90d420::2026-08-25": {
+    "market_id": "0xcd6c66b11ed8fdbdc1183fb761cf22959c6b481e843a715a7a9f53e22b90d420",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by August 31, 2026?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-25": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-25": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0xdb4123deb55868184575c563cb904af0054df8ced4b5426a21557b0b5e38eef0::2026-08-25": {
+    "market_id": "0xdb4123deb55868184575c563cb904af0054df8ced4b5426a21557b0b5e38eef0",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ethereum reach $3,000 in August?"
+  },
+  "0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d::2026-08-25": {
+    "market_id": "0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-25": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8::2026-08-25": {
+    "market_id": "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in August?"
+  },
+  "0x7f668805bfee7909997562f60489ddef01e40a3dca43781efeb59ce380779295::2026-08-25": {
+    "market_id": "0x7f668805bfee7909997562f60489ddef01e40a3dca43781efeb59ce380779295",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in August?"
+  },
+  "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc::2026-08-26": {
+    "market_id": "0xbdc0827c873d1c3c538e549ab94c77829f7e40fd3376b25164c0279f744a87bc",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US x Iran diplomatic meeting by August 31, 2026?"
+  },
+  "0xcd6c66b11ed8fdbdc1183fb761cf22959c6b481e843a715a7a9f53e22b90d420::2026-08-26": {
+    "market_id": "0xcd6c66b11ed8fdbdc1183fb761cf22959c6b481e843a715a7a9f53e22b90d420",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-26": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7::2026-08-26": {
+    "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by August 31, 2026?"
+  },
+  "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8::2026-08-26": {
+    "market_id": "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in August?"
+  },
+  "0x7f668805bfee7909997562f60489ddef01e40a3dca43781efeb59ce380779295::2026-08-26": {
+    "market_id": "0x7f668805bfee7909997562f60489ddef01e40a3dca43781efeb59ce380779295",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in August?"
+  },
+  "0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11::2026-08-26": {
+    "market_id": "0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $82,500 in August?"
+  },
+  "0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d::2026-08-27": {
+    "market_id": "0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?"
+  },
+  "0xcd6c66b11ed8fdbdc1183fb761cf22959c6b481e843a715a7a9f53e22b90d420::2026-08-27": {
+    "market_id": "0xcd6c66b11ed8fdbdc1183fb761cf22959c6b481e843a715a7a9f53e22b90d420",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by August 31, 2026?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-27": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8::2026-08-27": {
+    "market_id": "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in August?"
+  },
+  "0x7f668805bfee7909997562f60489ddef01e40a3dca43781efeb59ce380779295::2026-08-27": {
+    "market_id": "0x7f668805bfee7909997562f60489ddef01e40a3dca43781efeb59ce380779295",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in August?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-28": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-28",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8::2026-08-28": {
+    "market_id": "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8",
+    "scan_date": "2026-08-28",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in August?"
+  },
+  "0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11::2026-08-28": {
+    "market_id": "0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11",
+    "scan_date": "2026-08-28",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $82,500 in August?"
+  },
+  "0xd63f6159163bda43ca9e79444f14a47eb8de2f20060bc3b91778cb1455479656::2026-08-29": {
+    "market_id": "0xd63f6159163bda43ca9e79444f14a47eb8de2f20060bc3b91778cb1455479656",
+    "scan_date": "2026-08-29",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Maxx Crosby play for New York Jets next?"
+  },
+  "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8::2026-08-29": {
+    "market_id": "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8",
+    "scan_date": "2026-08-29",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in August?"
+  },
+  "0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11::2026-08-29": {
+    "market_id": "0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11",
+    "scan_date": "2026-08-29",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $82,500 in August?"
+  },
+  "0xd63f6159163bda43ca9e79444f14a47eb8de2f20060bc3b91778cb1455479656::2026-08-30": {
+    "market_id": "0xd63f6159163bda43ca9e79444f14a47eb8de2f20060bc3b91778cb1455479656",
+    "scan_date": "2026-08-30",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Maxx Crosby play for New York Jets next?"
+  },
+  "0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11::2026-08-30": {
+    "market_id": "0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11",
+    "scan_date": "2026-08-30",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $82,500 in August?"
+  },
+  "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee::2026-08-31": {
+    "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+    "scan_date": "2026-08-31",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by August 31?"
+  },
+  "0xaa40d1358ac9493cddd813ce8b5be162f40a0e815f494ca5becf1c8e6f2f2248::2026-08-31": {
+    "market_id": "0xaa40d1358ac9493cddd813ce8b5be162f40a0e815f494ca5becf1c8e6f2f2248",
+    "scan_date": "2026-08-31",
+    "end_date": "2026-09-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Counter-Strike: FUT Esports vs Vitality (BO3) - BLAST Open Porto Group B"
   }
 }
