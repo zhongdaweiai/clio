@@ -19998,5 +19998,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Counter-Strike: FUT Esports vs Vitality (BO3) - BLAST Open Porto Group B"
+  },
+  "0x8be360b0463ec8f8ae38aaad8b082d3575af540357b1fd370d84456f40ff7fb8::2026-08-26": {
+    "market_id": "0x8be360b0463ec8f8ae38aaad8b082d3575af540357b1fd370d84456f40ff7fb8",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-02",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Augsburg: Facundo Mena vs Kai Wehnelt"
   }
 }
