@@ -20006,5 +20006,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "Augsburg: Facundo Mena vs Kai Wehnelt"
+  },
+  "0xc91b2e576cd65826f3c76191f0444c61cbbd39f373d15b7c1acaec230eb8150f::2026-08-27": {
+    "market_id": "0xc91b2e576cd65826f3c76191f0444c61cbbd39f373d15b7c1acaec230eb8150f",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-09-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Winston-Salem Open: Juan Manuel Cerundolo vs Ignacio Buse"
+  },
+  "0x280093bfc0537118b85c5ed9e63e022dc904e4b3e32c0e3b4aaca5c62e8059bd::2026-08-27": {
+    "market_id": "0x280093bfc0537118b85c5ed9e63e022dc904e4b3e32c0e3b4aaca5c62e8059bd",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-09-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Los Angeles Dodgers vs. Atlanta Braves"
   }
 }
