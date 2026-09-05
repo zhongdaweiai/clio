@@ -20022,5 +20022,165 @@
     "status": "unknown",
     "outcome": null,
     "question": "Los Angeles Dodgers vs. Atlanta Braves"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-07-31": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-07-31",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-01": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-01",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-02": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-02",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-03": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-03",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-04": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-04",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-05": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-05",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-07": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-07",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-08": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-08",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-09": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-09",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-10": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-11": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-11",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-12": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-12",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-13": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-13",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-14": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-14",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-15": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-15",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-16": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-16",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-17": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-17",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-18": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-18",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-19": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-19",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
+  },
+  "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523::2026-08-20": {
+    "market_id": "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523",
+    "scan_date": "2026-08-20",
+    "end_date": "2026-09-05",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Boston Red Sox vs. New York Yankees"
   }
 }
