@@ -20246,5 +20246,29 @@
     "status": "unknown",
     "outcome": null,
     "question": "San Francisco Giants vs. Atlanta Braves"
+  },
+  "0x420c29cfe95850eb2351fdef6ae4ff063b2a574aa947d0fe82e7433fd58946f2::2026-08-30": {
+    "market_id": "0x420c29cfe95850eb2351fdef6ae4ff063b2a574aa947d0fe82e7433fd58946f2",
+    "scan_date": "2026-08-30",
+    "end_date": "2026-09-08",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by September 7, 2026?"
+  },
+  "0x420c29cfe95850eb2351fdef6ae4ff063b2a574aa947d0fe82e7433fd58946f2::2026-08-31": {
+    "market_id": "0x420c29cfe95850eb2351fdef6ae4ff063b2a574aa947d0fe82e7433fd58946f2",
+    "scan_date": "2026-08-31",
+    "end_date": "2026-09-08",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by September 7, 2026?"
+  },
+  "0x420c29cfe95850eb2351fdef6ae4ff063b2a574aa947d0fe82e7433fd58946f2::2026-09-01": {
+    "market_id": "0x420c29cfe95850eb2351fdef6ae4ff063b2a574aa947d0fe82e7433fd58946f2",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-09-08",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by September 7, 2026?"
   }
 }
