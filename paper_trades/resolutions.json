@@ -20270,5 +20270,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "US announces end of Iranian blockade by September 7, 2026?"
+  },
+  "0xf2879c8ebb8875ce8a39bccd9e3640915f40a7c01ec91bf457d120d3ee93468c::2026-09-02": {
+    "market_id": "0xf2879c8ebb8875ce8a39bccd9e3640915f40a7c01ec91bf457d120d3ee93468c",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-09-09",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev"
+  },
+  "0xc47c5881711e7ffb0242271d171959c6d3da723f7f65797f4ff700262daf888b::2026-09-03": {
+    "market_id": "0xc47c5881711e7ffb0242271d171959c6d3da723f7f65797f4ff700262daf888b",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-09-09",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US Open ATP: Felix Auger-Aliassime vs Karen Khachanov"
   }
 }
