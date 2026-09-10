@@ -3575,3 +3575,33 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🔴 NO | event | 0.88→0.50 | -0.38 | 55d | low | 15.14% | [Will the Democratic Party control the House after the 2026 Midterm elections?](https://polymarket.com/event/which-party-will-win-the-house-in-2026) |
 | 🟢 YES | field | 0.13→0.50 | +0.37 | 11d | low | 15.09% | [Will AfD win the most seats in the 2026 Berlin state elections?](https://polymarket.com/event/berlin-state-election-winner) |
 | 🟢 YES | field | 0.13→0.50 | +0.37 | 52d | low | 15.08% | [Will the Milwaukee Brewers win the 2026 World Series?](https://polymarket.com/event/mlb-world-series-champion-2026) |
+
+## 2026-09-10  (34 signals, $0.000 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🟢 YES | field | 0.02→0.50 | +0.48 | 24d | low | 15.87% | [Will Renan Santos win the 2026 Brazilian presidential election?](https://polymarket.com/event/brazil-presidential-election) |
+| 🟢 YES | field | 0.02→0.50 | +0.48 | 51d | low | 15.85% | [Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?](https://polymarket.com/event/ballon-dor-winner-2026) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 21d | low | 15.85% | [Will Russia capture all of Stepnohirsk by September 30, 2026?](https://polymarket.com/event/will-russia-capture-all-of-stepnohirsk-by) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 21d | low | 15.84% | [Will Crude Oil reach a new all-time high by September 30?](https://polymarket.com/event/crude-oil-all-time-high-by) |
+| 🟢 YES | field | 0.03→0.50 | +0.47 | 51d | low | 15.84% | [Will Lionel Messi win the 2026 Ballon d'Or?](https://polymarket.com/event/ballon-dor-winner-2026) |
+| 🟢 YES | field | 0.03→0.50 | +0.47 | 51d | low | 15.8% | [Will the Houston Astros win the 2026 World Series?](https://polymarket.com/event/mlb-world-series-champion-2026) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 20d | low | 15.8% | [Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the ne](https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election) |
+| 🔴 NO | deadline | 0.96→0.50 | -0.46 | 21d | low | 15.78% | [Israel closes its airspace by September 30?](https://polymarket.com/event/israel-closes-its-airspace-by) |
+| 🟢 YES | field | 0.04→0.50 | +0.46 | 51d | low | 15.77% | [Will the Chicago White Sox win the 2026 World Series?](https://polymarket.com/event/mlb-world-series-champion-2026) |
+| 🟢 YES | field | 0.04→0.50 | +0.46 | 51d | low | 15.72% | [Will Rodri win the 2026 Ballon d'Or?](https://polymarket.com/event/ballon-dor-winner-2026) |
+| 🟢 YES | field | 0.05→0.50 | +0.45 | 54d | low | 15.69% | [Will Steve Hilton win the California Governor Election in 2026?](https://polymarket.com/event/california-governor-election-2026) |
+| 🟢 YES | field | 0.05→0.50 | +0.45 | 51d | low | 15.67% | [Will the Boston Red Sox win the 2026 World Series?](https://polymarket.com/event/mlb-world-series-champion-2026) |
+| 🟢 YES | field | 0.05→0.50 | +0.45 | 30d | low | 15.67% | [Will UNRWA win the Nobel Peace Prize in 2026?](https://polymarket.com/event/nobel-peace-prize-winner-2026-139) |
+| 🔴 NO | field | 0.95→0.50 | -0.45 | 54d | low | 15.66% | [Will Xavier Becerra win the California Governor Election in 2026?](https://polymarket.com/event/california-governor-election-2026) |
+| 🟢 YES | field | 0.05→0.50 | +0.45 | 51d | low | 15.65% | [Will the Chicago Cubs win the 2026 World Series?](https://polymarket.com/event/mlb-world-series-champion-2026) |
+| 🟢 YES | field | 0.06→0.50 | +0.44 | 51d | low | 15.6% | [Will the Philadelphia Phillies win the 2026 World Series?](https://polymarket.com/event/mlb-world-series-champion-2026) |
+| 🔴 NO | deadline | 0.93→0.50 | -0.43 | 21d | low | 15.55% | [Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?](https://polymarket.com/event/where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663) |
+| 🟢 YES | deadline | 0.07→0.50 | +0.43 | 21d | low | 15.54% | [Bab el-Mandeb Strait effectively closed by September 30?](https://polymarket.com/event/bab-el-mandeb-strait-effectively-closed-by) |
+| 🟢 YES | deadline | 0.10→0.50 | +0.41 | 52d | low | 15.37% | [Russia x Ukraine ceasefire agreement by October 31, 2026?](https://polymarket.com/event/russia-x-ukraine-ceasefire-agreement-by) |
+| 🟢 YES | field | 0.10→0.50 | +0.40 | 51d | low | 15.34% | [Will Kylian Mbappé win the 2026 Ballon d'Or?](https://polymarket.com/event/ballon-dor-winner-2026) |
+| 🟢 YES | field | 0.13→0.50 | +0.37 | 51d | low | 15.12% | [Will the Milwaukee Brewers win the 2026 World Series?](https://polymarket.com/event/mlb-world-series-champion-2026) |
+| 🔴 NO | event | 0.86→0.50 | -0.36 | 54d | low | 15.06% | [Will the Democratic Party control the House after the 2026 Midterm elections?](https://polymarket.com/event/which-party-will-win-the-house-in-2026) |
+| 🟢 YES | deadline | 0.14→0.50 | +0.36 | 21d | low | 15.06% | [US announces end of Iranian blockade by September 30, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
+| 🟢 YES | field | 0.14→0.50 | +0.36 | 10d | low | 14.99% | [Will AfD win the most seats in the 2026 Berlin state elections?](https://polymarket.com/event/berlin-state-election-winner) |
+| 🟢 YES | event | 0.14→0.50 | +0.35 | 54d | low | 14.98% | [Will the Republican Party control the House after the 2026 Midterm elections?](https://polymarket.com/event/which-party-will-win-the-house-in-2026) |
