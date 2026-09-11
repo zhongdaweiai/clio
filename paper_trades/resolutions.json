@@ -20286,5 +20286,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "US Open ATP: Felix Auger-Aliassime vs Karen Khachanov"
+  },
+  "0xd1978d7fcee0893d8585c8f940f636f60b45d8d11f3c1469c3b88e2683050779::2026-09-04": {
+    "market_id": "0xd1978d7fcee0893d8585c8f940f636f60b45d8d11f3c1469c3b88e2683050779",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-09-11",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US Open ATP: Alexander Bublik vs Tommy Paul"
   }
 }
