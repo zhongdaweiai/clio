@@ -20294,5 +20294,333 @@
     "status": "unknown",
     "outcome": null,
     "question": "US Open ATP: Alexander Bublik vs Tommy Paul"
+  },
+  "0xa39535caf2ce2c47dfbdc64c3cef9a00b7599a24c34b4091caed34df27094639::2026-07-15": {
+    "market_id": "0xa39535caf2ce2c47dfbdc64c3cef9a00b7599a24c34b4091caed34df27094639",
+    "scan_date": "2026-07-15",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Sweden Democrats (SD) win the most seats in the 2026 Swedish parliamentary election?"
+  },
+  "0xa39535caf2ce2c47dfbdc64c3cef9a00b7599a24c34b4091caed34df27094639::2026-07-17": {
+    "market_id": "0xa39535caf2ce2c47dfbdc64c3cef9a00b7599a24c34b4091caed34df27094639",
+    "scan_date": "2026-07-17",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Sweden Democrats (SD) win the most seats in the 2026 Swedish parliamentary election?"
+  },
+  "0xa39535caf2ce2c47dfbdc64c3cef9a00b7599a24c34b4091caed34df27094639::2026-07-18": {
+    "market_id": "0xa39535caf2ce2c47dfbdc64c3cef9a00b7599a24c34b4091caed34df27094639",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Sweden Democrats (SD) win the most seats in the 2026 Swedish parliamentary election?"
+  },
+  "0xa39535caf2ce2c47dfbdc64c3cef9a00b7599a24c34b4091caed34df27094639::2026-07-20": {
+    "market_id": "0xa39535caf2ce2c47dfbdc64c3cef9a00b7599a24c34b4091caed34df27094639",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Sweden Democrats (SD) win the most seats in the 2026 Swedish parliamentary election?"
+  },
+  "0xa39535caf2ce2c47dfbdc64c3cef9a00b7599a24c34b4091caed34df27094639::2026-07-21": {
+    "market_id": "0xa39535caf2ce2c47dfbdc64c3cef9a00b7599a24c34b4091caed34df27094639",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Sweden Democrats (SD) win the most seats in the 2026 Swedish parliamentary election?"
+  },
+  "0xa39535caf2ce2c47dfbdc64c3cef9a00b7599a24c34b4091caed34df27094639::2026-07-22": {
+    "market_id": "0xa39535caf2ce2c47dfbdc64c3cef9a00b7599a24c34b4091caed34df27094639",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Sweden Democrats (SD) win the most seats in the 2026 Swedish parliamentary election?"
+  },
+  "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38::2026-08-21": {
+    "market_id": "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Felix Auger Aliassime win the 2026 Men's US Open?"
+  },
+  "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38::2026-08-22": {
+    "market_id": "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Felix Auger Aliassime win the 2026 Men's US Open?"
+  },
+  "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7::2026-08-22": {
+    "market_id": "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Novak Djokovic win the 2026 Men's US Open?"
+  },
+  "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38::2026-08-23": {
+    "market_id": "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Felix Auger Aliassime win the 2026 Men's US Open?"
+  },
+  "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7::2026-08-23": {
+    "market_id": "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Novak Djokovic win the 2026 Men's US Open?"
+  },
+  "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40::2026-08-23": {
+    "market_id": "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Carlos Alcaraz win the 2026 Men's US Open?"
+  },
+  "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38::2026-08-24": {
+    "market_id": "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Felix Auger Aliassime win the 2026 Men's US Open?"
+  },
+  "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7::2026-08-24": {
+    "market_id": "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Novak Djokovic win the 2026 Men's US Open?"
+  },
+  "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40::2026-08-24": {
+    "market_id": "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Carlos Alcaraz win the 2026 Men's US Open?"
+  },
+  "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38::2026-08-25": {
+    "market_id": "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Felix Auger Aliassime win the 2026 Men's US Open?"
+  },
+  "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7::2026-08-25": {
+    "market_id": "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Novak Djokovic win the 2026 Men's US Open?"
+  },
+  "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40::2026-08-25": {
+    "market_id": "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Carlos Alcaraz win the 2026 Men's US Open?"
+  },
+  "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38::2026-08-26": {
+    "market_id": "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Felix Auger Aliassime win the 2026 Men's US Open?"
+  },
+  "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7::2026-08-26": {
+    "market_id": "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Novak Djokovic win the 2026 Men's US Open?"
+  },
+  "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40::2026-08-26": {
+    "market_id": "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Carlos Alcaraz win the 2026 Men's US Open?"
+  },
+  "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38::2026-08-27": {
+    "market_id": "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Felix Auger Aliassime win the 2026 Men's US Open?"
+  },
+  "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7::2026-08-27": {
+    "market_id": "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Novak Djokovic win the 2026 Men's US Open?"
+  },
+  "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40::2026-08-27": {
+    "market_id": "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Carlos Alcaraz win the 2026 Men's US Open?"
+  },
+  "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38::2026-08-28": {
+    "market_id": "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38",
+    "scan_date": "2026-08-28",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Felix Auger Aliassime win the 2026 Men's US Open?"
+  },
+  "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7::2026-08-28": {
+    "market_id": "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7",
+    "scan_date": "2026-08-28",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Novak Djokovic win the 2026 Men's US Open?"
+  },
+  "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40::2026-08-28": {
+    "market_id": "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40",
+    "scan_date": "2026-08-28",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Carlos Alcaraz win the 2026 Men's US Open?"
+  },
+  "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38::2026-08-29": {
+    "market_id": "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38",
+    "scan_date": "2026-08-29",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Felix Auger Aliassime win the 2026 Men's US Open?"
+  },
+  "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7::2026-08-29": {
+    "market_id": "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7",
+    "scan_date": "2026-08-29",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Novak Djokovic win the 2026 Men's US Open?"
+  },
+  "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40::2026-08-29": {
+    "market_id": "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40",
+    "scan_date": "2026-08-29",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Carlos Alcaraz win the 2026 Men's US Open?"
+  },
+  "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38::2026-08-30": {
+    "market_id": "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38",
+    "scan_date": "2026-08-30",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Felix Auger Aliassime win the 2026 Men's US Open?"
+  },
+  "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7::2026-08-30": {
+    "market_id": "0x15f8f202d13a8bf70566cc9d015331f2b7c4673ce7c0f3bd9274122143da98d7",
+    "scan_date": "2026-08-30",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Novak Djokovic win the 2026 Men's US Open?"
+  },
+  "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40::2026-08-30": {
+    "market_id": "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40",
+    "scan_date": "2026-08-30",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Carlos Alcaraz win the 2026 Men's US Open?"
+  },
+  "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38::2026-08-31": {
+    "market_id": "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38",
+    "scan_date": "2026-08-31",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Felix Auger Aliassime win the 2026 Men's US Open?"
+  },
+  "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40::2026-08-31": {
+    "market_id": "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40",
+    "scan_date": "2026-08-31",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Carlos Alcaraz win the 2026 Men's US Open?"
+  },
+  "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38::2026-09-01": {
+    "market_id": "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Felix Auger Aliassime win the 2026 Men's US Open?"
+  },
+  "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40::2026-09-01": {
+    "market_id": "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Carlos Alcaraz win the 2026 Men's US Open?"
+  },
+  "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38::2026-09-02": {
+    "market_id": "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Felix Auger Aliassime win the 2026 Men's US Open?"
+  },
+  "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40::2026-09-02": {
+    "market_id": "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Carlos Alcaraz win the 2026 Men's US Open?"
+  },
+  "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38::2026-09-03": {
+    "market_id": "0xf7c252ad31286ada89db99be13597440c560902399c76c38467fa86b0afafc38",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Felix Auger Aliassime win the 2026 Men's US Open?"
+  },
+  "0x5d1e8a08b738d682ce49308c73f0a83ae192476cc9472cb82cc989e4d83a7e7f::2026-09-11": {
+    "market_id": "0x5d1e8a08b738d682ce49308c73f0a83ae192476cc9472cb82cc989e4d83a7e7f",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-09-13",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Ben Shelton win the 2026 Men's US Open?"
   }
 }
