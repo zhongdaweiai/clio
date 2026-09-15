@@ -20622,5 +20622,61 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Ben Shelton win the 2026 Men's US Open?"
+  },
+  "0xaad2727a01e09fd1b0d84e286a63a94998efe35fce83a65a3c58dfa9b54dff33::2026-08-26": {
+    "market_id": "0xaad2727a01e09fd1b0d84e286a63a94998efe35fce83a65a3c58dfa9b54dff33",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by September 15?"
+  },
+  "0xcd9079a837d72a0eafde1dc692c819940bd030a295ddc67f27590e98df33878c::2026-09-08": {
+    "market_id": "0xcd9079a837d72a0eafde1dc692c819940bd030a295ddc67f27590e98df33878c",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-09-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by September 14, 2026?"
+  },
+  "0x367384e11a49a36a65d0d831d523102a30f18f7c7e8f9b79e27639c9e300cc00::2026-09-08": {
+    "market_id": "0x367384e11a49a36a65d0d831d523102a30f18f7c7e8f9b79e27639c9e300cc00",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-09-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US Open WTA: Aryna Sabalenka vs Linda Noskova"
+  },
+  "0xcd9079a837d72a0eafde1dc692c819940bd030a295ddc67f27590e98df33878c::2026-09-09": {
+    "market_id": "0xcd9079a837d72a0eafde1dc692c819940bd030a295ddc67f27590e98df33878c",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-09-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by September 14, 2026?"
+  },
+  "0xcd9079a837d72a0eafde1dc692c819940bd030a295ddc67f27590e98df33878c::2026-09-11": {
+    "market_id": "0xcd9079a837d72a0eafde1dc692c819940bd030a295ddc67f27590e98df33878c",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-09-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by September 14, 2026?"
+  },
+  "0xcd9079a837d72a0eafde1dc692c819940bd030a295ddc67f27590e98df33878c::2026-09-12": {
+    "market_id": "0xcd9079a837d72a0eafde1dc692c819940bd030a295ddc67f27590e98df33878c",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-09-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by September 14, 2026?"
+  },
+  "0xcd9079a837d72a0eafde1dc692c819940bd030a295ddc67f27590e98df33878c::2026-09-13": {
+    "market_id": "0xcd9079a837d72a0eafde1dc692c819940bd030a295ddc67f27590e98df33878c",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-09-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by September 14, 2026?"
   }
 }
