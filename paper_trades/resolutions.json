@@ -20678,5 +20678,845 @@
     "status": "unknown",
     "outcome": null,
     "question": "US announces end of Iranian blockade by September 14, 2026?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-07-18": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-07-18": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830::2026-07-18": {
+    "market_id": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "scan_date": "2026-07-18",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-07-19": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-07-19": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830::2026-07-19": {
+    "market_id": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "scan_date": "2026-07-19",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-07-20": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-07-20": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830::2026-07-20": {
+    "market_id": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "scan_date": "2026-07-20",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-07-21": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-07-21": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830::2026-07-21": {
+    "market_id": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "scan_date": "2026-07-21",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-07-22": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-07-22": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830::2026-07-22": {
+    "market_id": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "scan_date": "2026-07-22",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-07-23": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-07-23": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830::2026-07-23": {
+    "market_id": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "scan_date": "2026-07-23",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-07-24": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-07-24": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830::2026-07-24": {
+    "market_id": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "scan_date": "2026-07-24",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-07-25": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830::2026-07-25": {
+    "market_id": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-07-25": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-07-25",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-07-26": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-07-26": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830::2026-07-26": {
+    "market_id": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-07-27": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-07-27": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830::2026-07-27": {
+    "market_id": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-07-28": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830::2026-07-28": {
+    "market_id": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-07-28": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-07-29": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830::2026-07-29": {
+    "market_id": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-07-30": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830::2026-07-30": {
+    "market_id": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "scan_date": "2026-07-30",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-07-31": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-07-31",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830::2026-07-31": {
+    "market_id": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "scan_date": "2026-07-31",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-07-31": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-07-31",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-01": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-01",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x1b56e46dba9e7b2bf93db18e7a79de3f97037314a46f8ebc93b541ae5f396200::2026-08-01": {
+    "market_id": "0x1b56e46dba9e7b2bf93db18e7a79de3f97037314a46f8ebc93b541ae5f396200",
+    "scan_date": "2026-08-01",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decide differently in the next three decisions (Jun\u2013Jul\u2013Sep)?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-02": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-02",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x1b56e46dba9e7b2bf93db18e7a79de3f97037314a46f8ebc93b541ae5f396200::2026-08-02": {
+    "market_id": "0x1b56e46dba9e7b2bf93db18e7a79de3f97037314a46f8ebc93b541ae5f396200",
+    "scan_date": "2026-08-02",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decide differently in the next three decisions (Jun\u2013Jul\u2013Sep)?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-03": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-03",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-04": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-04",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x1b56e46dba9e7b2bf93db18e7a79de3f97037314a46f8ebc93b541ae5f396200::2026-08-04": {
+    "market_id": "0x1b56e46dba9e7b2bf93db18e7a79de3f97037314a46f8ebc93b541ae5f396200",
+    "scan_date": "2026-08-04",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed decide differently in the next three decisions (Jun\u2013Jul\u2013Sep)?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-04": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-04",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-05": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-05",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-05": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-05",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-07": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-07",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-07": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-07",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-08": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-08",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-08": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-08",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-09": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-09",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-09": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-09",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-10": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-10": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-11": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-11",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-11": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-11",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-12": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-12",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-12": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-12",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-13": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-13",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-13": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-13",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-14": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-14",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-14": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-14",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-15": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-15",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-15": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-15",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-16": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-16",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-16": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-16",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-17": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-17",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-17": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-17",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-18": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-18",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-18": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-18",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-19": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-19",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-19": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-19",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-20": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-20",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-20": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-20",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-21": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-21": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-22": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-22": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-23": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-23": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-24": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-24": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-25": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-25": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-26": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-26": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-08-27": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-08-27": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-09-01": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-09-10": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-09-10": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-09-11": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-09-11": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-09-12": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-09-12": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-09-13": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-09-13": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-09-14": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-09-14": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a::2026-09-15": {
+    "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will there be no change in Fed interest rates after the September 2026 meeting?"
+  },
+  "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d::2026-09-15": {
+    "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-09-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
   }
 }
