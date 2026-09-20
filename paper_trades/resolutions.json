@@ -21518,5 +21518,277 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-07-26": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-07-26",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-07-27": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-07-27",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-07-28": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-07-28",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-07-29": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-07-29",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-08-21": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-08-22": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-08-23": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-08-24": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-08-25": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-08-26": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-08-27": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-08-28": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-08-28",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-08-29": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-08-29",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-08-30": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-08-30",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-08-31": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-08-31",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-01": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-02": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-03": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-04": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-05": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-06": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-07": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-08": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-09": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-10": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-11": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-12": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-13": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-14": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-15": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-16": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-17": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-18": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0::2026-09-19": {
+    "market_id": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-09-20",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
   }
 }
