@@ -21790,5 +21790,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will AfD win the most seats in the 2026 Berlin state elections?"
+  },
+  "0x71dd44fa5059fbed28a279172185d3623aa34ce86be1936281df26b5d1b87200::2026-09-17": {
+    "market_id": "0x71dd44fa5059fbed28a279172185d3623aa34ce86be1936281df26b5d1b87200",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-09-22",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by September 21, 2026?"
   }
 }
