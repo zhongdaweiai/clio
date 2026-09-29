@@ -21838,5 +21838,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Andy Pages lead the MLB in RBIs for the 2026 regular season?"
+  },
+  "0x0da3005f7d57b33cac257bcd4633611dd601709d2fa8bcb55749a98a3114d99f::2026-09-22": {
+    "market_id": "0x0da3005f7d57b33cac257bcd4633611dd601709d2fa8bcb55749a98a3114d99f",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-09-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Tampa Bay Rays vs. New York Yankees"
+  },
+  "0x3ce1a8eb83552ffab3794a33b4ab7d7da750a9cd2246da324b37c5e5b0478575::2026-09-28": {
+    "market_id": "0x3ce1a8eb83552ffab3794a33b4ab7d7da750a9cd2246da324b37c5e5b0478575",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-09-29",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Eagles vs. Bears"
   }
 }
