@@ -25542,5 +25542,717 @@
     "status": "unknown",
     "outcome": null,
     "question": "Saudi Oil Pipeline (East-West) restarts by September 30?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-05": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-05",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-05": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-05",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-07": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-07",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-07": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-07",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-08": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-08",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-08": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-08",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-09": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-09",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-09": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-09",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-10": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-10": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-10",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-11": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-11",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-11": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-11",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-12": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-12",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-12": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-12",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-13": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-13",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-13": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-13",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-14": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-14",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-14": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-14",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-15": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-15",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-15": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-15",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-16": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-16",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-16": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-16",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-17": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-17",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-17": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-17",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-18": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-18",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-18": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-18",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-19": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-19",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-19": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-19",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-20": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-20",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-20": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-20",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f::2026-08-21": {
+    "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced::2026-08-21": {
+    "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-21": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-21": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-21",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced::2026-08-22": {
+    "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos win the 2026 Brazilian presidential election?"
+  },
+  "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f::2026-08-22": {
+    "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-22": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-22": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-22",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced::2026-08-23": {
+    "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos win the 2026 Brazilian presidential election?"
+  },
+  "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f::2026-08-23": {
+    "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-23": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-23": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-23",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced::2026-08-24": {
+    "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos win the 2026 Brazilian presidential election?"
+  },
+  "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f::2026-08-24": {
+    "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-24": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-24": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-24",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced::2026-08-25": {
+    "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos win the 2026 Brazilian presidential election?"
+  },
+  "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f::2026-08-25": {
+    "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-25": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-25": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-25",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced::2026-08-26": {
+    "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos win the 2026 Brazilian presidential election?"
+  },
+  "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f::2026-08-26": {
+    "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-26": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-08-26": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-08-26",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f::2026-08-27": {
+    "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x536b507838dcdac8966510d84abb8f1c51362d632ab2023b94e810ba6fdf5cb7::2026-08-27": {
+    "market_id": "0x536b507838dcdac8966510d84abb8f1c51362d632ab2023b94e810ba6fdf5cb7",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Augusto Cury win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-27": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-27",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced::2026-08-28": {
+    "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+    "scan_date": "2026-08-28",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos win the 2026 Brazilian presidential election?"
+  },
+  "0x536b507838dcdac8966510d84abb8f1c51362d632ab2023b94e810ba6fdf5cb7::2026-08-28": {
+    "market_id": "0x536b507838dcdac8966510d84abb8f1c51362d632ab2023b94e810ba6fdf5cb7",
+    "scan_date": "2026-08-28",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Augusto Cury win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-28": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-28",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced::2026-08-29": {
+    "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+    "scan_date": "2026-08-29",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos win the 2026 Brazilian presidential election?"
+  },
+  "0x536b507838dcdac8966510d84abb8f1c51362d632ab2023b94e810ba6fdf5cb7::2026-08-29": {
+    "market_id": "0x536b507838dcdac8966510d84abb8f1c51362d632ab2023b94e810ba6fdf5cb7",
+    "scan_date": "2026-08-29",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Augusto Cury win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-29": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-29",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced::2026-08-30": {
+    "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+    "scan_date": "2026-08-30",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos win the 2026 Brazilian presidential election?"
+  },
+  "0x536b507838dcdac8966510d84abb8f1c51362d632ab2023b94e810ba6fdf5cb7::2026-08-31": {
+    "market_id": "0x536b507838dcdac8966510d84abb8f1c51362d632ab2023b94e810ba6fdf5cb7",
+    "scan_date": "2026-08-31",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Augusto Cury win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-08-31": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-08-31",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced::2026-09-01": {
+    "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos win the 2026 Brazilian presidential election?"
+  },
+  "0x536b507838dcdac8966510d84abb8f1c51362d632ab2023b94e810ba6fdf5cb7::2026-09-01": {
+    "market_id": "0x536b507838dcdac8966510d84abb8f1c51362d632ab2023b94e810ba6fdf5cb7",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Augusto Cury win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-09-01": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced::2026-09-02": {
+    "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos win the 2026 Brazilian presidential election?"
+  },
+  "0x536b507838dcdac8966510d84abb8f1c51362d632ab2023b94e810ba6fdf5cb7::2026-09-02": {
+    "market_id": "0x536b507838dcdac8966510d84abb8f1c51362d632ab2023b94e810ba6fdf5cb7",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Augusto Cury win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-09-05": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-09-06": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-09-07": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced::2026-09-09": {
+    "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos win the 2026 Brazilian presidential election?"
+  },
+  "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced::2026-09-10": {
+    "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Renan Santos win the 2026 Brazilian presidential election?"
+  },
+  "0x6114306f724135bd1db2f5f3169386decf18f618653c196ef0a6c1afd27f4c73::2026-09-20": {
+    "market_id": "0x6114306f724135bd1db2f5f3169386decf18f618653c196ef0a6c1afd27f4c73",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x6114306f724135bd1db2f5f3169386decf18f618653c196ef0a6c1afd27f4c73::2026-09-21": {
+    "market_id": "0x6114306f724135bd1db2f5f3169386decf18f618653c196ef0a6c1afd27f4c73",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8::2026-09-21": {
+    "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d::2026-09-21": {
+    "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?"
+  },
+  "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0::2026-09-22": {
+    "market_id": "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x6114306f724135bd1db2f5f3169386decf18f618653c196ef0a6c1afd27f4c73::2026-09-22": {
+    "market_id": "0x6114306f724135bd1db2f5f3169386decf18f618653c196ef0a6c1afd27f4c73",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Fl\u00e1vio Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0::2026-09-23": {
+    "market_id": "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0::2026-09-24": {
+    "market_id": "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0::2026-09-25": {
+    "market_id": "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0::2026-09-26": {
+    "market_id": "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0::2026-09-27": {
+    "market_id": "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0::2026-09-28": {
+    "market_id": "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?"
+  },
+  "0x0dc7d4a71a89164e7b02e2cb34911d5365895444c9da507436993ea47a6b06d3::2026-10-03": {
+    "market_id": "0x0dc7d4a71a89164e7b02e2cb34911d5365895444c9da507436993ea47a6b06d3",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-10-04",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Colts vs. Commanders"
   }
 }
