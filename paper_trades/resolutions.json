@@ -26494,5 +26494,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?"
+  },
+  "0x05059849e9c24802f153d38b0a06437a99393b842a5c4f792cb1c54701c0c8b2::2026-10-06": {
+    "market_id": "0x05059849e9c24802f153d38b0a06437a99393b842a5c4f792cb1c54701c0c8b2",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-10-07",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5)"
   }
 }
