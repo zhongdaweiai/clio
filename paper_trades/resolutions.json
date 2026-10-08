@@ -26502,5 +26502,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5)"
+  },
+  "0x15057051e306c463c2f6ad84f834547e7b5a6ef4dad4b1f303a49f595fd5b9c8::2026-10-07": {
+    "market_id": "0x15057051e306c463c2f6ad84f834547e7b5a6ef4dad4b1f303a49f595fd5b9c8",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-10-08",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Counter-Strike: Spirit vs M80 (BO3) - ESL Pro League Group Stage"
   }
 }
