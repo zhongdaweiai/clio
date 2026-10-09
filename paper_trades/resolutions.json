@@ -26510,5 +26510,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Counter-Strike: Spirit vs M80 (BO3) - ESL Pro League Group Stage"
+  },
+  "0xd43898f7e10c30da1adf9c23c808fc8861ec7c0a53195e4a187c199a9b19f376::2026-10-08": {
+    "market_id": "0xd43898f7e10c30da1adf9c23c808fc8861ec7c0a53195e4a187c199a9b19f376",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-10-09",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Buccaneers vs. Cowboys"
   }
 }
