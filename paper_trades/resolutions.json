@@ -27286,5 +27286,21 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will UNRWA win the Nobel Peace Prize in 2026?"
+  },
+  "0xc3bca410a822b0bf87e7e8ada744c4c4c2c17ed0b045a20c8e14987ab4f854f9::2026-08-16": {
+    "market_id": "0xc3bca410a822b0bf87e7e8ada744c4c4c2c17ed0b045a20c8e14987ab4f854f9",
+    "scan_date": "2026-08-16",
+    "end_date": "2026-10-11",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies have the highest ABS success rate during the 2026 MLB regular season?"
+  },
+  "0xc3bca410a822b0bf87e7e8ada744c4c4c2c17ed0b045a20c8e14987ab4f854f9::2026-08-18": {
+    "market_id": "0xc3bca410a822b0bf87e7e8ada744c4c4c2c17ed0b045a20c8e14987ab4f854f9",
+    "scan_date": "2026-08-18",
+    "end_date": "2026-10-11",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies have the highest ABS success rate during the 2026 MLB regular season?"
   }
 }
