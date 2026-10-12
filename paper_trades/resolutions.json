@@ -27302,5 +27302,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will the Philadelphia Phillies have the highest ABS success rate during the 2026 MLB regular season?"
+  },
+  "0x9363a660e5b0203ae13801ec52059abe0318e9192541419ae2159208e48d0bbf::2026-10-06": {
+    "market_id": "0x9363a660e5b0203ae13801ec52059abe0318e9192541419ae2159208e48d0bbf",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-10-12",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Samsun: Cagla Buyukakcay vs Linda Klimovicova"
   }
 }
