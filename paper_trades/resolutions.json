@@ -27406,5 +27406,13 @@
     "status": "unknown",
     "outcome": null,
     "question": "US announces end of Iranian blockade by October 15, 2026?"
+  },
+  "0xf543bef8af4f7f1047265f4df15df1266f01212f7266f23f0ebe3f32c922a9c6::2026-10-12": {
+    "market_id": "0xf543bef8af4f7f1047265f4df15df1266f01212f7266f23f0ebe3f32c922a9c6",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-10-19",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Los Angeles Dodgers vs. Milwaukee Brewers"
   }
 }
