@@ -4985,3 +4985,33 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🔴 NO | field | 0.74→0.50 | -0.24 | 9d | low | 13.95% | [Will Mary Peltola win the Alaska Senate race in 2026?](https://polymarket.com/event/alaska-senate-election-winner) |
 | 🟢 YES | event | 0.27→0.50 | +0.23 | 9d | low | 13.84% | [2026 Balance of Power: R Senate, D House](https://polymarket.com/event/balance-of-power-2026-midterms) |
 | 🔴 NO | event | 0.73→0.50 | -0.23 | 44d | low | 13.84% | [Will the Fed increase interest rates by 25 bps after the December 2026 meeting?](https://polymarket.com/event/fed-decision-in-december-20260729232808632) |
+
+## 2026-10-27  (48 signals, $0.000 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🟢 YES | event | 0.02→0.50 | +0.48 | 43d | low | 15.87% | [Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?](https://polymarket.com/event/fed-decision-in-december-20260729232808632) |
+| 🟢 YES | event | 0.02→0.50 | +0.48 | 5d | low | 15.86% | [Will Bitcoin reach $90,000 in October?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026) |
+| 🔴 NO | field | 0.97→0.50 | -0.47 | 8d | low | 15.82% | [Will Xavier Becerra win the California Governor Election in 2026?](https://polymarket.com/event/california-governor-election-2026) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 1d | low | 15.81% | [Will Avigdor Lieberman be the next Prime Minister of Israel?](https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election) |
+| 🟢 YES | field | 0.03→0.50 | +0.47 | 8d | low | 15.8% | [Will Steve Hilton win the California Governor Election in 2026?](https://polymarket.com/event/california-governor-election-2026) |
+| 🟢 YES | field | 0.04→0.50 | +0.46 | 4d | low | 15.77% | [Will the Tampa Bay Rays win the 2026 World Series?](https://polymarket.com/event/mlb-world-series-champion-2026) |
+| 🟢 YES | field | 0.04→0.50 | +0.46 | 1d | low | 15.74% | [Will Likud win 30-34 seats in the 2026 Israeli legislative election?](https://polymarket.com/event/israel-election-likud-of-seats) |
+| 🟢 YES | deadline | 0.04→0.50 | +0.46 | 5d | low | 15.74% | [Iran charges Hormuz fees by October 31?](https://polymarket.com/event/iran-charges-hormuz-fees-byptptpt-20260625175035466) |
+| 🟢 YES | event | 0.05→0.50 | +0.45 | 5d | low | 15.7% | [Will Bitcoin reach $87,500 in October?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026) |
+| 🟢 YES | deadline | 0.05→0.50 | +0.45 | 5d | low | 15.68% | [US announces end of Iranian blockade by October 31, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
+| 🔴 NO | event | 0.94→0.50 | -0.44 | 8d | low | 15.64% | [Will there be no Hormuz agreement?](https://polymarket.com/event/who-wins-the-senate-pending-hormuz-agreement-before-the-midterms) |
+| 🟢 YES | event | 0.06→0.50 | +0.44 | 4d | low | 15.63% | [Will Anthropic have the best AI model at the end of October 2026?](https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-october) |
+| 🟢 YES | deadline | 0.06→0.50 | +0.44 | 35d | low | 15.62% | [Strait of Hormuz traffic returns to normal by November 30?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-november-30-20260810151158765) |
+| 🟢 YES | event | 0.07→0.50 | +0.43 | 2d | low | 15.58% | [Will the Fed increase interest rates by 25 bps after the October 2026 meeting?](https://polymarket.com/event/fed-decision-in-october-20260617190323537) |
+| 🔴 NO | event | 0.93→0.50 | -0.43 | 2d | low | 15.58% | [Will there be no change in Fed interest rates after the October 2026 meeting?](https://polymarket.com/event/fed-decision-in-october-20260617190323537) |
+| 🟢 YES | event | 0.07→0.50 | +0.43 | 24d | low | 15.55% | [GTA 6 launch postponed again?](https://polymarket.com/event/gta-6-launch-postponed-again) |
+| 🔴 NO | event | 0.93→0.50 | -0.43 | 4d | low | 15.54% | [Will Google have the best AI model at the end of October 2026?](https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-october) |
+| 🟢 YES | event | 0.07→0.50 | +0.42 | 8d | low | 15.51% | [2026 Balance of Power: R Senate, R House](https://polymarket.com/event/balance-of-power-2026-midterms) |
+| 🔴 NO | event | 0.92→0.50 | -0.42 | 8d | low | 15.44% | [Will the Democratic Party control the House after the 2026 Midterm elections?](https://polymarket.com/event/which-party-will-win-the-house-in-2026) |
+| 🟢 YES | event | 0.09→0.50 | +0.41 | 8d | low | 15.44% | [Will the Republican Party control the House after the 2026 Midterm elections?](https://polymarket.com/event/which-party-will-win-the-house-in-2026) |
+| 🟢 YES | event | 0.14→0.50 | +0.36 | 1d | low | 15.06% | [Will Naftali Bennett be the next Prime Minister of Israel?](https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election) |
+| 🔴 NO | field | 0.84→0.50 | -0.34 | 4d | low | 14.83% | [Will the Milwaukee Brewers win the 2026 World Series?](https://polymarket.com/event/mlb-world-series-champion-2026) |
+| 🟢 YES | event | 0.20→0.50 | +0.30 | 43d | low | 14.45% | [Will there be no change in Fed interest rates after the December 2026 meeting?](https://polymarket.com/event/fed-decision-in-december-20260729232808632) |
+| 🟢 YES | event | 0.23→0.50 | +0.27 | 8d | low | 14.16% | [Billionaire one-time wealth tax passes in California election 2026?](https://polymarket.com/event/billionaire-one-time-wealth-tax-passes-in-california-election-2026) |
+| 🔴 NO | event | 0.77→0.50 | -0.27 | 43d | low | 14.16% | [Will the Fed increase interest rates by 25 bps after the December 2026 meeting?](https://polymarket.com/event/fed-decision-in-december-20260729232808632) |
