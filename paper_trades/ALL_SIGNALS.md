@@ -5015,3 +5015,33 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | event | 0.20→0.50 | +0.30 | 43d | low | 14.45% | [Will there be no change in Fed interest rates after the December 2026 meeting?](https://polymarket.com/event/fed-decision-in-december-20260729232808632) |
 | 🟢 YES | event | 0.23→0.50 | +0.27 | 8d | low | 14.16% | [Billionaire one-time wealth tax passes in California election 2026?](https://polymarket.com/event/billionaire-one-time-wealth-tax-passes-in-california-election-2026) |
 | 🔴 NO | event | 0.77→0.50 | -0.27 | 43d | low | 14.16% | [Will the Fed increase interest rates by 25 bps after the December 2026 meeting?](https://polymarket.com/event/fed-decision-in-december-20260729232808632) |
+
+## 2026-10-28  (56 signals, $0.000 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🟢 YES | event | 0.02→0.50 | +0.48 | 42d | low | 15.86% | [Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?](https://polymarket.com/event/fed-decision-in-december-20260729232808632) |
+| 🟢 YES | event | 0.02→0.50 | +0.48 | 7d | low | 15.86% | [Will the Republican Party hold exactly 28 or 29 governorships after the 2026 mid](https://polymarket.com/event/how-many-republican-governors-after-the-2026-midterm-elections) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 4d | low | 15.84% | [US announces end of Iranian blockade by October 31, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 4d | low | 15.83% | [Will Bitcoin reach $90,000 in October?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 4d | low | 15.82% | [Will Bitcoin reach $87,500 in October?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026) |
+| 🟢 YES | deadline | 0.04→0.50 | +0.46 | 3d | low | 15.78% | [Iran-Oman Hormuz Agreement by October 31?](https://polymarket.com/event/iran-oman-hormuz-management-agreement-byptptpt-20260804222725871) |
+| 🔴 NO | field | 0.96→0.50 | -0.46 | 7d | low | 15.77% | [Will Xavier Becerra win the California Governor Election in 2026?](https://polymarket.com/event/california-governor-election-2026) |
+| 🟢 YES | field | 0.04→0.50 | +0.46 | 7d | low | 15.77% | [Will Steve Hilton win the California Governor Election in 2026?](https://polymarket.com/event/california-governor-election-2026) |
+| 🟢 YES | deadline | 0.04→0.50 | +0.46 | 4d | low | 15.77% | [Iran charges Hormuz fees by October 31?](https://polymarket.com/event/iran-charges-hormuz-fees-byptptpt-20260625175035466) |
+| 🟢 YES | event | 0.04→0.50 | +0.46 | 1d | low | 15.76% | [Will the Fed increase interest rates by 25 bps after the October 2026 meeting?](https://polymarket.com/event/fed-decision-in-october-20260617190323537) |
+| 🔴 NO | event | 0.96→0.50 | -0.46 | 1d | low | 15.73% | [Will there be no change in Fed interest rates after the October 2026 meeting?](https://polymarket.com/event/fed-decision-in-october-20260617190323537) |
+| 🟢 YES | event | 0.04→0.50 | +0.46 | 7d | low | 15.73% | [Will there be a Hormuz agreement and the Democrats win the Senate?](https://polymarket.com/event/who-wins-the-senate-pending-hormuz-agreement-before-the-midterms) |
+| 🟢 YES | event | 0.05→0.50 | +0.45 | 3d | low | 15.71% | [Will Anthropic have the best AI model at the end of October 2026?](https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-october) |
+| 🔴 NO | event | 0.94→0.50 | -0.44 | 7d | low | 15.65% | [Will there be no Hormuz agreement?](https://polymarket.com/event/who-wins-the-senate-pending-hormuz-agreement-before-the-midterms) |
+| 🔴 NO | event | 0.94→0.50 | -0.44 | 3d | low | 15.64% | [Will Google have the best AI model at the end of October 2026?](https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-october) |
+| 🟢 YES | deadline | 0.07→0.50 | +0.43 | 34d | low | 15.58% | [Strait of Hormuz traffic returns to normal by November 30?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-november-30-20260810151158765) |
+| 🟢 YES | event | 0.07→0.50 | +0.43 | 23d | low | 15.53% | [GTA 6 launch postponed again?](https://polymarket.com/event/gta-6-launch-postponed-again) |
+| 🟢 YES | event | 0.07→0.50 | +0.42 | 7d | low | 15.51% | [2026 Balance of Power: R Senate, R House](https://polymarket.com/event/balance-of-power-2026-midterms) |
+| 🟢 YES | event | 0.07→0.50 | +0.42 | 4d | low | 15.51% | [Will Bitcoin dip to $75,000 in October?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026) |
+| 🔴 NO | event | 0.92→0.50 | -0.42 | 7d | low | 15.44% | [Will the Democratic Party control the House after the 2026 Midterm elections?](https://polymarket.com/event/which-party-will-win-the-house-in-2026) |
+| 🟢 YES | event | 0.09→0.50 | +0.41 | 7d | low | 15.44% | [Will the Republican Party control the House after the 2026 Midterm elections?](https://polymarket.com/event/which-party-will-win-the-house-in-2026) |
+| 🔴 NO | field | 0.91→0.50 | -0.41 | 3d | low | 15.4% | [Will the Milwaukee Brewers win the 2026 World Series?](https://polymarket.com/event/mlb-world-series-champion-2026) |
+| 🟢 YES | field | 0.09→0.50 | +0.41 | 3d | low | 15.4% | [Will the Tampa Bay Rays win the 2026 World Series?](https://polymarket.com/event/mlb-world-series-champion-2026) |
+| 🔴 NO | deadline | 0.89→0.50 | -0.39 | 34d | low | 15.22% | [Will Anthropic IPO by November 30, 2026?](https://polymarket.com/event/anthropic-ipo-by) |
+| 🟢 YES | event | 0.12→0.50 | +0.38 | 4d | low | 15.14% | [Will Bitcoin dip to $77,500 in October?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026) |
