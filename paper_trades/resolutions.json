@@ -28222,5 +28222,701 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Harry Kane win the 2026 Ballon d'Or?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-09-29": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-09-29": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-09-29": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-09-30": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-09-30": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-09-30": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-01": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-01": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-01": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-02": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-02": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-02": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-03": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-03": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-04": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-04": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-04": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-05": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-05": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-06": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-06": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-07": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-07": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-08": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-08": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-08": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-09": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-09": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-09": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-10": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-10": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-10": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-11": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-11": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-11": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-12": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-12": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-12": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-13": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-13": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-13": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-14": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-14",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-14": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-14",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-15": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-15",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-15": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-15",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-15": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-15",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-16": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-16": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-16": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-17": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-17": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-17": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-18": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-18": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-18": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-19": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-19": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-19": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-20": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-20": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-20": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-21": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-21",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-21": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-21",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-21": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-21",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-22": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-22",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-22": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-22",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-22": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-22",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-23": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-23",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-23": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-23",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-23": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-23",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-24": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-24",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-24": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-24",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-24": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-24",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-25": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-25",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-25": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-25",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3::2026-10-25": {
+    "market_id": "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3",
+    "scan_date": "2026-10-25",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Likud win the most seats in the 2026 Israeli legislative election?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-26": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-26",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-26": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-26",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3::2026-10-26": {
+    "market_id": "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3",
+    "scan_date": "2026-10-26",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Likud win the most seats in the 2026 Israeli legislative election?"
+  },
+  "0xd05da9807740aa0f5bc9e9232daabe87a21e5012c19e283abf414f1c1651118b::2026-10-26": {
+    "market_id": "0xd05da9807740aa0f5bc9e9232daabe87a21e5012c19e283abf414f1c1651118b",
+    "scan_date": "2026-10-26",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Yashar win the most seats in the 2026 Israeli legislative election?"
+  },
+  "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0::2026-10-27": {
+    "market_id": "0xadffc96f54f350b3655f72fe2853c81bfd705e9703f62469e6a14782ad5d4ec0",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?"
+  },
+  "0xc855714184ac46005a7897c68f274147f0abf1fde791421541edb065fa65a1e4::2026-10-27": {
+    "market_id": "0xc855714184ac46005a7897c68f274147f0abf1fde791421541edb065fa65a1e4",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Likud win 30-34 seats in the 2026 Israeli legislative election?"
+  },
+  "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1::2026-10-27": {
+    "market_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Naftali Bennett be the next Prime Minister of Israel?"
+  },
+  "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37::2026-10-27": {
+    "market_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
+  },
+  "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3::2026-10-27": {
+    "market_id": "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Likud win the most seats in the 2026 Israeli legislative election?"
+  },
+  "0xd05da9807740aa0f5bc9e9232daabe87a21e5012c19e283abf414f1c1651118b::2026-10-27": {
+    "market_id": "0xd05da9807740aa0f5bc9e9232daabe87a21e5012c19e283abf414f1c1651118b",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Yashar win the most seats in the 2026 Israeli legislative election?"
+  },
+  "0x7aef793cab93942a68aab6cd01c26f015adb1be647c99994324886a5b7e108b7::2026-10-27": {
+    "market_id": "0x7aef793cab93942a68aab6cd01c26f015adb1be647c99994324886a5b7e108b7",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-10-28",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Pistons vs. Knicks"
   }
 }
