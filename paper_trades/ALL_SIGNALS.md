@@ -5075,3 +5075,33 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🔴 NO | deadline | 0.78→0.50 | -0.28 | 32d | low | 14.31% | [Russia-Ukraine peace talks by November 30, 2026?](https://polymarket.com/event/russia-x-ukraine-peace-talks-byptptpt-20260609012540716) |
 | 🔴 NO | event | 0.77→0.50 | -0.27 | 42d | low | 14.21% | [Another Fed rate hike in 2026?](https://polymarket.com/event/another-fed-rate-hike-in-2026) |
 | 🔴 NO | event | 0.77→0.50 | -0.27 | 41d | low | 14.16% | [Will the Fed increase interest rates by 25 bps after the December 2026 meeting?](https://polymarket.com/event/fed-decision-in-december-20260729232808632) |
+
+## 2026-10-30  (45 signals, $0.000 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🟢 YES | field | 0.02→0.50 | +0.48 | 5d | low | 15.85% | [Will Steve Hilton win the California Governor Election in 2026?](https://polymarket.com/event/california-governor-election-2026) |
+| 🔴 NO | field | 0.97→0.50 | -0.47 | 5d | low | 15.84% | [Will Xavier Becerra win the California Governor Election in 2026?](https://polymarket.com/event/california-governor-election-2026) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 2d | low | 15.83% | [US announces end of Iranian blockade by October 31, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
+| 🟢 YES | event | 0.05→0.50 | +0.45 | 21d | low | 15.71% | [GTA 6 launch postponed again?](https://polymarket.com/event/gta-6-launch-postponed-again) |
+| 🟢 YES | event | 0.05→0.50 | +0.45 | 2d | low | 15.65% | [Will Bitcoin dip to $72,500 in October?](https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026) |
+| 🟢 YES | event | 0.06→0.50 | +0.45 | 5d | low | 15.65% | [2026 Balance of Power: R Senate, R House](https://polymarket.com/event/balance-of-power-2026-midterms) |
+| 🔴 NO | event | 0.94→0.50 | -0.44 | 5d | low | 15.64% | [Will there be no Hormuz agreement?](https://polymarket.com/event/who-wins-the-senate-pending-hormuz-agreement-before-the-midterms) |
+| 🟢 YES | deadline | 0.06→0.50 | +0.44 | 32d | low | 15.62% | [Strait of Hormuz traffic returns to normal by November 30?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-november-30-20260810151158765) |
+| 🔴 NO | event | 0.94→0.50 | -0.44 | 5d | low | 15.58% | [Will the Democratic Party control the House after the 2026 Midterm elections?](https://polymarket.com/event/which-party-will-win-the-house-in-2026) |
+| 🟢 YES | event | 0.07→0.50 | +0.43 | 5d | low | 15.58% | [Will the Republican Party control the House after the 2026 Midterm elections?](https://polymarket.com/event/which-party-will-win-the-house-in-2026) |
+| 🟢 YES | event | 0.16→0.50 | +0.34 | 2d | low | 14.86% | [Will WTI Crude Oil (WTI) hit (HIGH) $105 in October?](https://polymarket.com/event/what-price-will-wti-hit-in-october-2026) |
+| 🟢 YES | field | 0.18→0.50 | +0.32 | 5d | low | 14.64% | [Will the Republicans win the Ohio governor race in 2026?](https://polymarket.com/event/ohio-governor-winner-2026) |
+| 🔴 NO | field | 0.81→0.50 | -0.31 | 5d | low | 14.64% | [Will the Democrats win the Ohio governor race in 2026?](https://polymarket.com/event/ohio-governor-winner-2026) |
+| 🔴 NO | event | 0.80→0.50 | -0.30 | 1d | low | 14.45% | [LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage](https://polymarket.com/event/lol-tl2-los-2026-10-30) |
+| 🔴 NO | field | 0.79→0.50 | -0.29 | 5d | low | 14.41% | [Will the Democrats win the Nevada governor race in 2026?](https://polymarket.com/event/nevada-governor-winner-2026) |
+| 🟢 YES | event | 0.21→0.50 | +0.29 | 5d | low | 14.36% | [Billionaire one-time wealth tax passes in California election 2026?](https://polymarket.com/event/billionaire-one-time-wealth-tax-passes-in-california-election-2026) |
+| 🟢 YES | event | 0.23→0.50 | +0.28 | 5d | low | 14.26% | [2026 Balance of Power: R Senate, D House](https://polymarket.com/event/balance-of-power-2026-midterms) |
+| 🟢 YES | field | 0.23→0.50 | +0.28 | 5d | low | 14.26% | [Will the Republicans win the Michigan Senate race in 2026?](https://polymarket.com/event/michigan-senate-election-winner) |
+| 🔴 NO | deadline | 0.77→0.50 | -0.27 | 31d | low | 14.21% | [Russia-Ukraine peace talks by November 30, 2026?](https://polymarket.com/event/russia-x-ukraine-peace-talks-byptptpt-20260609012540716) |
+| 🔴 NO | field | 0.77→0.50 | -0.27 | 5d | low | 14.16% | [Will the Democrats win the Michigan Senate race in 2026?](https://polymarket.com/event/michigan-senate-election-winner) |
+| 🟢 YES | field | 0.27→0.50 | +0.23 | 5d | low | 13.78% | [Will the Democrats win the South Carolina Senate race in 2026?](https://polymarket.com/event/south-carolina-senate-election-winner) |
+| 🔴 NO | field | 0.72→0.50 | -0.22 | 5d | low | 13.72% | [Will the Republicans win the South Carolina Senate race in 2026?](https://polymarket.com/event/south-carolina-senate-election-winner) |
+| 🟢 YES | event | 0.28→0.50 | +0.22 | 5d | low | 13.61% | [Will the Republican Party control the Senate after the 2026 Midterm elections?](https://polymarket.com/event/which-party-will-win-the-senate-in-2026) |
+| 🟢 YES | field | 0.28→0.50 | +0.22 | 5d | low | 13.61% | [Will the Republicans win the Texas Senate race in 2026?](https://polymarket.com/event/texas-senate-election-winner) |
+| 🟢 YES | event | 0.28→0.50 | +0.22 | 40d | low | 13.61% | [Will there be no change in Fed interest rates after the December 2026 meeting?](https://polymarket.com/event/fed-decision-in-december-20260729232808632) |
