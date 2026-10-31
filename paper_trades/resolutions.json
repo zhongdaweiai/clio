@@ -29478,5 +29478,4109 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will there be no change in Fed interest rates after the October 2026 meeting?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-01": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-01": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-01": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-01": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-01": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-01": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-01": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-01": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-01": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-01": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-01": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-01": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a::2026-09-01": {
+    "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "scan_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Harry Kane win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-02": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-02": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-02": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-02": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-02": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-02": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-02": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-02": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-02": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-02": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-02": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-02": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a::2026-09-02": {
+    "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Harry Kane win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-03": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-03": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-03": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-03": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-03": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-03": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-03": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-03": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-03": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-03": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-03": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-03": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a::2026-09-03": {
+    "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Harry Kane win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-04": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-04": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-04": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-04": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-04": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-04": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-04": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-04": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-04": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-04": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-04": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-04": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a::2026-09-04": {
+    "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Harry Kane win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-05": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-05": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-05": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-05": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-05": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-05": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-05": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-05": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-05": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-05": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-05": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a::2026-09-05": {
+    "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Harry Kane win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-06": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-06": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-06": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-06": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-06": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-06": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-06": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-06": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-06": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-06": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-06": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-06": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a::2026-09-06": {
+    "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Harry Kane win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-07": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-07": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-07": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-07": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-07": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-07": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-07": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-07": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-07": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-07": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-07": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a::2026-09-07": {
+    "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Harry Kane win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-08": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-08": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-08": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-08": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-08": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-08": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-08": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-08": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-08": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-08": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-08": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a::2026-09-08": {
+    "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Harry Kane win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-09": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-09": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-09": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-09": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-09": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-09": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-09": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-09": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-09": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-09": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-09": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a::2026-09-09": {
+    "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Harry Kane win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-10": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-10": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-10": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-10": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-10": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-10": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-10": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-10": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-10": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-10": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-10": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a::2026-09-10": {
+    "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Harry Kane win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-11": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-11": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-11": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-11": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-11": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-11": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-11": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-11": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-11": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-11": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-11": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a::2026-09-11": {
+    "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Harry Kane win the 2026 Ballon d'Or?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-12": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-12": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-12": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-12": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-12": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-12": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-12": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-12": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-12": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-12": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-12": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a::2026-09-12": {
+    "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Harry Kane win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-13": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-13": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-13": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-13": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-13": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-13": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-13": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-13": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-13": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-13": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-13": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-13": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a::2026-09-13": {
+    "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Harry Kane win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-14": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-14": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-14": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-14": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-14": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-14": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-14": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-14": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-14": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-14": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-14": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-14": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-14": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-15": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-15": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-15": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-15": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-15": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-15": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-15": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-15": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-15": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-15": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-15": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-15": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-15": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-16": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-09-16": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-16": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-16": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-16": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-16": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-16": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-16": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-16": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-16": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-16": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-16": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-16": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-16": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-17": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-17": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-17": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-09-17": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-17": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-17": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-17": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-17": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-17": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-17": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-17": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-17": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-17": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-17": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-18": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-18": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-18": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-18": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-18": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-18": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-18": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-18": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-18": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-18": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-18": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-18": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-19": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-19": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-09-19": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-19": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-19": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-19": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-19": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-19": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-19": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-19": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-19": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-19": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-19": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078::2026-09-20": {
+    "market_id": "0x9f50939c394897a984d04522b61cf62da5aaa7fc50a2b3da362accaeffe38078",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-20": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0xa9a6f91142311378d1227a7b245069ecca68e7cfc825db8613d9bb0c8c42d3a1::2026-09-20": {
+    "market_id": "0xa9a6f91142311378d1227a7b245069ecca68e7cfc825db8613d9bb0c8c42d3a1",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Texas Rangers win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-09-20": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-20": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-20": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-20": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-20": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-20": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-20": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-20": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-20": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-20": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-20": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0xa9a6f91142311378d1227a7b245069ecca68e7cfc825db8613d9bb0c8c42d3a1::2026-09-21": {
+    "market_id": "0xa9a6f91142311378d1227a7b245069ecca68e7cfc825db8613d9bb0c8c42d3a1",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Texas Rangers win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-09-21": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b::2026-09-21": {
+    "market_id": "0x30f729ef18553d8956bfd7ae7a1e96dbad07e2476160239b23ec10e6cdc5f01b",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Rodri win the 2026 Ballon d'Or?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-21": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-21": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-21": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-21": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef::2026-09-21": {
+    "market_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lionel Messi win the 2026 Ballon d'Or?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-21": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1::2026-09-21": {
+    "market_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-21": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d::2026-09-21": {
+    "market_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+  },
+  "0xa9a6f91142311378d1227a7b245069ecca68e7cfc825db8613d9bb0c8c42d3a1::2026-09-22": {
+    "market_id": "0xa9a6f91142311378d1227a7b245069ecca68e7cfc825db8613d9bb0c8c42d3a1",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Texas Rangers win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-22": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-09-22": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-22": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-22": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-22": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-22": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-22": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-22": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-23": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-23": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-09-23": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-23": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-23": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-23": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-23": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-23": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-23": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-24": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-24": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-09-24": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-24": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-24": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-24": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-24": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-24": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-24": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-25": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-25": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-25": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-25": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-09-25": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-25": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-25": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-25": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-25": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-26": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-26": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-26": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-26": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-09-26": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-26": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-26": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-26": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-26": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-27": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-27": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-27": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-27": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-27": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-27": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-09-27": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-27": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-27": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-28": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-28": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-28": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-28": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-28": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-28": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-28": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-09-28": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-28": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-29": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-29": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4::2026-09-29": {
+    "market_id": "0x6470402973d292487fba2f61fd46967707b8327b9eab38a759da5ca5dc9ccec4",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Houston Astros win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-29": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5::2026-09-29": {
+    "market_id": "0x3e38887e936b8fedd5373852777e7a3e90805affd8139971ebeb4b4956f000f5",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Boston Red Sox win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-29": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-29": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-09-29": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-29": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc::2026-09-30": {
+    "market_id": "0xae0363bfe26b7de87f4526c47d5de9b324bab3d14690112bd89b34c9ed3552fc",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago Cubs win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-09-30": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-09-30": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-09-30": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-09-30": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-09-30": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-09-30": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0::2026-10-01": {
+    "market_id": "0x9e238daa4cc2b89379314f5c1873e3c0d07d26bf2eb69a3d618a7b5d13b165a0",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Philadelphia Phillies win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-10-01": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4::2026-10-01": {
+    "market_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire by October 31, 2026?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-10-01": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-01": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-01": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-10-01": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x3df7be753c8b6ebbddf31d6d63535c4b31c836cb25b1a73085508a271bc103db::2026-10-01": {
+    "market_id": "0x3df7be753c8b6ebbddf31d6d63535c4b31c836cb25b1a73085508a271bc103db",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Yankees win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-01": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb::2026-10-01": {
+    "market_id": "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Los Angeles Dodgers win the 2026 World Series?"
+  },
+  "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4::2026-10-02": {
+    "market_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire by October 31, 2026?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-10-02": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-02": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-10-02": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-10-02": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-02": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3df7be753c8b6ebbddf31d6d63535c4b31c836cb25b1a73085508a271bc103db::2026-10-02": {
+    "market_id": "0x3df7be753c8b6ebbddf31d6d63535c4b31c836cb25b1a73085508a271bc103db",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Yankees win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-02": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb::2026-10-02": {
+    "market_id": "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Los Angeles Dodgers win the 2026 World Series?"
+  },
+  "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4::2026-10-03": {
+    "market_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire by October 31, 2026?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-10-03": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-03": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-10-03": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-10-03": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-03": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3df7be753c8b6ebbddf31d6d63535c4b31c836cb25b1a73085508a271bc103db::2026-10-03": {
+    "market_id": "0x3df7be753c8b6ebbddf31d6d63535c4b31c836cb25b1a73085508a271bc103db",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Yankees win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-03": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb::2026-10-03": {
+    "market_id": "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Los Angeles Dodgers win the 2026 World Series?"
+  },
+  "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4::2026-10-04": {
+    "market_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire by October 31, 2026?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-10-04": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-04": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-10-04": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-10-04": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x3df7be753c8b6ebbddf31d6d63535c4b31c836cb25b1a73085508a271bc103db::2026-10-04": {
+    "market_id": "0x3df7be753c8b6ebbddf31d6d63535c4b31c836cb25b1a73085508a271bc103db",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Yankees win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-04": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-04": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb::2026-10-04": {
+    "market_id": "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Los Angeles Dodgers win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-10-05": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4::2026-10-05": {
+    "market_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire by October 31, 2026?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-05": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-10-05": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-10-05": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x3df7be753c8b6ebbddf31d6d63535c4b31c836cb25b1a73085508a271bc103db::2026-10-05": {
+    "market_id": "0x3df7be753c8b6ebbddf31d6d63535c4b31c836cb25b1a73085508a271bc103db",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Yankees win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-05": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-05": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb::2026-10-05": {
+    "market_id": "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Los Angeles Dodgers win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-05": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-05": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4::2026-10-06": {
+    "market_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire by October 31, 2026?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-10-06": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x3df7be753c8b6ebbddf31d6d63535c4b31c836cb25b1a73085508a271bc103db::2026-10-06": {
+    "market_id": "0x3df7be753c8b6ebbddf31d6d63535c4b31c836cb25b1a73085508a271bc103db",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Yankees win the 2026 World Series?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-10-06": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-10-06": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-06": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-06": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb::2026-10-06": {
+    "market_id": "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Los Angeles Dodgers win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-06": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-06": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4::2026-10-07": {
+    "market_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire by October 31, 2026?"
+  },
+  "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570::2026-10-07": {
+    "market_id": "0x7c6d624563d7efee94f7ef54da8d35fd794b3cde9ead02df0d413d6ad3886570",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Atlanta Braves win the 2026 World Series?"
+  },
+  "0x3df7be753c8b6ebbddf31d6d63535c4b31c836cb25b1a73085508a271bc103db::2026-10-07": {
+    "market_id": "0x3df7be753c8b6ebbddf31d6d63535c4b31c836cb25b1a73085508a271bc103db",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the New York Yankees win the 2026 World Series?"
+  },
+  "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65::2026-10-07": {
+    "market_id": "0x99ff023a3b1149189fd0993f5a06b05b59e91d370df456c54db69bbd8875bf65",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the San Diego Padres win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-10-07": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-07": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-07": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-07": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-07": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb::2026-10-07": {
+    "market_id": "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Los Angeles Dodgers win the 2026 World Series?"
+  },
+  "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4::2026-10-08": {
+    "market_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire by October 31, 2026?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-08": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-10-08": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-08": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-08": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-08": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-08": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4::2026-10-09": {
+    "market_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire by October 31, 2026?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-10-09": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-09": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-09": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-09": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-09": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-09": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4::2026-10-10": {
+    "market_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire by October 31, 2026?"
+  },
+  "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93::2026-10-10": {
+    "market_id": "0x7279005cdc5f4533b0cf53ce94a6c4fd43039c721ba39a3ad02dddacabd47d93",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Chicago White Sox win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-10": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-10": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-10": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-10": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-10": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4::2026-10-11": {
+    "market_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire by October 31, 2026?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-11": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-11": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-11": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-11": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-11": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4::2026-10-12": {
+    "market_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire by October 31, 2026?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-12": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-12": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-12": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-12": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4::2026-10-13": {
+    "market_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire by October 31, 2026?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-13": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-13": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-13": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb::2026-10-13": {
+    "market_id": "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Los Angeles Dodgers win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-13": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-14": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-14": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb::2026-10-14": {
+    "market_id": "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb",
+    "scan_date": "2026-10-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Los Angeles Dodgers win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-14": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-14": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-14",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb::2026-10-15": {
+    "market_id": "0x749d8eccbc0a99447e71fc5e40a0096842774bef4d5c8838b8adb39af068b3cb",
+    "scan_date": "2026-10-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Los Angeles Dodgers win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-15": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-15": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-15": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-15": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-15",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0x83dc0351975e61ea9666c22265026e5cea3aa45d99ac80973299156f762cb20e::2026-10-16": {
+    "market_id": "0x83dc0351975e61ea9666c22265026e5cea3aa45d99ac80973299156f762cb20e",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran-Oman Hormuz Agreement by October 31?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-16": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-16": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-16": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-16": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-16": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-17": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-17": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-17": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-17": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-17": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-18": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-18": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-18": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-18": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-18": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb::2026-10-19": {
+    "market_id": "0x67a229c77a9ac893f3895ed4dd1dfd1f89a6145da408bba530a544ec77ff6bfb",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Cleveland Guardians win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-19": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-19": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-19": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-19": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4::2026-10-20": {
+    "market_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire by October 31, 2026?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-20": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-20": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-20": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-20": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-21": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-21",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-21": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-21",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-22": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-22",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-22": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-22",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-23": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-23",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-23": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-23",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-24": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-24",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-24": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-24",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-25": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-25",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-25": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-25",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-26": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-26",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-26": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-26",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-26": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-26",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-26": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-26",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-27": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-27": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-27": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-27": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x83dc0351975e61ea9666c22265026e5cea3aa45d99ac80973299156f762cb20e::2026-10-28": {
+    "market_id": "0x83dc0351975e61ea9666c22265026e5cea3aa45d99ac80973299156f762cb20e",
+    "scan_date": "2026-10-28",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran-Oman Hormuz Agreement by October 31?"
+  },
+  "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940::2026-10-28": {
+    "market_id": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+    "scan_date": "2026-10-28",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic have the best AI model at the end of October 2026?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-28": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-28",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a::2026-10-28": {
+    "market_id": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+    "scan_date": "2026-10-28",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Milwaukee Brewers win the 2026 World Series?"
+  },
+  "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5::2026-10-28": {
+    "market_id": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+    "scan_date": "2026-10-28",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Tampa Bay Rays win the 2026 World Series?"
+  },
+  "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d::2026-10-29": {
+    "market_id": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+    "scan_date": "2026-10-29",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Google have the best AI model at the end of October 2026?"
+  },
+  "0x62385b7f3de107b144914fc446b502108d6671d7407d826fa55fa35dec66e64c::2026-10-30": {
+    "market_id": "0x62385b7f3de107b144914fc446b502108d6671d7407d826fa55fa35dec66e64c",
+    "scan_date": "2026-10-30",
+    "end_date": "2026-10-31",
+    "status": "unknown",
+    "outcome": null,
+    "question": "LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage"
   }
 }
