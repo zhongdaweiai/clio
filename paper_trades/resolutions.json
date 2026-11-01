@@ -33582,5 +33582,2205 @@
     "status": "unknown",
     "outcome": null,
     "question": "LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage"
+  },
+  "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7::2026-09-02": {
+    "market_id": "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will San Diego Padres win the 2026 National League Championship Series?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-02": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-02": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-02",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7::2026-09-03": {
+    "market_id": "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will San Diego Padres win the 2026 National League Championship Series?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-03": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-03": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-03",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-05": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-06": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-07": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-08": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-09": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-10": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-11": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-12": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-13": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-14": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-14": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-15": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-15": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-16": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-16": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-17": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-17": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-18": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-18": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-19": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-19": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-20": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-20": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-21": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xcaa47a1f2a6f221054d4ac42258c02b040c0e2064674e7cd0995f64ff9765617::2026-09-22": {
+    "market_id": "0xcaa47a1f2a6f221054d4ac42258c02b040c0e2064674e7cd0995f64ff9765617",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Houston Astros win the 2026 American League Championship Series?"
+  },
+  "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7::2026-09-22": {
+    "market_id": "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will San Diego Padres win the 2026 National League Championship Series?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-22": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-09-22": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0x854c1dce2ddee55f390fcf11a1a8c7605058501a4c315030ffcdf9881ac4e438::2026-09-22": {
+    "market_id": "0x854c1dce2ddee55f390fcf11a1a8c7605058501a4c315030ffcdf9881ac4e438",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Cleveland Guardians win the 2026 American League Championship Series?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-09-22": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-22": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0xcaa47a1f2a6f221054d4ac42258c02b040c0e2064674e7cd0995f64ff9765617::2026-09-23": {
+    "market_id": "0xcaa47a1f2a6f221054d4ac42258c02b040c0e2064674e7cd0995f64ff9765617",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Houston Astros win the 2026 American League Championship Series?"
+  },
+  "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7::2026-09-23": {
+    "market_id": "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will San Diego Padres win the 2026 National League Championship Series?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-23": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-09-23": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-09-23": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-23": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-09-24": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7::2026-09-24": {
+    "market_id": "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will San Diego Padres win the 2026 National League Championship Series?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-24": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-09-24": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-24": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0xcaa47a1f2a6f221054d4ac42258c02b040c0e2064674e7cd0995f64ff9765617::2026-09-25": {
+    "market_id": "0xcaa47a1f2a6f221054d4ac42258c02b040c0e2064674e7cd0995f64ff9765617",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Houston Astros win the 2026 American League Championship Series?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-25": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7::2026-09-25": {
+    "market_id": "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will San Diego Padres win the 2026 National League Championship Series?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-09-25": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-09-25": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-25": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-26": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-09-26": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7::2026-09-26": {
+    "market_id": "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will San Diego Padres win the 2026 National League Championship Series?"
+  },
+  "0xcaa47a1f2a6f221054d4ac42258c02b040c0e2064674e7cd0995f64ff9765617::2026-09-26": {
+    "market_id": "0xcaa47a1f2a6f221054d4ac42258c02b040c0e2064674e7cd0995f64ff9765617",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Houston Astros win the 2026 American League Championship Series?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-09-26": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-26": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0xfd155fdd279dc1f5aaa451285a2f98777fcf7d37719d630aa7918472e5d57ce2::2026-09-27": {
+    "market_id": "0xfd155fdd279dc1f5aaa451285a2f98777fcf7d37719d630aa7918472e5d57ce2",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Kanye West performs in Russia by October 31?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-09-27": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-27": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7::2026-09-27": {
+    "market_id": "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will San Diego Padres win the 2026 National League Championship Series?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-09-27": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-27": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-09-28": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0xfd155fdd279dc1f5aaa451285a2f98777fcf7d37719d630aa7918472e5d57ce2::2026-09-28": {
+    "market_id": "0xfd155fdd279dc1f5aaa451285a2f98777fcf7d37719d630aa7918472e5d57ce2",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Kanye West performs in Russia by October 31?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-28": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7::2026-09-28": {
+    "market_id": "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will San Diego Padres win the 2026 National League Championship Series?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-09-28": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-28": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-09-29": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-29": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7::2026-09-29": {
+    "market_id": "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will San Diego Padres win the 2026 National League Championship Series?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-09-29": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-29": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-29",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-09-30": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-09-30": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-09-30": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7::2026-09-30": {
+    "market_id": "0xe0eb9393e2a961d6acf62d5cb2e99475cb950d481557dd7e6f6b2753a7e6eff7",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will San Diego Padres win the 2026 National League Championship Series?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-09-30": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-09-30",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x8062cf78d93f9202f4c0a1018d141f4af35d486a368f07e65265f27d48b4e040::2026-10-01": {
+    "market_id": "0x8062cf78d93f9202f4c0a1018d141f4af35d486a368f07e65265f27d48b4e040",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Anthropic IPO by October 31, 2026?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-10-01": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369::2026-10-01": {
+    "market_id": "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-01": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-01": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-01": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-01": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-01": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-01",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-10-02": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369::2026-10-02": {
+    "market_id": "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-02": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-02": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-02": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-02": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-02": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-02",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369::2026-10-03": {
+    "market_id": "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by October 31, 2026?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-10-03": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-03": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-03": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-03": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-03": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-03": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-03",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-10-04": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369::2026-10-04": {
+    "market_id": "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-04": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-04": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-04": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-04": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-04": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-04",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-10-05": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369::2026-10-05": {
+    "market_id": "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-05": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-05": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-05": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-05": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-05": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-05": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-05",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-10-06": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369::2026-10-06": {
+    "market_id": "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-06": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-06": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-06": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-06": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-06": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-06": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-06",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-10-07": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369::2026-10-07": {
+    "market_id": "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-07": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-07": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-07": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-07": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-07": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-07": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-07",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369::2026-10-08": {
+    "market_id": "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-08": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-08": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-08": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-08": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-08": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-08": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-08",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369::2026-10-09": {
+    "market_id": "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-09": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-09": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-09": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-09": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-09": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-09": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-09",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369::2026-10-10": {
+    "market_id": "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-10": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-10": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-10": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-10": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-10": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-10": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-10",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0xa4b952e2e0ab85e2949b2f67190d10da6212e030993ad930f55b21adbefda2d3::2026-10-11": {
+    "market_id": "0xa4b952e2e0ab85e2949b2f67190d10da6212e030993ad930f55b21adbefda2d3",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by October 31?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-11": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-11": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-11": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-11": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-11": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-11": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-11",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-12": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-12": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-12": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-12": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-12": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-12": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-12",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-13": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-13": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-13": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-13": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-13": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-13": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-13",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-14": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-14",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-14": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-14",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-14": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-14",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-14": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-14",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-14": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-14",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-14": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-14",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-15": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-15",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-15": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-15",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-15": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-15",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-15": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-15",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-15": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-15",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-15": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-15",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-16": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-16": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-16": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-16": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-16": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-16": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb::2026-10-16": {
+    "market_id": "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb",
+    "scan_date": "2026-10-16",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $87,500 in October?"
+  },
+  "0xa4b952e2e0ab85e2949b2f67190d10da6212e030993ad930f55b21adbefda2d3::2026-10-17": {
+    "market_id": "0xa4b952e2e0ab85e2949b2f67190d10da6212e030993ad930f55b21adbefda2d3",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran leadership change by October 31?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-17": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-17": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-17": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-17": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-17": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-17": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb::2026-10-17": {
+    "market_id": "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb",
+    "scan_date": "2026-10-17",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $87,500 in October?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-18": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-18": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-18": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-18": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-18": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-18": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb::2026-10-18": {
+    "market_id": "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb",
+    "scan_date": "2026-10-18",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $87,500 in October?"
+  },
+  "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f::2026-10-19": {
+    "market_id": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Strait of Hormuz traffic returns to normal by October 31?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-19": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-19": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-19": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-19": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-19": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-19": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb::2026-10-19": {
+    "market_id": "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb",
+    "scan_date": "2026-10-19",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $87,500 in October?"
+  },
+  "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369::2026-10-20": {
+    "market_id": "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US-Iran Final Nuclear Deal by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-20": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-20": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-20": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-20": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-20": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-20": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb::2026-10-20": {
+    "market_id": "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb",
+    "scan_date": "2026-10-20",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $87,500 in October?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-21": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-21",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-21": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-21",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-21": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-21",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-21": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-21",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-22": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-22",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-22": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-22",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-22": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-22",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-22": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-22",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb::2026-10-22": {
+    "market_id": "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb",
+    "scan_date": "2026-10-22",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $87,500 in October?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-23": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-23",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-23": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-23",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-23": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-23",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-23": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-23",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb::2026-10-23": {
+    "market_id": "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb",
+    "scan_date": "2026-10-23",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $87,500 in October?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-23": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-23",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-24": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-24",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49::2026-10-24": {
+    "market_id": "0x9bb80411fb159d9f3798fe125672a61af141f7dc7d5465c14a5936e4ba878e49",
+    "scan_date": "2026-10-24",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Bab el-Mandeb Strait effectively closed by October 31?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-24": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-24",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-24": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-24",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-24": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-24",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb::2026-10-24": {
+    "market_id": "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb",
+    "scan_date": "2026-10-24",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $87,500 in October?"
+  },
+  "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94::2026-10-25": {
+    "market_id": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+    "scan_date": "2026-10-25",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "NATO x Russia military clash by October 31, 2026?"
+  },
+  "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d::2026-10-25": {
+    "market_id": "0xc90894254e1f804e3087e89288d192b529287b7de6e3f5230c06868f7777661d",
+    "scan_date": "2026-10-25",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?"
+  },
+  "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f::2026-10-25": {
+    "market_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "scan_date": "2026-10-25",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-25": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-25",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb::2026-10-25": {
+    "market_id": "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb",
+    "scan_date": "2026-10-25",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $87,500 in October?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-26": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-26",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb::2026-10-26": {
+    "market_id": "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb",
+    "scan_date": "2026-10-26",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $87,500 in October?"
+  },
+  "0x94f623a9c9ac7e0caca65b1ab664e8158ebb8ec0c826b023ba98518967910755::2026-10-27": {
+    "market_id": "0x94f623a9c9ac7e0caca65b1ab664e8158ebb8ec0c826b023ba98518967910755",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $90,000 in October?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-27": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb::2026-10-27": {
+    "market_id": "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $87,500 in October?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-27": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x4e22f6d2ae4af77a41c1f57a3f077e3c32606c826b987406d6e27fac9ddad7aa::2026-10-27": {
+    "market_id": "0x4e22f6d2ae4af77a41c1f57a3f077e3c32606c826b987406d6e27fac9ddad7aa",
+    "scan_date": "2026-10-27",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $77,500 in October?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-28": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-28",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0x94f623a9c9ac7e0caca65b1ab664e8158ebb8ec0c826b023ba98518967910755::2026-10-28": {
+    "market_id": "0x94f623a9c9ac7e0caca65b1ab664e8158ebb8ec0c826b023ba98518967910755",
+    "scan_date": "2026-10-28",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $90,000 in October?"
+  },
+  "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb::2026-10-28": {
+    "market_id": "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb",
+    "scan_date": "2026-10-28",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $87,500 in October?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-28": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-28",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0x5280e91e95ab540de0879f26813f060f51f9d77d8c2e41dd81f1aec41c8bb714::2026-10-28": {
+    "market_id": "0x5280e91e95ab540de0879f26813f060f51f9d77d8c2e41dd81f1aec41c8bb714",
+    "scan_date": "2026-10-28",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $75,000 in October?"
+  },
+  "0x4e22f6d2ae4af77a41c1f57a3f077e3c32606c826b987406d6e27fac9ddad7aa::2026-10-28": {
+    "market_id": "0x4e22f6d2ae4af77a41c1f57a3f077e3c32606c826b987406d6e27fac9ddad7aa",
+    "scan_date": "2026-10-28",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $77,500 in October?"
+  },
+  "0xb62c2292b069f6dd1f94c0b642452d168a6e9bdf7f3012865a435d4503e1311f::2026-10-28": {
+    "market_id": "0xb62c2292b069f6dd1f94c0b642452d168a6e9bdf7f3012865a435d4503e1311f",
+    "scan_date": "2026-10-28",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in October?"
+  },
+  "0x5280e91e95ab540de0879f26813f060f51f9d77d8c2e41dd81f1aec41c8bb714::2026-10-29": {
+    "market_id": "0x5280e91e95ab540de0879f26813f060f51f9d77d8c2e41dd81f1aec41c8bb714",
+    "scan_date": "2026-10-29",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $75,000 in October?"
+  },
+  "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9::2026-10-29": {
+    "market_id": "0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9",
+    "scan_date": "2026-10-29",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Iran charges Hormuz fees by October 31?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-29": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-29",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0xb62c2292b069f6dd1f94c0b642452d168a6e9bdf7f3012865a435d4503e1311f::2026-10-29": {
+    "market_id": "0xb62c2292b069f6dd1f94c0b642452d168a6e9bdf7f3012865a435d4503e1311f",
+    "scan_date": "2026-10-29",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin reach $85,000 in October?"
+  },
+  "0x4e22f6d2ae4af77a41c1f57a3f077e3c32606c826b987406d6e27fac9ddad7aa::2026-10-29": {
+    "market_id": "0x4e22f6d2ae4af77a41c1f57a3f077e3c32606c826b987406d6e27fac9ddad7aa",
+    "scan_date": "2026-10-29",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $77,500 in October?"
+  },
+  "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271::2026-10-30": {
+    "market_id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+    "scan_date": "2026-10-30",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by October 31, 2026?"
+  },
+  "0xbf0602707edd80eada90c28ee03e74b9330432105f71b41da38f3997a55c1bde::2026-10-30": {
+    "market_id": "0xbf0602707edd80eada90c28ee03e74b9330432105f71b41da38f3997a55c1bde",
+    "scan_date": "2026-10-30",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $72,500 in October?"
+  },
+  "0x33f529b87bb00a1ff2a948694a0b72cb67f8e267246c9e7658bb6198eb2d9af4::2026-10-30": {
+    "market_id": "0x33f529b87bb00a1ff2a948694a0b72cb67f8e267246c9e7658bb6198eb2d9af4",
+    "scan_date": "2026-10-30",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in October?"
+  },
+  "0x5280e91e95ab540de0879f26813f060f51f9d77d8c2e41dd81f1aec41c8bb714::2026-10-30": {
+    "market_id": "0x5280e91e95ab540de0879f26813f060f51f9d77d8c2e41dd81f1aec41c8bb714",
+    "scan_date": "2026-10-30",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $75,000 in October?"
+  },
+  "0x5280e91e95ab540de0879f26813f060f51f9d77d8c2e41dd81f1aec41c8bb714::2026-10-31": {
+    "market_id": "0x5280e91e95ab540de0879f26813f060f51f9d77d8c2e41dd81f1aec41c8bb714",
+    "scan_date": "2026-10-31",
+    "end_date": "2026-11-01",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Bitcoin dip to $75,000 in October?"
   }
 }
