@@ -35782,5 +35782,37 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Bitcoin dip to $75,000 in October?"
+  },
+  "0xd0590fb2d44c3b5deb053fde7072206ee9041441e3ee0e5fb022a41caf79b407::2026-10-30": {
+    "market_id": "0xd0590fb2d44c3b5deb053fde7072206ee9041441e3ee0e5fb022a41caf79b407",
+    "scan_date": "2026-10-30",
+    "end_date": "2026-11-02",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will \u0410ndrey Gyurov win the next Bulgarian presidential election?"
+  },
+  "0x5512bfa9294bf914063ed120969908dee5cdf6e14293f28ca405d3ce4edcf485::2026-10-30": {
+    "market_id": "0x5512bfa9294bf914063ed120969908dee5cdf6e14293f28ca405d3ce4edcf485",
+    "scan_date": "2026-10-30",
+    "end_date": "2026-11-02",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Iliana Iotova win the next Bulgarian presidential election?"
+  },
+  "0xd0590fb2d44c3b5deb053fde7072206ee9041441e3ee0e5fb022a41caf79b407::2026-10-31": {
+    "market_id": "0xd0590fb2d44c3b5deb053fde7072206ee9041441e3ee0e5fb022a41caf79b407",
+    "scan_date": "2026-10-31",
+    "end_date": "2026-11-02",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will \u0410ndrey Gyurov win the next Bulgarian presidential election?"
+  },
+  "0x5512bfa9294bf914063ed120969908dee5cdf6e14293f28ca405d3ce4edcf485::2026-10-31": {
+    "market_id": "0x5512bfa9294bf914063ed120969908dee5cdf6e14293f28ca405d3ce4edcf485",
+    "scan_date": "2026-10-31",
+    "end_date": "2026-11-02",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Iliana Iotova win the next Bulgarian presidential election?"
   }
 }
