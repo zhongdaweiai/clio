@@ -5165,3 +5165,33 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | field | 0.26→0.50 | +0.24 | 3d | low | 13.95% | [Will the Democrats win the South Carolina Senate race in 2026?](https://polymarket.com/event/south-carolina-senate-election-winner) |
 | 🔴 NO | field | 0.74→0.50 | -0.24 | 3d | low | 13.95% | [Will the Republicans win the South Carolina Senate race in 2026?](https://polymarket.com/event/south-carolina-senate-election-winner) |
 | 🟢 YES | field | 0.26→0.50 | +0.24 | 3d | low | 13.95% | [Will an independent win the Nebraska Senate race in 2026?](https://polymarket.com/event/nebraska-senate-election-winner) |
+
+## 2026-11-02  (74 signals, $0.000 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🟢 YES | event | 0.02→0.50 | +0.48 | 60d | low | 15.87% | [Xi Jinping out before 2027?](https://polymarket.com/event/xi-jinping-out-before-2027) |
+| 🟢 YES | deadline | 0.02→0.50 | +0.48 | 60d | low | 15.87% | [Will Bitcoin dip to $35,000 by December 31, 2026?](https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027) |
+| 🟢 YES | event | 0.02→0.50 | +0.48 | 60d | low | 15.87% | [Will Trump acquire Greenland before 2027?](https://polymarket.com/event/will-trump-acquire-greenland-before-2027) |
+| 🟢 YES | event | 0.02→0.50 | +0.48 | 60d | low | 15.86% | [Will the US acquire part of Greenland in 2026?](https://polymarket.com/event/will-the-us-acquire-any-part-of-greenland-in-2026) |
+| 🟢 YES | deadline | 0.02→0.50 | +0.48 | 60d | low | 15.86% | [Will Ukraine recapture Crimean territory by December 31, 2026?](https://polymarket.com/event/will-ukraine-recapture-crimean-territory-by-june-30-2026) |
+| 🟢 YES | deadline | 0.02→0.50 | +0.48 | 60d | low | 15.86% | [Jeffrey Epstein foul play confirmed by December 31, 2026?](https://polymarket.com/event/jeffrey-epstein-foul-play-confirmed-in-2025) |
+| 🟢 YES | event | 0.02→0.50 | +0.48 | 60d | low | 15.86% | [Will Alberta join the US?](https://polymarket.com/event/will-alberta-join-the-us) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 60d | low | 15.85% | [Clarity Act (H.R.3633) signed into law in 2026?](https://polymarket.com/event/clarity-act-signed-into-law-in-2026) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 60d | low | 15.84% | [Will Bitcoin dip to $40,000 by December 31, 2026?](https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027) |
+| 🟢 YES | field | 0.03→0.50 | +0.47 | 60d | low | 15.84% | [Will Charlotte FC win the 2026 MLS Cup?](https://polymarket.com/event/mls-cup-winner-2026) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 60d | low | 15.83% | [Will Reza Pahlavi enter Iran by December 31?](https://polymarket.com/event/will-reza-pahlavi-enter-iran-by-june-30) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 60d | low | 15.83% | [Will Satoshi move any Bitcoin in 2026?](https://polymarket.com/event/will-satoshi-move-any-bitcoin-in-2026) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 60d | low | 15.83% | [Will the upper bound of the target federal funds rate be ≥ 4.5% at the end of 20](https://polymarket.com/event/what-will-the-fed-rate-be-at-the-end-of-2026) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 60d | low | 15.83% | [Will Nebius Group be acquired before 2027?](https://polymarket.com/event/which-companies-will-be-acquired-before-2027) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 60d | low | 15.82% | [Will Hezbollah disarm by December 31?](https://polymarket.com/event/will-hezbollah-disarm-by-march-31) |
+| 🔴 NO | event | 0.97→0.50 | -0.47 | 60d | low | 15.81% | [Will no Fed rate cuts happen in 2026?](https://polymarket.com/event/how-many-fed-rate-cuts-in-2026) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 60d | low | 15.81% | [Will Bitcoin reach $130,000 by December 31, 2026?](https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 60d | low | 15.8% | [Will the US confirm that aliens exist before 2027?](https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-before-2027) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 59d | low | 15.8% | [Will Alireza Arafi be head of state in Iran end of 2026?](https://polymarket.com/event/iran-leader-end-of-2026) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 60d | low | 15.8% | [Friedrich Merz out as Chancellor of Germany before December 31, 2026?](https://polymarket.com/event/friedrich-merz-out-as-chancellor-of-germany-before-2027) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 60d | low | 15.8% | [US obtains Iranian enriched uranium by December 31?](https://polymarket.com/event/us-obtains-iranian-enriched-uranium-by) |
+| 🟢 YES | event | 0.04→0.50 | +0.46 | 60d | low | 15.78% | [Trump out as President before 2027?](https://polymarket.com/event/trump-out-as-president-before-2027) |
+| 🟢 YES | event | 0.04→0.50 | +0.46 | 60d | low | 15.78% | [Will the U.S. invade Cuba in 2026?](https://polymarket.com/event/will-the-us-invade-cuba-in-2026) |
+| 🟢 YES | deadline | 0.04→0.50 | +0.46 | 60d | low | 15.77% | [Will Bitcoin reach $120,000 by December 31, 2026?](https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027) |
+| 🟢 YES | event | 0.04→0.50 | +0.46 | 60d | low | 15.77% | [Will GameStop acquire eBay?](https://polymarket.com/event/will-gamestop-acquire-ebay) |
