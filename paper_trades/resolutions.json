@@ -35814,5 +35814,1333 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will Iliana Iotova win the next Bulgarian presidential election?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-04": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-04": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-04": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-04": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-04": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-04": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-04": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-04",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-05": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-05": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-05": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-05": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-05": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-05": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-05": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-05",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-06": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-06": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-06": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-06": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-06": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-06": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-06": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-06",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-07": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-07": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-07": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-07": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-07": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-07": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-07": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-07",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-08": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-08": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-08": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-08": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-08": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-08": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-08": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-08",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-09": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-09": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-09": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-09": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-09": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-09": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-09": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-09",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-10": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-10": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-10": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-10": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-10": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-10": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-10": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-10",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-11": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-11": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-11": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-11": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-11": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-11": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-11": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-11",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-12": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-12": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-12": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-12": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-12": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-12": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-12": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-12",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-13": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-13": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-13": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-13": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-13": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-13": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-13": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-13",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-14": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-14": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-14": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-14": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-14": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-14": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-14": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-14",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-15": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-15": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-15": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-15": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-15": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-15": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-15": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-15",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-16": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-16": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-16": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-16": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-16": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-16": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-16": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-16",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-17": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-17": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-17": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-17": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-17": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-17": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-17": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-17",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-18": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-18": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-18": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-18": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-18": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a::2026-09-18": {
+    "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Billionaire one-time wealth tax passes in California election 2026?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-18": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d::2026-09-18": {
+    "market_id": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+    "scan_date": "2026-09-18",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: D Senate, D House"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-19": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-19": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-19": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-19": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-19": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-19": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x307a1ed89d60b61002dd5bbf00e1408c5ed2ab3fcdb056191ca7ef9bc34d38f3::2026-09-19": {
+    "market_id": "0x307a1ed89d60b61002dd5bbf00e1408c5ed2ab3fcdb056191ca7ef9bc34d38f3",
+    "scan_date": "2026-09-19",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-20": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-20": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-20": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-20": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-20": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-20": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587::2026-09-20": {
+    "market_id": "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?"
+  },
+  "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d::2026-09-20": {
+    "market_id": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: D Senate, D House"
+  },
+  "0x307a1ed89d60b61002dd5bbf00e1408c5ed2ab3fcdb056191ca7ef9bc34d38f3::2026-09-20": {
+    "market_id": "0x307a1ed89d60b61002dd5bbf00e1408c5ed2ab3fcdb056191ca7ef9bc34d38f3",
+    "scan_date": "2026-09-20",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-21": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-21": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4::2026-09-21": {
+    "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the House after the 2026 Midterm elections?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-21": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928::2026-09-21": {
+    "market_id": "0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the House after the 2026 Midterm elections?"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-21": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x307a1ed89d60b61002dd5bbf00e1408c5ed2ab3fcdb056191ca7ef9bc34d38f3::2026-09-21": {
+    "market_id": "0x307a1ed89d60b61002dd5bbf00e1408c5ed2ab3fcdb056191ca7ef9bc34d38f3",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?"
+  },
+  "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d::2026-09-21": {
+    "market_id": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: D Senate, D House"
+  },
+  "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587::2026-09-21": {
+    "market_id": "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587",
+    "scan_date": "2026-09-21",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?"
+  },
+  "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e::2026-09-22": {
+    "market_id": "0x119b6b3b744ac3239c7a71100165d254234eaecea401abde5a3d303bef21d19e",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Steve Hilton win the California Governor Election in 2026?"
+  },
+  "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3::2026-09-22": {
+    "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Xavier Becerra win the California Governor Election in 2026?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-22": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-22": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d::2026-09-22": {
+    "market_id": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+    "scan_date": "2026-09-22",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: D Senate, D House"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-23": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-23": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d::2026-09-23": {
+    "market_id": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+    "scan_date": "2026-09-23",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: D Senate, D House"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-24": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-24": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d::2026-09-24": {
+    "market_id": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: D Senate, D House"
+  },
+  "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587::2026-09-24": {
+    "market_id": "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587",
+    "scan_date": "2026-09-24",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-25": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-25": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d::2026-09-25": {
+    "market_id": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: D Senate, D House"
+  },
+  "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587::2026-09-25": {
+    "market_id": "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587",
+    "scan_date": "2026-09-25",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-26": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-26": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587::2026-09-26": {
+    "market_id": "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?"
+  },
+  "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d::2026-09-26": {
+    "market_id": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+    "scan_date": "2026-09-26",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: D Senate, D House"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-27": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-27": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587::2026-09-27": {
+    "market_id": "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?"
+  },
+  "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d::2026-09-27": {
+    "market_id": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+    "scan_date": "2026-09-27",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: D Senate, D House"
+  },
+  "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b::2026-09-28": {
+    "market_id": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, R House"
+  },
+  "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e::2026-09-28": {
+    "market_id": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: R Senate, D House"
+  },
+  "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d::2026-09-28": {
+    "market_id": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "2026 Balance of Power: D Senate, D House"
+  },
+  "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587::2026-09-28": {
+    "market_id": "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587",
+    "scan_date": "2026-09-28",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?"
+  },
+  "0xd116777a710b6a7c336fe12cbf742fafb0d8ac508cf400446159973cec9aec29::2026-10-31": {
+    "market_id": "0xd116777a710b6a7c336fe12cbf742fafb0d8ac508cf400446159973cec9aec29",
+    "scan_date": "2026-10-31",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Republicans win Iowa, and lose Alaska, Kansas, Maine, Michigan, Ohio, and Texas?"
+  },
+  "0x564959d4c61eeb7c568d6f8e4f5a0dcf3622434d4f264d418d9674102e5a7a88::2026-10-31": {
+    "market_id": "0x564959d4c61eeb7c568d6f8e4f5a0dcf3622434d4f264d418d9674102e5a7a88",
+    "scan_date": "2026-10-31",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?"
+  },
+  "0xd116777a710b6a7c336fe12cbf742fafb0d8ac508cf400446159973cec9aec29::2026-11-01": {
+    "market_id": "0xd116777a710b6a7c336fe12cbf742fafb0d8ac508cf400446159973cec9aec29",
+    "scan_date": "2026-11-01",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Republicans win Iowa, and lose Alaska, Kansas, Maine, Michigan, Ohio, and Texas?"
+  },
+  "0x564959d4c61eeb7c568d6f8e4f5a0dcf3622434d4f264d418d9674102e5a7a88::2026-11-01": {
+    "market_id": "0x564959d4c61eeb7c568d6f8e4f5a0dcf3622434d4f264d418d9674102e5a7a88",
+    "scan_date": "2026-11-01",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?"
+  },
+  "0xa32317ba83c3c83dc43ef260c3744c22ed8000db53d30bc09372c45cff5fb07a::2026-11-01": {
+    "market_id": "0xa32317ba83c3c83dc43ef260c3744c22ed8000db53d30bc09372c45cff5fb07a",
+    "scan_date": "2026-11-01",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?"
+  },
+  "0x564959d4c61eeb7c568d6f8e4f5a0dcf3622434d4f264d418d9674102e5a7a88::2026-11-02": {
+    "market_id": "0x564959d4c61eeb7c568d6f8e4f5a0dcf3622434d4f264d418d9674102e5a7a88",
+    "scan_date": "2026-11-02",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?"
+  },
+  "0xa32317ba83c3c83dc43ef260c3744c22ed8000db53d30bc09372c45cff5fb07a::2026-11-02": {
+    "market_id": "0xa32317ba83c3c83dc43ef260c3744c22ed8000db53d30bc09372c45cff5fb07a",
+    "scan_date": "2026-11-02",
+    "end_date": "2026-11-03",
+    "status": "unknown",
+    "outcome": null,
+    "question": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?"
   }
 }

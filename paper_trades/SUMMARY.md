@@ -1,19 +1,19 @@
 # Clio Paper Trading — Live Forward Performance
 
-**As of:** 2026-11-02
+**As of:** 2026-11-03
 **Initial bankroll:** $100,000
 
 ## No resolved trades yet
 
-- **5631** signals issued so far across **188** daily scans
-- **1154** signals waiting for their markets to close
-- Earliest pending resolution: **2026-11-03** (1 day from now)
+- **5705** signals issued so far across **189** daily scans
+- **1062** signals waiting for their markets to close
+- Earliest pending resolution: **2026-11-04** (1 day from now)
 
 Realized PnL, hit rate, and equity curve will populate this file
 as soon as the first market closes. Until then, see:
 
 - [`ALL_SIGNALS.md`](ALL_SIGNALS.md) — every signal logged so far
-- [`2026-11-02.json`](2026-11-02.json) — today's raw output (if today's scan ran)
+- [`2026-11-03.json`](2026-11-03.json) — today's raw output (if today's scan ran)
 
 Backtest expectation (from `docs/LLM_RUN.md`): **+259% CAGR / +11.25%/mo, hit rate 69%**.
 Live results will be compared after ≥50 resolved trades.
