@@ -42814,5 +42814,37 @@
     "status": "unknown",
     "outcome": null,
     "question": "Will the Republicans win the Texas governor race in 2026?"
+  },
+  "0xc8cfc009e5ef7798f16727298e98712da56877f3c78d0bd1a69992c91371ef69::2026-11-12": {
+    "market_id": "0xc8cfc009e5ef7798f16727298e98712da56877f3c78d0bd1a69992c91371ef69",
+    "scan_date": "2026-11-12",
+    "end_date": "2026-11-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)"
+  },
+  "0xc8cfc009e5ef7798f16727298e98712da56877f3c78d0bd1a69992c91371ef69::2026-11-13": {
+    "market_id": "0xc8cfc009e5ef7798f16727298e98712da56877f3c78d0bd1a69992c91371ef69",
+    "scan_date": "2026-11-13",
+    "end_date": "2026-11-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)"
+  },
+  "0xc8cfc009e5ef7798f16727298e98712da56877f3c78d0bd1a69992c91371ef69::2026-11-14": {
+    "market_id": "0xc8cfc009e5ef7798f16727298e98712da56877f3c78d0bd1a69992c91371ef69",
+    "scan_date": "2026-11-14",
+    "end_date": "2026-11-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)"
+  },
+  "0x41f94101d57bf028eff62f2cc3714adb79722553dc59c1676071459c0b009e45::2026-11-14": {
+    "market_id": "0x41f94101d57bf028eff62f2cc3714adb79722553dc59c1676071459c0b009e45",
+    "scan_date": "2026-11-14",
+    "end_date": "2026-11-15",
+    "status": "unknown",
+    "outcome": null,
+    "question": "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs"
   }
 }
