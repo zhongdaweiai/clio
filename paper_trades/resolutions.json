@@ -42846,5 +42846,29 @@
     "status": "unknown",
     "outcome": null,
     "question": "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs"
+  },
+  "0xf036481613a53faafdc7638824e5dfab03b4dda5b9bf13fbdfa2075e2d4a8bea::2026-11-09": {
+    "market_id": "0xf036481613a53faafdc7638824e5dfab03b4dda5b9bf13fbdfa2075e2d4a8bea",
+    "scan_date": "2026-11-09",
+    "end_date": "2026-11-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by November 15, 2026?"
+  },
+  "0xf036481613a53faafdc7638824e5dfab03b4dda5b9bf13fbdfa2075e2d4a8bea::2026-11-10": {
+    "market_id": "0xf036481613a53faafdc7638824e5dfab03b4dda5b9bf13fbdfa2075e2d4a8bea",
+    "scan_date": "2026-11-10",
+    "end_date": "2026-11-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by November 15, 2026?"
+  },
+  "0xf036481613a53faafdc7638824e5dfab03b4dda5b9bf13fbdfa2075e2d4a8bea::2026-11-11": {
+    "market_id": "0xf036481613a53faafdc7638824e5dfab03b4dda5b9bf13fbdfa2075e2d4a8bea",
+    "scan_date": "2026-11-11",
+    "end_date": "2026-11-16",
+    "status": "unknown",
+    "outcome": null,
+    "question": "US announces end of Iranian blockade by November 15, 2026?"
   }
 }
