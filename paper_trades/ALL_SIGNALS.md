@@ -5765,3 +5765,33 @@ computed in `paper_trades/RESOLVED.md` after markets close.
 | 🟢 YES | event | 0.04→0.50 | +0.46 | 41d | low | 15.75% | [Opensea FDV above $1B one day after launch?](https://polymarket.com/event/opensea-fdv-above-one-day-after-launch) |
 | 🟢 YES | deadline | 0.04→0.50 | +0.46 | 41d | low | 15.74% | [US-Iran Final Nuclear Deal by December 31, 2026?](https://polymarket.com/event/us-iran-final-nuclear-deal-by-20260621201254412) |
 | 🟢 YES | event | 0.04→0.50 | +0.46 | 41d | low | 15.72% | [Will there be at least 10000 measles cases in the U.S. in 2026?](https://polymarket.com/event/measles-cases-in-us-in-2026) |
+
+## 2026-11-22  (54 signals, $0.000 cost)
+
+| side | qtype | mkt → LLM | edge | days | conf | size% | question |
+|---|---|---|---|---|---|---|---|
+| 🟢 YES | deadline | 0.02→0.50 | +0.48 | 40d | low | 15.87% | [Will Bitcoin reach $100,000 by December 31, 2026?](https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027) |
+| 🟢 YES | event | 0.02→0.50 | +0.48 | 17d | low | 15.87% | [Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?](https://polymarket.com/event/fed-decision-in-december-20260729232808632) |
+| 🟢 YES | deadline | 0.02→0.50 | +0.48 | 40d | low | 15.87% | [Will Hezbollah disarm by December 31?](https://polymarket.com/event/will-hezbollah-disarm-by-march-31) |
+| 🟢 YES | deadline | 0.02→0.50 | +0.48 | 40d | low | 15.87% | [US obtains Iranian enriched uranium by December 31?](https://polymarket.com/event/us-obtains-iranian-enriched-uranium-by) |
+| 🟢 YES | deadline | 0.02→0.50 | +0.48 | 40d | low | 15.87% | [France declares state of emergency by December 31, 2026?](https://polymarket.com/event/france-declares-state-of-emergency-byptptpt) |
+| 🟢 YES | deadline | 0.02→0.50 | +0.48 | 40d | low | 15.86% | [Iran agrees to surrender enriched uranium stockpile by December 31, 2026?](https://polymarket.com/event/iran-agrees-to-surrender-enriched-uranium-stockpile-by) |
+| 🟢 YES | deadline | 0.02→0.50 | +0.48 | 40d | low | 15.86% | [Jeffrey Epstein foul play confirmed by December 31, 2026?](https://polymarket.com/event/jeffrey-epstein-foul-play-confirmed-in-2025) |
+| 🟢 YES | event | 0.02→0.50 | +0.48 | 40d | low | 15.86% | [Will Satoshi move any Bitcoin in 2026?](https://polymarket.com/event/will-satoshi-move-any-bitcoin-in-2026) |
+| 🟢 YES | deadline | 0.02→0.50 | +0.48 | 40d | low | 15.86% | [Friedrich Merz out as Chancellor of Germany before December 31, 2026?](https://polymarket.com/event/friedrich-merz-out-as-chancellor-of-germany-before-2027) |
+| 🟢 YES | event | 0.02→0.50 | +0.48 | 40d | low | 15.85% | [Will the upper bound of the target federal funds rate be ≥ 4.5% at the end of 20](https://polymarket.com/event/what-will-the-fed-rate-be-at-the-end-of-2026) |
+| 🟢 YES | event | 0.02→0.50 | +0.48 | 40d | low | 15.85% | [Trump out as President before 2027?](https://polymarket.com/event/trump-out-as-president-before-2027) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 40d | low | 15.85% | [Will GameStop acquire eBay?](https://polymarket.com/event/will-gamestop-acquire-ebay) |
+| 🟢 YES | field | 0.03→0.50 | +0.47 | 40d | low | 15.85% | [Will Charlotte FC win the 2026 MLS Cup?](https://polymarket.com/event/mls-cup-winner-2026) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 40d | low | 15.83% | [Iran agrees to end enrichment of uranium by December 31?](https://polymarket.com/event/iran-agrees-to-end-enrichment-of-uranium-by-december-31) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 40d | low | 15.83% | [Will the Iranian regime fall before 2027?](https://polymarket.com/event/will-the-iranian-regime-fall-by-the-end-of-2026) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 40d | low | 15.83% | [Will Crude Oil reach a new all-time high by December 31?](https://polymarket.com/event/crude-oil-all-time-high-by) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 40d | low | 15.82% | [Strait of Hormuz traffic returns to normal by December 31?](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 40d | low | 15.82% | [China x Taiwan military clash before 2027?](https://polymarket.com/event/china-x-taiwan-military-clash-before-2027) |
+| 🟢 YES | field | 0.03→0.50 | +0.47 | 40d | low | 15.81% | [Will Columbus Crew win the 2026 MLS Cup?](https://polymarket.com/event/mls-cup-winner-2026) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 44d | low | 15.81% | [Will Anthropic's valuation hit (HIGH) $3.0T by December 31?](https://polymarket.com/event/will-anthropics-valuation-hit-by-december-31) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 9d | low | 15.81% | [US announces end of Iranian blockade by November 30, 2026?](https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 40d | low | 15.81% | [Will the U.S. invade Cuba in 2026?](https://polymarket.com/event/will-the-us-invade-cuba-in-2026) |
+| 🟢 YES | event | 0.03→0.50 | +0.47 | 40d | low | 15.8% | [Zelenskyy out as Ukraine president by end of 2026?](https://polymarket.com/event/zelenskyy-out-as-ukraine-president-before-2027) |
+| 🟢 YES | deadline | 0.03→0.50 | +0.47 | 40d | low | 15.8% | [Will NVIDIA be the largest company in the world by market cap on December 31?](https://polymarket.com/event/largest-company-end-of-december-2026) |
+| 🟢 YES | deadline | 0.04→0.50 | +0.46 | 40d | low | 15.75% | [Will Bitcoin reach $90,000 by December 31, 2026?](https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027) |
