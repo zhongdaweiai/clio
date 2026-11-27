@@ -5,8 +5,8 @@
 
 ## No resolved trades yet
 
-- **6971** signals issued so far across **211** daily scans
-- **1573** signals waiting for their markets to close
+- **7022** signals issued so far across **212** daily scans
+- **1624** signals waiting for their markets to close
 - Earliest pending resolution: **2026-11-29** (2 days from now)
 
 Realized PnL, hit rate, and equity curve will populate this file
